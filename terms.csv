@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,βροχόπτωση αλβανία,2025-12-01T04:03:00+00:00,Albania,0.730372681855719,1,2,el,MED,Europe
-'1ce1cfc375',extremes,Storm,#b3b2b1,wmo,καταιγίδα θρακή,2025-11-28T03:34:00+00:00,Greece,0.6783425075140552,0,2,el,MED,Europe
+'9365e99d90',extremes,Thunderstorm,#53785a,wmo,χαλάζι Δωδεκάνησα,2025-11-28T03:34:00+00:00,Greece,0.7057892609808467,1,2,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2025-11-28T03:34:00+00:00,Greece,0.6597667107365485,2,2,el,MED,Europe
-'9365e99d90',extremes,Thunderstorm,#53785a,wmo,χαλάζι Δωδεκάνησα,2025-11-28T03:34:00+00:00,Greece,0.6533402540951138,0,2,el,MED,Europe
 'c58f3e6e04',extremes,Fog,#d60d2b,wmo,ομίχλη κεντρική μακεδονία,2025-12-11T03:46:00+00:00,Greece,0.6520129921650575,0,2,el,MED,Europe
 '31a102c336',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ελλάδα,2025-11-28T03:34:00+00:00,Greece,0.6518858538626348,0,2,el,MED,Europe
 '52fecdb54e',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα Ιόνια νησιά,2025-11-26T03:37:00+00:00,Greece,0.6506787618637336,0,2,el,MED,Europe
