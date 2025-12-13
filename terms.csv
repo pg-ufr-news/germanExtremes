@@ -1,5 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'cd28fc481a',extremes,Fog,#d60d2b,wmo,ομίχλη ελλάδα,2025-12-11T03:46:00+00:00,Greece,0.7354156229582847,0,2,el,MED,Europe
+'4c7fd8a889',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.7073521508576203,0,2,el,MED,Europe
+'5ae78b36fe',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.7052539146852356,0,2,el,MED,Europe
+'bf2b5a5b4b',extremes,Fog,#d60d2b,wmo,ομίχλη Ιόνιον νησιά,2025-12-13T03:38:00+00:00,Greece,0.7018642742945707,0,2,el,MED,Europe
+'31a102c336',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ελλάδα,2025-11-28T03:34:00+00:00,Greece,0.6518858538626348,0,2,el,MED,Europe
+'c585cfd7db',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία ανατολική Πελοπόννησος,2025-11-27T03:34:00+00:00,Greece,0.6425814342728287,0,2,el,MED,Europe
 'a4e5430606',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα ανατολική Στερεά αμπ Εύβοια,2025-12-04T03:42:00+00:00,Greece,0.6337555288810791,0,2,el,MED,Europe
+'20c8ca13a3',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία νησιά Δωδεκάνησα,2025-12-04T03:42:00+00:00,Greece,0.6327493159155064,0,2,el,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2025-11-26T03:37:00+00:00,Cyprus,0.6316364884068425,1,1,el,MED,Europe
 '10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2025-11-25T03:37:00+00:00,Greece,0.6250500981390403,2,2,el,MED,Europe
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2025-12-04T03:42:00+00:00,Greece,0.6235822863618193,0,2,el,MED,Europe
@@ -9,7 +16,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52a93d89d4',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ανατολική sterea amp evvoia,2025-11-27T03:34:00+00:00,Greece,0.6151804544287583,0,2,el,MED,Europe
 '5ce15877cd',extremes,Fog,#d60d2b,wmo,ομίχλη ήπειρος,2025-12-11T03:46:00+00:00,Greece,0.6015970360115029,1,1,el,MED,Europe
 '9365e99d90',extremes,Thunderstorm,#53785a,wmo,χαλάζι Δωδεκάνησα,2025-11-28T03:34:00+00:00,Greece,0.6003709168337197,2,2,el,MED,Europe
+'161b7d3620',extremes,Storm,#b3b2b1,wmo,καταιγίδα αττική,2025-11-28T03:34:00+00:00,Greece,0.5986602396253881,0,2,el,MED,Europe
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,πλημμύρα αλβανία,2025-11-30T03:47:00+00:00,Albania,0.5959938079831979,1,1,el,MED,Europe
+'400198ec2b',extremes,Thunderstorm,#53785a,wmo,καταιγίδα αττική,2025-11-27T03:34:00+00:00,Greece,0.5947083093218074,0,2,el,MED,Europe
+'41b02b5f99',extremes,Precipitation,#d60d2b,wmo,νεροποντή ανατολική στερεά amp Εύβοια,2025-11-27T03:34:00+00:00,Greece,0.5946418875140558,0,2,el,MED,Europe
 '3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2025-11-28T03:34:00+00:00,Greece,0.5928379721228011,1,1,el,MED,Europe
 '7015f6a761',extremes,Thunderstorm,#53785a,wmo,χαλάζι κεντρική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.5912909706877292,1,2,el,MED,Europe
 'f5584b5068',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική στέρεα,2025-12-12T03:45:00+00:00,Greece,0.5836479630485026,1,1,el,MED,Europe
