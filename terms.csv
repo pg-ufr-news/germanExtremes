@@ -27,7 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24a388e940',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Fehmarn bis Rügen,2025-12-08T03:44:00+00:00,Germany,0.6237515053645785,0,2,de,WCE,Europe
 '5c38722100',extremes,Snow&Ice,#d60d2b,wmo,Eis Urserntal,2025-11-26T03:37:00+00:00,Switzerland,0.6231709541127117,0,2,de,WCE,Europe
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,Nebel Venetien,2025-12-13T03:38:00+00:00,Italy,0.6219329007683564,0,2,de,MED,Europe
-'60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2025-12-07T03:47:00+00:00,Germany,0.6194596067659023,0,2,de,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2025-12-04T03:42:00+00:00,Italy,0.618157644291137,0,2,de,MED,Europe
 '7c1a7ee2be',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Küblis Klosters,2025-11-26T03:37:00+00:00,Switzerland,0.6170507490636137,0,2,de,WCE,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,Nebel Piemont,2025-12-14T03:49:00+00:00,Italy,0.6170082655221177,0,2,de,MED,Europe
+'60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2025-12-07T03:47:00+00:00,Germany,0.5572912357510169,1,2,de,WCE,Europe
