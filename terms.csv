@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2025-11-27T03:34:00+00:00,Germany,0.7322334603430222,0,2,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2025-12-15T03:54:00+00:00,Germany,0.731567416367325,0,2,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2025-11-27T03:34:00+00:00,Germany,0.7126261947843331,0,2,de,WCE,Europe
 '91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.7057135849325861,0,2,de,WCE,Europe
@@ -8,14 +7,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0423c607b4',extremes,Cold Wave,#a7e9fa,wmo,Gefrierhorn,2025-11-28T03:34:00+00:00,Austria,0.6759502913988825,0,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2025-12-13T03:38:00+00:00,Germany,0.675026775502107,0,1,de,WCE,Europe
 'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2025-12-07T03:47:00+00:00,Germany,0.6586984266953192,0,1,de,WCE,Europe
-'1b814f4418',extremes,Storm,#b3b2b1,wmo,Sturm Stadt Wernigerode,2025-12-15T03:54:00+00:00,Germany,0.6575384273501993,0,1,de,WCE,Europe
-'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2025-11-27T03:34:00+00:00,Germany,0.6517508857779774,0,1,de,WCE,Europe
 '906eca8937',extremes,Storm,#b3b2b1,wmo,Sturmflut Erstfeld Engelberg,2025-12-16T03:47:00+00:00,Switzerland,0.6450584225527128,0,2,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2025-12-15T03:54:00+00:00,Switzerland,0.6400561633196606,0,2,de,WCE,Europe
 'db05a91fee',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostfriesische Küste Helgoland,2025-12-06T03:32:00+00:00,Germany,0.6395666939893322,0,2,de,WCE,Europe
 '4213b8a736',extremes,Storm,#b3b2b1,wmo,Sturmflut Gersau Engelbergertal,2025-12-16T03:47:00+00:00,Switzerland,0.6387096706400008,0,2,de,WCE,Europe
 'f4cca3599c',extremes,Storm,#b3b2b1,wmo,Sturmflut Meiringen Gadmertal,2025-12-16T03:47:00+00:00,Switzerland,0.6370127901747088,0,2,de,WCE,Europe
 '98590fb420',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Glarnerland Südsernftal,2025-11-26T03:37:00+00:00,Switzerland,0.6365856108787457,0,2,de,WCE,Europe
+'7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2025-11-27T03:34:00+00:00,Germany,0.636440655382478,1,2,de,WCE,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,Sturmflut Schweiz,2025-12-15T03:54:00+00:00,Switzerland,0.6362211416620357,0,2,de,WCE,Europe
 '911e98ccfe',extremes,Storm,#b3b2b1,wmo,Sturm Maderanertal,2025-12-15T03:54:00+00:00,Switzerland,0.6336197616556745,0,2,de,WCE,Europe
 'e0bff0948c',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Zell am See,2025-11-28T03:34:00+00:00,Austria,0.6319119901304631,0,2,de,WCE,Europe
