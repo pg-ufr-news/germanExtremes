@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2025-11-27T03:34:00+00:00,Germany,0.7322334603430222,0,2,de,WCE,Europe
+'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2025-12-15T03:54:00+00:00,Germany,0.731567416367325,0,2,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2025-11-27T03:34:00+00:00,Germany,0.7126261947843331,0,2,de,WCE,Europe
 '91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.7057135849325861,0,2,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2025-12-09T03:41:00+00:00,Germany,0.7053769415955206,0,2,de,WCE,Europe
@@ -32,6 +33,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7c1a7ee2be',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Küblis Klosters,2025-11-26T03:37:00+00:00,Switzerland,0.6170507490636137,0,2,de,WCE,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,Nebel Piemont,2025-12-14T03:49:00+00:00,Italy,0.6170082655221177,0,2,de,MED,Europe
 'bb0e1d1a9a',extremes,Snow&Ice,#d60d2b,wmo,Eis Kirchdorf an der Krems,2025-12-01T04:02:00+00:00,Austria,0.616906136603031,0,2,de,WCE,Europe
+'3550c99ca4',extremes,Fog,#d60d2b,wmo,Nebel Emilia e Romagna,2025-12-08T03:44:00+00:00,Italy,0.6165155152191928,0,2,de,MED,Europe
+'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,Sturm Werdenberg,2025-12-15T03:54:00+00:00,Switzerland,0.6159906338250672,0,2,de,WCE,Europe
+'12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2025-12-06T03:32:00+00:00,Italy,0.6149155699831033,0,2,de,MED,Europe
+'f7a88fba0a',extremes,Fog,#d60d2b,wmo,Nebel Latium,2025-12-14T03:49:00+00:00,Italy,0.6142088233351178,0,2,de,MED,Europe
+'cae89f42c2',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Freistadt,2025-11-27T03:34:00+00:00,Austria,0.6139011169720288,0,2,de,WCE,Europe
+'dcf82560b0',extremes,Fog,#d60d2b,wmo,Nebel Lombardei,2025-12-08T03:44:00+00:00,Italy,0.6119315018380211,0,2,de,MED,Europe
+'51c2ca3328',extremes,Fog,#d60d2b,wmo,Nebel Toskana,2025-12-10T03:45:00+00:00,Italy,0.6115272105945563,0,2,de,MED,Europe
+'507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2025-12-01T04:02:00+00:00,Italy,0.6110297821672445,0,2,de,MED,Europe
+'8fa1b857b6',extremes,Fog,#d60d2b,wmo,Nebel Umbrien,2025-12-13T03:38:00+00:00,Italy,0.6106802490555976,0,2,de,MED,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert ein,2025-12-07T03:47:00+00:00,Germany,0.6015892357113088,1,2,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2025-12-08T03:44:00+00:00,Germany,0.587604379507757,1,1,de,WCE,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,Nebel Italien,2025-12-08T03:44:00+00:00,Italy,0.5626066936242511,1,1,de,MED,Europe
