@@ -1,10 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2025-12-15T03:54:00+00:00,Germany,0.731567416367325,0,2,de,WCE,Europe
 '91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.7057135849325861,0,2,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2025-12-09T03:41:00+00:00,Germany,0.7053769415955206,0,2,de,WCE,Europe
-'0423c607b4',extremes,Cold Wave,#a7e9fa,wmo,Gefrierhorn,2025-11-28T03:34:00+00:00,Austria,0.6759502913988825,0,2,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2025-12-13T03:38:00+00:00,Germany,0.675026775502107,0,1,de,WCE,Europe
-'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2025-12-07T03:47:00+00:00,Germany,0.6586984266953192,0,1,de,WCE,Europe
 '1b814f4418',extremes,Storm,#b3b2b1,wmo,Sturm Stadt Wernigerode,2025-12-15T03:54:00+00:00,Germany,0.6575384273501993,0,2,de,WCE,Europe
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2025-11-27T03:34:00+00:00,Germany,0.6517508857779774,0,2,de,WCE,Europe
 '906eca8937',extremes,Storm,#b3b2b1,wmo,Sturmflut Erstfeld Engelberg,2025-12-16T03:47:00+00:00,Switzerland,0.6450584225527128,0,2,de,WCE,Europe
@@ -14,12 +11,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '98590fb420',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Glarnerland Südsernftal,2025-11-26T03:37:00+00:00,Switzerland,0.6365856108787457,0,2,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2025-11-27T03:34:00+00:00,Germany,0.636440655382478,1,2,de,WCE,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,Sturmflut Schweiz,2025-12-15T03:54:00+00:00,Switzerland,0.6362211416620357,0,2,de,WCE,Europe
-'911e98ccfe',extremes,Storm,#b3b2b1,wmo,Sturm Maderanertal,2025-12-15T03:54:00+00:00,Switzerland,0.6336197616556745,0,2,de,WCE,Europe
 'e0bff0948c',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Zell am See,2025-11-28T03:34:00+00:00,Austria,0.6319119901304631,0,2,de,WCE,Europe
 'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes frutigen Kiental,2025-11-26T03:37:00+00:00,Switzerland,0.6284662247359512,0,2,de,WCE,Europe
 'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,Sturmflut Sarganserland,2025-12-15T03:54:00+00:00,Switzerland,0.6281857053041732,0,2,de,WCE,Europe
 '075d3faeae',extremes,Storm,#b3b2b1,wmo,Sturm Glarus SÃ¼d Grosstal,2025-12-15T03:54:00+00:00,Switzerland,0.6272881443831256,0,2,de,WCE,Europe
 '69af7a0917',extremes,Storm,#b3b2b1,wmo,Sturm Goldau Ã„geri,2025-12-16T03:47:00+00:00,Switzerland,0.6269240550265943,0,2,de,WCE,Europe
+'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2025-12-15T03:54:00+00:00,Germany,0.6267839989122262,1,2,de,WCE,Europe
 '491a9f7a5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Wernigerode,2025-12-08T03:44:00+00:00,Germany,0.6254775982039177,0,2,de,WCE,Europe
 '4377d8044c',extremes,Storm,#b3b2b1,wmo,Sturm Grindelwald,2025-12-16T03:47:00+00:00,Switzerland,0.6243786171649052,0,2,de,WCE,Europe
 '737d054cdf',extremes,Snow&Ice,#d60d2b,wmo,Schnee Linthebene Gaster,2025-11-26T03:37:00+00:00,Switzerland,0.6240567904781832,0,2,de,WCE,Europe
@@ -48,11 +45,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert ein,2025-12-07T03:47:00+00:00,Germany,0.6015892357113088,1,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.5893819151111329,1,1,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2025-12-08T03:44:00+00:00,Germany,0.587604379507757,1,1,de,WCE,Europe
+'0423c607b4',extremes,Cold Wave,#a7e9fa,wmo,Gefrierhorn,2025-11-28T03:34:00+00:00,Austria,0.5745577476890501,1,1,de,WCE,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,Nebel Italien,2025-12-08T03:44:00+00:00,Italy,0.5626066936242511,1,1,de,MED,Europe
+'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2025-12-07T03:47:00+00:00,Germany,0.5598936626910213,1,1,de,WCE,Europe
 '6696637213',extremes,Storm,#b3b2b1,wmo,Sturmflut Helgoland Elbe Wesermündung,2025-12-01T04:02:00+00:00,Germany,0.5594564393452044,1,1,de,WCE,Europe
 '07ce06ae23',extremes,Storm,#b3b2b1,wmo,Sturm Helgoland,2025-11-29T03:34:00+00:00,Germany,0.5591696247975657,1,1,de,WCE,Europe
 'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2025-12-02T03:41:00+00:00,Germany,0.5585008766440867,1,1,de,WCE,Europe
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2025-12-07T03:47:00+00:00,Germany,0.5572912357510169,1,2,de,WCE,Europe
 'dec5942ac2',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe WesermÃ¼ndung,2025-12-08T03:44:00+00:00,Germany,0.5553608424730914,1,1,de,WCE,Europe
 '4213b8a736',extremes,Storm,#b3b2b1,wmo,Sturmflut Gersau Engelbergertal,2025-12-16T03:47:00+00:00,Switzerland,0.5429032200440007,1,1,de,WCE,Europe
+'911e98ccfe',extremes,Storm,#b3b2b1,wmo,Sturm Maderanertal,2025-12-15T03:54:00+00:00,Switzerland,0.5385767974073232,1,1,de,WCE,Europe
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,Nebel Umbrien,2025-12-13T03:38:00+00:00,Italy,0.519078211697258,1,1,de,MED,Europe
