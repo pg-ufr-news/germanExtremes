@@ -1,6 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2025-11-27T03:34:00+00:00,Germany,0.6517508857779774,0,2,de,WCE,Europe
 'e0bff0948c',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Zell am See,2025-11-28T03:34:00+00:00,Austria,0.6319119901304631,0,2,de,WCE,Europe
+'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,Sturmflut Sarganserland,2025-12-15T03:54:00+00:00,Switzerland,0.6281857053041732,0,2,de,WCE,Europe
+'075d3faeae',extremes,Storm,#b3b2b1,wmo,Sturm Glarus Süd Grosstal,2025-12-15T03:54:00+00:00,Switzerland,0.6272881443831256,0,2,de,WCE,Europe
 '69af7a0917',extremes,Storm,#b3b2b1,wmo,Sturm Goldau Ã„geri,2025-12-16T03:47:00+00:00,Switzerland,0.6269240550265943,0,2,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2025-12-15T03:54:00+00:00,Germany,0.6267839989122262,1,2,de,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2025-12-04T03:42:00+00:00,Italy,0.618157644291137,0,2,de,MED,Europe
@@ -43,6 +45,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6d5ea4376',extremes,Snow&Ice,#d60d2b,wmo,Eiswelsland,2025-12-01T04:02:00+00:00,Austria,0.5993704608392855,0,2,de,WCE,Europe
 '58275fcc95',extremes,Fog,#d60d2b,wmo,Nebel Westflandern,2025-12-14T03:49:00+00:00,Belgium,0.5993454223152704,0,2,de,WCE,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,Eis Island,2025-12-18T03:44:00+00:00,Iceland,0.5989717543527423,0,2,de,GIC,Europe
+'8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2025-12-05T03:41:00+00:00,Italy,0.5985300515588663,0,2,de,MED,Europe
+'90fce750f8',extremes,Fog,#d60d2b,wmo,Nebel Hennegau,2025-12-14T03:49:00+00:00,Belgium,0.598313169458134,0,2,de,WCE,Europe
+'18d25abe80',extremes,Storm,#b3b2b1,wmo,Sturm Liechtenstein,2025-12-15T03:54:00+00:00,Switzerland,0.5952602274377715,0,2,de,WCE,Europe
+'0b73e9ffb2',extremes,Snow&Ice,#d60d2b,wmo,Lawine Waidhofen an der Ybbs Stadt,2025-12-01T04:02:00+00:00,Austria,0.5951673223313725,0,2,de,WCE,Europe
+'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.593664819006458,0,2,de,WCE,Europe
+'468cd6b554',extremes,Storm,#b3b2b1,wmo,Sturmflut Westfjorde,2025-12-10T03:45:00+00:00,Iceland,0.5932404550753316,0,2,de,GIC,Europe
+'0c4c529b3b',extremes,Storm,#b3b2b1,wmo,Sturm Belgien,2025-12-14T03:49:00+00:00,Belgium,0.5912077758405427,0,2,de,WCE,Europe
+'f2c71932a9',extremes,Snow&Ice,#d60d2b,wmo,Lawine Waidhofen an der Thaya,2025-12-01T04:02:00+00:00,Austria,0.5896075420252848,0,2,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2025-12-08T03:44:00+00:00,Germany,0.587604379507757,1,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2025-12-13T03:38:00+00:00,Germany,0.5832713337222455,1,3,de,WCE,Europe
 '0423c607b4',extremes,Cold Wave,#a7e9fa,wmo,Gefrierhorn,2025-11-28T03:34:00+00:00,Austria,0.5745577476890501,1,1,de,WCE,Europe
