@@ -89,5 +89,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6edc218eed',extremes,Snow&Ice,#d60d2b,wmo,Frost Schärding,2025-12-01T04:02:00+00:00,Austria,0.5164282546807462,1,1,de,WCE,Europe
 '14ed38a1e4',extremes,Fog,#d60d2b,wmo,Nebelmolise,2025-12-11T03:46:00+00:00,Italy,0.5163951715150926,1,1,de,MED,Europe
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,Sturm Südisland,2025-11-30T03:46:00+00:00,Iceland,0.515790281677648,1,1,de,GIC,Europe
-'d992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.501574687844463,2,1,de,WCE,Europe
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2025-12-07T03:47:00+00:00,Germany,0.492284469024728,2,2,de,WCE,Europe
+'d992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.4269385446677936,3,1,de,WCE,Europe
