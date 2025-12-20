@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2025-12-18T03:44:00+00:00,Germany,0.6195987166971203,0,2,de,WCE,Europe
-'507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2025-12-01T04:02:00+00:00,Italy,0.6110297821672445,0,2,de,MED,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2025-11-27T03:34:00+00:00,Germany,0.6106849055666831,1,2,de,WCE,Europe
 '24ba83a489',extremes,Snow&Ice,#d60d2b,wmo,Lawine im Südosten Islands,2025-11-27T03:34:00+00:00,Iceland,0.6101619509093533,0,2,de,GIC,Europe
 '91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.6093793959858016,1,2,de,WCE,Europe
@@ -12,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18cd9b37f4',extremes,Snow&Ice,#d60d2b,wmo,Lawine in der Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.6047597988535215,0,2,de,WCE,Europe
 '3cca8e9f39',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Urfahrumgebung,2025-11-28T03:34:00+00:00,Austria,0.6043972414275807,0,2,de,WCE,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,Trockenheit Belgien,2025-12-08T03:45:00+00:00,Belgium,0.6041783613428893,0,2,de,WCE,Europe
-'d92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,Eis Italien,2025-12-16T03:47:00+00:00,Italy,0.6036742335736255,0,2,de,MED,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,Nebel Kampanien,2025-12-11T03:46:00+00:00,Italy,0.6036461659417228,0,2,de,MED,Europe
 'c19cef35d3',extremes,Fog,#d60d2b,wmo,Nebel Kalabrien,2025-12-11T03:46:00+00:00,Italy,0.6035184531682846,0,2,de,MED,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,Sturmflut Island,2025-12-08T03:44:00+00:00,Iceland,0.603468251975595,0,2,de,GIC,Europe
@@ -81,7 +78,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '737d054cdf',extremes,Snow&Ice,#d60d2b,wmo,Schnee Linthebene Gaster,2025-11-26T03:37:00+00:00,Switzerland,0.5304482719064557,1,1,de,WCE,Europe
 '24a388e940',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Fehmarn bis Rügen,2025-12-08T03:44:00+00:00,Germany,0.5301887795598916,1,1,de,WCE,Europe
 '5c38722100',extremes,Snow&Ice,#d60d2b,wmo,Eis Urserntal,2025-11-26T03:37:00+00:00,Switzerland,0.5296953109958049,1,1,de,WCE,Europe
+'507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2025-12-01T04:02:00+00:00,Italy,0.5288644895195772,1,2,de,MED,Europe
 'ebfa477aa2',extremes,Fog,#d60d2b,wmo,Nebel Venetien,2025-12-13T03:38:00+00:00,Italy,0.5286429656531029,1,1,de,MED,Europe
+'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2025-12-18T03:44:00+00:00,Germany,0.5266589091925522,1,1,de,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2025-12-04T03:42:00+00:00,Italy,0.5254340576474663,1,1,de,MED,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,Nebel Piemont,2025-12-14T03:49:00+00:00,Italy,0.5244570256938,1,1,de,MED,Europe
 'bb0e1d1a9a',extremes,Snow&Ice,#d60d2b,wmo,Eis Kirchdorf an der Krems,2025-12-01T04:02:00+00:00,Austria,0.5243702161125763,1,1,de,WCE,Europe
@@ -97,7 +96,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,Sturm Südostisland,2025-12-01T04:02:00+00:00,Iceland,0.5171128761858985,1,1,de,GIC,Europe
 '4df3594670',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle liezen,2025-11-28T03:34:00+00:00,Austria,0.516736006206587,1,1,de,WCE,Europe
 '6edc218eed',extremes,Snow&Ice,#d60d2b,wmo,Frost Schärding,2025-12-01T04:02:00+00:00,Austria,0.5164282546807462,1,1,de,WCE,Europe
-'14ed38a1e4',extremes,Fog,#d60d2b,wmo,Nebelmolise,2025-12-11T03:46:00+00:00,Italy,0.5163951715150926,1,1,de,MED,Europe
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,Sturm Südisland,2025-11-30T03:46:00+00:00,Iceland,0.515790281677648,1,1,de,GIC,Europe
+'d92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,Eis Italien,2025-12-16T03:47:00+00:00,Italy,0.5131234735375817,1,1,de,MED,Europe
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2025-12-07T03:47:00+00:00,Germany,0.492284469024728,2,2,de,WCE,Europe
+'14ed38a1e4',extremes,Fog,#d60d2b,wmo,Nebelmolise,2025-12-11T03:46:00+00:00,Italy,0.4389358957878287,2,1,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.4269385446677936,3,1,de,WCE,Europe
