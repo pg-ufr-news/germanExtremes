@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2025-12-09T03:41:00+00:00,Germany,0.6136156894471015,1,2,de,WCE,Europe
-'51c2ca3328',extremes,Fog,#d60d2b,wmo,Nebel Toskana,2025-12-10T03:45:00+00:00,Italy,0.6115272105945563,0,2,de,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2025-12-01T04:02:00+00:00,Italy,0.6110297821672445,0,2,de,MED,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2025-11-27T03:34:00+00:00,Germany,0.6106849055666831,1,2,de,WCE,Europe
 '24ba83a489',extremes,Snow&Ice,#d60d2b,wmo,Lawine im Südosten Islands,2025-11-27T03:34:00+00:00,Iceland,0.6101619509093533,0,2,de,GIC,Europe
@@ -9,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aeabc35619',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Murau,2025-11-29T03:34:00+00:00,Austria,0.6076096832773175,0,2,de,WCE,Europe
 '80712e69d3',extremes,Snow&Ice,#d60d2b,wmo,Frost Salzburg Stadt,2025-12-01T04:02:00+00:00,Austria,0.607452891066398,0,2,de,WCE,Europe
 '94af5e5960',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Kremser Land,2025-11-28T03:34:00+00:00,Austria,0.6073619377120104,0,2,de,WCE,Europe
-'504a6f9634',extremes,Storm,#b3b2b1,wmo,Sturm Erstfeld Engelberg,2025-12-15T03:54:00+00:00,Switzerland,0.6061400700620165,0,2,de,WCE,Europe
 '18cd9b37f4',extremes,Snow&Ice,#d60d2b,wmo,Lawine in der Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.6047597988535215,0,2,de,WCE,Europe
 '3cca8e9f39',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Urfahrumgebung,2025-11-28T03:34:00+00:00,Austria,0.6043972414275807,0,2,de,WCE,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,Trockenheit Belgien,2025-12-08T03:45:00+00:00,Belgium,0.6041783613428893,0,2,de,WCE,Europe
@@ -64,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,Sturmflut Schweiz,2025-12-15T03:54:00+00:00,Switzerland,0.5407879704127303,1,1,de,WCE,Europe
 '911e98ccfe',extremes,Storm,#b3b2b1,wmo,Sturm Maderanertal,2025-12-15T03:54:00+00:00,Switzerland,0.5385767974073232,1,1,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2025-12-15T03:54:00+00:00,Germany,0.5377182290753922,2,3,de,WCE,Europe
+'6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2025-12-09T03:41:00+00:00,Germany,0.5356183101209454,2,2,de,WCE,Europe
 'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes frutigen Kiental,2025-11-26T03:37:00+00:00,Switzerland,0.5341962910255584,1,1,de,WCE,Europe
 'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,Sturmflut Sarganserland,2025-12-15T03:54:00+00:00,Switzerland,0.5339578495085472,1,1,de,WCE,Europe
 '075d3faeae',extremes,Storm,#b3b2b1,wmo,Sturm Glarus Süd Grosstal,2025-12-15T03:54:00+00:00,Switzerland,0.5331949227256568,1,1,de,WCE,Europe
@@ -84,6 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cae89f42c2',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Freistadt,2025-11-27T03:34:00+00:00,Austria,0.5218159494262244,1,1,de,WCE,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2025-12-02T03:41:00+00:00,Iceland,0.5215330809792632,1,2,de,GIC,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,Nebel Lombardei,2025-12-08T03:44:00+00:00,Italy,0.520141776562318,1,1,de,MED,Europe
+'51c2ca3328',extremes,Fog,#d60d2b,wmo,Nebel Toskana,2025-12-10T03:45:00+00:00,Italy,0.5197981290053728,1,1,de,MED,Europe
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,Nebel Umbrien,2025-12-13T03:38:00+00:00,Italy,0.519078211697258,1,1,de,MED,Europe
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,Sturm Südostisland,2025-12-01T04:02:00+00:00,Iceland,0.5171128761858985,1,1,de,GIC,Europe
 '4df3594670',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle liezen,2025-11-28T03:34:00+00:00,Austria,0.516736006206587,1,1,de,WCE,Europe
