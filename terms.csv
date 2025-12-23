@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,Schnee Italien,2025-12-16T03:47:00+00:00,Italy,0.5696281060987293,0,2,de,MED,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,Sturm Ligurien,2025-12-15T03:54:00+00:00,Italy,0.5675211584061337,0,2,de,MED,Europe
 '080f963f9f',extremes,Snow&Ice,#d60d2b,wmo,Frost Langenthal,2025-12-06T03:32:00+00:00,Switzerland,0.5636220280519133,0,2,de,WCE,Europe
 '3659a6cf2c',extremes,Snow&Ice,#d60d2b,wmo,Eistal Vallon de Saint-Imier,2025-12-06T03:32:00+00:00,Switzerland,0.5621540575952495,0,2,de,WCE,Europe
