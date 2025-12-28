@@ -2,7 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db05a91fee',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostfriesische KÃ¼ste Helgoland,2025-12-06T03:32:00+00:00,Germany,0.6395666939893322,0,2,de,WCE,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,Sturm Belgien,2025-12-14T03:49:00+00:00,Belgium,0.5912077758405427,0,2,de,WCE,Europe
 'aae4197a95',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Langnau Eggiwil,2025-12-06T03:32:00+00:00,Switzerland,0.5290659905311266,0,2,de,WCE,Europe
-'5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2025-11-27T03:34:00+00:00,Germany,0.5285802042771351,2,2,de,WCE,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,Nebel Piemont,2025-12-14T03:49:00+00:00,Italy,0.5244570256938,1,1,de,MED,Europe
 'bb0e1d1a9a',extremes,Snow&Ice,#d60d2b,wmo,Eis Kirchdorf an der Krems,2025-12-01T04:02:00+00:00,Austria,0.5243702161125763,1,1,de,WCE,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,Nebel Emilia e Romagna,2025-12-08T03:44:00+00:00,Italy,0.5240381879363138,1,1,de,MED,Europe
