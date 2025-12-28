@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'db05a91fee',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostfriesische KÃ¼ste Helgoland,2025-12-06T03:32:00+00:00,Germany,0.6395666939893322,0,2,de,WCE,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,Sturm Belgien,2025-12-14T03:49:00+00:00,Belgium,0.5912077758405427,0,2,de,WCE,Europe
+'db05a91fee',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostfriesische KÃ¼ste Helgoland,2025-12-06T03:32:00+00:00,Germany,0.5436316898909324,1,1,de,WCE,Europe
 'aae4197a95',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Langnau Eggiwil,2025-12-06T03:32:00+00:00,Switzerland,0.5290659905311266,0,2,de,WCE,Europe
 '429ae37885',extremes,Fog,#d60d2b,wmo,Nebel Piemont,2025-12-14T03:49:00+00:00,Italy,0.5244570256938,1,1,de,MED,Europe
 'bb0e1d1a9a',extremes,Snow&Ice,#d60d2b,wmo,Eis Kirchdorf an der Krems,2025-12-01T04:02:00+00:00,Austria,0.5243702161125763,1,1,de,WCE,Europe
@@ -36,8 +36,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b73e9ffb2',extremes,Snow&Ice,#d60d2b,wmo,Lawine Waidhofen an der Ybbs Stadt,2025-12-01T04:02:00+00:00,Austria,0.5058922239816666,1,1,de,WCE,Europe
 'c1907effc6',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Apulien,2025-12-01T04:02:00+00:00,Italy,0.504715479893162,0,2,de,MED,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.5046154711554893,1,1,de,WCE,Europe
-'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2025-12-02T03:41:00+00:00,Germany,0.5030539581185045,0,2,de,WCE,Europe
-'cb207f7e4e',extremes,Drought,#edc291,edo,Regenmangel in Argentinien,2025-12-13T03:38:00+00:00,Argentina,0.5026403473198956,0,2,de,SES,South-America
 '5786f5d7b9',extremes,Precipitation,#d60d2b,wmo,Regenguss Sarnen Lungern,2025-12-07T03:47:00+00:00,Switzerland,0.5025354718908951,0,2,de,WCE,Europe
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,Hitzewelle parana y alrededores,2025-12-06T03:32:00+00:00,Argentina,0.5020307132084287,0,2,de,SES,South-America
 'ccc92b1f07',extremes,Precipitation,#d60d2b,wmo,"Niederschlag, der vollständig abfällt",2025-12-07T03:47:00+00:00,Switzerland,0.5017397849996941,0,2,de,WCE,Europe
@@ -177,7 +175,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db4deee12d',extremes,Fog,#d60d2b,wmo,Nebel Apulien,2025-12-10T03:45:00+00:00,Italy,0.4340194800839527,2,1,de,MED,Europe
 '58275fcc95',extremes,Fog,#d60d2b,wmo,Nebel Westflandern,2025-12-14T03:49:00+00:00,Belgium,0.4330270676227829,2,1,de,WCE,Europe
 '3fd670b0ec',extremes,Precipitation,#d60d2b,wmo,Niederschlag Turtmanntal,2025-12-07T03:47:00+00:00,Switzerland,0.4312640969610489,1,1,de,WCE,Europe
+'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2025-12-02T03:41:00+00:00,Germany,0.4290960144007288,1,2,de,WCE,Europe
 '468cd6b554',extremes,Storm,#b3b2b1,wmo,Sturmflut Westfjorde,2025-12-10T03:45:00+00:00,Iceland,0.4286162287919271,2,1,de,GIC,Europe
+'cb207f7e4e',extremes,Drought,#edc291,edo,Regenmangel in Argentinien,2025-12-13T03:38:00+00:00,Argentina,0.42724429522191126,1,1,de,SES,South-America
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.4269385446677936,3,1,de,WCE,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Italien,2025-12-15T03:54:00+00:00,Italy,0.4210466029819343,2,1,de,MED,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,Nebel Italien,2025-12-08T03:44:00+00:00,Italy,0.4117563633935214,3,1,de,MED,Europe
