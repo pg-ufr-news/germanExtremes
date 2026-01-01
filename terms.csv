@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c19cef35d3',extremes,Fog,#d60d2b,wmo,Nebel Kalabrien,2025-12-11T03:46:00+00:00,Italy,0.5129906851930419,1,1,de,MED,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2025-12-13T03:38:00+00:00,Germany,0.5007336036639086,2,3,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2025-12-08T03:44:00+00:00,Germany,0.4993362098315934,2,1,de,WCE,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,Schnee Italien,2025-12-16T03:47:00+00:00,Italy,0.4985122695387586,1,3,de,MED,Europe
@@ -9,12 +8,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0423c607b4',extremes,Cold Wave,#a7e9fa,wmo,Gefrierhorn,2025-11-28T03:34:00+00:00,Austria,0.4883740855356925,2,1,de,WCE,Europe
 'cffb06d9f8',extremes,Snow&Ice,#d60d2b,wmo,Frost Stadt Braunlage,2025-12-06T03:32:00+00:00,Germany,0.4875943021568265,1,1,de,WCE,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,Niederschlag Italien,2025-12-14T03:49:00+00:00,Italy,0.4825753582851657,1,1,de,MED,Europe
-'2cce7328e9',extremes,Storm,#b3b2b1,wmo,Sturm Ligurien,2025-12-15T03:54:00+00:00,Italy,0.4823929846452136,1,1,de,MED,Europe
 '4fd1b206ed',extremes,Snow&Ice,#d60d2b,wmo,Lawine Salzburg Umgebung,2025-12-01T04:02:00+00:00,Austria,0.4814260709896175,1,1,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2025-12-09T03:41:00+00:00,Germany,0.4784120767846218,3,3,de,WCE,Europe
 '3659a6cf2c',extremes,Snow&Ice,#d60d2b,wmo,Eistal Vallon de Saint-Imier,2025-12-06T03:32:00+00:00,Switzerland,0.477830948955962,1,1,de,WCE,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,Regen Italien,2025-12-04T03:42:00+00:00,Italy,0.4778023235483266,1,2,de,MED,Europe
-'97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.4776552599504038,1,1,de,WCE,Europe
 '0ff55e17d7',extremes,Snow&Ice,#d60d2b,wmo,Westflandern ist eiskalt,2025-12-05T03:41:00+00:00,Belgium,0.4772797138607931,0,2,de,WCE,Europe
 '794ec3257d',extremes,Snow&Ice,#d60d2b,wmo,Eis Steyr Stadt,2025-12-01T04:02:00+00:00,Austria,0.4772569415351014,1,1,de,WCE,Europe
 'fa1ad4c940',extremes,Fog,#d60d2b,wmo,Nebel Ostflandern,2025-12-14T03:49:00+00:00,Belgium,0.4761015077421326,1,1,de,WCE,Europe
@@ -28,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a36c64301',extremes,Thunderstorm,#53785a,wmo,Hagel Piemont,2025-12-15T03:54:00+00:00,Italy,0.4685379117716078,1,1,de,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,Hitzewelle Argentinien,2025-12-01T04:02:00+00:00,Argentina,0.4675355866198716,1,1,de,SES,South-America
 '626e44f853',extremes,Earthquake,#870007,usgs,Erdbeben Grindavík,2025-12-10T03:45:00+00:00,Iceland,0.4668770145119777,1,1,de,GIC,Europe
-'906eca8937',extremes,Storm,#b3b2b1,wmo,Sturmflut Erstfeld Engelberg,2025-12-16T03:47:00+00:00,Switzerland,0.466054710294335,2,1,de,WCE,Europe
 '2db753a4e6',extremes,Snow&Ice,#d60d2b,wmo,Lawine Alto Moesano,2025-12-16T03:47:00+00:00,Switzerland,0.4657468694805149,1,1,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2025-12-15T03:54:00+00:00,Switzerland,0.4651186007484547,2,1,de,WCE,Europe
 '9d6cac03c7',extremes,Precipitation,#d60d2b,wmo,Niederschlag Schweiz,2025-12-07T03:47:00+00:00,Switzerland,0.4647826703088897,1,2,de,WCE,Europe
@@ -105,9 +101,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '94af5e5960',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Kremser Land,2025-11-28T03:34:00+00:00,Austria,0.4388189999969275,2,1,de,WCE,Europe
 '18cd9b37f4',extremes,Snow&Ice,#d60d2b,wmo,Lawine in der Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.4379440551716692,2,2,de,WCE,Europe
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,Sturm Erstfeld Engelberg,2025-12-15T03:54:00+00:00,Switzerland,0.4379362006198069,2,1,de,WCE,Europe
+'97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.4369931052435575,2,2,de,WCE,Europe
 'c620088f41',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Ligurien,2025-12-01T04:02:00+00:00,Italy,0.4366173631176205,1,1,de,MED,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,Trockenheit Belgien,2025-12-08T03:45:00+00:00,Belgium,0.4365188660702375,2,1,de,WCE,Europe
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,Nebel Kampanien,2025-12-11T03:46:00+00:00,Italy,0.4361343548928946,2,1,de,MED,Europe
+'c19cef35d3',extremes,Fog,#d60d2b,wmo,Nebel Kalabrien,2025-12-11T03:46:00+00:00,Italy,0.4360420824140856,2,1,de,MED,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,Sturmflut Island,2025-12-08T03:44:00+00:00,Iceland,0.4360058120523674,2,1,de,GIC,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,Nebel Belgien,2025-12-14T03:49:00+00:00,Belgium,0.4359919412738398,2,1,de,WCE,Europe
 '05884de97d',extremes,Precipitation,#d60d2b,wmo,Regen zahlt d'enhaut,2025-12-07T03:47:00+00:00,Switzerland,0.4359004022122672,1,1,de,WCE,Europe
@@ -174,6 +172,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '316c1a7868',extremes,Precipitation,#d60d2b,wmo,Regenguss Toskana,2025-12-15T03:54:00+00:00,Italy,0.4120912132626182,1,1,de,MED,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,Nebel Italien,2025-12-08T03:44:00+00:00,Italy,0.4117563633935214,3,1,de,MED,Europe
 '200915a12f',extremes,Drought,#edc291,edo,Dürre Namibia,2025-12-15T03:54:00+00:00,Namibia,0.4104449279303473,2,1,de,WSAF,Africa
+'2cce7328e9',extremes,Storm,#b3b2b1,wmo,Sturm Ligurien,2025-12-15T03:54:00+00:00,Italy,0.41003403694843155,2,1,de,MED,Europe
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,Erdbeben Island,2025-12-13T03:37:00+00:00,Iceland,0.409112177030253,2,1,de,GIC,Europe
 'f47d67ad09',extremes,Precipitation,#d60d2b,wmo,Regen Apulien,2025-12-03T03:40:00+00:00,Italy,0.4082929406606803,1,1,de,MED,Europe
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,Nebel Sizilien,2025-12-11T03:46:00+00:00,Italy,0.4077897998045725,1,1,de,MED,Europe
