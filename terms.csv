@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2025-12-08T03:44:00+00:00,Germany,0.6911227817738318,0,2,de,WCE,Europe
+'83a8abaa65',extremes,Snow&Ice,#d60d2b,wmo,Lawine Goldau Ã„geri,2025-12-06T03:32:00+00:00,Switzerland,0.5811730616550665,0,2,de,WCE,Europe
+'fa1ad4c940',extremes,Fog,#d60d2b,wmo,Nebel Ostflandern,2025-12-14T03:49:00+00:00,Belgium,0.5601194208730972,0,2,de,WCE,Europe
 'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2025-12-02T03:41:00+00:00,Germany,0.5585008766440867,1,1,de,WCE,Europe
 '0a36c64301',extremes,Thunderstorm,#53785a,wmo,Hagel Piemont,2025-12-15T03:54:00+00:00,Italy,0.5512210726724798,0,2,de,MED,Europe
 'f4cca3599c',extremes,Storm,#b3b2b1,wmo,Sturmflut Meiringen Gadmertal,2025-12-16T03:47:00+00:00,Switzerland,0.5414608716485024,1,1,de,WCE,Europe
@@ -235,6 +238,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,Niederschlag Albanien,2025-12-01T04:03:00+00:00,Albania,0.3063696583380044,0,2,de,MED,Europe
 '4455655d11',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Malediven,2025-12-13T03:38:00+00:00,Maldives,0.3063193516313522,0,2,de,EIO,Indian Ocean
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Regenguss Neuseeland,2025-12-14T03:49:00+00:00,New Zealand,0.3056189716581962,0,2,de,NZ,Oceania
+'0626237bf9',extremes,Flood,#030ba1,cmeter,Überschwemmung Tirana,2025-12-06T03:33:00+00:00,Albania,0.30530404541526246,0,2,de,MED,Europe
+'95d130fbc5',extremes,Storm,#b3b2b1,wmo,Sturm Uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.30499370809955484,0,2,de,SES,South-America
+'be4e178bab',extremes,Storm,#b3b2b1,wmo,Sturmflut Uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.3048721290934512,0,2,de,SES,South-America
+'4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,Zyklon Zyklon Grant Katherine Überschwemmungen Zugentgleisung Chemieunfall,2025-12-01T04:03:00+00:00,Australia,0.3048591746563622,0,2,de,NAU,Oceania
+'c2b6fa6e9e',extremes,Precipitation,#d60d2b,wmo,Regenguss vom Baa-Atoll bis zum Alif-Alif-Atoll,2025-12-04T03:42:00+00:00,Maldives,0.30484489138870663,0,2,de,EIO,Indian Ocean
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Eis Kanada,2025-12-02T03:41:00+00:00,Canada,0.3048247155195034,0,2,de,NEN,North-America
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,Sturm Paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.3047732720976817,0,2,de,SES,South-America
 'ba2935ab09',extremes,Drought,#edc291,edo,Trockenheit Namibia,2025-12-18T03:44:00+00:00,Namibia,0.302561444937075,1,1,de,WSAF,Africa
 '27ff8af872',extremes,Drought,#edc291,edo,Dürre Dänemark,2025-12-07T03:47:00+00:00,Denmark,0.2977738144221394,1,1,de,NEU,Europe
 '6977afac24',extremes,Volcano,#b83202,eonet,PuracÃ©-Vulkan Kolumbien,2025-12-06T03:32:00+00:00,Colombia,0.2699202938116671,1,1,de,NWS,South-America
