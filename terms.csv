@@ -131,7 +131,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ea0e31db4',extremes,Drought,#edc291,edo,Regenmangel Belgien,2025-12-10T03:45:00+00:00,Belgium,0.3940341426745576,2,1,de,WCE,Europe
 '1a931eb2e9',extremes,Snow&Ice,#d60d2b,wmo,Eis Schangnau Sigriswil,2025-12-06T03:32:00+00:00,Switzerland,0.3931421257474346,2,1,de,WCE,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,Regen Argentinien,2025-12-16T03:47:00+00:00,Argentina,0.3931327627151882,2,1,de,SES,South-America
-'91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.3930110291722803,4,2,de,WCE,Europe
 '4213b8a736',extremes,Storm,#b3b2b1,wmo,Sturmflut Gersau Engelbergertal,2025-12-16T03:47:00+00:00,Switzerland,0.3922475764817904,3,1,de,WCE,Europe
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,Sturm la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.391923447276728,2,1,de,SES,South-America
 'f1af90f26f',extremes,Snow&Ice,#d60d2b,wmo,Frost Bern Sinn,2025-12-06T03:32:00+00:00,Switzerland,0.3916280244536128,2,1,de,WCE,Europe
