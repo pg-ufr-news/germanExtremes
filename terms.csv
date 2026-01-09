@@ -2,11 +2,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.7057135849325861,0,2,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2025-12-07T03:47:00+00:00,Germany,0.701927789072128,0,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.6773558689485747,1,2,de,WCE,Europe
+'b08a276ec2',extremes,Fog,#d60d2b,wmo,Nebel Italien,2025-12-08T03:44:00+00:00,Italy,0.6594193924991189,0,2,de,MED,Europe
 '6696637213',extremes,Storm,#b3b2b1,wmo,Sturmflut Helgoland Elbe Wesermündung,2025-12-01T04:02:00+00:00,Germany,0.6581840462884758,0,2,de,WCE,Europe
+'dec5942ac2',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe WesermÃ¼ndung,2025-12-08T03:44:00+00:00,Germany,0.6533656970271663,0,2,de,WCE,Europe
+'491a9f7a5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Wernigerode,2025-12-08T03:44:00+00:00,Germany,0.6254775982039177,0,2,de,WCE,Europe
 'bb0e1d1a9a',extremes,Snow&Ice,#d60d2b,wmo,Eis Kirchdorf an der Krems,2025-12-01T04:02:00+00:00,Austria,0.616906136603031,0,2,de,WCE,Europe
+'dcf82560b0',extremes,Fog,#d60d2b,wmo,Nebel Lombardei,2025-12-08T03:44:00+00:00,Italy,0.6119315018380211,0,2,de,MED,Europe
+'30e79eda20',extremes,Storm,#b3b2b1,wmo,Sturm SÃ¼dostisland,2025-12-01T04:02:00+00:00,Iceland,0.6083680896304688,0,2,de,GIC,Europe
 '6edc218eed',extremes,Snow&Ice,#d60d2b,wmo,Frost Schärding,2025-12-01T04:02:00+00:00,Austria,0.6075626525655837,0,2,de,WCE,Europe
 '80712e69d3',extremes,Snow&Ice,#d60d2b,wmo,Frost Salzburg Stadt,2025-12-01T04:02:00+00:00,Austria,0.607452891066398,0,2,de,WCE,Europe
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,Sturm Südisland,2025-11-30T03:46:00+00:00,Iceland,0.6068120960913506,0,2,de,GIC,Europe
+'e2082c3612',extremes,Storm,#b3b2b1,wmo,Sturmflut SÃ¼disland,2025-12-01T04:02:00+00:00,Iceland,0.602603432324849,0,2,de,GIC,Europe
+'a6d5ea4376',extremes,Snow&Ice,#d60d2b,wmo,Eiswelsland,2025-12-01T04:02:00+00:00,Austria,0.5993704608392855,0,2,de,WCE,Europe
+'8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2025-12-05T03:41:00+00:00,Italy,0.5985300515588663,0,2,de,MED,Europe
+'0b73e9ffb2',extremes,Snow&Ice,#d60d2b,wmo,Lawine Waidhofen an der Ybbs Stadt,2025-12-01T04:02:00+00:00,Austria,0.5951673223313725,0,2,de,WCE,Europe
+'f2c71932a9',extremes,Snow&Ice,#d60d2b,wmo,Lawine Waidhofen an der Thaya,2025-12-01T04:02:00+00:00,Austria,0.5896075420252848,0,2,de,WCE,Europe
 'a8ca29445f',extremes,Snow&Ice,#d60d2b,wmo,Eis-Urfahr-Umgebung,2025-12-01T04:02:00+00:00,Austria,0.5822992877448233,0,2,de,WCE,Europe
 '3b643f4f75',extremes,Snow&Ice,#d60d2b,wmo,Frost Grieskirchen,2025-12-01T04:02:00+00:00,Austria,0.5727273551443383,0,2,de,WCE,Europe
 'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2025-12-07T03:47:00+00:00,Germany,0.5598936626910213,1,1,de,WCE,Europe
