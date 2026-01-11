@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.7057135849325861,0,2,de,WCE,Europe
 '6696637213',extremes,Storm,#b3b2b1,wmo,Sturmflut Helgoland Elbe Wesermündung,2025-12-01T04:02:00+00:00,Germany,0.6581840462884758,0,2,de,WCE,Europe
 'bb0e1d1a9a',extremes,Snow&Ice,#d60d2b,wmo,Eis Kirchdorf an der Krems,2025-12-01T04:02:00+00:00,Austria,0.616906136603031,0,2,de,WCE,Europe
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,Sturm Südostisland,2025-12-01T04:02:00+00:00,Iceland,0.6083680896304688,0,2,de,GIC,Europe
