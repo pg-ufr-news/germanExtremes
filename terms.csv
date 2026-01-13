@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.7057135849325861,0,2,de,WCE,Europe
+'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2025-12-07T03:47:00+00:00,Germany,0.6586984266953192,0,2,de,WCE,Europe
+'6696637213',extremes,Storm,#b3b2b1,wmo,Sturmflut Helgoland Elbe WesermÃ¼ndung,2025-12-01T04:02:00+00:00,Germany,0.6581840462884758,0,2,de,WCE,Europe
+'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2025-12-02T03:41:00+00:00,Germany,0.6570598548753961,0,2,de,WCE,Europe
+'dec5942ac2',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe Wesermündung,2025-12-08T03:44:00+00:00,Germany,0.6533656970271663,0,2,de,WCE,Europe
+'bb0e1d1a9a',extremes,Snow&Ice,#d60d2b,wmo,Eis Kirchdorf an der Krems,2025-12-01T04:02:00+00:00,Austria,0.616906136603031,0,2,de,WCE,Europe
+'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,Sturm Werdenberg,2025-12-15T03:54:00+00:00,Switzerland,0.6159906338250672,0,2,de,WCE,Europe
+'12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2025-12-06T03:32:00+00:00,Italy,0.6149155699831033,0,2,de,MED,Europe
+'507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2025-12-01T04:02:00+00:00,Italy,0.6110297821672445,0,2,de,MED,Europe
+'042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2025-12-02T03:41:00+00:00,Iceland,0.6105680305638391,0,2,de,GIC,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.5782182458490442,3,2,de,WCE,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,Nebel Italien,2025-12-08T03:44:00+00:00,Italy,0.560506648624251,1,1,de,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,Hitzewelle Argentinien,2025-12-01T04:02:00+00:00,Argentina,0.5500418666116137,0,2,de,SES,South-America
@@ -40,7 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18cd9b37f4',extremes,Snow&Ice,#d60d2b,wmo,Lawine in der Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.4379440551716692,2,2,de,WCE,Europe
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,Sturm Erstfeld Engelberg,2025-12-15T03:54:00+00:00,Switzerland,0.4379362006198069,2,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.4369931052435575,2,2,de,WCE,Europe
-'9e93dbaea9',extremes,Fog,#d60d2b,wmo,Nebel Kampanien,2025-12-11T03:46:00+00:00,Italy,0.43626188264289467,2,1,de,MED,Europe
+'9e93dbaea9',extremes,Fog,#d60d2b,wmo,Nebel Kampanien,2025-12-11T03:46:00+00:00,Italy,0.4362618826428946,2,1,de,MED,Europe
 'c19cef35d3',extremes,Fog,#d60d2b,wmo,Nebel Kalabrien,2025-12-11T03:46:00+00:00,Italy,0.4360420824140856,2,1,de,MED,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,Nebel Belgien,2025-12-14T03:49:00+00:00,Belgium,0.4359919412738398,2,1,de,WCE,Europe
 '05884de97d',extremes,Precipitation,#d60d2b,wmo,Regen zahlt d'enhaut,2025-12-07T03:47:00+00:00,Switzerland,0.4359004022122672,1,1,de,WCE,Europe
