@@ -30,7 +30,7 @@ termsFields = ["index","module", "topic", "color", "feed", "term", "created", "c
 topicsDict = {}
 
 # MOVE TO myparameters.py (no secrets only)
-MAX_IMPORTS = 10
+MAX_IMPORTS = 8
 
 TARGET_LANGUAGE = os.getenv('EXTREME_LANGUAGE')
 if(TARGET_LANGUAGE == 'xx'): 
