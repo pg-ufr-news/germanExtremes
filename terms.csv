@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'dec5942ac2',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe Wesermündung,2025-12-08T03:44:00+00:00,Germany,0.6533656970271663,0,2,de,WCE,Europe
-'bb0e1d1a9a',extremes,Snow&Ice,#d60d2b,wmo,Eis Kirchdorf an der Krems,2025-12-01T04:02:00+00:00,Austria,0.616906136603031,0,2,de,WCE,Europe
-'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,Sturm Werdenberg,2025-12-15T03:54:00+00:00,Switzerland,0.6159906338250672,0,2,de,WCE,Europe
-'507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2025-12-01T04:02:00+00:00,Italy,0.6110297821672445,0,2,de,MED,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2025-12-02T03:41:00+00:00,Iceland,0.6105680305638391,0,2,de,GIC,Europe
 '91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.6018067421926981,1,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.5782182458490442,3,2,de,WCE,Europe
@@ -13,7 +9,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a931eb2e9',extremes,Snow&Ice,#d60d2b,wmo,Eis Schangnau Sigriswil,2025-12-06T03:32:00+00:00,Switzerland,0.5441413505154805,0,2,de,WCE,Europe
 'db05a91fee',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostfriesische KÃ¼ste Helgoland,2025-12-06T03:32:00+00:00,Germany,0.5436316898909324,1,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert ein,2025-12-07T03:47:00+00:00,Germany,0.5434474636273396,2,3,de,WCE,Europe
+'507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2025-12-01T04:02:00+00:00,Italy,0.5348141663806194,1,2,de,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,Nebel Emilia e Romagna,2025-12-08T03:44:00+00:00,Italy,0.5240381879363138,1,1,de,MED,Europe
+'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,Sturm Werdenberg,2025-12-15T03:54:00+00:00,Switzerland,0.5235920387513071,1,1,de,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2025-12-06T03:32:00+00:00,Italy,0.5231282794856378,1,2,de,MED,Europe
 'c620088f41',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Ligurien,2025-12-01T04:02:00+00:00,Italy,0.5136674860207301,0,2,de,MED,Europe
 'a8ca29445f',extremes,Snow&Ice,#d60d2b,wmo,Eis-Urfahr-Umgebung,2025-12-01T04:02:00+00:00,Austria,0.4951044095830998,1,2,de,WCE,Europe
