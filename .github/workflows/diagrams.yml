@@ -40,5 +40,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
 #          pull: '--rebase --autostash ...'
-          add: 'img/*.png csv/topics_date.csv'
+          add: 'img/*.png csv/feeds_date.csv csv/extremes_date.csv'
           tag_push: '--force'
