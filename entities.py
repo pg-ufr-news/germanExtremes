@@ -67,7 +67,9 @@ keywordsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 keywordsDF = keywordsDF.drop(columns = ['language'])
 '''
 
-oldLocationsDf = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_locations.csv', delimiter=',')
+oldLocationsDf = pd.DataFrame(None)
+if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_locations.csv')):
+  oldLocationsDf = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_locations.csv', delimiter=',')
 
 newsDf = getNewsDF()
 print(newsDf)   
