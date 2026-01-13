@@ -1,19 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.6018067421926981,1,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.5782182458490442,3,2,de,WCE,Europe
-'dec5942ac2',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe Wesermündung,2025-12-08T03:44:00+00:00,Germany,0.5553608424730914,1,1,de,WCE,Europe
 'db05a91fee',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostfriesische KÃ¼ste Helgoland,2025-12-06T03:32:00+00:00,Germany,0.5436316898909324,1,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert ein,2025-12-07T03:47:00+00:00,Germany,0.5434474636273396,2,3,de,WCE,Europe
 '4213b8a736',extremes,Storm,#b3b2b1,wmo,Sturmflut Gersau Engelbergertal,2025-12-16T03:47:00+00:00,Switzerland,0.5429032200440007,1,1,de,WCE,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,Nebel Emilia e Romagna,2025-12-08T03:44:00+00:00,Italy,0.5240381879363138,1,1,de,MED,Europe
 'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,Sturm Werdenberg,2025-12-15T03:54:00+00:00,Switzerland,0.5235920387513071,1,1,de,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2025-12-06T03:32:00+00:00,Italy,0.5231282794856378,1,2,de,MED,Europe
-'c620088f41',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Ligurien,2025-12-01T04:02:00+00:00,Italy,0.5136674860207301,0,2,de,MED,Europe
 'b08a276ec2',extremes,Fog,#d60d2b,wmo,Nebel Italien,2025-12-08T03:44:00+00:00,Italy,0.5028858440806134,2,1,de,MED,Europe
-'a8ca29445f',extremes,Snow&Ice,#d60d2b,wmo,Eis-Urfahr-Umgebung,2025-12-01T04:02:00+00:00,Austria,0.4951044095830998,1,2,de,WCE,Europe
 '83a8abaa65',extremes,Snow&Ice,#d60d2b,wmo,Lawine Goldau Ägeri,2025-12-06T03:32:00+00:00,Switzerland,0.4939971024068065,1,1,de,WCE,Europe
 'cffb06d9f8',extremes,Snow&Ice,#d60d2b,wmo,Frost Stadt Braunlage,2025-12-06T03:32:00+00:00,Germany,0.4875943021568265,1,1,de,WCE,Europe
-'0bd8fbc940',extremes,Snow&Ice,#d60d2b,wmo,Frost Zug Knonau,2025-12-06T03:32:00+00:00,Switzerland,0.4848878475126364,1,1,de,WCE,Europe
 '3659a6cf2c',extremes,Snow&Ice,#d60d2b,wmo,Eistal Vallon de Saint-Imier,2025-12-06T03:32:00+00:00,Switzerland,0.477830948955962,1,1,de,WCE,Europe
 '36dc9f87fa',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Schweiz,2025-12-07T03:47:00+00:00,Switzerland,0.4755153514988463,1,1,de,WCE,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,Dürre Belgien,2025-12-09T03:41:00+00:00,Belgium,0.4729986568873995,1,2,de,WCE,Europe
@@ -27,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8fa1b857b6',extremes,Fog,#d60d2b,wmo,Nebel Umbrien,2025-12-13T03:38:00+00:00,Italy,0.4412164799426692,2,1,de,MED,Europe
 'fc5823cc73',extremes,Precipitation,#d60d2b,wmo,Niederschlag Urner Oberland,2025-12-07T03:47:00+00:00,Switzerland,0.4403762725384175,1,1,de,WCE,Europe
 '14ed38a1e4',extremes,Fog,#d60d2b,wmo,Nebelmolise,2025-12-11T03:46:00+00:00,Italy,0.4389358957878287,2,1,de,MED,Europe
-'edd750f9b2',extremes,Precipitation,#d60d2b,wmo,Regen lauterbrunnen wilderswil,2025-12-07T03:47:00+00:00,Switzerland,0.4381586226849022,1,1,de,WCE,Europe
 '18cd9b37f4',extremes,Snow&Ice,#d60d2b,wmo,Lawine in der Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.4379440551716692,2,2,de,WCE,Europe
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,Sturm Erstfeld Engelberg,2025-12-15T03:54:00+00:00,Switzerland,0.4379362006198069,2,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.4369931052435575,2,2,de,WCE,Europe
@@ -44,7 +39,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9270ddda9f',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen flüelen unterschächen,2025-12-07T03:47:00+00:00,Switzerland,0.4332306318949392,1,1,de,WCE,Europe
 '58275fcc95',extremes,Fog,#d60d2b,wmo,Nebel Westflandern,2025-12-14T03:49:00+00:00,Belgium,0.4330270676227829,2,1,de,WCE,Europe
 '90fce750f8',extremes,Fog,#d60d2b,wmo,Nebel Hennegau,2025-12-14T03:49:00+00:00,Belgium,0.4322812649335017,2,1,de,WCE,Europe
-'e1317685b8',extremes,Precipitation,#d60d2b,wmo,Regen monatlich Val d'illiez,2025-12-07T03:47:00+00:00,Switzerland,0.4321340976383211,1,1,de,WCE,Europe
 '23a21b83bb',extremes,Precipitation,#d60d2b,wmo,Niederschlag Val d'Entremont Val Ferret,2025-12-07T03:47:00+00:00,Switzerland,0.4321224571248603,1,1,de,WCE,Europe
 '6960fb1641',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen st. Stephan Lenk,2025-12-07T03:47:00+00:00,Switzerland,0.432014602820868,1,1,de,WCE,Europe
 '7c3e42078e',extremes,Precipitation,#d60d2b,wmo,Regenguss Jogne Haute Gruyere,2025-12-07T03:47:00+00:00,Switzerland,0.4318484703090703,1,1,de,WCE,Europe
@@ -124,7 +118,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99a9404d72',extremes,Drought,#edc291,edo,Trockenperiode Italien,2025-12-19T03:46:00+00:00,Italy,0.3332287862509672,1,1,de,MED,Europe
 '21cbdf87d9',extremes,Thunderstorm,#53785a,wmo,Unwetter Toskana,2025-12-19T03:46:00+00:00,Italy,0.3291801539878031,3,1,de,MED,Europe
 'e5b46f3978',extremes,Drought,#edc291,edo,Trockenperiode Argentinien,2025-12-14T03:49:00+00:00,Argentina,0.3281890395238098,1,1,de,SES,South-America
-'4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,Zyklon Zyklon Grant Katherine Überschwemmungen Zugentgleisung Chemieunfall,2025-12-01T04:03:00+00:00,Australia,0.3048591746563622,0,2,de,NAU,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,Sturm Australien,2025-12-07T03:47:00+00:00,Australia,0.3047047687093496,0,2,de,SAU,Oceania
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,Sturmflut reg. 4 Kordilleren,2025-12-04T03:42:00+00:00,Chile,0.3043701275559243,0,2,de,SWS,South-America
 'ba2935ab09',extremes,Drought,#edc291,edo,Trockenheit Namibia,2025-12-18T03:44:00+00:00,Namibia,0.302561444937075,1,1,de,WSAF,Africa
@@ -140,7 +133,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,Sturmgewitter Asthma Victoria,2025-12-12T03:46:00+00:00,Australia,0.2609046734147468,1,1,de,SAU,Oceania
 '00856d5d4e',extremes,Precipitation,#d60d2b,wmo,Niederschlag Kuwait,2025-12-11T03:46:00+00:00,Kuwait,0.2606389957947715,1,1,de,ARP,Asia
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,Regenguss Tansania,2025-12-11T03:46:00+00:00,Tanzania,0.2605520064719467,1,1,de,SEAF,Africa
-'4455655d11',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Malediven,2025-12-13T03:38:00+00:00,Maldives,0.2603714488866493,1,1,de,EIO,Indian Ocean
 '27e5411070',extremes,Precipitation,#d60d2b,wmo,Regenguss Salomonen,2025-12-11T03:46:00+00:00,Solomon Islands,0.2601501262644071,1,1,de,EPO,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Regenguss Neuseeland,2025-12-14T03:49:00+00:00,New Zealand,0.2597761259094667,1,1,de,NZ,Oceania
 '9d50c81991',extremes,Precipitation,#d60d2b,wmo,Niederschlag Eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.258978047882671,1,1,de,ESAF,Africa
