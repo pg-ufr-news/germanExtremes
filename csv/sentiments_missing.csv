@@ -1,0 +1,111 @@
+,phrase,label,sentiment,subjectivity,language,count
+winter,winter,DATE,,,en,33.000000000000014
+two,two,CARDINAL,,,en,9.000000000000002
+first,first,ORDINAL,,,en,6.6
+One,One,CARDINAL,,,en,5.5
+Christmas,Christmas,DATE,,,en,5.0
+Winter,Winter,DATE,,,en,4.2
+Christmas Eve,Christmas Eve,DATE,,,en,3.4000000000000004
+Friday,Friday,DATE,,,en,3.4000000000000004
+Sunday,Sunday,DATE,,,en,3.4000000000000004
+2025,2025,DATE,,,en,3.4000000000000004
+Four,Four,CARDINAL,,,en,2.8
+Tyrolean,Tyrolean,NORP,,,en,2.8
+night,night,TIME,,,en,2.7
+the turn of the year,the turn of the year,DATE,,,en,2.6
+the start of the week,the start of the week,DATE,,,en,2.6
+minus 28 degrees Celsius,minus 28 degrees Celsius,QUANTITY,,,en,2.6
+a white Christmas,a white Christmas,DATE,,,en,2.6
+January,January,DATE,,,en,2.6
+New Year's Eve,New Year's Eve,EVENT,,,en,2.6
+Monday,Monday,DATE,,,en,1.9
+German,German,NORP,,,en,1.8
+2026,2026,DATE,,,en,1.8
+this year,this year,DATE,,,en,1.8
+this week,this week,DATE,,,en,1.8
+one,one,CARDINAL,,,en,1.8
+overnight,overnight,TIME,,,en,1.8
+at least three,at least three,CARDINAL,,,en,1.8
+minus 21.7 degrees,minus 21.7 degrees,QUANTITY,,,en,1.0
+the current year,the current year,DATE,,,en,1.0
+Rieserferner,Rieserferner,NORP,,,en,1.0
+Riesernock,Riesernock,NORP,,,en,1.0
+Hungarian,Hungarian,NORP,,,en,1.0
+Minus 28 degrees,Minus 28 degrees,QUANTITY,,,en,1.0
+the night,the night,TIME,,,en,1.0
+20 centimeters,20 centimeters,QUANTITY,,,en,1.0
+Swiss,Swiss,NORP,,,en,1.0
+Czechoslovakian,Czechoslovakian,NORP,,,en,1.0
+the Spengler Cup,the Spengler Cup,EVENT,,,en,1.0
+15 years,15 years,DATE,,,en,1.0
+Coldest Christmas,Coldest Christmas,DATE,,,en,1.0
+morning,morning,TIME,,,en,1.0
+Cold Wave: Brrrrrr,Cold Wave: Brrrrrr,WORK_OF_ART,,,en,1.0
+days,days,DATE,,,en,1.0
+three,three,CARDINAL,,,en,1.0
+Tauferer,Tauferer,NORP,,,en,1.0
+2024,2024,DATE,,,en,1.0
+A3,A3,PRODUCT,,,en,1.0
+Annual,Annual,DATE,,,en,1.0
+minus 15 degrees,minus 15 degrees,QUANTITY,,,en,1.0
+the next few days,the next few days,DATE,,,en,1.0
+Friday night onwards,Friday night onwards,TIME,,,en,1.0
+Three,Three,CARDINAL,,,en,1.0
+3,3,CARDINAL,,,en,1.0
+winter day,winter day,DATE,,,en,1.0
+Two dozen,Two dozen,CARDINAL,,,en,1.0
+Tizian,Tizian,NORP,,,en,1.0
+the beginning of the year,the beginning of the year,DATE,,,en,1.0
+the new year,the new year,DATE,,,en,1.0
+The year 2025,The year 2025,DATE,,,en,1.0
+the end of the year,the end of the year,DATE,,,en,1.0
+Two,Two,CARDINAL,,,en,1.0
+1,1,CARDINAL,,,en,1.0
+annual,annual,DATE,,,en,1.0
+Disaster in the Mountains,Disaster in the Mountains,WORK_OF_ART,,,en,1.0
+Russian,Russian,NORP,,,en,1.0
+Winter Games,Winter Games,EVENT,,,en,1.0
+the fourth summer half of the year,the fourth summer half of the year,DATE,,,en,1.0
+June,June,DATE,,,en,1.0
+this summer,this summer,DATE,,,en,1.0
+Summer,Summer,DATE,,,en,1.0
+six,six,CARDINAL,,,en,1.0
+the morning,the morning,TIME,,,en,1.0
+the beginning of December,the beginning of December,DATE,,,en,1.0
+ten degrees,ten degrees,QUANTITY,,,en,1.0
+Thursday,Thursday,DATE,,,en,1.0
+evening,evening,TIME,,,en,1.0
+Italian,Italian,NORP,,,en,1.0
+the weekend,the weekend,DATE,,,en,1.0
+winter of the year,winter of the year,DATE,,,en,1.0
+Black Friday,Black Friday,EVENT,,,en,1.0
+this winter,this winter,DATE,,,en,1.0
+Sunday afternoon,Sunday afternoon,TIME,,,en,1.0
+half,half,CARDINAL,,,en,1.0
+Frost,Frost,WORK_OF_ART,,,en,1.0
+Wintry week,Wintry week,DATE,,,en,1.0
+the middle of the week,the middle of the week,DATE,,,en,1.0
+August,August,DATE,,,en,1.0
+fourth,fourth,ORDINAL,,,en,1.0
+Christmas week,Christmas week,DATE,,,en,1.0
+Saturday,Saturday,DATE,,,en,1.0
+Dec. 16,Dec. 16,DATE,,,en,1.0
+today,today,DATE,,,en,1.0
+25,25,CARDINAL,,,en,1.0
+900 meters,900 meters,QUANTITY,,,en,1.0
+billions,billions,CARDINAL,,,en,1.0
+the coming days,the coming days,DATE,,,en,1.0
+autumn,autumn,DATE,,,en,1.0
+the holidays,the holidays,DATE,,,en,1.0
+the past few days,the past few days,DATE,,,en,1.0
+December,December,DATE,,,en,1.0
+Dec. 10,Dec. 10,DATE,,,en,1.0
+the LEGOLAND Deutschland Resort,the LEGOLAND Deutschland Resort,FAC,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+years,years,DATE,,,en,1.0
+winter sports season,winter sports season,DATE,,,en,1.0
+the start of the Winter Olympics,the start of the Winter Olympics,DATE,,,en,1.0
+A few weeks,A few weeks,DATE,,,en,1.0
+the Winter Olympics,the Winter Olympics,EVENT,,,en,1.0
+the next hour,the next hour,TIME,,,en,1.0
+Up to minus 20 degrees,Up to minus 20 degrees,CARDINAL,,,en,1.0
