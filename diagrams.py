@@ -105,7 +105,7 @@ print(countriesDF)
 countriesDF['countryColor'] = countriesDF['country'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 255),random.randint(0, 255),random.randint(0, 255)))
 countriesDF = countriesDF.sort_values('index', ascending=False)
 axCountries = plt.subplot(gs[0,1])
-axContinents.set_title("Countries", fontsize=24)
+axCountries.set_title("Countries", fontsize=24)
 plot = countriesDF.plot.pie(y='index', ax=axCountries, colors=countriesDF['countryColor'],  labels=countriesDF['country'], legend=False, ylabel='')
 
 # ipcc
