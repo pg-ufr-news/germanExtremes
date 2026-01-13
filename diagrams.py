@@ -43,7 +43,7 @@ topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF0
 
 continentColors = {'unknown':'#d60d2b', 'Asia':'#ffff00', 'Europe':'#ff00ff', 'North-America':'#0000ff', 'Africa':'#ff0000', 'South-America':'#00ff00', 'Oceania':'#00ffff'}
 
-feedColors = {'unknown':'#ffffff', 'mail':'#8888ff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000'}
+feedColors = {'unknown':'#ffffff', 'mail':'#8888ff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'aidr':'#88ff88', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000'}
 
 def getNewsFiles():
     fileName = './cxsv/news_????_??.csv'
@@ -102,7 +102,7 @@ plot = continentsDF.plot.pie(y='index', ax=axContinents, colors=continentsDF['co
 countriesDF = newsDfValid.groupby('country').count()
 countriesDF['country'] = countriesDF.index
 print(countriesDF)
-countriesDF['countryColor'] = countriesDF['country'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 256),random.randint(0, 256),random.randint(0, 256)))
+countriesDF['countryColor'] = countriesDF['country'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 255),random.randint(0, 255),random.randint(0, 255)))
 countriesDF = countriesDF.sort_values('index', ascending=False)
 axCountries = plt.subplot(gs[0,1])
 axContinents.set_title("Countries", fontsize=24)
@@ -112,7 +112,7 @@ plot = countriesDF.plot.pie(y='index', ax=axCountries, colors=countriesDF['count
 ipccDF = newsDfValid.groupby('ipcc').count()
 ipccDF['ipcc'] = ipccDF.index
 print(ipccDF)
-ipccDF['ipccColor'] = ipccDF['ipcc'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 256),random.randint(0, 256),random.randint(0, 256)))
+ipccDF['ipccColor'] = ipccDF['ipcc'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 255),random.randint(0, 255),random.randint(0, 255)))
 ipccDF = ipccDF.sort_values('index', ascending=False)
 axIpcc = plt.subplot(gs[0,2])
 axIpcc.set_title("Ipcc", fontsize=24)
