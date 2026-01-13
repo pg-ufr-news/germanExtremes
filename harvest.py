@@ -650,6 +650,7 @@ def inqMailNews():
           ##extremesDf['hash'] = extremesDf.index 
           print(extremesDf)
           extremesDf = extremesDf[extremesDf['language']==language]
+          extremesDf['feed'] = 'mail'
           print(extremesDf)
           extremesDict = extremesDf.to_dict('index')
           extremesArray = list(extremesDict.values())
