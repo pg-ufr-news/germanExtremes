@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b08a276ec2',extremes,Fog,#d60d2b,wmo,Nebel Italien,2025-12-08T03:44:00+00:00,Italy,0.6594193924991189,0,1,de,MED,Europe
 'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2025-12-07T03:47:00+00:00,Germany,0.6586984266953192,0,1,de,WCE,Europe
 '6696637213',extremes,Storm,#b3b2b1,wmo,Sturmflut Helgoland Elbe Wesermündung,2025-12-01T04:02:00+00:00,Germany,0.6581840462884758,0,1,de,WCE,Europe
 'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2025-12-02T03:41:00+00:00,Germany,0.6570598548753961,0,1,de,WCE,Europe
