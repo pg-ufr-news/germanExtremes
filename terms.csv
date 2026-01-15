@@ -1,14 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2025-12-07T03:47:00+00:00,Germany,0.6586984266953192,0,1,de,WCE,Europe
-'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2025-12-02T03:41:00+00:00,Germany,0.6570598548753961,0,1,de,WCE,Europe
 '91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.6275568171926981,1,1,de,WCE,Europe
-'ebfa477aa2',extremes,Fog,#d60d2b,wmo,Nebel Venetien,2025-12-13T03:38:00+00:00,Italy,0.6255918897533173,0,1,de,MED,Europe
-'491a9f7a5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Wernigerode,2025-12-08T03:44:00+00:00,Germany,0.6254775982039177,0,1,de,WCE,Europe
-'24a388e940',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Fehmarn bis Rügen,2025-12-08T03:44:00+00:00,Germany,0.6237515053645785,0,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.5782182458490442,3,2,de,WCE,Europe
-'b08a276ec2',extremes,Fog,#d60d2b,wmo,Nebel Italien,2025-12-08T03:44:00+00:00,Italy,0.5624566786242511,1,1,de,MED,Europe
 'dec5942ac2',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe Wesermündung,2025-12-08T03:44:00+00:00,Germany,0.5553608424730914,1,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert ein,2025-12-07T03:47:00+00:00,Germany,0.5434474636273396,2,3,de,WCE,Europe
+'ebfa477aa2',extremes,Fog,#d60d2b,wmo,Nebel Venetien,2025-12-13T03:38:00+00:00,Italy,0.5317531062903197,1,1,de,MED,Europe
+'491a9f7a5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Wernigerode,2025-12-08T03:44:00+00:00,Germany,0.53165595847333,1,1,de,WCE,Europe
+'24a388e940',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Fehmarn bis Rügen,2025-12-08T03:44:00+00:00,Germany,0.5301887795598916,1,1,de,WCE,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,Nebel Emilia e Romagna,2025-12-08T03:44:00+00:00,Italy,0.5240381879363138,1,1,de,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2025-12-06T03:32:00+00:00,Italy,0.5231282794856378,1,2,de,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,Niederschlag Sardinien,2025-12-15T03:54:00+00:00,Italy,0.5205969161661533,2,2,de,MED,Europe
@@ -100,8 +97,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Regenguss Neuseeland,2025-12-14T03:49:00+00:00,New Zealand,0.2597761259094667,1,1,de,NZ,Oceania
 '9d50c81991',extremes,Precipitation,#d60d2b,wmo,Niederschlag Eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.258978047882671,1,1,de,ESAF,Africa
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kältestes Jahr,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,de,,
-'b6cef22543',extremes,Drought,#edc291,random,Wassereinschränkung,2026-01-15T10:20:00+00:00,,0.25669966665781385,0,1,de,,
-'95b2881221',extremes,Precipitation,#d60d2b,random,atmosphärischer Fluss,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,de,,
+'b6cef22543',extremes,Drought,#edc291,random,Wassereinschränkung,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,de,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,atmosphärischer Fluss,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,de,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,Rekordkälte,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,de,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktisches Meereis,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,de,,
 '0053afc92f',extremes,Volcano,#b83202,random,Lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,de,,
