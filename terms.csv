@@ -99,5 +99,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '989439d143',extremes,Snow&Ice,#d60d2b,wmo,Eis Äthiopien,2025-12-09T03:41:00+00:00,Ethiopia,0.2615643473870876,1,2,de,NEAF,Africa
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Regenguss Neuseeland,2025-12-14T03:49:00+00:00,New Zealand,0.2597761259094667,1,1,de,NZ,Oceania
 '9d50c81991',extremes,Precipitation,#d60d2b,wmo,Niederschlag Eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.258978047882671,1,1,de,ESAF,Africa
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kältestes Jahr,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,de,,
+'b6cef22543',extremes,Drought,#edc291,random,Wassereinschränkung,2026-01-15T10:20:00+00:00,,0.25669966665781385,0,1,de,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,atmosphärischer Fluss,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,de,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,Rekordkälte,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,de,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,arktisches Meereis,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,de,,
+'0053afc92f',extremes,Volcano,#b83202,random,Lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,de,,
+'ccefefc59e',extremes,Drought,#edc291,random,plötzliche Dürre,2026-01-15T10:20:00+00:00,,0.2561951224549235,0,1,de,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,Taifun,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,de,,
 '5d85dc5645',extremes,Drought,#edc291,edo,Trockenheit Ruanda,2025-12-16T03:47:00+00:00,Rwanda,0.2237896183950655,2,1,de,SEAF,Africa
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,Niederschlag Tansania,2025-12-18T03:44:00+00:00,Tanzania,0.2227012320483427,2,1,de,SEAF,Africa
