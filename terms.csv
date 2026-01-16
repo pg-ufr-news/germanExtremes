@@ -1,17 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6882978441391571,1,2,de,WCE,Europe
-'618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-01-15T12:14:00+00:00,Switzerland,0.6508046636748973,0,1,de,WCE,Europe
-'2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-01-15T12:14:00+00:00,Austria,0.6485834654489601,0,1,de,WCE,Europe
 '91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.6275568171926981,1,1,de,WCE,Europe
-'5bf34f285a',extremes,Earthquake,#870007,usgs,Erdbeben Italien,2026-01-15T10:56:00+00:00,Italy,0.6075595253003672,1,1,de,MED,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,Regenmangel Italien,2026-01-15T10:57:00+00:00,Italy,0.604011181359763,1,1,de,MED,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-01-15T12:14:00+00:00,Luxembourg,0.5932976919911346,0,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.5782182458490442,3,2,de,WCE,Europe
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,Erdbeben San Agustín de Valle Fértil,2026-01-15T12:13:00+00:00,Argentina,0.5771041950217753,0,1,de,SES,South-America
+'2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-01-15T12:14:00+00:00,Austria,0.551295945631616,1,1,de,WCE,Europe
 '74236bd182',extremes,Drought,#edc291,edo,Mangel an Regen Island,2026-01-15T10:57:00+00:00,Iceland,0.5444914029089936,1,1,de,GIC,Europe
 '474905c6c6',extremes,Drought,#edc291,edo,Regenmangel in Namibia,2026-01-15T10:57:00+00:00,Namibia,0.5441336867811146,1,1,de,WSAF,Africa
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert ein,2025-12-07T03:47:00+00:00,Germany,0.5434474636273396,2,3,de,WCE,Europe
 '24a388e940',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Fehmarn bis Rügen,2025-12-08T03:44:00+00:00,Germany,0.5301887795598916,1,1,de,WCE,Europe
+'5bf34f285a',extremes,Earthquake,#870007,usgs,Erdbeben Italien,2026-01-15T10:56:00+00:00,Italy,0.528675821505312,2,1,de,MED,Europe
 '3550c99ca4',extremes,Fog,#d60d2b,wmo,Nebel Emilia e Romagna,2025-12-08T03:44:00+00:00,Italy,0.5240381879363138,1,1,de,MED,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2025-12-06T03:32:00+00:00,Italy,0.5231282794856378,1,2,de,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,Niederschlag Sardinien,2025-12-15T03:54:00+00:00,Italy,0.5205969161661533,2,2,de,MED,Europe
