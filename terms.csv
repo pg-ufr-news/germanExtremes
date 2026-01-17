@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2025-12-06T03:32:00+00:00,Italy,0.5951090825627922,2,2,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.5782182458490442,3,2,de,WCE,Europe
-'56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Österreich,2026-01-17T03:44:00+00:00,Austria,0.5664310467639699,0,1,de,WCE,Europe
 '98e8c9c840',extremes,Snow&Ice,#d60d2b,wmo,Eis Österreich,2026-01-17T03:44:00+00:00,Austria,0.5657386875573508,0,1,de,WCE,Europe
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Ã–sterreich,2026-01-17T03:44:00+00:00,Austria,0.5634419736053676,0,1,de,WCE,Europe
 '21b95ecdfb',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Neubau,2026-01-17T03:44:00+00:00,Austria,0.5627306352315065,0,1,de,WCE,Europe
