@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-01-15T10:57:00+00:00,Switzerland,0.788865269466741,0,1,de,WCE,Europe
 '91dad47f99',extremes,Snow&Ice,#d60d2b,wmo,Lawine Deutschland,2025-12-07T03:47:00+00:00,Germany,0.6275568171926981,1,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2025-12-06T03:32:00+00:00,Italy,0.5951090825627922,2,2,de,MED,Europe
@@ -55,10 +56,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,Schneeböe,2026-01-15T10:39:00+00:00,,0.4099516371853199,0,1,de,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,Staubwolken,2026-01-15T10:39:00+00:00,,0.4099359567017878,0,1,de,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,Schneesturm,2026-01-15T10:39:00+00:00,,0.4099008832218642,0,1,de,,
+'3fa143a609',extremes,Storm,#b3b2b1,random,Staubsturm,2026-01-15T10:39:00+00:00,,0.4099006868118564,0,1,de,,
+'82d648b882',extremes,Drought,#edc291,random,Dürre,2026-01-15T10:39:00+00:00,,0.40983057390482674,0,1,de,,
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,Erdbeben Island,2025-12-13T03:37:00+00:00,Iceland,0.409112177030253,2,1,de,GIC,Europe
+'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nationales Hurrikanzentrum,2026-01-15T10:39:00+00:00,,0.4089201669038112,0,1,de,,
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,Nebel Sizilien,2025-12-11T03:46:00+00:00,Italy,0.4077897998045725,1,1,de,MED,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2025-12-15T03:54:00+00:00,Germany,0.4060717989160617,4,3,de,WCE,Europe
 'fa1ad4c940',extremes,Fog,#d60d2b,wmo,Nebel Ostflandern,2025-12-14T03:49:00+00:00,Belgium,0.4046862815808127,2,1,de,WCE,Europe
+'9389acab50',extremes,Snow&Ice,#d60d2b,wmo,Frost Alto Moesano,2026-01-15T10:56:00+00:00,Switzerland,0.4019415066340112,0,1,de,WCE,Europe
 '0a36c64301',extremes,Thunderstorm,#53785a,wmo,Hagel Piemont,2025-12-15T03:54:00+00:00,Italy,0.3982572250058666,2,1,de,MED,Europe
 '906eca8937',extremes,Storm,#b3b2b1,wmo,Sturmflut Erstfeld Engelberg,2025-12-16T03:47:00+00:00,Switzerland,0.3961465037501847,3,1,de,WCE,Europe
 '2db753a4e6',extremes,Snow&Ice,#d60d2b,wmo,Lawine Alto Moesano,2025-12-16T03:47:00+00:00,Switzerland,0.3958848390584377,2,1,de,WCE,Europe
@@ -72,13 +77,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2025-12-18T03:44:00+00:00,Germany,0.3878660917168385,4,3,de,WCE,Europe
 '925c8e1c57',extremes,Thunderstorm,#53785a,wmo,Unwetter in Lombardei,2025-12-15T03:54:00+00:00,Italy,0.3873125302320675,2,1,de,MED,Europe
 '90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2025-12-16T03:47:00+00:00,Germany,0.3857692157797696,2,1,de,WCE,Europe
-'c0ea0632ba',extremes,Heat Wave,#c40202,random,Hitze,2026-01-15T10:39:00+00:00,,0.38525486472305664,1,2,de,,
+'c0ea0632ba',extremes,Heat Wave,#c40202,random,Hitze,2026-01-15T10:39:00+00:00,,0.3852548647230566,1,2,de,,
 '69af7a0917',extremes,Storm,#b3b2b1,wmo,Sturm Goldau Ägeri,2025-12-16T03:47:00+00:00,Switzerland,0.3850097352932072,3,1,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2025-12-06T03:32:00+00:00,Germany,0.3835602876157972,1,2,de,WCE,Europe
 '4377d8044c',extremes,Storm,#b3b2b1,wmo,Sturm Grindelwald,2025-12-16T03:47:00+00:00,Switzerland,0.3834465182663973,3,1,de,WCE,Europe
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2025-12-18T03:44:00+00:00,Germany,0.381388649641619,3,1,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2025-12-08T03:44:00+00:00,Switzerland,0.3811257286299548,3,3,de,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2025-12-14T03:49:00+00:00,Switzerland,0.3807466888144704,1,1,de,WCE,Europe
+'77c06ce7ba',extremes,Earthquake,#870007,usgs,Erdbeben in Fornace Zarattini,2026-01-15T10:56:00+00:00,Italy,0.37947014267711165,0,1,de,MED,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Italien,2025-12-16T03:47:00+00:00,Italy,0.3780348421722084,2,1,de,MED,Europe
 'dcef080672',extremes,Thunderstorm,#53785a,wmo,Gewitter Toskana,2025-12-15T03:54:00+00:00,Italy,0.3778421796538586,2,1,de,MED,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,Eis Italien,2025-12-16T03:47:00+00:00,Italy,0.3777974161309027,3,2,de,MED,Europe
