@@ -2,8 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2025-12-06T03:32:00+00:00,Italy,0.5951090825627922,2,2,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.5782182458490442,3,2,de,WCE,Europe
-'98e8c9c840',extremes,Snow&Ice,#d60d2b,wmo,Eis Österreich,2026-01-17T03:44:00+00:00,Austria,0.5657386875573508,0,1,de,WCE,Europe
-'5f345eaca1',extremes,Snow&Ice,#d60d2b,wmo,Schneehorn,2026-01-17T03:44:00+00:00,Austria,0.5611130336797687,0,1,de,WCE,Europe
 'fb6a78cdd7',extremes,Snow&Ice,#d60d2b,wmo,Schneelilienfeld,2026-01-17T03:44:00+00:00,Austria,0.561077955156915,0,1,de,WCE,Europe
 '614a3ccb53',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Oberpullendorf,2026-01-17T03:44:00+00:00,Austria,0.5608867476438922,0,1,de,WCE,Europe
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,Schnee Alto Moesano,2026-01-15T12:14:00+00:00,Switzerland,0.5574825996307191,2,1,de,WCE,Europe
@@ -13,12 +11,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9eb244a9a',extremes,Drought,#edc291,edo,Regenmangel Italien,2026-01-15T10:57:00+00:00,Italy,0.5134095041557984,2,1,de,MED,Europe
 '243c47a1d5',extremes,Snow&Ice,#d60d2b,wmo,Frost Österreich,2026-01-17T03:44:00+00:00,Austria,0.5111131393381396,1,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-01-15T12:14:00+00:00,Luxembourg,0.5043030381924644,1,1,de,WCE,Europe
+'98e8c9c840',extremes,Snow&Ice,#d60d2b,wmo,Eis Österreich,2026-01-17T03:44:00+00:00,Austria,0.4994652680601118,1,2,de,WCE,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,Erdbeben in Argentinien,2026-01-15T10:56:00+00:00,Argentina,0.490777724130006,1,1,de,SWS,South-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,Erdbeben San Agustín de Valle Fértil,2026-01-15T12:13:00+00:00,Argentina,0.490538565768509,1,1,de,SES,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,Erdbeben San Antonio de los Cobres,2026-01-15T10:56:00+00:00,Argentina,0.4904998030574793,1,1,de,SES,South-America
 '43165fdae0',extremes,Earthquake,#870007,usgs,Erdbeben Villa Basilio Nievas,2026-01-15T12:13:00+00:00,Argentina,0.4904820270704298,1,1,de,SWS,South-America
-'56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Ã–sterreich,2026-01-17T03:44:00+00:00,Austria,0.48146638974937445,1,1,de,WCE,Europe
-'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Ã–sterreich,2026-01-17T03:44:00+00:00,Austria,0.47892567756456245,1,1,de,WCE,Europe
+'56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Ã–sterreich,2026-01-17T03:44:00+00:00,Austria,0.4814663897493744,1,1,de,WCE,Europe
+'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Ã–sterreich,2026-01-17T03:44:00+00:00,Austria,0.4789256775645624,1,1,de,WCE,Europe
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,Sturmflut Argentinien,2026-01-15T10:56:00+00:00,Argentina,0.4784776480576133,1,1,de,SES,South-America
 '21b95ecdfb',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Neubau,2026-01-17T03:44:00+00:00,Austria,0.4783210399467805,1,1,de,WCE,Europe
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Argentinien,2026-01-15T10:56:00+00:00,Argentina,0.4782848543266035,1,1,de,SES,South-America
