@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-01-15T10:57:00+00:00,Switzerland,0.788865269466741,0,1,de,WCE,Europe
-'9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.7270562120640105,0,1,de,WCE,Europe
+'9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.7681477952544089,1,2,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.717985371875698,0,1,de,WCE,Europe
 '709a7b769e',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Ottakring,2026-01-18T03:57:00+00:00,Austria,0.6938454474613501,0,1,de,WCE,Europe
 'f1f521fee3',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Spittal an der Drau,2026-01-18T03:57:00+00:00,Austria,0.6921753685956896,0,1,de,WCE,Europe
