@@ -1,13 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.8030756409662476,2,2,de,WCE,Europe
-'709a7b769e',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Ottakring,2026-01-18T03:57:00+00:00,Austria,0.6938454474613501,0,1,de,WCE,Europe
-'3d63fbf0f8',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Tulln,2026-01-18T03:57:00+00:00,Austria,0.6840290549640333,0,1,de,WCE,Europe
-'c249e84ebc',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Amstetten,2026-01-18T03:57:00+00:00,Austria,0.6802890207706774,0,1,de,WCE,Europe
-'a726dd01c1',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Margareten,2026-01-18T03:57:00+00:00,Austria,0.6782074060102122,0,1,de,WCE,Europe
-'722b19af44',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Güssing,2026-01-18T03:57:00+00:00,Austria,0.673749950361134,0,1,de,WCE,Europe
-'cf4a288556',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Salzburger Umgebung,2026-01-19T04:03:00+00:00,Austria,0.672608887019701,0,1,de,WCE,Europe
-'aa54111547',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wolfsberg,2026-01-18T03:57:00+00:00,Austria,0.6721183896604618,0,1,de,WCE,Europe
-'e0c3208646',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Hartberg Fürstenfeld,2026-01-18T03:57:00+00:00,Austria,0.6710786079612651,0,1,de,WCE,Europe
 '05f2acc6a9',extremes,Cold Wave,#a7e9fa,wmo,Frost in Waidhofen an der Ybbs-Stadt,2026-01-18T03:57:00+00:00,Austria,0.6707912546610852,0,1,de,WCE,Europe
 '42e30eba93',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Josefstadt,2026-01-18T03:57:00+00:00,Austria,0.6702627534830443,0,1,de,WCE,Europe
 '0b1f0d884a',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Oberwart,2026-01-18T03:57:00+00:00,Austria,0.6694052026472131,0,1,de,WCE,Europe
@@ -18,7 +10,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '181b9e39ce',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Rudolfsheim Fünfhaus,2026-01-18T03:57:00+00:00,Austria,0.5855332713217992,1,1,de,WCE,Europe
 'a7764f583e',extremes,Cold Wave,#a7e9fa,wmo,Wels Stadt eiskalt,2026-01-18T03:57:00+00:00,Austria,0.5827314573073044,1,1,de,WCE,Europe
 'acfbd5b762',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Döbling,2026-01-18T03:57:00+00:00,Austria,0.5815750262922793,1,1,de,WCE,Europe
+'3d63fbf0f8',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Tulln,2026-01-18T03:57:00+00:00,Austria,0.5814246967194283,1,1,de,WCE,Europe
+'c249e84ebc',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Amstetten,2026-01-18T03:57:00+00:00,Austria,0.5782456676550758,1,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2025-12-10T03:45:00+00:00,Germany,0.5782182458490442,3,2,de,WCE,Europe
+'a726dd01c1',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Margareten,2026-01-18T03:57:00+00:00,Austria,0.5764762951086804,1,1,de,WCE,Europe
+'722b19af44',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Güssing,2026-01-18T03:57:00+00:00,Austria,0.572687457806964,1,1,de,WCE,Europe
+'cf4a288556',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Salzburger Umgebung,2026-01-19T04:03:00+00:00,Austria,0.5717175539667458,1,1,de,WCE,Europe
+'aa54111547',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wolfsberg,2026-01-18T03:57:00+00:00,Austria,0.5713006312113925,1,1,de,WCE,Europe
+'e0c3208646',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Hartberg Fürstenfeld,2026-01-18T03:57:00+00:00,Austria,0.5704168167670753,1,1,de,WCE,Europe
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,Schnee Alto Moesano,2026-01-15T12:14:00+00:00,Switzerland,0.5574825996307191,2,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert ein,2025-12-07T03:47:00+00:00,Germany,0.5434474636273396,2,3,de,WCE,Europe
 '5bf34f285a',extremes,Earthquake,#870007,usgs,Erdbeben Italien,2026-01-15T10:56:00+00:00,Italy,0.528675821505312,2,1,de,MED,Europe
