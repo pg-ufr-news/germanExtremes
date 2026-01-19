@@ -1,5 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-01-15T10:57:00+00:00,Switzerland,0.788865269466741,0,1,de,WCE,Europe
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.7681477952544089,1,2,de,WCE,Europe
+'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.717985371875698,0,1,de,WCE,Europe
+'709a7b769e',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Ottakring,2026-01-18T03:57:00+00:00,Austria,0.6938454474613501,0,1,de,WCE,Europe
+'3d63fbf0f8',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Tulln,2026-01-18T03:57:00+00:00,Austria,0.6840290549640333,0,1,de,WCE,Europe
+'c249e84ebc',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Amstetten,2026-01-18T03:57:00+00:00,Austria,0.6802890207706774,0,1,de,WCE,Europe
+'a726dd01c1',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Margareten,2026-01-18T03:57:00+00:00,Austria,0.6782074060102122,0,1,de,WCE,Europe
+'722b19af44',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Güssing,2026-01-18T03:57:00+00:00,Austria,0.673749950361134,0,1,de,WCE,Europe
+'aa54111547',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wolfsberg,2026-01-18T03:57:00+00:00,Austria,0.6721183896604618,0,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2025-12-06T03:32:00+00:00,Italy,0.5951090825627922,2,2,de,MED,Europe
 'f1f521fee3',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Spittal an der Drau,2026-01-18T03:57:00+00:00,Austria,0.5883490633063362,1,1,de,WCE,Europe
@@ -27,7 +35,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd56ccbdd48',extremes,Snow&Ice,#d60d2b,wmo,Frost MÃ¶dling,2026-01-17T03:44:00+00:00,Austria,0.4775593232666459,1,1,de,WCE,Europe
 'f8135bd018',extremes,Snow&Ice,#d60d2b,wmo,Schnee Wien Favoriten,2026-01-17T03:44:00+00:00,Austria,0.4774000942688984,1,1,de,WCE,Europe
 '47d70dfa87',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Lügen,2026-01-17T03:44:00+00:00,Austria,0.4770101084533751,1,1,de,WCE,Europe
-'fb6a78cdd7',extremes,Snow&Ice,#d60d2b,wmo,Schneelilienfeld,2026-01-17T03:44:00+00:00,Austria,0.47691626188337777,1,1,de,WCE,Europe
+'fb6a78cdd7',extremes,Snow&Ice,#d60d2b,wmo,Schneelilienfeld,2026-01-17T03:44:00+00:00,Austria,0.4769162618833777,1,1,de,WCE,Europe
 '614a3ccb53',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Oberpullendorf,2026-01-17T03:44:00+00:00,Austria,0.4767537354973084,1,1,de,WCE,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,Dürre Belgien,2025-12-09T03:41:00+00:00,Belgium,0.4729986568873995,1,2,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-01-15T12:14:00+00:00,Switzerland,0.4702063695051132,2,1,de,WCE,Europe
