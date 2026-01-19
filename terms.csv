@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.8030756409662476,2,2,de,WCE,Europe
-'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.717985371875698,0,1,de,WCE,Europe
 '709a7b769e',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Ottakring,2026-01-18T03:57:00+00:00,Austria,0.6938454474613501,0,1,de,WCE,Europe
 '3d63fbf0f8',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Tulln,2026-01-18T03:57:00+00:00,Austria,0.6840290549640333,0,1,de,WCE,Europe
 'c249e84ebc',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Amstetten,2026-01-18T03:57:00+00:00,Austria,0.6802890207706774,0,1,de,WCE,Europe
