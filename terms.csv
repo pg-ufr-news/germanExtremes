@@ -1,5 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.8030756409662476,2,2,de,WCE,Europe
+'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-01-15T10:57:00+00:00,Switzerland,0.788865269466741,0,1,de,WCE,Europe
+'709a7b769e',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Ottakring,2026-01-18T03:57:00+00:00,Austria,0.6938454474613501,0,1,de,WCE,Europe
+'05f2acc6a9',extremes,Cold Wave,#a7e9fa,wmo,Frost in Waidhofen an der Ybbs-Stadt,2026-01-18T03:57:00+00:00,Austria,0.6707912546610852,0,1,de,WCE,Europe
+'6ae251f006',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Donaustadt,2026-01-18T03:57:00+00:00,Austria,0.6669417240313137,0,1,de,WCE,Europe
+'3128ad0d0e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Gmünd,2026-01-18T03:57:00+00:00,Austria,0.6667740941317315,0,1,de,WCE,Europe
+'a063e581c0',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Lienz,2026-01-19T04:03:00+00:00,Austria,0.6612070880812827,0,1,de,WCE,Europe
+'c63384f725',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle wien köchelnd,2026-01-19T04:03:00+00:00,Austria,0.6608333495950931,0,1,de,WCE,Europe
+'8be310eda4',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle bruck mürzzuschlag,2026-01-19T04:03:00+00:00,Austria,0.6601749845658303,0,1,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 'a7764f583e',extremes,Cold Wave,#a7e9fa,wmo,Wels Stadt eiskalt,2026-01-18T03:57:00+00:00,Austria,0.5827314573073044,1,1,de,WCE,Europe
