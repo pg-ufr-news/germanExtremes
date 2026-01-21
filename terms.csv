@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.8030756409662476,2,2,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.7337620014932873,1,3,de,WCE,Europe
-'ecbb98a1dd',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Korneuburg,2026-01-20T03:56:00+00:00,Austria,0.661543435330499,0,1,de,WCE,Europe
-'a063e581c0',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Lienz,2026-01-19T04:03:00+00:00,Austria,0.6612070880812827,0,1,de,WCE,Europe
-'d897f2cefd',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren im Spittal an der Drau,2026-01-19T04:03:00+00:00,Austria,0.6605714330973484,0,1,de,WCE,Europe
-'e6c4c5ade3',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Kälte,2026-01-20T03:56:00+00:00,Austria,0.6344804653621122,1,1,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 '3d63fbf0f8',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Tulln,2026-01-18T03:57:00+00:00,Austria,0.5814246967194283,1,1,de,WCE,Europe
@@ -21,7 +17,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b1f0d884a',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Oberwart,2026-01-18T03:57:00+00:00,Austria,0.5689944222501312,1,1,de,WCE,Europe
 '4e0e925714',extremes,Cold Wave,#a7e9fa,wmo,eisiger Hermagor,2026-01-18T03:57:00+00:00,Austria,0.5676492645353773,1,1,de,WCE,Europe
 '6ae251f006',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Donaustadt,2026-01-18T03:57:00+00:00,Austria,0.5669004654266167,1,1,de,WCE,Europe
+'e6c4c5ade3',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Kälte,2026-01-20T03:56:00+00:00,Austria,0.5648086955577954,2,1,de,WCE,Europe
+'a063e581c0',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Lienz,2026-01-19T04:03:00+00:00,Austria,0.5620260248690903,1,1,de,WCE,Europe
 'c63384f725',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle wien köchelnd,2026-01-19T04:03:00+00:00,Austria,0.5617083471558291,1,1,de,WCE,Europe
+'d897f2cefd',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren im Spittal an der Drau,2026-01-19T04:03:00+00:00,Austria,0.5614857181327462,1,1,de,WCE,Europe
 '8be310eda4',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle bruck mürzzuschlag,2026-01-19T04:03:00+00:00,Austria,0.5611487368809558,1,1,de,WCE,Europe
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,Schnee Alto Moesano,2026-01-15T12:14:00+00:00,Switzerland,0.5574825996307191,2,1,de,WCE,Europe
 '3128ad0d0e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Gmünd,2026-01-18T03:57:00+00:00,Austria,0.5457493385101759,2,1,de,WCE,Europe
