@@ -1,7 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-01-15T10:57:00+00:00,Switzerland,0.788865269466741,0,1,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.7337620014932873,1,3,de,WCE,Europe
-'97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6980977289720934,0,1,de,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6936796098731438,0,1,de,WCE,Europe
 'c924dff25e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Sankt Pölten Land,2026-01-21T03:56:00+00:00,Austria,0.6866475319080353,0,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
@@ -11,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f23bf1922',extremes,Cold Wave,#a7e9fa,wmo,gefrierende Milch,2026-01-22T03:59:00+00:00,Austria,0.6556593329684175,0,1,de,WCE,Europe
 'df91137f56',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren perg,2026-01-21T03:56:00+00:00,Austria,0.6556257066782727,0,1,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
+'97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.6181477952544089,1,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 'e0bff0948c',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Zell am See,2026-01-19T04:03:00+00:00,Austria,0.6016575967137171,1,1,de,WCE,Europe
