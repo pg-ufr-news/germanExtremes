@@ -1,14 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.7337620014932873,1,3,de,WCE,Europe
-'c924dff25e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Sankt Pölten Land,2026-01-21T03:56:00+00:00,Austria,0.6866475319080353,0,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
-'886e49a595',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Voitsberg,2026-01-18T03:57:00+00:00,Austria,0.6598185802089346,0,1,de,WCE,Europe
-'f65408d1ea',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Floridsdorf,2026-01-21T03:56:00+00:00,Austria,0.6589749878892476,0,1,de,WCE,Europe
-'9f23bf1922',extremes,Cold Wave,#a7e9fa,wmo,gefrierende Milch,2026-01-22T03:59:00+00:00,Austria,0.6556593329684175,0,1,de,WCE,Europe
-'df91137f56',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren perg,2026-01-21T03:56:00+00:00,Austria,0.6556257066782727,0,1,de,WCE,Europe
-'aeabc35619',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Murau,2026-01-22T03:59:00+00:00,Austria,0.6555058382467263,0,1,de,WCE,Europe
-'5d21ad0527',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Schärding,2026-01-18T03:57:00+00:00,Austria,0.655214717120369,0,1,de,WCE,Europe
-'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2026-01-22T03:59:00+00:00,Germany,0.6551615065568399,0,1,de,WCE,Europe
 '43809583c3',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Landstraße,2026-01-19T04:03:00+00:00,Austria,0.6547701600599503,0,1,de,WCE,Europe
 '23bd7117c3',extremes,Cold Wave,#a7e9fa,wmo,Eisstadt Eisenstadt,2026-01-19T04:03:00+00:00,Austria,0.6544262261384661,0,1,de,WCE,Europe
 'ab79a002de',extremes,Storm,#b3b2b1,wmo,Sturmflut Nordfriesische Küste,2026-01-21T03:56:00+00:00,Germany,0.6362256715858122,1,2,de,WCE,Europe
@@ -17,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.6181477952544089,1,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 'e0bff0948c',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Zell am See,2026-01-19T04:03:00+00:00,Austria,0.6016575967137171,1,1,de,WCE,Europe
+'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2026-01-22T03:59:00+00:00,Germany,0.5929208839066473,1,1,de,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.5915778633921722,1,1,de,WCE,Europe
 '3d63fbf0f8',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Tulln,2026-01-18T03:57:00+00:00,Austria,0.5814246967194283,1,1,de,WCE,Europe
 '2da927ee5a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Hallein,2026-01-21T03:56:00+00:00,Austria,0.5809104371371706,1,1,de,WCE,Europe
@@ -45,12 +38,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c63384f725',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle wien köchelnd,2026-01-19T04:03:00+00:00,Austria,0.5617083471558291,1,1,de,WCE,Europe
 'd897f2cefd',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren im Spittal an der Drau,2026-01-19T04:03:00+00:00,Austria,0.5614857181327462,1,1,de,WCE,Europe
 '8be310eda4',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle bruck mürzzuschlag,2026-01-19T04:03:00+00:00,Austria,0.5611487368809558,1,1,de,WCE,Europe
+'886e49a595',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Voitsberg,2026-01-18T03:57:00+00:00,Austria,0.5608457931775944,1,1,de,WCE,Europe
+'f65408d1ea',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Floridsdorf,2026-01-21T03:56:00+00:00,Austria,0.5601287397058604,1,1,de,WCE,Europe
 '1eb06f65d7',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Vöcklabruck,2026-01-19T04:03:00+00:00,Austria,0.5601160516107698,1,1,de,WCE,Europe
 'f98e470a06',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Leibnitz,2026-01-19T04:03:00+00:00,Austria,0.5600715893901668,1,1,de,WCE,Europe
 '3eee582534',extremes,Cold Wave,#a7e9fa,wmo,Gefrierendes Wiener Neustädter Land,2026-01-20T03:56:00+00:00,Austria,0.5598168216416857,1,1,de,WCE,Europe
 'c88ee2fe70',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Rohrbach,2026-01-18T03:57:00+00:00,Austria,0.5583113077565827,1,1,de,WCE,Europe
 '90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-01-15T12:14:00+00:00,Germany,0.5580796144387233,1,1,de,WCE,Europe
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,Schnee Alto Moesano,2026-01-15T12:14:00+00:00,Switzerland,0.5574825996307191,2,1,de,WCE,Europe
+'9f23bf1922',extremes,Cold Wave,#a7e9fa,wmo,gefrierende Milch,2026-01-22T03:59:00+00:00,Austria,0.5573104330231549,1,1,de,WCE,Europe
+'df91137f56',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren perg,2026-01-21T03:56:00+00:00,Austria,0.5572818506765318,1,1,de,WCE,Europe
+'aeabc35619',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Murau,2026-01-22T03:59:00+00:00,Austria,0.5571799625097174,1,1,de,WCE,Europe
+'5d21ad0527',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Schärding,2026-01-18T03:57:00+00:00,Austria,0.5569325095523137,1,1,de,WCE,Europe
 '3128ad0d0e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Gmünd,2026-01-18T03:57:00+00:00,Austria,0.5457493385101759,2,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert ein,2025-12-07T03:47:00+00:00,Germany,0.5434474636273396,2,3,de,WCE,Europe
 '5bf34f285a',extremes,Earthquake,#870007,usgs,Erdbeben Italien,2026-01-15T10:56:00+00:00,Italy,0.528675821505312,2,1,de,MED,Europe
