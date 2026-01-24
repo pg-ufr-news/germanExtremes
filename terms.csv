@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.7337620014932873,1,3,de,WCE,Europe
-'c924dff25e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Sankt Pölten Land,2026-01-21T03:56:00+00:00,Austria,0.6866475319080353,0,1,de,WCE,Europe
-'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-01-17T03:44:00+00:00,Switzerland,0.6855439571405655,0,1,de,WCE,Europe
 'ffebc13f1b',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Mödling,2026-01-23T04:03:00+00:00,Austria,0.6713952886832203,0,1,de,WCE,Europe
+'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-01-17T03:44:00+00:00,Switzerland,0.6682126635694806,1,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
 '802419f94a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle sankt Johann im Pongau,2026-01-23T04:03:00+00:00,Austria,0.6597721211483646,0,1,de,WCE,Europe
 '43809583c3',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Landstraße,2026-01-19T04:03:00+00:00,Austria,0.6547701600599503,0,1,de,WCE,Europe
