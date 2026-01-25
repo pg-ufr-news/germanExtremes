@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-01-15T12:14:00+00:00,Germany,0.7718570869556041,0,1,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.7337620014932873,1,3,de,WCE,Europe
+'0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-01-15T12:14:00+00:00,Germany,0.7201203780031725,1,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
-'c887264ea7',extremes,Cold Wave,#a7e9fa,wmo,Villacher Land gefriert,2026-01-19T04:03:00+00:00,Austria,0.6495919701854908,0,1,de,WCE,Europe
 '9dad10300d',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Rust Stadt,2026-01-20T03:56:00+00:00,Austria,0.6493674508764902,0,1,de,WCE,Europe
 '04c02d8dfd',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Völkermarkt,2026-01-20T03:56:00+00:00,Austria,0.6485426957095702,0,1,de,WCE,Europe
 'b5072a0a70',extremes,Cold Wave,#a7e9fa,wmo,Gefrierendes Linzer Land,2026-01-21T03:56:00+00:00,Austria,0.6484851408419817,0,1,de,WCE,Europe
@@ -82,6 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '14134b2762',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Favoriten,2026-01-23T04:03:00+00:00,Austria,0.5524697066050419,1,1,de,WCE,Europe
 '1d3448305b',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Graz Stadt,2026-01-21T03:56:00+00:00,Austria,0.552331528170661,1,1,de,WCE,Europe
 '12751311fe',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle perg,2026-01-20T03:56:00+00:00,Austria,0.5522301145077936,1,1,de,WCE,Europe
+'c887264ea7',extremes,Cold Wave,#a7e9fa,wmo,Villacher Land gefriert,2026-01-19T04:03:00+00:00,Austria,0.5521531746576671,1,1,de,WCE,Europe
 '3128ad0d0e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Gmünd,2026-01-18T03:57:00+00:00,Austria,0.5457493385101759,2,1,de,WCE,Europe
 '5bf34f285a',extremes,Earthquake,#870007,usgs,Erdbeben Italien,2026-01-15T10:56:00+00:00,Italy,0.528675821505312,2,1,de,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,Niederschlag Sardinien,2025-12-15T03:54:00+00:00,Italy,0.5205969161661533,2,2,de,MED,Europe
