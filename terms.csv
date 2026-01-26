@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.7337620014932873,1,3,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-01-15T12:14:00+00:00,Germany,0.7201203780031725,1,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-01-20T03:56:00+00:00,Italy,0.6582943562092864,1,2,de,MED,Europe
+'6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6513883089965669,2,3,de,WCE,Europe
 'ab79a002de',extremes,Storm,#b3b2b1,wmo,Sturmflut Nordfriesische Küste,2026-01-21T03:56:00+00:00,Germany,0.6362256715858122,1,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.6331205514941082,2,3,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
@@ -116,7 +116,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ff36d7a46',extremes,Drought,#edc291,edo,Trockenheit Belgien,2026-01-15T12:14:00+00:00,Belgium,0.4592794044338795,1,1,de,WCE,Europe
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,Schneesturm,2026-01-15T10:39:00+00:00,,0.4260955734658572,1,3,de,,
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2025-12-19T03:46:00+00:00,Iceland,0.4233874851446169,1,2,de,GIC,Europe
-'3fa143a609',extremes,Storm,#b3b2b1,random,Staubsturm,2026-01-15T10:39:00+00:00,,0.4099006868118564,0,1,de,,
 '82d648b882',extremes,Drought,#edc291,random,Dürre,2026-01-15T10:39:00+00:00,,0.4098305739048267,0,1,de,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nationales Hurrikanzentrum,2026-01-15T10:39:00+00:00,,0.4089201669038112,0,1,de,,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,Regenguss Argentinien,2026-01-15T10:56:00+00:00,Argentina,0.4065493388530187,2,1,de,SES,South-America
@@ -127,6 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77c06ce7ba',extremes,Earthquake,#870007,usgs,Erdbeben in Fornace Zarattini,2026-01-15T10:56:00+00:00,Italy,0.3794701426771116,0,1,de,MED,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,Schnee Italien,2025-12-16T03:47:00+00:00,Italy,0.3742178703326622,3,3,de,MED,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,Schneeböe,2026-01-15T10:39:00+00:00,,0.3489089366075219,1,1,de,,
+'3fa143a609',extremes,Storm,#b3b2b1,random,Staubsturm,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,de,,
 '9389acab50',extremes,Snow&Ice,#d60d2b,wmo,Frost Alto Moesano,2026-01-15T10:56:00+00:00,Switzerland,0.3416502806389095,1,1,de,WCE,Europe
 '7afee2724b',extremes,Drought,#edc291,edo,Trockenheit Dänemark,2025-12-18T03:44:00+00:00,Denmark,0.2652895730652396,1,2,de,NEU,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kältestes Jahr,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,de,,
