@@ -1,10 +1,12 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Alexander Zverev,Alexander Zverev,PERSON,0.2631578947368421,0.2631578947368421,en,1.9
+Donald Trump,Donald Trump,PERSON,0.09730113636363635,0.45312499999999994,en,1.6
 Thees Uhlmann,Thees Uhlmann,PERSON,0.0,0.05128205128205128,en,1.3
 HBO Max,HBO Max,PERSON,0.15000000000000002,0.24166666666666664,en,1.0
 Mark Mateschitz,Mark Mateschitz,PERSON,0.0,0.0,en,1.0
 Benedikt Wüthrich,Benedikt Wüthrich,PERSON,1.0,1.0,en,1.0
 Freezing rain,Freezing rain,PERSON,-0.13333333333333333,0.26666666666666666,en,1.0
-Donald Trump,Donald Trump,PERSON,0.0,0.0,en,1.0
+Ramona Hofmeister,Ramona Hofmeister,PERSON,-0.11666666666666668,0.20000000000000004,en,1.0
+Wismar - He,Wismar - He,PERSON,0.0,0.0,en,1.0
 Olga Mikutina,Olga Mikutina,PERSON,0.0,0.0,en,1.0
 Maurizio Zandron,Maurizio Zandron,PERSON,0.0,0.0,en,1.0

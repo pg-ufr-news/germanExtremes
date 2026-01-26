@@ -1,126 +1,151 @@
 ,phrase,label,sentiment,subjectivity,language,count
-winter,winter,DATE,,,en,35.20000000000001
+winter,winter,DATE,,,en,39.5
 two,two,CARDINAL,,,en,9.000000000000002
 first,first,ORDINAL,,,en,8.3
 One,One,CARDINAL,,,en,5.5
-Winter,Winter,DATE,,,en,5.3
 Christmas,Christmas,DATE,,,en,5.3
-Sunday,Sunday,DATE,,,en,3.4000000000000004
-Friday,Friday,DATE,,,en,3.4000000000000004
-2025,2025,DATE,,,en,3.4000000000000004
-January,January,DATE,,,en,3.4000000000000004
+Winter,Winter,DATE,,,en,5.3
+Friday,Friday,DATE,,,en,5.1000000000000005
+Saturday,Saturday,DATE,,,en,4.1
+Monday,Monday,DATE,,,en,4.1
+Sunday,Sunday,DATE,,,en,3.6000000000000005
 Christmas Eve,Christmas Eve,DATE,,,en,3.4000000000000004
-Monday,Monday,DATE,,,en,3.0
-Tyrolean,Tyrolean,NORP,,,en,2.8
+January,January,DATE,,,en,3.4000000000000004
+2025,2025,DATE,,,en,3.4000000000000004
+night,night,TIME,,,en,3.4
 Four,Four,CARDINAL,,,en,2.8
-night,night,TIME,,,en,2.7
-minus 28 degrees Celsius,minus 28 degrees Celsius,QUANTITY,,,en,2.6
-the turn of the year,the turn of the year,DATE,,,en,2.6
-New Year's Eve,New Year's Eve,EVENT,,,en,2.6
+Tyrolean,Tyrolean,NORP,,,en,2.8
 a white Christmas,a white Christmas,DATE,,,en,2.6
+the turn of the year,the turn of the year,DATE,,,en,2.6
+morning,morning,TIME,,,en,2.6
+New Year's Eve,New Year's Eve,EVENT,,,en,2.6
 the start of the week,the start of the week,DATE,,,en,2.6
+minus 28 degrees Celsius,minus 28 degrees Celsius,QUANTITY,,,en,2.6
 German,German,NORP,,,en,2.1
 European,European,NORP,,,en,1.9000000000000001
+Thursday,Thursday,DATE,,,en,1.9
+56,56,CARDINAL,,,en,1.9
+days,days,DATE,,,en,1.9
 this week,this week,DATE,,,en,1.8
-this year,this year,DATE,,,en,1.8
-Saturday,Saturday,DATE,,,en,1.8
+winter night,winter night,TIME,,,en,1.8
 one,one,CARDINAL,,,en,1.8
+this year,this year,DATE,,,en,1.8
 2026,2026,DATE,,,en,1.8
-morning,morning,TIME,,,en,1.8
-at least three,at least three,CARDINAL,,,en,1.8
-overnight,overnight,TIME,,,en,1.8
+today,today,DATE,,,en,1.8
+the new year,the new year,DATE,,,en,1.8
 the European Championships,the European Championships,EVENT,,,en,1.8
+overnight,overnight,TIME,,,en,1.8
+at least three,at least three,CARDINAL,,,en,1.8
+World Cup,World Cup,EVENT,,,en,1.7
 Swiss,Swiss,NORP,,,en,1.7
-Russian,Russian,NORP,,,en,1.3
-Friday night onwards,Friday night onwards,TIME,,,en,1.0
-1,1,CARDINAL,,,en,1.0
-annual,annual,DATE,,,en,1.0
-Annual,Annual,DATE,,,en,1.0
-2024,2024,DATE,,,en,1.0
-A year ago,A year ago,DATE,,,en,1.0
-"100,000 tons","100,000 tons",QUANTITY,,,en,1.0
-Eventin,Eventin,WORK_OF_ART,,,en,1.0
-the current year,the current year,DATE,,,en,1.0
-Two dozen,Two dozen,CARDINAL,,,en,1.0
-Tauferer,Tauferer,NORP,,,en,1.0
-Up to minus 20 degrees,Up to minus 20 degrees,CARDINAL,,,en,1.0
-Rieserferner,Rieserferner,NORP,,,en,1.0
-Riesernock,Riesernock,NORP,,,en,1.0
-Hungarian,Hungarian,NORP,,,en,1.0
-ten years,ten years,DATE,,,en,1.0
-Austrian,Austrian,NORP,,,en,1.0
-Two,Two,CARDINAL,,,en,1.0
-days,days,DATE,,,en,1.0
+Russian,Russian,NORP,,,en,1.5
+this winter,this winter,DATE,,,en,1.3
+minus 29 degrees,minus 29 degrees,QUANTITY,,,en,1.3
+winter day,winter day,DATE,,,en,1.2
 the end of the year,the end of the year,DATE,,,en,1.0
 The year 2025,The year 2025,DATE,,,en,1.0
+the beginning of the year,the beginning of the year,DATE,,,en,1.0
+Tizian,Tizian,NORP,,,en,1.0
+Friday night onwards,Friday night onwards,TIME,,,en,1.0
+Wintertime,Wintertime,DATE,,,en,1.0
 the next few days,the next few days,DATE,,,en,1.0
-minus 15 degrees,minus 15 degrees,QUANTITY,,,en,1.0
+Disaster in the Mountains,Disaster in the Mountains,WORK_OF_ART,,,en,1.0
+Mühlviertel,Mühlviertel,FAC,,,en,1.0
+3,3,CARDINAL,,,en,1.0
 A3,A3,PRODUCT,,,en,1.0
 minus 21.7 degrees,minus 21.7 degrees,QUANTITY,,,en,1.0
-winter day,winter day,DATE,,,en,1.0
-hours,hours,TIME,,,en,1.0
-Minus 28 degrees,Minus 28 degrees,QUANTITY,,,en,1.0
-the Spengler Cup,the Spengler Cup,EVENT,,,en,1.0
-the night,the night,TIME,,,en,1.0
-Wintertime,Wintertime,DATE,,,en,1.0
 Three,Three,CARDINAL,,,en,1.0
-20 centimeters,20 centimeters,QUANTITY,,,en,1.0
-3,3,CARDINAL,,,en,1.0
-Mühlviertel,Mühlviertel,FAC,,,en,1.0
-Disaster in the Mountains,Disaster in the Mountains,WORK_OF_ART,,,en,1.0
+hours,hours,TIME,,,en,1.0
+minus 15 degrees,minus 15 degrees,QUANTITY,,,en,1.0
 Cold Wave: Brrrrrr,Cold Wave: Brrrrrr,WORK_OF_ART,,,en,1.0
-Tizian,Tizian,NORP,,,en,1.0
-the beginning of the year,the beginning of the year,DATE,,,en,1.0
-the new year,the new year,DATE,,,en,1.0
+Two dozen,Two dozen,CARDINAL,,,en,1.0
+Eventin,Eventin,WORK_OF_ART,,,en,1.0
+TICKER -,TICKER -,NORP,,,en,1.0
+Ukrainian,Ukrainian,NORP,,,en,1.0
+weeks,weeks,DATE,,,en,1.0
+Wednesday,Wednesday,DATE,,,en,1.0
+Austrian,Austrian,NORP,,,en,1.0
+ten years,ten years,DATE,,,en,1.0
+winters,winters,DATE,,,en,1.0
+Asian,Asian,NORP,,,en,1.0
+summer,summer,DATE,,,en,1.0
+845 meters,845 meters,QUANTITY,,,en,1.0
+Up to minus 20 degrees,Up to minus 20 degrees,CARDINAL,,,en,1.0
+the new week,the new week,DATE,,,en,1.0
+winter weekend,winter weekend,DATE,,,en,1.0
+"100,000 tons","100,000 tons",QUANTITY,,,en,1.0
+Minus 28 degrees,Minus 28 degrees,QUANTITY,,,en,1.0
+A year ago,A year ago,DATE,,,en,1.0
+Saturday +++ Snowfalls,Saturday +++ Snowfalls,DATE,,,en,1.0
+the Black Forest,the Black Forest,FAC,,,en,1.0
+Up to 50 centimeters,Up to 50 centimeters,QUANTITY,,,en,1.0
+at least Sunday,at least Sunday,DATE,,,en,1.0
+four,four,CARDINAL,,,en,1.0
+Scuol,Scuol,NORP,,,en,1.0
+1,1,CARDINAL,,,en,1.0
+5,5,CARDINAL,,,en,1.0
+January 9th,January 9th,DATE,,,en,1.0
+20 centimeters,20 centimeters,QUANTITY,,,en,1.0
+the night,the night,TIME,,,en,1.0
+the turn of the year 1978/79,the turn of the year 1978/79,DATE,,,en,1.0
+Two,Two,CARDINAL,,,en,1.0
 Czechoslovakian,Czechoslovakian,NORP,,,en,1.0
-Christmas week,Christmas week,DATE,,,en,1.0
-French,French,NORP,,,en,1.0
-Thursday,Thursday,DATE,,,en,1.0
+annual,annual,DATE,,,en,1.0
+six,six,CARDINAL,,,en,1.0
+years,years,DATE,,,en,1.0
+winter sports season,winter sports season,DATE,,,en,1.0
+the start of the Winter Olympics,the start of the Winter Olympics,DATE,,,en,1.0
+A few weeks,A few weeks,DATE,,,en,1.0
+the Winter Olympics,the Winter Olympics,EVENT,,,en,1.0
+the next hour,the next hour,TIME,,,en,1.0
 fourth,fourth,ORDINAL,,,en,1.0
 the fourth summer half of the year,the fourth summer half of the year,DATE,,,en,1.0
 August,August,DATE,,,en,1.0
 June,June,DATE,,,en,1.0
 this summer,this summer,DATE,,,en,1.0
 Summer,Summer,DATE,,,en,1.0
-six,six,CARDINAL,,,en,1.0
 the morning,the morning,TIME,,,en,1.0
+the LEGOLAND Deutschland Resort,the LEGOLAND Deutschland Resort,FAC,,,en,1.0
 the beginning of December,the beginning of December,DATE,,,en,1.0
 ten degrees,ten degrees,QUANTITY,,,en,1.0
 evening,evening,TIME,,,en,1.0
-2011,2011,DATE,,,en,1.0
 Italian,Italian,NORP,,,en,1.0
 the weekend,the weekend,DATE,,,en,1.0
 winter of the year,winter of the year,DATE,,,en,1.0
 Black Friday,Black Friday,EVENT,,,en,1.0
-this winter,this winter,DATE,,,en,1.0
 Sunday afternoon,Sunday afternoon,TIME,,,en,1.0
 half,half,CARDINAL,,,en,1.0
 Frost,Frost,WORK_OF_ART,,,en,1.0
 Wintry week,Wintry week,DATE,,,en,1.0
 the middle of the week,the middle of the week,DATE,,,en,1.0
-the next hour,the next hour,TIME,,,en,1.0
-the Winter Olympics,the Winter Olympics,EVENT,,,en,1.0
-A few weeks,A few weeks,DATE,,,en,1.0
-the start of the Winter Olympics,the start of the Winter Olympics,DATE,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+Dec. 10,Dec. 10,DATE,,,en,1.0
+Annual,Annual,DATE,,,en,1.0
 January 20th,January 20th,DATE,,,en,1.0
+2024,2024,DATE,,,en,1.0
+the current year,the current year,DATE,,,en,1.0
+Tauferer,Tauferer,NORP,,,en,1.0
+Rieserferner,Rieserferner,NORP,,,en,1.0
+Riesernock,Riesernock,NORP,,,en,1.0
+Hungarian,Hungarian,NORP,,,en,1.0
+tens of thousands,tens of thousands,CARDINAL,,,en,1.0
+New Year's Day,New Year's Day,EVENT,,,en,1.0
+900 meters,900 meters,QUANTITY,,,en,1.0
+the Spengler Cup,the Spengler Cup,EVENT,,,en,1.0
+French,French,NORP,,,en,1.0
+2011,2011,DATE,,,en,1.0
 15 years,15 years,DATE,,,en,1.0
+December,December,DATE,,,en,1.0
 Coldest Christmas,Coldest Christmas,DATE,,,en,1.0
 three,three,CARDINAL,,,en,1.0
 Winter Games,Winter Games,EVENT,,,en,1.0
 Alpine Passes,Alpine Passes,WORK_OF_ART,,,en,1.0
-900 meters,900 meters,QUANTITY,,,en,1.0
+Christmas week,Christmas week,DATE,,,en,1.0
 Dec. 16,Dec. 16,DATE,,,en,1.0
-today,today,DATE,,,en,1.0
 25,25,CARDINAL,,,en,1.0
 billions,billions,CARDINAL,,,en,1.0
 the coming days,the coming days,DATE,,,en,1.0
 autumn,autumn,DATE,,,en,1.0
 the holidays,the holidays,DATE,,,en,1.0
 the past few days,the past few days,DATE,,,en,1.0
-December,December,DATE,,,en,1.0
-Dec. 10,Dec. 10,DATE,,,en,1.0
-the LEGOLAND Deutschland Resort,the LEGOLAND Deutschland Resort,FAC,,,en,1.0
-zero,zero,CARDINAL,,,en,1.0
-years,years,DATE,,,en,1.0
-winter sports season,winter sports season,DATE,,,en,1.0
-Wednesday,Wednesday,DATE,,,en,1.0
+This week,This week,DATE,,,en,1.0
