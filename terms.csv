@@ -1,11 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.7374747997409352,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-01-15T12:14:00+00:00,Germany,0.7201203780031725,1,2,de,WCE,Europe
+'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6863504443252495,1,2,de,WCE,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-01-26T04:09:00+00:00,Germany,0.670501057514621,1,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-01-20T03:56:00+00:00,Italy,0.6677431649207506,2,2,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6513883089965669,2,3,de,WCE,Europe
-'ee5f7d0760',extremes,Snow&Ice,#d60d2b,wmo,Eis Verzasca,2026-01-23T04:03:00+00:00,Switzerland,0.6405762620547328,0,1,de,WCE,Europe
 '0cfc447b8f',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Eferding,2026-01-19T04:03:00+00:00,Austria,0.6405190197889556,0,1,de,WCE,Europe
 '5e13e239ca',extremes,Snow&Ice,#d60d2b,wmo,Eis Plaine de l'Orbe,2026-01-24T03:48:00+00:00,Switzerland,0.6398092275204375,0,1,de,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-01-18T03:57:00+00:00,Italy,0.6394825329371693,0,1,de,MED,Europe
@@ -99,6 +98,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b94cf614b9',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren weiz,2026-01-19T04:03:00+00:00,Austria,0.5452559946822855,1,1,de,WCE,Europe
 'f102553123',extremes,Snow&Ice,#d60d2b,wmo,Eisriviera,2026-01-23T04:03:00+00:00,Switzerland,0.5449728334149506,1,1,de,WCE,Europe
 'cae89f42c2',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Freistadt,2026-01-21T03:56:00+00:00,Austria,0.5445949463707552,1,1,de,WCE,Europe
+'ee5f7d0760',extremes,Snow&Ice,#d60d2b,wmo,Eis Verzasca,2026-01-23T04:03:00+00:00,Switzerland,0.5444898227465229,1,1,de,WCE,Europe
 '5bf34f285a',extremes,Earthquake,#870007,usgs,Erdbeben Italien,2026-01-15T10:56:00+00:00,Italy,0.528675821505312,2,1,de,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,Niederschlag Sardinien,2025-12-15T03:54:00+00:00,Italy,0.5205969161661533,2,2,de,MED,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,Regenmangel Italien,2026-01-15T10:57:00+00:00,Italy,0.5134095041557984,2,1,de,MED,Europe
