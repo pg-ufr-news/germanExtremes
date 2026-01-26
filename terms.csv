@@ -3,13 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-01-20T03:56:00+00:00,Italy,0.6677431649207506,2,2,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6513883089965669,2,3,de,WCE,Europe
-'dd99f81002',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Alsergrund,2026-01-18T03:57:00+00:00,Austria,0.6449698026748507,0,1,de,WCE,Europe
-'8ebba92b76',extremes,Snow&Ice,#d60d2b,wmo,Frost Zurzach Bülach,2026-01-24T03:48:00+00:00,Switzerland,0.6422888416676451,0,1,de,WCE,Europe
-'a07f9a3b5e',extremes,Snow&Ice,#d60d2b,wmo,Eis-Mendrisiotto,2026-01-23T04:03:00+00:00,Switzerland,0.6416057357277176,0,1,de,WCE,Europe
-'b94cf614b9',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren weiz,2026-01-19T04:03:00+00:00,Austria,0.6414776408026888,0,1,de,WCE,Europe
-'f102553123',extremes,Snow&Ice,#d60d2b,wmo,Eisriviera,2026-01-23T04:03:00+00:00,Switzerland,0.6411445098999419,0,1,de,WCE,Europe
-'cae89f42c2',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Freistadt,2026-01-21T03:56:00+00:00,Austria,0.6406999369067709,0,1,de,WCE,Europe
-'15c6a45e95',extremes,Snow&Ice,#d60d2b,wmo,Eis Basel,2026-01-24T03:48:00+00:00,Switzerland,0.6405822369392676,0,1,de,WCE,Europe
 'ab79a002de',extremes,Storm,#b3b2b1,wmo,Sturmflut Nordfriesische Küste,2026-01-21T03:56:00+00:00,Germany,0.6362256715858122,1,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.6331205514941082,2,3,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
@@ -28,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c249e84ebc',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Amstetten,2026-01-18T03:57:00+00:00,Austria,0.5782456676550758,1,1,de,WCE,Europe
 'a726dd01c1',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Margareten,2026-01-18T03:57:00+00:00,Austria,0.5764762951086804,1,1,de,WCE,Europe
 '6fcb9390cf',extremes,Cold Wave,#a7e9fa,wmo,Gefrierendes Steyrland,2026-01-21T03:56:00+00:00,Austria,0.5753968405592941,1,1,de,WCE,Europe
+'15c6a45e95',extremes,Snow&Ice,#d60d2b,wmo,Eis Basel,2026-01-24T03:48:00+00:00,Switzerland,0.5752449763983776,1,1,de,WCE,Europe
 '427ee66386',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Neubau,2026-01-20T03:56:00+00:00,Austria,0.5744814651287112,1,1,de,WCE,Europe
 '8a463185c0',extremes,Cold Wave,#a7e9fa,wmo,eiskalt wien währing,2026-01-19T04:03:00+00:00,Austria,0.5741550016825588,1,1,de,WCE,Europe
 '722b19af44',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Güssing,2026-01-18T03:57:00+00:00,Austria,0.572687457806964,1,1,de,WCE,Europe
@@ -90,7 +84,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8da7fda99b',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Mariahilf,2026-01-21T03:56:00+00:00,Austria,0.5504919665619001,1,1,de,WCE,Europe
 'a2c13d57b3',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Schärding,2026-01-21T03:56:00+00:00,Austria,0.5501822958159246,1,1,de,WCE,Europe
 'e083c2b821',extremes,Snow&Ice,#d60d2b,wmo,Schnee Saint Cergue,2026-01-22T03:59:00+00:00,Switzerland,0.5487914433624002,1,1,de,WCE,Europe
+'dd99f81002',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Alsergrund,2026-01-18T03:57:00+00:00,Austria,0.5482243322736231,1,1,de,WCE,Europe
+'8ebba92b76',extremes,Snow&Ice,#d60d2b,wmo,Frost Zurzach Bülach,2026-01-24T03:48:00+00:00,Switzerland,0.5459455154174984,1,1,de,WCE,Europe
 '3128ad0d0e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Gmünd,2026-01-18T03:57:00+00:00,Austria,0.5457493385101759,2,1,de,WCE,Europe
+'a07f9a3b5e',extremes,Snow&Ice,#d60d2b,wmo,Eis-Mendrisiotto,2026-01-23T04:03:00+00:00,Switzerland,0.5453648753685599,1,1,de,WCE,Europe
+'b94cf614b9',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren weiz,2026-01-19T04:03:00+00:00,Austria,0.5452559946822855,1,1,de,WCE,Europe
+'f102553123',extremes,Snow&Ice,#d60d2b,wmo,Eisriviera,2026-01-23T04:03:00+00:00,Switzerland,0.5449728334149506,1,1,de,WCE,Europe
+'cae89f42c2',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Freistadt,2026-01-21T03:56:00+00:00,Austria,0.5445949463707552,1,1,de,WCE,Europe
 '5bf34f285a',extremes,Earthquake,#870007,usgs,Erdbeben Italien,2026-01-15T10:56:00+00:00,Italy,0.528675821505312,2,1,de,MED,Europe
 '8a590c18c2',extremes,Precipitation,#d60d2b,wmo,Niederschlag Sardinien,2025-12-15T03:54:00+00:00,Italy,0.5205969161661533,2,2,de,MED,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,Regenmangel Italien,2026-01-15T10:57:00+00:00,Italy,0.5134095041557984,2,1,de,MED,Europe
