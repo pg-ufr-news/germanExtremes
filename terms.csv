@@ -1,10 +1,18 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-01-15T12:14:00+00:00,Germany,0.7201203780031725,1,2,de,WCE,Europe
+'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-01-25T04:06:00+00:00,Switzerland,0.690667986131805,0,1,de,WCE,Europe
+'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6904966233189093,0,1,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6863504443252495,1,2,de,WCE,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-01-26T04:09:00+00:00,Germany,0.670501057514621,1,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-01-20T03:56:00+00:00,Italy,0.6677431649207506,2,2,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6513883089965669,2,3,de,WCE,Europe
+'221e658bfd',extremes,Drought,#edc291,edo,Trockenheit Luxemburg,2026-01-17T03:44:00+00:00,Luxembourg,0.6503274382143595,0,1,de,WCE,Europe
+'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.6440199432615051,0,1,de,WCE,Europe
+'1fea4f642d',extremes,Storm,#b3b2b1,wmo,Sturmflut Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.6352112944089919,0,1,de,WCE,Europe
+'181b974757',extremes,Storm,#b3b2b1,wmo,Sturmflutgemeinde Helgoland,2026-01-26T04:09:00+00:00,Germany,0.6350124315401005,0,1,de,WCE,Europe
+'86989234c9',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Urfahrumgebung,2026-01-20T03:56:00+00:00,Austria,0.6339005589125342,0,1,de,WCE,Europe
+'2451a0325f',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Deutschlandsberg,2026-01-19T04:03:00+00:00,Austria,0.6336388130841385,0,1,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.6331205514941082,2,3,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
