@@ -5,8 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-01-20T03:56:00+00:00,Italy,0.6677431649207506,2,2,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6513883089965669,2,3,de,WCE,Europe
-'221e658bfd',extremes,Drought,#edc291,edo,Trockenheit Luxemburg,2026-01-17T03:44:00+00:00,Luxembourg,0.6503274382143595,0,1,de,WCE,Europe
-'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.6440199432615051,0,1,de,WCE,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,Sturmflut Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.6352112944089919,0,1,de,WCE,Europe
 '181b974757',extremes,Storm,#b3b2b1,wmo,Sturmflutgemeinde Helgoland,2026-01-26T04:09:00+00:00,Germany,0.6350124315401005,0,1,de,WCE,Europe
 '86989234c9',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Urfahrumgebung,2026-01-20T03:56:00+00:00,Austria,0.6339005589125342,0,1,de,WCE,Europe
@@ -36,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf4a288556',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Salzburger Umgebung,2026-01-19T04:03:00+00:00,Austria,0.5717175539667458,1,1,de,WCE,Europe
 'aa54111547',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wolfsberg,2026-01-18T03:57:00+00:00,Austria,0.5713006312113925,1,1,de,WCE,Europe
 'ffebc13f1b',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Mödling,2026-01-23T04:03:00+00:00,Austria,0.5706859953807373,1,1,de,WCE,Europe
+'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.5705494299540975,1,2,de,WCE,Europe
 'e0c3208646',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Hartberg Fürstenfeld,2026-01-18T03:57:00+00:00,Austria,0.5704168167670753,1,1,de,WCE,Europe
 '05f2acc6a9',extremes,Cold Wave,#a7e9fa,wmo,Frost in Waidhofen an der Ybbs-Stadt,2026-01-18T03:57:00+00:00,Austria,0.5701725664619225,1,1,de,WCE,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-01-15T10:57:00+00:00,Switzerland,0.5699551571897203,2,1,de,WCE,Europe
@@ -82,6 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b15863026e',extremes,Storm,#b3b2b1,wmo,Sturm Nordfriesische Küste,2026-01-22T03:59:00+00:00,Germany,0.5545983252299936,1,1,de,WCE,Europe
 '4bab18c8d4',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Welsland,2026-01-20T03:56:00+00:00,Austria,0.5539261969451621,1,1,de,WCE,Europe
 'cde991c059',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Saint-Cergue,2026-01-24T03:48:00+00:00,Switzerland,0.5534333636509382,1,1,de,WCE,Europe
+'221e658bfd',extremes,Drought,#edc291,edo,Trockenheit Luxemburg,2026-01-17T03:44:00+00:00,Luxembourg,0.5527783224822055,1,1,de,WCE,Europe
 '1651c46510',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Neunkirchen,2026-01-19T04:03:00+00:00,Austria,0.5526598774705291,1,1,de,WCE,Europe
 '14134b2762',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Favoriten,2026-01-23T04:03:00+00:00,Austria,0.5524697066050419,1,1,de,WCE,Europe
 '1d3448305b',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Graz Stadt,2026-01-21T03:56:00+00:00,Austria,0.552331528170661,1,1,de,WCE,Europe
