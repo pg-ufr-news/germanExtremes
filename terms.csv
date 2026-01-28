@@ -1,12 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-01-15T12:14:00+00:00,Germany,0.7201203780031725,1,2,de,WCE,Europe
-'5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-01-17T03:44:00+00:00,Germany,0.7130934635026356,0,1,de,WCE,Europe
 'bf052e2a42',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle zwettl,2026-01-20T03:56:00+00:00,Austria,0.6870924295242513,1,2,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6863504443252495,1,2,de,WCE,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-01-26T04:09:00+00:00,Germany,0.670501057514621,1,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-01-20T03:56:00+00:00,Italy,0.6677431649207506,2,2,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
-'0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-01-15T10:57:00+00:00,Luxembourg,0.6545628472483638,0,1,de,WCE,Europe
+'5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6565396744317857,1,2,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6513883089965669,2,3,de,WCE,Europe
 'c4e95835b8',extremes,Storm,#b3b2b1,wmo,Sturm Urner Oberland,2026-01-28T03:56:00+00:00,Switzerland,0.6412616356338693,0,1,de,WCE,Europe
 '64f2fc2dba',extremes,Storm,#b3b2b1,wmo,Sturmflut Glarus Nord Mitte,2026-01-28T03:56:00+00:00,Switzerland,0.6339603500048316,0,1,de,WCE,Europe
@@ -77,6 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-01-23T04:03:00+00:00,Switzerland,0.5569043377063391,2,2,de,WCE,Europe
 '43809583c3',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Landstraße,2026-01-19T04:03:00+00:00,Austria,0.5565546360509577,1,1,de,WCE,Europe
 'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2026-01-23T04:03:00+00:00,Germany,0.5563965488877093,1,1,de,WCE,Europe
+'0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-01-15T10:57:00+00:00,Luxembourg,0.5563784201611092,1,1,de,WCE,Europe
 '23bd7117c3',extremes,Cold Wave,#a7e9fa,wmo,Eisstadt Eisenstadt,2026-01-19T04:03:00+00:00,Austria,0.5562622922176962,1,1,de,WCE,Europe
 '65daebfdc6',extremes,Snow&Ice,#d60d2b,wmo,Schnee Luganese,2026-01-24T03:48:00+00:00,Switzerland,0.5558233358114392,1,1,de,WCE,Europe
 '98004dd1ed',extremes,Cold Wave,#a7e9fa,wmo,Gefrierendes Leoben,2026-01-19T04:03:00+00:00,Austria,0.5551544767940684,1,1,de,WCE,Europe
