@@ -8,6 +8,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6513883089965669,2,3,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.6331205514941082,2,3,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
+'2ed5b60e4d',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Korneuburg,2026-01-23T04:03:00+00:00,Austria,0.6306298740778951,0,1,de,WCE,Europe
+'d94ba52881',extremes,Snow&Ice,#d60d2b,wmo,Eis Huttwil Willisau,2026-01-24T03:48:00+00:00,Switzerland,0.6303754975346543,0,1,de,WCE,Europe
+'0bfa049b47',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Döbling,2026-01-20T03:56:00+00:00,Austria,0.6302754093987092,0,1,de,WCE,Europe
+'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Vallon de Saint Imier,2026-01-24T03:48:00+00:00,Switzerland,0.6298924345222637,0,1,de,WCE,Europe
+'c310d544e9',extremes,Cold Wave,#a7e9fa,wmo,eiskalt sankt veit an der glän,2026-01-18T03:57:00+00:00,Austria,0.6292806048762593,0,1,de,WCE,Europe
+'6ea5c169a5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Gmunden,2026-01-21T03:56:00+00:00,Austria,0.627247132816005,0,1,de,WCE,Europe
+'869d995548',extremes,Snow&Ice,#d60d2b,wmo,Schneeriviera,2026-01-24T03:48:00+00:00,Switzerland,0.6268713649123913,0,1,de,WCE,Europe
+'330359fbad',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Kitzbühel,2026-01-23T04:03:00+00:00,Austria,0.6262150445927882,0,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.6181477952544089,1,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
