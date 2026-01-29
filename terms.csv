@@ -23,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a726dd01c1',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Margareten,2026-01-18T03:57:00+00:00,Austria,0.5764762951086804,1,1,de,WCE,Europe
 '6fcb9390cf',extremes,Cold Wave,#a7e9fa,wmo,Gefrierendes Steyrland,2026-01-21T03:56:00+00:00,Austria,0.5753968405592941,1,1,de,WCE,Europe
 '15c6a45e95',extremes,Snow&Ice,#d60d2b,wmo,Eis Basel,2026-01-24T03:48:00+00:00,Switzerland,0.5752449763983776,1,1,de,WCE,Europe
-'427ee66386',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Neubau,2026-01-20T03:56:00+00:00,Austria,0.5744814651287112,1,1,de,WCE,Europe
 '8a463185c0',extremes,Cold Wave,#a7e9fa,wmo,eiskalt wien währing,2026-01-19T04:03:00+00:00,Austria,0.5741550016825588,1,1,de,WCE,Europe
 '722b19af44',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Güssing,2026-01-18T03:57:00+00:00,Austria,0.572687457806964,1,1,de,WCE,Europe
 'cf4a288556',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Salzburger Umgebung,2026-01-19T04:03:00+00:00,Austria,0.5717175539667458,1,1,de,WCE,Europe
@@ -34,7 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '05f2acc6a9',extremes,Cold Wave,#a7e9fa,wmo,Frost in Waidhofen an der Ybbs-Stadt,2026-01-18T03:57:00+00:00,Austria,0.5701725664619225,1,1,de,WCE,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-01-15T10:57:00+00:00,Switzerland,0.5699551571897203,2,1,de,WCE,Europe
 '42e30eba93',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Josefstadt,2026-01-18T03:57:00+00:00,Austria,0.5697233404605877,1,1,de,WCE,Europe
-'0b1f0d884a',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Oberwart,2026-01-18T03:57:00+00:00,Austria,0.5689944222501312,1,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-01-17T03:44:00+00:00,Switzerland,0.5679810340340585,2,1,de,WCE,Europe
 '4e0e925714',extremes,Cold Wave,#a7e9fa,wmo,eisiger Hermagor,2026-01-18T03:57:00+00:00,Austria,0.5676492645353773,1,1,de,WCE,Europe
 '6ae251f006',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Donaustadt,2026-01-18T03:57:00+00:00,Austria,0.5669004654266167,1,1,de,WCE,Europe
@@ -153,6 +151,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,Erdbeben San Agustín de Valle Fértil,2026-01-15T12:13:00+00:00,Argentina,0.490538565768509,1,1,de,SES,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,Erdbeben San Antonio de los Cobres,2026-01-15T10:56:00+00:00,Argentina,0.4904998030574793,1,1,de,SES,South-America
 '43165fdae0',extremes,Earthquake,#870007,usgs,Erdbeben Villa Basilio Nievas,2026-01-15T12:13:00+00:00,Argentina,0.4904820270704298,1,1,de,SWS,South-America
+'427ee66386',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Neubau,2026-01-20T03:56:00+00:00,Austria,0.4883092453594045,2,1,de,WCE,Europe
+'0b1f0d884a',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Oberwart,2026-01-18T03:57:00+00:00,Austria,0.4836452589126115,2,1,de,WCE,Europe
 '56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Ã–sterreich,2026-01-17T03:44:00+00:00,Austria,0.4814663897493744,1,1,de,WCE,Europe
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Ã–sterreich,2026-01-17T03:44:00+00:00,Austria,0.4789256775645624,1,1,de,WCE,Europe
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,Sturmflut Argentinien,2026-01-15T10:56:00+00:00,Argentina,0.4784776480576133,1,1,de,SES,South-America
@@ -170,10 +170,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ff36d7a46',extremes,Drought,#edc291,edo,Trockenheit Belgien,2026-01-15T12:14:00+00:00,Belgium,0.4592794044338795,1,1,de,WCE,Europe
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,Schneesturm,2026-01-15T10:39:00+00:00,,0.4260955734658572,1,3,de,,
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2025-12-19T03:46:00+00:00,Iceland,0.4233874851446169,1,2,de,GIC,Europe
-'82d648b882',extremes,Drought,#edc291,random,Dürre,2026-01-15T10:39:00+00:00,,0.4098305739048267,0,1,de,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nationales Hurrikanzentrum,2026-01-15T10:39:00+00:00,,0.4089201669038112,0,1,de,,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,Regenguss Argentinien,2026-01-15T10:56:00+00:00,Argentina,0.4065493388530187,2,1,de,SES,South-America
 '20741ce7eb',extremes,Tsunami,#690191,random,Tsunami,2026-01-15T10:39:00+00:00,,0.3897945526360322,1,2,de,,
+'82d648b882',extremes,Drought,#edc291,random,Dürre,2026-01-15T10:39:00+00:00,,0.389670734182739,1,2,de,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,Hitze,2026-01-15T10:39:00+00:00,,0.3852548647230566,1,2,de,,
 '77c06ce7ba',extremes,Earthquake,#870007,usgs,Erdbeben in Fornace Zarattini,2026-01-15T10:56:00+00:00,Italy,0.3794701426771116,0,1,de,MED,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,Schneeböe,2026-01-15T10:39:00+00:00,,0.3489089366075219,1,1,de,,
