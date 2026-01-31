@@ -13,6 +13,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
 '5cf01663c8',extremes,Cold Wave,#a7e9fa,wmo,Gefrierende Salzburg-Stadt,2026-01-20T03:56:00+00:00,Austria,0.6202785753789573,0,1,de,WCE,Europe
 '2084dd4779',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Meidling,2026-01-18T03:57:00+00:00,Austria,0.6202467054777514,0,1,de,WCE,Europe
+'c78ca287c3',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Braunau am Inn,2026-01-21T03:56:00+00:00,Austria,0.6200223135327536,0,1,de,WCE,Europe
+'fe2e88389c',extremes,Snow&Ice,#d60d2b,wmo,Frost Wien Döbling,2026-01-25T04:06:00+00:00,Austria,0.6198467313058533,0,1,de,WCE,Europe
+'8f986a86a6',extremes,Storm,#b3b2b1,wmo,Sturmflut Landquart Chur,2026-01-28T03:56:00+00:00,Switzerland,0.6198328835908454,0,1,de,WCE,Europe
+'d17f364001',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Südoststeiermark,2026-01-22T03:59:00+00:00,Austria,0.6198118783552932,0,1,de,WCE,Europe
+'0a7cd5bb4e',extremes,Snow&Ice,#d60d2b,wmo,gefrierende Milch,2026-01-24T03:48:00+00:00,Austria,0.6198030658786507,0,1,de,WCE,Europe
+'17e47d0ad4',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren Hartberg Fürstenfeld,2026-01-19T04:03:00+00:00,Austria,0.6193116786576149,0,1,de,WCE,Europe
+'1c530e8995',extremes,Storm,#b3b2b1,wmo,Sturm flüelen unterschächen,2026-01-28T03:56:00+00:00,Switzerland,0.6192413339880977,0,1,de,WCE,Europe
+'c15951cc6e',extremes,Snow&Ice,#d60d2b,wmo,Eis Locarnese,2026-01-24T03:48:00+00:00,Switzerland,0.6190983680816966,0,1,de,WCE,Europe
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-01-18T03:57:00+00:00,Austria,0.6181477952544089,1,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6055618885052834,1,1,de,WCE,Europe
