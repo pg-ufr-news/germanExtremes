@@ -9,6 +9,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.6331205514941082,2,3,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
+'7f54f630ba',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Eisenstadt Stadt,2026-01-18T03:57:00+00:00,Austria,0.6172589250429603,0,1,de,WCE,Europe
+'7ef23d7ccc',extremes,Snow&Ice,#d60d2b,wmo,Eis Klagenfurter Land,2026-01-26T04:09:00+00:00,Austria,0.6171101002565824,0,1,de,WCE,Europe
+'5f05f386bc',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Rudolfsheim Fünfhaus,2026-01-19T04:03:00+00:00,Austria,0.6170605560176694,0,1,de,WCE,Europe
+'96b11bf29d',extremes,Cold Wave,#a7e9fa,wmo,eiskalter Wolfsberg,2026-01-20T03:56:00+00:00,Austria,0.6166360834536966,0,1,de,WCE,Europe
+'ee5f7af755',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Locarnese,2026-01-26T04:09:00+00:00,Switzerland,0.6165936076246393,0,1,de,WCE,Europe
+'91648edf22',extremes,Snow&Ice,#d60d2b,wmo,Frost Sumiswald Worb,2026-01-24T03:48:00+00:00,Switzerland,0.6165197242893125,0,1,de,WCE,Europe
+'9d4b386fea',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Korneuburg,2026-01-26T04:09:00+00:00,Austria,0.6164938519164731,0,1,de,WCE,Europe
+'f8b4ad19d7',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Moutier-Tavannen,2026-01-24T03:48:00+00:00,Switzerland,0.6163788825241088,0,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6055618885052834,1,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6046858696629936,1,2,de,WCE,Europe
@@ -200,7 +208,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f98e470a06',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Leibnitz,2026-01-19T04:03:00+00:00,Austria,0.4760608509816417,2,1,de,WCE,Europe
 '90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-01-15T12:14:00+00:00,Germany,0.4743676722729148,2,1,de,WCE,Europe
 '0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-01-15T10:57:00+00:00,Luxembourg,0.4729216571369428,2,1,de,WCE,Europe
-'23bd7117c3',extremes,Cold Wave,#a7e9fa,wmo,Eisstadt Eisenstadt,2026-01-19T04:03:00+00:00,Austria,0.47282294838504174,2,1,de,WCE,Europe
+'23bd7117c3',extremes,Cold Wave,#a7e9fa,wmo,Eisstadt Eisenstadt,2026-01-19T04:03:00+00:00,Austria,0.4728229483850417,2,1,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-01-15T12:14:00+00:00,Switzerland,0.4702063695051132,2,1,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-01-15T12:14:00+00:00,Austria,0.4686015537868735,2,1,de,WCE,Europe
 '74236bd182',extremes,Drought,#edc291,edo,Mangel an Regen Island,2026-01-15T10:57:00+00:00,Iceland,0.4628176924726445,2,1,de,GIC,Europe
