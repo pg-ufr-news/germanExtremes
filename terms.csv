@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
-'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6055618885052834,1,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6046858696629936,1,2,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6019854113128257,2,3,de,WCE,Europe
 'b76764ebb6',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wiener Neustadt,2026-01-18T03:57:00+00:00,Austria,0.6006921603856357,2,1,de,WCE,Europe
@@ -95,6 +94,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd94ba52881',extremes,Snow&Ice,#d60d2b,wmo,Eis Huttwil Willisau,2026-01-24T03:48:00+00:00,Switzerland,0.5358191729044561,1,1,de,WCE,Europe
 '0bfa049b47',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Döbling,2026-01-20T03:56:00+00:00,Austria,0.5357340979889028,1,1,de,WCE,Europe
 'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Vallon de Saint Imier,2026-01-24T03:48:00+00:00,Switzerland,0.5354085693439241,1,1,de,WCE,Europe
+'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-01-17T03:44:00+00:00,Germany,0.5349994538009194,2,2,de,WCE,Europe
 'c310d544e9',extremes,Cold Wave,#a7e9fa,wmo,eiskalt sankt veit an der glän,2026-01-18T03:57:00+00:00,Austria,0.5348885141448203,1,1,de,WCE,Europe
 '6ea5c169a5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Gmunden,2026-01-21T03:56:00+00:00,Austria,0.5331600628936042,1,1,de,WCE,Europe
 '869d995548',extremes,Snow&Ice,#d60d2b,wmo,Schneeriviera,2026-01-24T03:48:00+00:00,Switzerland,0.5328406601755326,1,1,de,WCE,Europe
@@ -200,13 +200,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '614a3ccb53',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Oberpullendorf,2026-01-17T03:44:00+00:00,Austria,0.4767537354973084,1,1,de,WCE,Europe
 '886e49a595',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Voitsberg,2026-01-18T03:57:00+00:00,Austria,0.4767189242009552,2,1,de,WCE,Europe
 '802419f94a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle sankt Johann im Pongau,2026-01-23T04:03:00+00:00,Austria,0.4766853575296934,2,1,de,WCE,Europe
-'f65408d1ea',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Floridsdorf,2026-01-21T03:56:00+00:00,Austria,0.47610942874998136,2,1,de,WCE,Europe
-'1eb06f65d7',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Vöcklabruck,2026-01-19T04:03:00+00:00,Austria,0.47609864386915435,2,1,de,WCE,Europe
+'f65408d1ea',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Floridsdorf,2026-01-21T03:56:00+00:00,Austria,0.4761094287499813,2,1,de,WCE,Europe
+'1eb06f65d7',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Vöcklabruck,2026-01-19T04:03:00+00:00,Austria,0.4760986438691543,2,1,de,WCE,Europe
 'f98e470a06',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Leibnitz,2026-01-19T04:03:00+00:00,Austria,0.4760608509816417,2,1,de,WCE,Europe
 '3eee582534',extremes,Cold Wave,#a7e9fa,wmo,Gefrierendes Wiener Neustädter Land,2026-01-20T03:56:00+00:00,Austria,0.4758442983954328,2,1,de,WCE,Europe
-'c88ee2fe70',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Rohrbach,2026-01-18T03:57:00+00:00,Austria,0.47456461159309526,2,1,de,WCE,Europe
+'c88ee2fe70',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Rohrbach,2026-01-18T03:57:00+00:00,Austria,0.4745646115930952,2,1,de,WCE,Europe
 '90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-01-15T12:14:00+00:00,Germany,0.4743676722729148,2,1,de,WCE,Europe
-'55459a4ab8',extremes,Drought,#edc291,edo,Dürre Luxemburg,2026-01-19T04:03:00+00:00,Luxembourg,0.47399757036664186,2,1,de,WCE,Europe
+'55459a4ab8',extremes,Drought,#edc291,edo,Dürre Luxemburg,2026-01-19T04:03:00+00:00,Luxembourg,0.4739975703666418,2,1,de,WCE,Europe
 '0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-01-15T10:57:00+00:00,Luxembourg,0.4729216571369428,2,1,de,WCE,Europe
 '23bd7117c3',extremes,Cold Wave,#a7e9fa,wmo,Eisstadt Eisenstadt,2026-01-19T04:03:00+00:00,Austria,0.4728229483850417,2,1,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-01-15T12:14:00+00:00,Switzerland,0.4702063695051132,2,1,de,WCE,Europe
