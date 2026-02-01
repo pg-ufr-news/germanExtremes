@@ -9,12 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.6331205514941082,2,3,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
-'c6ea4030fe',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Sankt Johann im Pongau,2026-01-22T03:59:00+00:00,Austria,0.6158386060925534,0,1,de,WCE,Europe
-'3ef6bf8f31',extremes,Snow&Ice,#d60d2b,wmo,Frost Krems an der Donau Stadt,2026-01-24T03:48:00+00:00,Austria,0.6156660620617445,0,1,de,WCE,Europe
-'648845c16e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Hernals,2026-01-21T03:56:00+00:00,Austria,0.6154076590848037,0,1,de,WCE,Europe
-'fc6edf62e7',extremes,Snow&Ice,#d60d2b,wmo,Frost Brienz Interlaken,2026-01-24T03:48:00+00:00,Switzerland,0.6150572675242741,0,1,de,WCE,Europe
-'1bacbbc4f6',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien wÃ¤hring,2026-01-24T03:48:00+00:00,Austria,0.614693512411658,0,1,de,WCE,Europe
-'200c06c3b9',extremes,Storm,#b3b2b1,wmo,Sturm Elbe von Hamburg bis Cuxhaven,2026-01-30T04:21:00+00:00,Germany,0.6146312403219493,0,1,de,WCE,Europe
 'ceb4a488b0',extremes,Snow&Ice,#d60d2b,wmo,Eis Basse Gruyère,2026-01-24T03:48:00+00:00,Switzerland,0.6145113182023475,0,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6046858696629936,1,2,de,WCE,Europe
@@ -34,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f23bf1922',extremes,Cold Wave,#a7e9fa,wmo,gefrierende Milch,2026-01-22T03:59:00+00:00,Austria,0.5573104330231549,1,1,de,WCE,Europe
 'df91137f56',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren perg,2026-01-21T03:56:00+00:00,Austria,0.5572818506765318,1,1,de,WCE,Europe
 'aeabc35619',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Murau,2026-01-22T03:59:00+00:00,Austria,0.5571799625097174,1,1,de,WCE,Europe
+'200c06c3b9',extremes,Storm,#b3b2b1,wmo,Sturm Elbe von Hamburg bis Cuxhaven,2026-01-30T04:21:00+00:00,Germany,0.5571200226069902,1,1,de,WCE,Europe
 '5d21ad0527',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Schärding,2026-01-18T03:57:00+00:00,Austria,0.5569325095523137,1,1,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-01-23T04:03:00+00:00,Switzerland,0.5569043377063391,2,2,de,WCE,Europe
 '43809583c3',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Landstraße,2026-01-19T04:03:00+00:00,Austria,0.5565546360509577,1,1,de,WCE,Europe
@@ -150,6 +145,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d4b386fea',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Korneuburg,2026-01-26T04:09:00+00:00,Austria,0.5240197741290021,1,1,de,WCE,Europe
 'f8b4ad19d7',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Moutier-Tavannen,2026-01-24T03:48:00+00:00,Switzerland,0.5239220501454924,1,1,de,WCE,Europe
 '9965b754f8',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien,2026-01-18T03:57:00+00:00,Austria,0.5238819551769509,1,1,de,WCE,Europe
+'c6ea4030fe',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Sankt Johann im Pongau,2026-01-22T03:59:00+00:00,Austria,0.5234628151786703,1,1,de,WCE,Europe
+'3ef6bf8f31',extremes,Snow&Ice,#d60d2b,wmo,Frost Krems an der Donau Stadt,2026-01-24T03:48:00+00:00,Austria,0.5233161527524828,1,1,de,WCE,Europe
+'648845c16e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Hernals,2026-01-21T03:56:00+00:00,Austria,0.5230965102220831,1,1,de,WCE,Europe
+'fc6edf62e7',extremes,Snow&Ice,#d60d2b,wmo,Frost Brienz Interlaken,2026-01-24T03:48:00+00:00,Switzerland,0.522798677395633,1,1,de,WCE,Europe
+'1bacbbc4f6',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien wÃ¤hring,2026-01-24T03:48:00+00:00,Austria,0.5224894855499094,1,1,de,WCE,Europe
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2026-01-22T03:59:00+00:00,Germany,0.5150163546539835,2,1,de,WCE,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropischer Wirbelsturm Italien,2026-01-28T03:57:00+00:00,Italy,0.515010146426832,2,1,de,MED,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.5138747872166798,2,1,de,WCE,Europe
