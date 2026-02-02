@@ -6,17 +6,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6565396744317857,1,2,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6513883089965669,2,3,de,WCE,Europe
+'764bd46d5a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien liegt,2026-01-18T03:57:00+00:00,Austria,0.6472550211120742,1,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.6331205514941082,2,3,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
-'bf5faef49f',extremes,Cold Wave,#a7e9fa,wmo,eiskalter Bruck an der Leitha,2026-01-20T03:56:00+00:00,Austria,0.6144668658893432,0,1,de,WCE,Europe
-'62547e7566',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wohlen Albis,2026-01-24T03:48:00+00:00,Switzerland,0.6144267104542951,0,1,de,WCE,Europe
-'8205ef1181',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Kitzbühel,2026-01-21T03:56:00+00:00,Austria,0.6143971258570404,0,1,de,WCE,Europe
-'2c8849b608',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Grazer Umgebung,2026-01-18T03:57:00+00:00,Austria,0.6142198933182496,0,1,de,WCE,Europe
-'8fe9662dc4',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Hietzing,2026-01-23T04:03:00+00:00,Austria,0.6141530383740912,0,1,de,WCE,Europe
-'213b66cedb',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Klagenfurt Stadt,2026-01-19T04:03:00+00:00,Austria,0.6138225207774415,0,1,de,WCE,Europe
-'c674824465',extremes,Snow&Ice,#d60d2b,wmo,Eis MÃ¶dling,2026-01-25T04:06:00+00:00,Austria,0.6135415617820749,0,1,de,WCE,Europe
-'764bd46d5a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien liegt,2026-01-18T03:57:00+00:00,Austria,0.6133587424847932,0,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6127352252455562,2,2,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6046858696629936,1,2,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6019854113128257,2,3,de,WCE,Europe
@@ -154,6 +147,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc6edf62e7',extremes,Snow&Ice,#d60d2b,wmo,Frost Brienz Interlaken,2026-01-24T03:48:00+00:00,Switzerland,0.522798677395633,1,1,de,WCE,Europe
 '1bacbbc4f6',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien wÃ¤hring,2026-01-24T03:48:00+00:00,Austria,0.5224894855499094,1,1,de,WCE,Europe
 'ceb4a488b0',extremes,Snow&Ice,#d60d2b,wmo,Eis Basse Gruyère,2026-01-24T03:48:00+00:00,Switzerland,0.5223346204719954,1,1,de,WCE,Europe
+'bf5faef49f',extremes,Cold Wave,#a7e9fa,wmo,eiskalter Bruck an der Leitha,2026-01-20T03:56:00+00:00,Austria,0.5222968360059417,1,1,de,WCE,Europe
+'62547e7566',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wohlen Albis,2026-01-24T03:48:00+00:00,Switzerland,0.5222627038861508,1,1,de,WCE,Europe
+'8205ef1181',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Kitzbühel,2026-01-21T03:56:00+00:00,Austria,0.5222375569784844,1,1,de,WCE,Europe
+'2c8849b608',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Grazer Umgebung,2026-01-18T03:57:00+00:00,Austria,0.5220869093205122,1,1,de,WCE,Europe
+'8fe9662dc4',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Hietzing,2026-01-23T04:03:00+00:00,Austria,0.5220300826179775,1,1,de,WCE,Europe
+'213b66cedb',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Klagenfurt Stadt,2026-01-19T04:03:00+00:00,Austria,0.5217491426608253,1,1,de,WCE,Europe
+'c674824465',extremes,Snow&Ice,#d60d2b,wmo,Eis MÃ¶dling,2026-01-25T04:06:00+00:00,Austria,0.5215103275147637,1,1,de,WCE,Europe
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2026-01-22T03:59:00+00:00,Germany,0.5150163546539835,2,1,de,WCE,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropischer Wirbelsturm Italien,2026-01-28T03:57:00+00:00,Italy,0.515010146426832,2,1,de,MED,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.5138747872166798,2,1,de,WCE,Europe
