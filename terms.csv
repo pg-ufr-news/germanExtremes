@@ -97,7 +97,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd94ba52881',extremes,Snow&Ice,#d60d2b,wmo,Eis Huttwil Willisau,2026-01-24T03:48:00+00:00,Switzerland,0.5358191729044561,1,1,de,WCE,Europe
 '0bfa049b47',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Döbling,2026-01-20T03:56:00+00:00,Austria,0.5357340979889028,1,1,de,WCE,Europe
 'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Vallon de Saint Imier,2026-01-24T03:48:00+00:00,Switzerland,0.5354085693439241,1,1,de,WCE,Europe
-'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-01-17T03:44:00+00:00,Germany,0.5349994538009194,2,2,de,WCE,Europe
 'c310d544e9',extremes,Cold Wave,#a7e9fa,wmo,eiskalt sankt veit an der glän,2026-01-18T03:57:00+00:00,Austria,0.5348885141448203,1,1,de,WCE,Europe
 '37eae1ce40',extremes,Storm,#b3b2b1,wmo,Sturm Brienz Interlaken,2026-01-27T03:58:00+00:00,Switzerland,0.5340568083860903,1,1,de,WCE,Europe
 '6ea5c169a5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Gmunden,2026-01-21T03:56:00+00:00,Austria,0.5331600628936042,1,1,de,WCE,Europe
@@ -247,6 +246,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23bd7117c3',extremes,Cold Wave,#a7e9fa,wmo,Eisstadt Eisenstadt,2026-01-19T04:03:00+00:00,Austria,0.4728229483850417,2,1,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-01-15T12:14:00+00:00,Switzerland,0.4702063695051132,2,1,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-01-15T12:14:00+00:00,Austria,0.4686015537868735,2,1,de,WCE,Europe
+'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-01-17T03:44:00+00:00,Germany,0.46441915650001225,3,2,de,WCE,Europe
 '74236bd182',extremes,Drought,#edc291,edo,Mangel an Regen Island,2026-01-15T10:57:00+00:00,Iceland,0.4628176924726445,2,1,de,GIC,Europe
 '474905c6c6',extremes,Drought,#edc291,edo,Regenmangel in Namibia,2026-01-15T10:57:00+00:00,Namibia,0.4625136337639474,2,1,de,WSAF,Africa
 '537d105358',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Innere Stadt,2026-01-19T04:03:00+00:00,Austria,0.4602405458149347,2,1,de,WCE,Europe
