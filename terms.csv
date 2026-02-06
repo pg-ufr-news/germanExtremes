@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6212347819132683,3,3,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
-'243e9fb71b',extremes,Snow&Ice,#d60d2b,wmo,Schnee liezen,2026-01-26T04:09:00+00:00,Austria,0.6052030486450998,0,1,de,WCE,Europe
 'b02025dafd',extremes,Snow&Ice,#d60d2b,wmo,Schnee Val de Travers,2026-01-30T04:21:00+00:00,Switzerland,0.6051606311065862,0,1,de,WCE,Europe
 '802d5d422b',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Eferding,2026-01-20T03:56:00+00:00,Austria,0.6051041926140601,0,1,de,WCE,Europe
 '4d077ea9d5',extremes,Snow&Ice,#d60d2b,wmo,Frost Korneuburg,2026-01-25T04:06:00+00:00,Austria,0.6048533658006149,0,1,de,WCE,Europe
@@ -207,6 +206,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,Sturmflut Island,2026-01-20T03:56:00+00:00,Iceland,0.5148428858760193,1,1,de,GIC,Europe
 '196091e24a',extremes,Storm,#b3b2b1,wmo,Sturm Flensburg bis Fehmarn,2026-01-30T04:21:00+00:00,Germany,0.5148275181720744,1,1,de,WCE,Europe
 '13b5f2b88d',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Wien Alsergrund,2026-01-24T03:48:00+00:00,Austria,0.5147682202928766,1,1,de,WCE,Europe
+'243e9fb71b',extremes,Snow&Ice,#d60d2b,wmo,Schnee liezen,2026-01-26T04:09:00+00:00,Austria,0.5145726063483348,1,1,de,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.5138747872166798,2,1,de,WCE,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,Regenmangel Italien,2026-01-15T10:57:00+00:00,Italy,0.5134095041557984,2,1,de,MED,Europe
 'e0bff0948c',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Zell am See,2026-01-19T04:03:00+00:00,Austria,0.5115589722066596,2,1,de,WCE,Europe
