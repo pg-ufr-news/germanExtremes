@@ -17,6 +17,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5523de68d',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Feldkirchen,2026-01-21T03:56:00+00:00,Austria,0.6075234858046545,0,1,de,WCE,Europe
 'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes frutigen Kiental,2026-01-29T04:19:00+00:00,Switzerland,0.6066932184822305,0,1,de,WCE,Europe
 'bba7237104',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Jennersdorf,2026-01-22T03:59:00+00:00,Austria,0.6064879765052781,0,1,de,WCE,Europe
+'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-02-03T04:27:00+00:00,Austria,0.6062520063928637,0,1,de,WCE,Europe
+'9977e16c12',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Mattersburg,2026-01-18T03:57:00+00:00,Austria,0.6060380757297528,0,1,de,WCE,Europe
+'d0db7c0bac',extremes,Snow&Ice,#d60d2b,wmo,Schnee-Mendrisiotto,2026-01-28T03:56:00+00:00,Switzerland,0.6058060821593011,0,1,de,WCE,Europe
+'8d1767f806',extremes,Storm,#b3b2b1,wmo,Sturmflut Island,2026-01-20T03:56:00+00:00,Iceland,0.6056975127953169,0,1,de,GIC,Europe
+'13b5f2b88d',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Wien Alsergrund,2026-01-24T03:48:00+00:00,Austria,0.605609670932796,0,1,de,WCE,Europe
+'957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-01-19T04:03:00+00:00,Iceland,0.605592555268427,0,1,de,GIC,Europe
+'196091e24a',extremes,Storm,#b3b2b1,wmo,Sturm Flensburg bis Fehmarn,2026-01-30T04:21:00+00:00,Germany,0.6053264566730286,0,1,de,WCE,Europe
+'243e9fb71b',extremes,Snow&Ice,#d60d2b,wmo,Schnee liezen,2026-01-26T04:09:00+00:00,Austria,0.6052030486450998,0,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6046858696629936,1,2,de,WCE,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,Niederschlag Italien,2026-01-17T03:44:00+00:00,Italy,0.6029292264465166,2,2,de,MED,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6019854113128257,2,3,de,WCE,Europe
