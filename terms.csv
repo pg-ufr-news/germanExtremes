@@ -12,13 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6212347819132683,3,3,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6046858696629936,1,2,de,WCE,Europe
-'28cb1c3658',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Sankt-Pölten-Land,2026-01-18T03:57:00+00:00,Austria,0.6037620171843363,0,1,de,WCE,Europe
-'3f779991d0',extremes,Cold Wave,#a7e9fa,wmo,"eiskaltes Wien, köchelnd",2026-01-21T03:56:00+00:00,Austria,0.6036613565891658,0,1,de,WCE,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,Niederschlag Italien,2026-01-17T03:44:00+00:00,Italy,0.6029292264465166,2,2,de,MED,Europe
-'ab1ad446ae',extremes,Snow&Ice,#d60d2b,wmo,Frost Scheibbs,2026-01-24T03:48:00+00:00,Austria,0.6028226862828298,0,1,de,WCE,Europe
-'d5a558a9ea',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Zell am See,2026-01-23T04:03:00+00:00,Austria,0.6021947140791098,0,1,de,WCE,Europe
-'569e44f0ae',extremes,Snow&Ice,#d60d2b,wmo,Frost Wien Rudolfsheim FÃ¼nfhaus,2026-01-24T03:48:00+00:00,Austria,0.6021743945383812,0,1,de,WCE,Europe
-'93c13ac916',extremes,Snow&Ice,#d60d2b,wmo,Eis Eisenstadt Umgebung,2026-01-24T03:48:00+00:00,Austria,0.6021393512928341,0,1,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6019854113128257,2,3,de,WCE,Europe
 '64d13f8ed7',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Hartberg Fürstenfeld,2026-01-25T04:06:00+00:00,Austria,0.6019812453564981,0,1,de,WCE,Europe
 '07ce06ae23',extremes,Storm,#b3b2b1,wmo,Sturm Helgoland,2026-01-23T04:03:00+00:00,Germany,0.6018511019694601,0,1,de,WCE,Europe
@@ -214,6 +208,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddf4e139f6',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Eisenstadt Umgebung,2026-01-19T04:03:00+00:00,Austria,0.5136402742853864,1,1,de,WCE,Europe
 'd9edc58a09',extremes,Snow&Ice,#d60d2b,wmo,Schnee Appenzell,2026-01-31T04:16:00+00:00,Switzerland,0.5135479962549236,1,1,de,WCE,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,Regenmangel Italien,2026-01-15T10:57:00+00:00,Italy,0.5134095041557984,2,1,de,MED,Europe
+'28cb1c3658',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Sankt-Pölten-Land,2026-01-18T03:57:00+00:00,Austria,0.5131977146066858,1,1,de,WCE,Europe
+'3f779991d0',extremes,Cold Wave,#a7e9fa,wmo,"eiskaltes Wien, köchelnd",2026-01-21T03:56:00+00:00,Austria,0.5131121531007908,1,1,de,WCE,Europe
+'ab1ad446ae',extremes,Snow&Ice,#d60d2b,wmo,Frost Scheibbs,2026-01-24T03:48:00+00:00,Austria,0.5123992833404053,1,1,de,WCE,Europe
+'93c13ac916',extremes,Snow&Ice,#d60d2b,wmo,Eis Eisenstadt Umgebung,2026-01-24T03:48:00+00:00,Austria,0.511968463598909,1,1,de,WCE,Europe
+'d5a558a9ea',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Zell am See,2026-01-23T04:03:00+00:00,Austria,0.5118655069672433,1,1,de,WCE,Europe
+'569e44f0ae',extremes,Snow&Ice,#d60d2b,wmo,Frost Wien Rudolfsheim FÃ¼nfhaus,2026-01-24T03:48:00+00:00,Austria,0.511848235357624,1,1,de,WCE,Europe
 'e0bff0948c',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Zell am See,2026-01-19T04:03:00+00:00,Austria,0.5115589722066596,2,1,de,WCE,Europe
 '200c06c3b9',extremes,Storm,#b3b2b1,wmo,Sturm Elbe von Hamburg bis Cuxhaven,2026-01-30T04:21:00+00:00,Germany,0.5082354875492751,2,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-01-15T12:14:00+00:00,Luxembourg,0.5043030381924644,1,1,de,WCE,Europe
