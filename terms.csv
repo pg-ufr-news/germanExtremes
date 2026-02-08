@@ -14,6 +14,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6046858696629936,1,2,de,WCE,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,Niederschlag Italien,2026-01-17T03:44:00+00:00,Italy,0.6029292264465166,2,2,de,MED,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6019854113128257,2,3,de,WCE,Europe
+'8f731bf079',extremes,Snow&Ice,#d60d2b,wmo,Frost Wien köchelt,2026-01-24T03:48:00+00:00,Austria,0.6000545788784154,0,1,de,WCE,Europe
+'e3ceed4617',extremes,Snow&Ice,#d60d2b,wmo,Eis Langenthal,2026-01-29T04:19:00+00:00,Switzerland,0.5997293867626233,0,1,de,WCE,Europe
+'246dc46b71',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Weiz,2026-01-24T03:48:00+00:00,Austria,0.599372335023949,0,1,de,WCE,Europe
+'bbbcfd6488',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Leibnitz,2026-01-22T03:59:00+00:00,Austria,0.5993555493083011,0,1,de,WCE,Europe
+'98b2ac564d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Roststadt,2026-01-25T04:06:00+00:00,Austria,0.5993006243247601,0,1,de,WCE,Europe
+'72ee28d79d',extremes,Storm,#b3b2b1,wmo,Sturmflut st. Stephan Lenk,2026-02-03T04:27:00+00:00,Switzerland,0.5991436962068688,0,1,de,WCE,Europe
+'4213b8a736',extremes,Storm,#b3b2b1,wmo,Sturmflut Gersau Engelbergertal,2026-01-27T03:58:00+00:00,Switzerland,0.5988419160257209,0,1,de,WCE,Europe
+'5e1cc9a0c3',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Meiringen Gadmertal,2026-01-24T03:48:00+00:00,Switzerland,0.598724280549291,0,1,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-01-17T03:44:00+00:00,Switzerland,0.5944009155118665,2,1,de,WCE,Europe
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-01-19T04:03:00+00:00,Iceland,0.590053701978163,1,2,de,GIC,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2026-01-17T03:44:00+00:00,Italy,0.5842012100883573,1,2,de,MED,Europe
@@ -316,7 +324,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cbda6735c3',extremes,Storm,#b3b2b1,wmo,Sturmflut Appenzell,2026-01-28T03:56:00+00:00,Switzerland,0.4641383630533894,2,1,de,WCE,Europe
 '8ebba92b76',extremes,Snow&Ice,#d60d2b,wmo,Frost Zurzach Bülach,2026-01-24T03:48:00+00:00,Switzerland,0.4640536881048736,2,1,de,WCE,Europe
 'a07f9a3b5e',extremes,Snow&Ice,#d60d2b,wmo,Eis-Mendrisiotto,2026-01-23T04:03:00+00:00,Switzerland,0.4635601440632759,2,1,de,WCE,Europe
-'b94cf614b9',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren weiz,2026-01-19T04:03:00+00:00,Austria,0.46346759547994265,2,1,de,WCE,Europe
+'b94cf614b9',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren weiz,2026-01-19T04:03:00+00:00,Austria,0.4634675954799426,2,1,de,WCE,Europe
 'c4e95835b8',extremes,Storm,#b3b2b1,wmo,Sturm Urner Oberland,2026-01-28T03:56:00+00:00,Switzerland,0.4633115317454705,2,1,de,WCE,Europe
 '74236bd182',extremes,Drought,#edc291,edo,Mangel an Regen Island,2026-01-15T10:57:00+00:00,Iceland,0.4628176924726445,2,1,de,GIC,Europe
 '474905c6c6',extremes,Drought,#edc291,edo,Regenmangel in Namibia,2026-01-15T10:57:00+00:00,Namibia,0.4625136337639474,2,1,de,WSAF,Africa
