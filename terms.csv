@@ -11,13 +11,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.6325377910943433,1,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6212347819132683,3,3,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-01-22T03:59:00+00:00,Switzerland,0.6210613173535521,1,2,de,WCE,Europe
-'d17f364001',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Südoststeiermark,2026-01-22T03:59:00+00:00,Austria,0.6198118783552932,0,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6046858696629936,1,2,de,WCE,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,Niederschlag Italien,2026-01-17T03:44:00+00:00,Italy,0.6029292264465166,2,2,de,MED,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6019854113128257,2,3,de,WCE,Europe
-'a6acd1df61',extremes,Snow&Ice,#d60d2b,wmo,Eis Wolfsberg,2026-01-26T04:09:00+00:00,Austria,0.5985686379949161,0,1,de,WCE,Europe
-'96957773c4',extremes,Fog,#d60d2b,wmo,Nebel Luxemburg,2026-01-21T03:56:00+00:00,Belgium,0.5979295882732356,0,1,de,WCE,Europe
-'8d7719b0b0',extremes,Snow&Ice,#d60d2b,wmo,Frost Mistelbach,2026-01-24T03:48:00+00:00,Austria,0.5978317234183448,0,1,de,WCE,Europe
 'ae83d286c7',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Belgien,2026-01-21T03:56:00+00:00,Belgium,0.5975821048200667,0,1,de,WCE,Europe
 '823744e2c9',extremes,Snow&Ice,#d60d2b,wmo,Schnee Meiringen Gadmertal,2026-01-29T04:19:00+00:00,Switzerland,0.5974944782655339,0,1,de,WCE,Europe
 'eb3b703384',extremes,Cold Wave,#a7e9fa,wmo,Gefrierende Eisenstadtumgebung,2026-01-22T03:59:00+00:00,Austria,0.5973814096658546,0,1,de,WCE,Europe
@@ -100,6 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c78ca287c3',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Braunau am Inn,2026-01-21T03:56:00+00:00,Austria,0.5270189665028405,1,1,de,WCE,Europe
 'fe2e88389c',extremes,Snow&Ice,#d60d2b,wmo,Frost Wien Döbling,2026-01-25T04:06:00+00:00,Austria,0.5268697216099754,1,1,de,WCE,Europe
 '8f986a86a6',extremes,Storm,#b3b2b1,wmo,Sturmflut Landquart Chur,2026-01-28T03:56:00+00:00,Switzerland,0.5268579510522186,1,1,de,WCE,Europe
+'d17f364001',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Südoststeiermark,2026-01-22T03:59:00+00:00,Austria,0.5268400966019992,1,1,de,WCE,Europe
 '0a7cd5bb4e',extremes,Snow&Ice,#d60d2b,wmo,gefrierende Milch,2026-01-24T03:48:00+00:00,Austria,0.5268326059968531,1,1,de,WCE,Europe
 '17e47d0ad4',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren Hartberg Fürstenfeld,2026-01-19T04:03:00+00:00,Austria,0.5264149268589727,1,1,de,WCE,Europe
 '1c530e8995',extremes,Storm,#b3b2b1,wmo,Sturm flüelen unterschächen,2026-01-28T03:56:00+00:00,Switzerland,0.526355133889883,1,1,de,WCE,Europe
@@ -221,6 +218,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72ee28d79d',extremes,Storm,#b3b2b1,wmo,Sturmflut st. Stephan Lenk,2026-02-03T04:27:00+00:00,Switzerland,0.5092721417758385,1,1,de,WCE,Europe
 '4213b8a736',extremes,Storm,#b3b2b1,wmo,Sturmflut Gersau Engelbergertal,2026-01-27T03:58:00+00:00,Switzerland,0.5090156286218628,1,1,de,WCE,Europe
 '5e1cc9a0c3',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Meiringen Gadmertal,2026-01-24T03:48:00+00:00,Switzerland,0.5089156384668974,1,1,de,WCE,Europe
+'a6acd1df61',extremes,Snow&Ice,#d60d2b,wmo,Eis Wolfsberg,2026-01-26T04:09:00+00:00,Austria,0.5087833422956787,1,1,de,WCE,Europe
+'8d7719b0b0',extremes,Snow&Ice,#d60d2b,wmo,Frost Mistelbach,2026-01-24T03:48:00+00:00,Austria,0.508306979905593,1,1,de,WCE,Europe
+'96957773c4',extremes,Fog,#d60d2b,wmo,Nebel Luxemburg,2026-01-21T03:56:00+00:00,Belgium,0.5082401500322502,1,1,de,WCE,Europe
 '200c06c3b9',extremes,Storm,#b3b2b1,wmo,Sturm Elbe von Hamburg bis Cuxhaven,2026-01-30T04:21:00+00:00,Germany,0.5082354875492751,2,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-01-15T12:14:00+00:00,Luxembourg,0.5043030381924644,1,1,de,WCE,Europe
 'a98d14da6d',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Salzburg Stadt,2026-01-19T04:03:00+00:00,Austria,0.5039698309150286,2,2,de,WCE,Europe
