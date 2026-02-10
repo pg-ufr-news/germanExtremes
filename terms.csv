@@ -61,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e552d4230f',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Rohrbach,2026-01-19T04:03:00+00:00,Austria,0.5278965753339355,1,1,de,WCE,Europe
 '862ff4ce31',extremes,Cold Wave,#a7e9fa,wmo,Gefrierender Voitsberg,2026-01-19T04:03:00+00:00,Austria,0.5278935191354455,1,1,de,WCE,Europe
 '4ee7b77f09',extremes,Snow&Ice,#d60d2b,wmo,Frost Genf,2026-01-24T03:48:00+00:00,Switzerland,0.527764774019329,1,1,de,WCE,Europe
-'80a1b6ba6b',extremes,Drought,#edc291,edo,Dürre Belgien,2026-02-06T04:28:00+00:00,Belgium,0.527686443401611,1,1,de,WCE,Europe
 '5cf01663c8',extremes,Cold Wave,#a7e9fa,wmo,Gefrierende Salzburg-Stadt,2026-01-20T03:56:00+00:00,Austria,0.5272367890721137,1,1,de,WCE,Europe
 '2084dd4779',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Meidling,2026-01-18T03:57:00+00:00,Austria,0.5272096996560887,1,1,de,WCE,Europe
 'c78ca287c3',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Braunau am Inn,2026-01-21T03:56:00+00:00,Austria,0.5270189665028405,1,1,de,WCE,Europe
@@ -327,24 +326,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '64f2fc2dba',extremes,Storm,#b3b2b1,wmo,Sturmflut Glarus Nord Mitte,2026-01-28T03:56:00+00:00,Switzerland,0.4580363528784908,2,1,de,WCE,Europe
 '86989234c9',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Urfahrumgebung,2026-01-20T03:56:00+00:00,Austria,0.4579931538143059,2,1,de,WCE,Europe
 '2451a0325f',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Deutschlandsberg,2026-01-19T04:03:00+00:00,Austria,0.45780404245329,2,1,de,WCE,Europe
-'34f91ee9c0',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren wien alsergrund,2026-01-23T04:03:00+00:00,Austria,0.45713331858291384,2,1,de,WCE,Europe
+'34f91ee9c0',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren wien alsergrund,2026-01-23T04:03:00+00:00,Austria,0.4571333185829138,2,1,de,WCE,Europe
 'cb7da8e83f',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Braunau am Gasthaus,2026-01-20T03:56:00+00:00,Austria,0.4568307588396054,2,1,de,WCE,Europe
-'ca00830e00',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Hermagor,2026-01-19T04:03:00+00:00,Austria,0.45666980218876513,2,1,de,WCE,Europe
+'ca00830e00',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Hermagor,2026-01-19T04:03:00+00:00,Austria,0.4566698021887651,2,1,de,WCE,Europe
 '6faf696dd9',extremes,Earthquake,#870007,usgs,Erdbeben Akureyri,2026-01-25T04:05:00+00:00,Iceland,0.4564709551638302,2,1,de,GIC,Europe
 '9e2f17f043',extremes,Cold Wave,#a7e9fa,wmo,Gefrieren in Wien Hernals,2026-01-18T03:57:00+00:00,Austria,0.4562633890937751,2,1,de,WCE,Europe
-'306fcee257',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien liegt,2026-01-23T04:03:00+00:00,Austria,0.45624955027068564,2,1,de,WCE,Europe
+'306fcee257',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien liegt,2026-01-23T04:03:00+00:00,Austria,0.4562495502706856,2,1,de,WCE,Europe
 'db05a91fee',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostfriesische KÃ¼ste Helgoland,2026-01-25T04:06:00+00:00,Germany,0.4561336833582636,2,1,de,WCE,Europe
-'1938b369dd',extremes,Storm,#b3b2b1,wmo,Sturmflut Rheintal,2026-01-28T03:56:00+00:00,Switzerland,0.45612293070675747,2,1,de,WCE,Europe
-'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Laufental,2026-01-24T03:48:00+00:00,Switzerland,0.45605022342488527,2,1,de,WCE,Europe
+'1938b369dd',extremes,Storm,#b3b2b1,wmo,Sturmflut Rheintal,2026-01-28T03:56:00+00:00,Switzerland,0.4561229307067574,2,1,de,WCE,Europe
+'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Laufental,2026-01-24T03:48:00+00:00,Switzerland,0.4560502234248852,2,1,de,WCE,Europe
 '9d11a5b2c2',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Neunkirchen,2026-01-20T03:56:00+00:00,Austria,0.4556591959230344,2,1,de,WCE,Europe
 '2ed5b60e4d',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Korneuburg,2026-01-23T04:03:00+00:00,Austria,0.4556300840212792,2,1,de,WCE,Europe
 'd94ba52881',extremes,Snow&Ice,#d60d2b,wmo,Eis Huttwil Willisau,2026-01-24T03:48:00+00:00,Switzerland,0.4554462969687877,2,1,de,WCE,Europe
 '0bfa049b47',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Döbling,2026-01-20T03:56:00+00:00,Austria,0.4553739832905674,2,1,de,WCE,Europe
 'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Vallon de Saint Imier,2026-01-24T03:48:00+00:00,Switzerland,0.4550972839423355,2,1,de,WCE,Europe
-'c310d544e9',extremes,Cold Wave,#a7e9fa,wmo,eiskalt sankt veit an der glän,2026-01-18T03:57:00+00:00,Austria,0.45465523702309724,2,1,de,WCE,Europe
+'c310d544e9',extremes,Cold Wave,#a7e9fa,wmo,eiskalt sankt veit an der glän,2026-01-18T03:57:00+00:00,Austria,0.4546552370230972,2,1,de,WCE,Europe
 'dffe1742c9',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Zug Knonau,2026-01-24T03:48:00+00:00,Switzerland,0.4514092065750505,2,1,de,WCE,Europe
 'cdb8e11bf0',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Bruck an der Leitha,2026-01-21T03:56:00+00:00,Austria,0.4506057876391141,2,1,de,WCE,Europe
 '0bacbf68bf',extremes,Snow&Ice,#d60d2b,wmo,Frost Waidhofen an der Ybbs Stadt,2026-01-24T03:48:00+00:00,Austria,0.4490290828871394,2,1,de,WCE,Europe
+'80a1b6ba6b',extremes,Drought,#edc291,edo,Dürre Belgien,2026-02-06T04:28:00+00:00,Belgium,0.4486834918913693,2,1,de,WCE,Europe
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,Schneesturm,2026-01-15T10:39:00+00:00,,0.4260955734658572,1,3,de,,
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-01-25T04:06:00+00:00,Switzerland,0.4241564769831947,3,1,de,WCE,Europe
 '2da927ee5a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Hallein,2026-01-21T03:56:00+00:00,Austria,0.4197077908316057,3,1,de,WCE,Europe
