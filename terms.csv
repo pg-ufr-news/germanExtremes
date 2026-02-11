@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
 'b76764ebb6',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wiener Neustadt,2026-01-18T03:57:00+00:00,Austria,0.6607383513277904,3,2,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6513883089965669,2,3,de,WCE,Europe
-'d9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-02-08T04:43:00+00:00,Austria,0.6415300037222057,0,1,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.6331205514941082,2,3,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-01-23T04:03:00+00:00,Switzerland,0.6237750475049337,3,3,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6212347819132683,3,3,de,WCE,Europe
@@ -40,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-01-18T03:57:00+00:00,Austria,0.5504716181444775,2,1,de,WCE,Europe
 'a2c13d57b3',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Schärding,2026-01-21T03:56:00+00:00,Austria,0.5501822958159246,1,1,de,WCE,Europe
 'e083c2b821',extremes,Snow&Ice,#d60d2b,wmo,Schnee Saint Cergue,2026-01-22T03:59:00+00:00,Switzerland,0.5487914433624002,1,1,de,WCE,Europe
+'d9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-02-08T04:43:00+00:00,Austria,0.5466506381638748,1,1,de,WCE,Europe
 '3128ad0d0e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Gmünd,2026-01-18T03:57:00+00:00,Austria,0.5457493385101759,2,1,de,WCE,Europe
 'ab79a002de',extremes,Storm,#b3b2b1,wmo,Sturmflut Nordfriesische Küste,2026-01-21T03:56:00+00:00,Germany,0.5407918508479405,2,1,de,WCE,Europe
 '3cbaf14869',extremes,Snow&Ice,#d60d2b,wmo,Frost Val de Travers,2026-01-24T03:48:00+00:00,Switzerland,0.5396615234018933,1,1,de,WCE,Europe
