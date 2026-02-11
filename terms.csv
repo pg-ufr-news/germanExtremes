@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-01-17T03:44:00+00:00,Germany,0.5993755546306543,2,3,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-01-17T03:44:00+00:00,Switzerland,0.5944009155118665,2,1,de,WCE,Europe
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-01-19T04:03:00+00:00,Iceland,0.590053701978163,1,2,de,GIC,Europe
-'ddb888f66d',extremes,Tropical Cyclone,#4f4f4f,cmeter,Mittelmeer-Zyklon Harry Italien,2026-02-08T04:44:00+00:00,Italy,0.5877459986573065,0,1,de,MED,Europe
 '20cc17d899',extremes,Snow&Ice,#d60d2b,wmo,Schnee Emmen Hochdorf,2026-01-29T04:19:00+00:00,Switzerland,0.5875332000882064,0,1,de,WCE,Europe
 '0120f3b275',extremes,Snow&Ice,#d60d2b,wmo,Eis Effretikon,2026-01-30T04:21:00+00:00,Switzerland,0.587527229904809,0,1,de,WCE,Europe
 'edd4f879af',extremes,Storm,#b3b2b1,wmo,Sturm Savognin,2026-02-03T04:27:00+00:00,Switzerland,0.5872196432473848,0,1,de,WCE,Europe
@@ -209,6 +208,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b2f1e7e0a',extremes,Snow&Ice,#d60d2b,wmo,Eis Bellinzona,2026-01-29T04:19:00+00:00,Switzerland,0.5005139166154194,1,1,de,WCE,Europe
 '8f10e40de2',extremes,Storm,#b3b2b1,wmo,Sturmflut Adelboden Kandersteg,2026-02-02T04:36:00+00:00,Switzerland,0.5002303664883009,1,1,de,WCE,Europe
 'f1f521fee3',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Spittal an der Drau,2026-01-18T03:57:00+00:00,Austria,0.5000967038103857,2,1,de,WCE,Europe
+'ddb888f66d',extremes,Tropical Cyclone,#4f4f4f,cmeter,Mittelmeer-Zyklon Harry Italien,2026-02-08T04:44:00+00:00,Italy,0.4998841288587105,1,1,de,MED,Europe
 '4cc099357b',extremes,Snow&Ice,#d60d2b,wmo,Frost Wolfsberg,2026-01-24T03:48:00+00:00,Austria,0.4998352129046253,1,1,de,WCE,Europe
 '98e8c9c840',extremes,Snow&Ice,#d60d2b,wmo,Eis Österreich,2026-01-17T03:44:00+00:00,Austria,0.4994652680601118,1,2,de,WCE,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,Staubwolken,2026-01-15T10:39:00+00:00,,0.4991956381965196,1,2,de,,
