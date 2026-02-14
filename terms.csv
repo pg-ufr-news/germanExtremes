@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-01-20T03:56:00+00:00,Italy,0.6715271886552422,4,2,de,MED,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-01-26T04:09:00+00:00,Germany,0.670501057514621,1,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6612359048137261,1,2,de,WCE,Europe
 'b76764ebb6',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wiener Neustadt,2026-01-18T03:57:00+00:00,Austria,0.6607383513277904,3,2,de,WCE,Europe
+'075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-01-20T03:56:00+00:00,Italy,0.6542664571751377,5,2,de,MED,Europe
 '7a607a46da',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Ottakring,2026-01-22T03:59:00+00:00,Austria,0.6526328694759463,4,1,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6513883089965669,2,3,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-01-15T12:14:00+00:00,Germany,0.6479153416072921,3,1,de,WCE,Europe
