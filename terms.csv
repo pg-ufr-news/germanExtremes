@@ -12,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,Niederschlag Italien,2026-01-17T03:44:00+00:00,Italy,0.6029292264465166,2,2,de,MED,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6019854113128257,2,3,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-01-17T03:44:00+00:00,Germany,0.5993755546306543,2,3,de,WCE,Europe
+'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.5980675704609829,2,3,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-01-17T03:44:00+00:00,Switzerland,0.5944009155118665,2,1,de,WCE,Europe
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-01-19T04:03:00+00:00,Iceland,0.590053701978163,1,2,de,GIC,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2026-01-17T03:44:00+00:00,Italy,0.5842012100883573,1,2,de,MED,Europe
@@ -20,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb82a83d3f',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Waidhofen an der Thaya,2026-01-19T04:03:00+00:00,Austria,0.5762112319572597,2,1,de,WCE,Europe
 '764bd46d5a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien liegt,2026-01-18T03:57:00+00:00,Austria,0.5760668579452631,2,2,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-02-05T04:28:00+00:00,Germany,0.5747416092008482,2,2,de,WCE,Europe
-'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.5705494299540975,1,2,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-01-17T03:44:00+00:00,Switzerland,0.5679810340340585,2,1,de,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-01-18T03:57:00+00:00,Italy,0.5581612410471049,2,1,de,MED,Europe
 '5697900bff',extremes,Snow&Ice,#d60d2b,wmo,Schnee Alto Moesano,2026-01-15T12:14:00+00:00,Switzerland,0.5574825996307191,2,1,de,WCE,Europe
@@ -66,7 +66,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb719e18f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Sankt Pölten Stadt,2026-01-22T03:59:00+00:00,Austria,0.5176552433257312,1,1,de,WCE,Europe
 '35cc35a19d',extremes,Storm,#b3b2b1,wmo,Sturm wahlern plaffeien,2026-02-13T04:34:00+00:00,Switzerland,0.5174736024554343,1,1,de,WCE,Europe
 'aebb5947e0',extremes,Snow&Ice,#d60d2b,wmo,Frost Mattersburg,2026-01-24T03:48:00+00:00,Austria,0.5173177903584897,1,1,de,WCE,Europe
-'32c7ac3053',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Bellinzona,2026-01-25T04:06:00+00:00,Switzerland,0.5166820527395676,1,1,de,WCE,Europe
 'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,Sturmflut obersimmental,2026-02-11T04:41:00+00:00,Switzerland,0.516480425886582,1,1,de,WCE,Europe
 'a5523de68d',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Feldkirchen,2026-01-21T03:56:00+00:00,Austria,0.5163949629339564,1,1,de,WCE,Europe
 'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes frutigen Kiental,2026-01-29T04:19:00+00:00,Switzerland,0.5156892357098959,1,1,de,WCE,Europe
@@ -413,6 +412,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '86c963c6a2',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Hallein,2026-01-19T04:03:00+00:00,Austria,0.440529301861507,2,1,de,WCE,Europe
 'c632cf6b6e',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Kirchdorf an der Krems,2026-01-22T03:59:00+00:00,Austria,0.4402084815451877,2,1,de,WCE,Europe
 '5cce08d482',extremes,Cold Wave,#a7e9fa,wmo,Gefrierendes Deutschlandsberg,2026-01-20T03:56:00+00:00,Austria,0.4399516108574952,2,1,de,WCE,Europe
+'32c7ac3053',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Bellinzona,2026-01-25T04:06:00+00:00,Switzerland,0.4391797448286324,2,1,de,WCE,Europe
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropischer Wirbelsturm Italien,2026-01-28T03:57:00+00:00,Italy,0.4377586244628071,3,1,de,MED,Europe
 '528ed09d54',extremes,Snow&Ice,#d60d2b,wmo,Eis Oberes Baselbiet,2026-01-24T03:48:00+00:00,Switzerland,0.4343720209954387,2,1,de,WCE,Europe
 '476889e481',extremes,Storm,#b3b2b1,wmo,Sturmflut Muotathal,2026-02-13T04:34:00+00:00,Switzerland,0.4340384414293212,2,1,de,WCE,Europe
