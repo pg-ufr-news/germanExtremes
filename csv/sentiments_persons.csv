@@ -1,15 +1,25 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Donald Trump,Donald Trump,PERSON,0.07413419913419912,0.34523809523809523,en,2.1
+Lindsey Vonn,Lindsey Vonn,PERSON,0.587719298245614,0.8157894736842105,en,1.9000000000000001
 Alexander Zverev,Alexander Zverev,PERSON,0.2631578947368421,0.2631578947368421,en,1.9
-Donald Trump,Donald Trump,PERSON,0.08648989898989898,0.40277777777777773,en,1.8
+Manuel Hagel,Manuel Hagel,PERSON,0.05555555555555556,0.05555555555555556,en,1.8
+Moritz Seider,Moritz Seider,PERSON,0.0,0.5555555555555556,en,1.8
 Thees Uhlmann,Thees Uhlmann,PERSON,0.0,0.05128205128205128,en,1.3
 HBO Max,HBO Max,PERSON,0.15000000000000002,0.24166666666666664,en,1.0
-Mark Mateschitz,Mark Mateschitz,PERSON,0.0,0.0,en,1.0
-Benedikt Wüthrich,Benedikt Wüthrich,PERSON,1.0,1.0,en,1.0
-Freezing rain,Freezing rain,PERSON,-0.13333333333333333,0.26666666666666666,en,1.0
-Ramona Hofmeister,Ramona Hofmeister,PERSON,-0.11666666666666668,0.20000000000000004,en,1.0
-Wismar - He,Wismar - He,PERSON,0.0,0.0,en,1.0
-Yuri Durkot,Yuri Durkot,PERSON,0.25,0.3333333333333333,en,1.0
-Olga Mikutina,Olga Mikutina,PERSON,0.0,0.0,en,1.0
-Maurizio Zandron,Maurizio Zandron,PERSON,0.0,0.0,en,1.0
-Manuel Hagel,Manuel Hagel,PERSON,0.1,0.1,en,1.0
+Leon Draisaitl,Leon Draisaitl,PERSON,0.6666666666666666,1.0,en,1.0
+Hesse Boris Rhein,Hesse Boris Rhein,PERSON,0.0,0.0,en,1.0
+Markus Söder,Markus Söder,PERSON,0.0,0.0,en,1.0
 Giorgia Meloni,Giorgia Meloni,PERSON,0.0,0.0,en,1.0
+Wilhelm Gustloff,Wilhelm Gustloff,PERSON,0.5,0.8888888888888888,en,1.0
+Ursula Starke,Ursula Starke,PERSON,0.5,0.8888888888888888,en,1.0
+Maurizio Zandron,Maurizio Zandron,PERSON,0.0,0.0,en,1.0
+Julia Scheib,Julia Scheib,PERSON,0.125,0.6666666666666666,en,1.0
+Olga Mikutina,Olga Mikutina,PERSON,0.0,0.0,en,1.0
+Yuri Durkot,Yuri Durkot,PERSON,0.25,0.3333333333333333,en,1.0
+Gerald Gaß,Gerald Gaß,PERSON,-0.14375,0.3375,en,1.0
+Wismar - He,Wismar - He,PERSON,0.0,0.0,en,1.0
+Ramona Hofmeister,Ramona Hofmeister,PERSON,-0.11666666666666668,0.20000000000000004,en,1.0
+Freezing rain,Freezing rain,PERSON,-0.13333333333333333,0.26666666666666666,en,1.0
+Benedikt Wüthrich,Benedikt Wüthrich,PERSON,1.0,1.0,en,1.0
+Mark Mateschitz,Mark Mateschitz,PERSON,0.0,0.0,en,1.0
+Björn Alexander,Björn Alexander,PERSON,0.0,0.0,en,1.0
