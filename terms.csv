@@ -1,12 +1,20 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'491a9f7a5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Wernigerode,2026-02-23T04:37:00+00:00,Germany,0.7205030460924143,0,1,de,WCE,Europe
 'b5c7eaac43',extremes,Snow&Ice,#d60d2b,wmo,Frost Luxemburg,2026-02-15T04:35:00+00:00,Luxembourg,0.630630975677821,2,2,de,WCE,Europe
+'8fa1b857b6',extremes,Fog,#d60d2b,wmo,Nebel Umbrien,2026-02-23T04:37:00+00:00,Italy,0.6298040592653311,0,1,de,MED,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-01-15T12:14:00+00:00,Germany,0.6274922684696466,4,3,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-01-23T04:03:00+00:00,Switzerland,0.6237750475049337,3,3,de,WCE,Europe
 '90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-02-10T04:43:00+00:00,Germany,0.622526442479882,1,1,de,WCE,Europe
+'9e93dbaea9',extremes,Fog,#d60d2b,wmo,Nebel Kampanien,2026-02-23T04:37:00+00:00,Italy,0.6150820099623125,0,1,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6125005640916672,2,2,de,WCE,Europe
+'42e30eba93',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Josefstadt,2026-02-21T04:18:00+00:00,Austria,0.6123193267980203,0,1,de,WCE,Europe
+'c249e84ebc',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Amstetten,2026-02-20T04:27:00+00:00,Austria,0.6104192252787551,0,1,de,WCE,Europe
+'ed6c88156a',extremes,Snow&Ice,#d60d2b,wmo,Schnee im Südosten Islands,2026-02-23T04:37:00+00:00,Iceland,0.610400591979623,0,1,de,GIC,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6046858696629936,1,2,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6019854113128257,2,3,de,WCE,Europe
+'6ae251f006',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Donaustadt,2026-02-20T04:27:00+00:00,Austria,0.5985579221626384,0,1,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.5980675704609829,2,3,de,WCE,Europe
+'a726dd01c1',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Margareten,2026-02-21T04:18:00+00:00,Austria,0.5974020135695907,0,1,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-01-17T03:44:00+00:00,Switzerland,0.5944009155118665,2,1,de,WCE,Europe
 '61783b3c5c',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Innere Stadt,2026-01-18T03:57:00+00:00,Austria,0.5929156973756692,2,2,de,WCE,Europe
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-01-19T04:03:00+00:00,Iceland,0.590053701978163,1,2,de,GIC,Europe
