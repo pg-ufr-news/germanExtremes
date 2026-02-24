@@ -1,12 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-02-05T04:27:00+00:00,Germany,0.7329229510150019,0,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-02-07T04:19:00+00:00,Luxembourg,0.6664093292589746,0,1,de,WCE,Europe
+'0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-02-05T04:27:00+00:00,Germany,0.6547062519341802,1,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6125005640916672,2,2,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-01-15T12:14:00+00:00,Germany,0.6046858696629936,1,2,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6019854113128257,2,3,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.5980675704609829,2,3,de,WCE,Europe
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Island,2026-02-18T04:34:00+00:00,Iceland,0.5950379976372544,2,2,de,GIC,Europe
-'dcf82560b0',extremes,Fog,#d60d2b,wmo,Nebel Lombardei,2026-02-23T04:37:00+00:00,Italy,0.5932576118673504,0,1,de,MED,Europe
 '61783b3c5c',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Innere Stadt,2026-01-18T03:57:00+00:00,Austria,0.5929156973756692,2,2,de,WCE,Europe
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-01-19T04:03:00+00:00,Iceland,0.590053701978163,1,2,de,GIC,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-01-26T04:09:00+00:00,Germany,0.5885131775237915,2,2,de,WCE,Europe
@@ -146,6 +145,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75bf75dc59',extremes,Snow&Ice,#d60d2b,wmo,Frost Rheinfelden,2026-01-24T03:48:00+00:00,Switzerland,0.5044129760435196,1,1,de,WCE,Europe
 '3087bd26a7',extremes,Snow&Ice,#d60d2b,wmo,Schnee Langenthal,2026-01-24T03:48:00+00:00,Switzerland,0.5043617098412061,1,1,de,WCE,Europe
 '4c5c39aade',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Hietzing,2026-02-20T04:27:00+00:00,Austria,0.5043443314989386,1,1,de,WCE,Europe
+'dcf82560b0',extremes,Fog,#d60d2b,wmo,Nebel Lombardei,2026-02-23T04:37:00+00:00,Italy,0.5042689700872478,1,1,de,MED,Europe
 'a98d14da6d',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Salzburg Stadt,2026-01-19T04:03:00+00:00,Austria,0.5039698309150286,2,2,de,WCE,Europe
 '1b51011837',extremes,Snow&Ice,#d60d2b,wmo,Frost Blenio,2026-01-28T03:56:00+00:00,Switzerland,0.5039527470308298,1,1,de,WCE,Europe
 '0339ebc47c',extremes,Storm,#b3b2b1,wmo,Sturmflut Voitsberg,2026-02-15T04:35:00+00:00,Austria,0.5039421884442643,1,1,de,WCE,Europe
