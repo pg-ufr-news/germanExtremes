@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.7315714548527015,0,1,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-02-06T04:28:00+00:00,Switzerland,0.6833475128616411,0,1,de,WCE,Europe
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-02-21T04:18:00+00:00,Austria,0.6830897476140075,0,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-02-07T04:19:00+00:00,Luxembourg,0.6664093292589746,0,1,de,WCE,Europe
+'887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.6592269757157053,1,2,de,WCE,Europe
 '55459a4ab8',extremes,Drought,#edc291,edo,Dürre Luxemburg,2026-02-08T04:43:00+00:00,Luxembourg,0.6551270511356965,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-02-05T04:27:00+00:00,Germany,0.6547062519341802,1,2,de,WCE,Europe
 'f82cdd7aef',extremes,Fog,#d60d2b,wmo,Nebelbasilikata,2026-02-24T04:31:00+00:00,Italy,0.6272842730602696,0,1,de,MED,Europe
