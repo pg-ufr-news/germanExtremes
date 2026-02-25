@@ -1,5 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-02-07T04:19:00+00:00,Germany,0.7031472013054877,0,1,de,WCE,Europe
+'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Österreich,2026-02-15T04:35:00+00:00,Austria,0.6873848882162626,0,1,de,WCE,Europe
+'56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Österreich,2026-02-15T04:35:00+00:00,Austria,0.6814059101709242,0,1,de,WCE,Europe
+'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-02-20T04:27:00+00:00,Austria,0.6806174535105303,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-02-05T04:27:00+00:00,Germany,0.6547062519341802,1,2,de,WCE,Europe
+'8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-02-10T04:43:00+00:00,Italy,0.6427810609568541,0,1,de,MED,Europe
+'3550c99ca4',extremes,Fog,#d60d2b,wmo,Nebel Emilia e Romagna,2026-02-25T04:32:00+00:00,Italy,0.6299873148894162,0,1,de,MED,Europe
+'13ba8452d9',extremes,Fog,#d60d2b,wmo,Nebel Sizilien,2026-02-25T04:32:00+00:00,Italy,0.6241598660960975,0,1,de,MED,Europe
+'52ccb0fc6c',extremes,Fog,#d60d2b,wmo,Nebelmarsch,2026-02-25T04:32:00+00:00,Italy,0.6228095116660339,0,1,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-01-18T03:57:00+00:00,Germany,0.6125005640916672,2,2,de,WCE,Europe
 'f850363ed5',extremes,Snow&Ice,#d60d2b,wmo,Eis im SÃ¼dosten Islands,2026-02-24T04:31:00+00:00,Iceland,0.607104877967956,0,1,de,GIC,Europe
 'e215c4738c',extremes,Thunderstorm,#53785a,wmo,Unwetter Waidhofen an der Ybbs-Stadt,2026-02-24T04:31:00+00:00,Austria,0.6057140959825261,0,1,de,WCE,Europe
