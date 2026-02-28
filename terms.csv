@@ -14,7 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-01-19T04:03:00+00:00,Iceland,0.590053701978163,1,2,de,GIC,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-01-26T04:09:00+00:00,Germany,0.5885131775237915,2,2,de,WCE,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,Nebel Belgien,2026-01-28T03:56:00+00:00,Belgium,0.5848628246726159,2,2,de,WCE,Europe
-'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-02-11T04:41:00+00:00,Italy,0.5842847032846846,0,1,de,MED,Europe
 '507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2026-01-17T03:44:00+00:00,Italy,0.5842012100883573,1,2,de,MED,Europe
 '9f561018dc',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien Favoriten,2026-02-18T04:34:00+00:00,Austria,0.5837619040833844,0,1,de,WCE,Europe
 'b5133aaa57',extremes,Snow&Ice,#d60d2b,wmo,Frost domleschg,2026-02-18T04:34:00+00:00,Switzerland,0.5836845177646177,0,1,de,WCE,Europe
@@ -44,6 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '764bd46d5a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien liegt,2026-01-18T03:57:00+00:00,Austria,0.5760668579452631,2,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.5749216705881737,3,3,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-02-05T04:28:00+00:00,Germany,0.5747416092008482,2,2,de,WCE,Europe
+'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-02-11T04:41:00+00:00,Italy,0.5719420277919819,1,2,de,MED,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-02-07T04:19:00+00:00,Luxembourg,0.5664479298701284,1,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
 '7b60b91229',extremes,Fog,#d60d2b,wmo,Nebel Sardinien,2026-02-23T04:37:00+00:00,Italy,0.5627504264537468,1,1,de,MED,Europe
