@@ -38,9 +38,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-02-21T04:18:00+00:00,Austria,0.5806262854719064,1,1,de,WCE,Europe
 '56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Österreich,2026-02-15T04:35:00+00:00,Austria,0.5791950236452855,1,1,de,WCE,Europe
 '92615c8656',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Gmunden,2026-02-19T04:32:00+00:00,Austria,0.5791609387092962,0,1,de,WCE,Europe
+'5a4f91858c',extremes,Snow&Ice,#d60d2b,wmo,Frost Steyrland,2026-02-18T04:34:00+00:00,Austria,0.5789826051337582,0,1,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-02-20T04:27:00+00:00,Austria,0.5788248654839507,1,1,de,WCE,Europe
+'48482a5127',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Thun Belp,2026-02-18T04:34:00+00:00,Switzerland,0.5782108809705294,0,1,de,WCE,Europe
+'cfa6a7708a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Wien Innere Stadt,2026-02-18T04:34:00+00:00,Austria,0.5771905294831583,0,1,de,WCE,Europe
+'4377d8044c',extremes,Storm,#b3b2b1,wmo,Sturm Grindelwald,2026-02-12T04:37:00+00:00,Switzerland,0.5768852693697117,0,1,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.5768208808289,3,3,de,WCE,Europe
+'893cc7b286',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien Penzing,2026-02-18T04:34:00+00:00,Austria,0.5762167418973094,0,1,de,WCE,Europe
 '764bd46d5a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien liegt,2026-01-18T03:57:00+00:00,Austria,0.5760668579452631,2,2,de,WCE,Europe
+'8de397ffa0',extremes,Snow&Ice,#d60d2b,wmo,Frost Arolla,2026-02-12T04:37:00+00:00,Switzerland,0.5760027371394254,0,1,de,WCE,Europe
+'211cb14393',extremes,Precipitation,#d60d2b,wmo,Regen Belgien,2026-02-12T04:37:00+00:00,Belgium,0.5757195001464833,0,1,de,WCE,Europe
+'69fd24f23f',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Villach-Land,2026-02-20T04:27:00+00:00,Austria,0.5756756219026006,0,1,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.5749216705881737,3,3,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-02-05T04:28:00+00:00,Germany,0.5747416092008482,2,2,de,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-02-11T04:41:00+00:00,Italy,0.5719420277919819,1,2,de,MED,Europe
