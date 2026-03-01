@@ -43,8 +43,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8de397ffa0',extremes,Snow&Ice,#d60d2b,wmo,Frost Arolla,2026-02-12T04:37:00+00:00,Switzerland,0.5760027371394254,0,1,de,WCE,Europe
 '211cb14393',extremes,Precipitation,#d60d2b,wmo,Regen Belgien,2026-02-12T04:37:00+00:00,Belgium,0.5757195001464833,0,1,de,WCE,Europe
 '69fd24f23f',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Villach-Land,2026-02-20T04:27:00+00:00,Austria,0.5756756219026006,0,1,de,WCE,Europe
+'ddf6eaac77',extremes,Snow&Ice,#d60d2b,wmo,eiskalt nördliches Tavetsch,2026-02-13T04:34:00+00:00,Switzerland,0.575573144646642,0,1,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.5749216705881737,3,3,de,WCE,Europe
+'353b95cef3',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Margareten,2026-02-20T04:27:00+00:00,Austria,0.5748825036500954,0,1,de,WCE,Europe
+'0d8aaf3bff',extremes,Snow&Ice,#d60d2b,wmo,Frost Gmunden,2026-02-17T04:31:00+00:00,Austria,0.5747812785677179,0,1,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-02-05T04:28:00+00:00,Germany,0.5747416092008482,2,2,de,WCE,Europe
+'88253a266d',extremes,Snow&Ice,#d60d2b,wmo,Eis liezen,2026-02-24T04:31:00+00:00,Austria,0.574639863089208,0,1,de,WCE,Europe
+'7e5082b57e',extremes,Snow&Ice,#d60d2b,wmo,Eis Sankt Johann im Pongau,2026-02-17T04:31:00+00:00,Austria,0.574167135431641,0,1,de,WCE,Europe
+'98d97ee736',extremes,Snow&Ice,#d60d2b,wmo,Eisbruck an der Leitha,2026-02-18T04:34:00+00:00,Austria,0.574065737089156,0,1,de,WCE,Europe
+'7b858cb37c',extremes,Snow&Ice,#d60d2b,wmo,Frost Wohlen Albis,2026-02-18T04:34:00+00:00,Switzerland,0.5734020716414426,0,1,de,WCE,Europe
+'7d1d0c8440',extremes,Snow&Ice,#d60d2b,wmo,Schnee Thalwil Wetzikon,2026-02-18T04:34:00+00:00,Switzerland,0.5733547891695863,0,1,de,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-02-11T04:41:00+00:00,Italy,0.5719420277919819,1,2,de,MED,Europe
 'ac5124b5f7',extremes,Snow&Ice,#d60d2b,wmo,Eis innsbruck stadt,2026-02-19T04:32:00+00:00,Austria,0.5713017437733555,1,2,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-02-07T04:19:00+00:00,Luxembourg,0.5664479298701284,1,1,de,WCE,Europe
@@ -255,7 +263,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '390332f107',extremes,Storm,#b3b2b1,wmo,Sturm Küblis Klosters,2026-02-02T04:36:00+00:00,Switzerland,0.495677731909408,1,1,de,WCE,Europe
 '31ac7af311',extremes,Storm,#b3b2b1,wmo,Sturm binntal,2026-02-03T04:27:00+00:00,Switzerland,0.4956677272308012,1,1,de,WCE,Europe
 'e3c8c73b39',extremes,Snow&Ice,#d60d2b,wmo,"Schnee im Val de Ruz, Kolumbien",2026-02-18T04:34:00+00:00,Switzerland,0.4955117530085218,1,1,de,WCE,Europe
-'426ae6362d',extremes,Snow&Ice,#d60d2b,wmo,Frost Oron – Haute Broye,2026-02-18T04:34:00+00:00,Switzerland,0.49534410711400995,1,1,de,WCE,Europe
+'426ae6362d',extremes,Snow&Ice,#d60d2b,wmo,Frost Oron – Haute Broye,2026-02-18T04:34:00+00:00,Switzerland,0.4953441071140099,1,1,de,WCE,Europe
 'b4bfb577ca',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Amstetten,2026-02-18T04:34:00+00:00,Austria,0.4952266695433878,1,1,de,WCE,Europe
 '3bfe7304ec',extremes,Storm,#b3b2b1,wmo,Sturm Oberwart,2026-02-15T04:35:00+00:00,Austria,0.4951194181490599,1,1,de,WCE,Europe
 '7b038a7cee',extremes,Snow&Ice,#d60d2b,wmo,Eis Marthalen Stammheim,2026-01-29T04:19:00+00:00,Switzerland,0.4947539953788094,1,1,de,WCE,Europe
