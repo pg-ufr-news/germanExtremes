@@ -21,10 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '764bd46d5a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien liegt,2026-01-18T03:57:00+00:00,Austria,0.5760668579452631,2,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.5749216705881737,3,3,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-02-05T04:28:00+00:00,Germany,0.5747416092008482,2,2,de,WCE,Europe
-'865055a92a',extremes,Storm,#b3b2b1,wmo,Sturm Neunkirchen,2026-02-15T04:35:00+00:00,Austria,0.5709899484719189,0,1,de,WCE,Europe
-'03ff01ab82',extremes,Snow&Ice,#d60d2b,wmo,Eis Appenzell,2026-02-15T04:35:00+00:00,Switzerland,0.5709018749078275,0,1,de,WCE,Europe
-'5df2f9cece',extremes,Precipitation,#d60d2b,wmo,Regenguss vor den Waadtländer Alpen,2026-02-13T04:34:00+00:00,Switzerland,0.57078640497169,0,1,de,WCE,Europe
-'15e9787b38',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Favoriten,2026-02-21T04:18:00+00:00,Austria,0.5703829860078911,0,1,de,WCE,Europe
 '1bacbbc4f6',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien währing,2026-02-18T04:34:00+00:00,Austria,0.5701826327357837,0,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-02-07T04:19:00+00:00,Luxembourg,0.5664479298701284,1,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
@@ -305,9 +301,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c5d59d5b4',extremes,Storm,#b3b2b1,wmo,Sturm Hartberg Fürstenfeld,2026-02-15T04:35:00+00:00,Austria,0.4866999511302555,1,1,de,WCE,Europe
 '29becdb14d',extremes,Snow&Ice,#d60d2b,wmo,Eislötschental Naters,2026-02-17T04:31:00+00:00,Switzerland,0.4863311218567248,1,1,de,WCE,Europe
 '1ab044b283',extremes,Storm,#b3b2b1,wmo,Sturmflut thal,2026-02-12T04:37:00+00:00,Switzerland,0.4862227399886504,1,1,de,WCE,Europe
-'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-02-11T04:41:00+00:00,Italy,0.48615075362318455,2,1,de,MED,Europe
+'7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-02-11T04:41:00+00:00,Italy,0.4861507536231845,2,1,de,MED,Europe
 '97d060f71c',extremes,Snow&Ice,#d60d2b,wmo,Eis Dornbirn,2026-02-16T04:38:00+00:00,Austria,0.4859407125374504,1,1,de,WCE,Europe
-'ea3851aef0',extremes,Storm,#b3b2b1,wmo,Sturmflut Mattersburg,2026-02-15T04:35:00+00:00,Austria,0.48563100111003016,1,1,de,WCE,Europe
+'ea3851aef0',extremes,Storm,#b3b2b1,wmo,Sturmflut Mattersburg,2026-02-15T04:35:00+00:00,Austria,0.4856310011100301,1,1,de,WCE,Europe
+'865055a92a',extremes,Storm,#b3b2b1,wmo,Sturm Neunkirchen,2026-02-15T04:35:00+00:00,Austria,0.485341456201131,1,1,de,WCE,Europe
+'03ff01ab82',extremes,Snow&Ice,#d60d2b,wmo,Eis Appenzell,2026-02-15T04:35:00+00:00,Switzerland,0.48526659367165337,1,1,de,WCE,Europe
+'5df2f9cece',extremes,Precipitation,#d60d2b,wmo,Regenguss vor den Waadtländer Alpen,2026-02-13T04:34:00+00:00,Switzerland,0.48516844422593647,1,1,de,WCE,Europe
+'15e9787b38',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Favoriten,2026-02-21T04:18:00+00:00,Austria,0.48497555310670737,1,1,de,WCE,Europe
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,Eis Monthey Val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.4821108892849567,2,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-02-03T04:27:00+00:00,Austria,0.4806872962630576,2,3,de,WCE,Europe
 '3db2345e5f',extremes,Snow&Ice,#d60d2b,wmo,Eis Muotathal,2026-02-15T04:35:00+00:00,Switzerland,0.4797734830122535,2,1,de,WCE,Europe
