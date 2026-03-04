@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-02-25T04:32:00+00:00,Germany,0.7252923593745435,0,1,de,WCE,Europe
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Österreich,2026-02-15T04:35:00+00:00,Austria,0.661957502711096,1,3,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-02-05T04:27:00+00:00,Germany,0.6547062519341802,1,2,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-02-25T04:32:00+00:00,Germany,0.6469756093025448,2,3,de,WCE,Europe
@@ -18,7 +19,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-01-15T12:14:00+00:00,Germany,0.5768208808289,3,3,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.5749216705881737,3,3,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-02-05T04:28:00+00:00,Germany,0.5747416092008482,2,2,de,WCE,Europe
+'5968efe764',extremes,Precipitation,#d60d2b,wmo,Regen Österreich,2026-02-24T04:31:00+00:00,Austria,0.5676152807760445,0,1,de,WCE,Europe
+'963a753127',extremes,Storm,#b3b2b1,wmo,Sturmflut franÃ§ais montagnes,2026-02-12T04:37:00+00:00,Switzerland,0.5675038879688233,0,1,de,WCE,Europe
+'3a9476672d',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Emmen Hochdorf,2026-02-18T04:34:00+00:00,Switzerland,0.5673399889717708,0,1,de,WCE,Europe
+'19287ac03e',extremes,Snow&Ice,#d60d2b,wmo,Eis Mattersburg,2026-02-20T04:27:00+00:00,Austria,0.5667990928988127,0,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-02-07T04:19:00+00:00,Luxembourg,0.5664479298701284,1,1,de,WCE,Europe
+'bb60b00e6e',extremes,Snow&Ice,#d60d2b,wmo,Frost Küblis Klosters,2026-02-15T04:35:00+00:00,Switzerland,0.5663747973981496,0,1,de,WCE,Europe
+'d870a9bb03',extremes,Snow&Ice,#d60d2b,wmo,Schnee Saanen Gsteig,2026-02-11T04:41:00+00:00,Switzerland,0.5662869038014325,0,1,de,WCE,Europe
+'c8eedc828c',extremes,Snow&Ice,#d60d2b,wmo,Frost Schangnau Sigriswil,2026-02-18T04:34:00+00:00,Switzerland,0.5662594043633106,0,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-02-10T04:43:00+00:00,Italy,0.5625123514621607,1,1,de,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-01-23T04:03:00+00:00,Switzerland,0.5624335426519209,4,3,de,WCE,Europe
@@ -311,7 +319,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f32c45a3c4',extremes,Snow&Ice,#d60d2b,wmo,Schnee flüelen unterschächen,2026-02-12T04:37:00+00:00,Switzerland,0.4833566917545974,1,1,de,WCE,Europe
 '6db196ebc9',extremes,Snow&Ice,#d60d2b,wmo,Eiswahlern Plaffeien,2026-02-18T04:34:00+00:00,Switzerland,0.4832554981817586,1,1,de,WCE,Europe
 'c9436df8cd',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Stadt Isny ​​im Allgäu,2026-02-13T04:34:00+00:00,Germany,0.4831922633322593,1,1,de,WCE,Europe
-'bb24a4fbb7',extremes,Precipitation,#d60d2b,wmo,Regenguss Österreich,2026-02-24T04:31:00+00:00,Austria,0.48284471948225566,1,1,de,WCE,Europe
+'bb24a4fbb7',extremes,Precipitation,#d60d2b,wmo,Regenguss Österreich,2026-02-24T04:31:00+00:00,Austria,0.4828447194822556,1,1,de,WCE,Europe
 'c4d2a7e7a4',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien Leopoldstadt,2026-02-18T04:34:00+00:00,Austria,0.4826140930309575,1,1,de,WCE,Europe
 '32065724b0',extremes,Snow&Ice,#d60d2b,wmo,Eis Kufstein,2026-02-16T04:38:00+00:00,Austria,0.4825257695877319,1,1,de,WCE,Europe
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,Eis Monthey Val d'illiez,2026-02-17T04:31:00+00:00,Switzerland,0.4821108892849567,2,1,de,WCE,Europe
