@@ -68,10 +68,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0db7c0bac',extremes,Snow&Ice,#d60d2b,wmo,Schnee-Mendrisiotto,2026-01-28T03:56:00+00:00,Switzerland,0.5149351698354059,1,1,de,WCE,Europe
 '5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Muotathal,2026-02-13T04:34:00+00:00,Switzerland,0.5148654378943491,1,1,de,WCE,Europe
 'e215c4738c',extremes,Thunderstorm,#53785a,wmo,Unwetter Waidhofen an der Ybbs-Stadt,2026-02-24T04:31:00+00:00,Austria,0.5148569815851471,1,1,de,WCE,Europe
-'196091e24a',extremes,Storm,#b3b2b1,wmo,Sturm Flensburg bis Fehmarn,2026-01-30T04:21:00+00:00,Germany,0.5148275181720744,1,1,de,WCE,Europe
 'b02025dafd',extremes,Snow&Ice,#d60d2b,wmo,Schnee Val de Travers,2026-01-30T04:21:00+00:00,Switzerland,0.5143865364405983,1,1,de,WCE,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,Sturmflut Island,2026-02-27T04:26:00+00:00,Iceland,0.51415763320772,1,1,de,GIC,Europe
-'4d077ea9d5',extremes,Snow&Ice,#d60d2b,wmo,Frost Korneuburg,2026-01-25T04:06:00+00:00,Austria,0.5141253609305226,1,1,de,WCE,Europe
 '9f05eaaf90',extremes,Drought,#edc291,edo,Trockenperiode Island,2026-02-06T04:28:00+00:00,Iceland,0.5141163033080924,1,1,de,GIC,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Ostfjorde,2026-03-02T04:27:00+00:00,Iceland,0.5140188143331414,1,1,de,GIC,Europe
 '7a607a46da',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Ottakring,2026-02-21T04:18:00+00:00,Austria,0.5136419549182902,1,1,de,WCE,Europe
@@ -388,6 +386,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,Sturmflut obersimmental,2026-02-11T04:41:00+00:00,Switzerland,0.4390083620035947,2,1,de,WCE,Europe
 'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes frutigen Kiental,2026-01-29T04:19:00+00:00,Switzerland,0.4383358503534115,2,1,de,WCE,Europe
 'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-02-03T04:27:00+00:00,Austria,0.438017074618844,2,1,de,WCE,Europe
+'196091e24a',extremes,Storm,#b3b2b1,wmo,Sturm Flensburg bis Fehmarn,2026-01-30T04:21:00+00:00,Germany,0.43760339044626323,2,1,de,WCE,Europe
 '80135590ea',extremes,Snow&Ice,#d60d2b,wmo,Schneeschwaz,2026-02-19T04:32:00+00:00,Austria,0.4365661820547811,2,1,de,WCE,Europe
 '4e1b2d3b38',extremes,Snow&Ice,#d60d2b,wmo,Frost Lötschental Naters,2026-02-11T04:41:00+00:00,Switzerland,0.4360667692995122,2,1,de,WCE,Europe
 'ddaab30fbb',extremes,Storm,#b3b2b1,wmo,Sturm Gersau Engelbergertal,2026-02-13T04:34:00+00:00,Switzerland,0.4348920894408759,2,1,de,WCE,Europe
