@@ -8,18 +8,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-01-17T03:44:00+00:00,Germany,0.6019854113128257,2,3,de,WCE,Europe
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,Nebel Sizilien,2026-02-25T04:32:00+00:00,Italy,0.6018705947544305,2,2,de,MED,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-02-07T04:19:00+00:00,Germany,0.6010997004432147,2,1,de,WCE,Europe
+'aa11f1446e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Kirchdorf an der Krems,2026-02-18T04:34:00+00:00,Austria,0.6003276730423516,0,1,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.5980675704609829,2,3,de,WCE,Europe
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Island,2026-02-18T04:34:00+00:00,Iceland,0.5950379976372544,2,2,de,GIC,Europe
 'ed6c88156a',extremes,Snow&Ice,#d60d2b,wmo,Schnee im Südosten Islands,2026-02-23T04:37:00+00:00,Iceland,0.5911644427052777,2,2,de,GIC,Europe
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-01-19T04:03:00+00:00,Iceland,0.590053701978163,1,2,de,GIC,Europe
+'ffcd544f8e',extremes,Snow&Ice,#d60d2b,wmo,Frost Faxafloi im Südwesten Islands,2026-03-06T04:21:00+00:00,Iceland,0.5890731141642475,0,1,de,GIC,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-01-26T04:09:00+00:00,Germany,0.5885131775237915,2,2,de,WCE,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,Nebel Belgien,2026-01-28T03:56:00+00:00,Belgium,0.5848628246726159,2,2,de,WCE,Europe
 'e6c4c5ade3',extremes,Cold Wave,#a7e9fa,wmo,eiskalte Kälte,2026-01-20T03:56:00+00:00,Austria,0.5815120497725133,3,3,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.5749216705881737,3,3,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-02-05T04:28:00+00:00,Germany,0.5747416092008482,2,2,de,WCE,Europe
+'6076c8543a',extremes,Storm,#b3b2b1,wmo,Sturmflut Ligurien,2026-03-06T04:21:00+00:00,Italy,0.5691014286985785,0,1,de,MED,Europe
+'250b99ae55',extremes,Snow&Ice,#d60d2b,wmo,Schnee Weiz,2026-02-18T04:34:00+00:00,Austria,0.5643578474353335,0,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-01-23T04:03:00+00:00,Switzerland,0.5624335426519209,4,3,de,WCE,Europe
+'1be2f78aac',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Brigels,2026-02-15T04:35:00+00:00,Switzerland,0.5620180535503425,0,1,de,WCE,Europe
+'d40f0da408',extremes,Snow&Ice,#d60d2b,wmo,Eis Korneuburg,2026-02-20T04:27:00+00:00,Austria,0.5617622365295284,0,1,de,WCE,Europe
+'4b47826e63',extremes,Snow&Ice,#d60d2b,wmo,Frost Belgien,2026-02-15T04:35:00+00:00,Belgium,0.5610488121754524,0,1,de,WCE,Europe
 'ac5124b5f7',extremes,Snow&Ice,#d60d2b,wmo,Eis innsbruck stadt,2026-02-19T04:32:00+00:00,Austria,0.5609065122073522,2,2,de,WCE,Europe
+'6846486768',extremes,Snow&Ice,#d60d2b,wmo,Frost Steyr Stadt,2026-02-20T04:27:00+00:00,Austria,0.5608641936226844,0,1,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-02-06T04:28:00+00:00,Switzerland,0.5585786890425356,2,2,de,WCE,Europe
 '2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,Eis Hallein,2026-02-16T04:38:00+00:00,Austria,0.5570335358227726,2,1,de,WCE,Europe
 'c76501402f',extremes,Snow&Ice,#d60d2b,wmo,Frost Rheintal,2026-01-29T04:19:00+00:00,Switzerland,0.556979962450495,2,1,de,WCE,Europe
@@ -374,7 +382,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '557d056aec',extremes,Storm,#b3b2b1,wmo,Sturmflut schanfigg,2026-02-03T04:27:00+00:00,Switzerland,0.4427931918857158,2,1,de,WCE,Europe
 '3eb71f31cf',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Neusiedl am See,2026-02-20T04:27:00+00:00,Austria,0.4425740167585267,2,1,de,WCE,Europe
 'ebb6251556',extremes,Snow&Ice,#d60d2b,wmo,Eis SÃ¼disland,2026-02-20T04:27:00+00:00,Iceland,0.4424883107603108,2,1,de,GIC,Europe
-'491a9f7a5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Wernigerode,2026-02-23T04:37:00+00:00,Germany,0.44247893318150394,3,1,de,WCE,Europe
+'491a9f7a5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Wernigerode,2026-02-23T04:37:00+00:00,Germany,0.4424789331815039,3,1,de,WCE,Europe
 'bd1bfea9ad',extremes,Storm,#b3b2b1,wmo,Sturmflut Davos,2026-02-16T04:38:00+00:00,Switzerland,0.4423684859740397,2,1,de,WCE,Europe
 '7f1339325a',extremes,Snow&Ice,#d60d2b,wmo,Frost Neusiedl am See,2026-02-18T04:34:00+00:00,Austria,0.442325662181251,2,1,de,WCE,Europe
 '828a2c8911',extremes,Storm,#b3b2b1,wmo,Sturmflut Brigels,2026-02-03T04:27:00+00:00,Switzerland,0.4422969831190908,2,1,de,WCE,Europe
