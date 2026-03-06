@@ -17,9 +17,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-01-24T03:48:00+00:00,Germany,0.5749216705881737,3,3,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-02-05T04:28:00+00:00,Germany,0.5747416092008482,2,2,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-02-07T04:19:00+00:00,Luxembourg,0.5664479298701284,1,1,de,WCE,Europe
+'6d9fc89036',extremes,Snow&Ice,#d60d2b,wmo,Eis Amstetten,2026-02-24T04:31:00+00:00,Austria,0.5642953755082039,0,1,de,WCE,Europe
+'cdb8e11bf0',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Bruck an der Leitha,2026-02-20T04:27:00+00:00,Austria,0.5638468168070362,0,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
+'d70fdef1df',extremes,Snow&Ice,#d60d2b,wmo,Frost Voitsberg,2026-02-20T04:27:00+00:00,Austria,0.5634325672121424,0,1,de,WCE,Europe
+'b99f9f63b3',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Hallein,2026-02-19T04:32:00+00:00,Austria,0.5630706613834647,0,1,de,WCE,Europe
+'4972cf2179',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Salzburger Stadt,2026-02-16T04:38:00+00:00,Austria,0.5629642359920763,0,1,de,WCE,Europe
+'ab6c1991fa',extremes,Snow&Ice,#d60d2b,wmo,Frost Neunkirchen,2026-02-20T04:27:00+00:00,Austria,0.562821318792588,0,1,de,WCE,Europe
+'50f39bafbb',extremes,Precipitation,#d60d2b,wmo,Regenguss Grindelwald,2026-02-13T04:34:00+00:00,Switzerland,0.562654471911036,0,1,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-02-10T04:43:00+00:00,Italy,0.5625123514621607,1,1,de,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-01-23T04:03:00+00:00,Switzerland,0.5624335426519209,4,3,de,WCE,Europe
+'a7b8ca3c8a',extremes,Snow&Ice,#d60d2b,wmo,Eis Nidau ​​ins,2026-02-18T04:34:00+00:00,Switzerland,0.5620433606276318,0,1,de,WCE,Europe
 'ac5124b5f7',extremes,Snow&Ice,#d60d2b,wmo,Eis innsbruck stadt,2026-02-19T04:32:00+00:00,Austria,0.5609065122073522,2,2,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-02-06T04:28:00+00:00,Switzerland,0.5585786890425356,2,2,de,WCE,Europe
 '2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,Eis Hallein,2026-02-16T04:38:00+00:00,Austria,0.5570335358227726,2,1,de,WCE,Europe
@@ -384,7 +392,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35cc35a19d',extremes,Storm,#b3b2b1,wmo,Sturm wahlern plaffeien,2026-02-13T04:34:00+00:00,Switzerland,0.4398525620871191,2,1,de,WCE,Europe
 'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,Sturmflut obersimmental,2026-02-11T04:41:00+00:00,Switzerland,0.4390083620035947,2,1,de,WCE,Europe
 'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-02-03T04:27:00+00:00,Austria,0.438017074618844,2,1,de,WCE,Europe
-'5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Muotathal,2026-02-13T04:34:00+00:00,Switzerland,0.43763562221019675,2,1,de,WCE,Europe
+'5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Muotathal,2026-02-13T04:34:00+00:00,Switzerland,0.4376356222101967,2,1,de,WCE,Europe
 '196091e24a',extremes,Storm,#b3b2b1,wmo,Sturm Flensburg bis Fehmarn,2026-01-30T04:21:00+00:00,Germany,0.4376033904462632,2,1,de,WCE,Europe
 '80135590ea',extremes,Snow&Ice,#d60d2b,wmo,Schneeschwaz,2026-02-19T04:32:00+00:00,Austria,0.4365661820547811,2,1,de,WCE,Europe
 '4e1b2d3b38',extremes,Snow&Ice,#d60d2b,wmo,Frost Lötschental Naters,2026-02-11T04:41:00+00:00,Switzerland,0.4360667692995122,2,1,de,WCE,Europe
