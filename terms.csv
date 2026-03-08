@@ -18,9 +18,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-01-23T04:03:00+00:00,Switzerland,0.5624335426519209,4,3,de,WCE,Europe
 'ac5124b5f7',extremes,Snow&Ice,#d60d2b,wmo,Eis innsbruck stadt,2026-02-19T04:32:00+00:00,Austria,0.5609065122073522,2,2,de,WCE,Europe
+'08b51a1270',extremes,Snow&Ice,#d60d2b,wmo,Frost-Innsbruck-Land,2026-02-19T04:32:00+00:00,Austria,0.5586076569027935,0,1,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-02-06T04:28:00+00:00,Switzerland,0.5585786890425356,2,2,de,WCE,Europe
+'c0207c6d5a',extremes,Snow&Ice,#d60d2b,wmo,Frost Wels Stadt,2026-02-16T04:38:00+00:00,Austria,0.5580776308576549,0,1,de,WCE,Europe
+'efceb7a36e',extremes,Snow&Ice,#d60d2b,wmo,Schnee ajoie,2026-02-18T04:34:00+00:00,Switzerland,0.5579615478161226,0,1,de,WCE,Europe
+'ceb4a488b0',extremes,Snow&Ice,#d60d2b,wmo,Eis Basse Gruyère,2026-02-18T04:34:00+00:00,Switzerland,0.5577415683274908,0,1,de,WCE,Europe
+'d5207678f5',extremes,Snow&Ice,#d60d2b,wmo,Frost zwettl,2026-02-19T04:32:00+00:00,Austria,0.5571974994421854,0,1,de,WCE,Europe
 '2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,Eis Hallein,2026-02-16T04:38:00+00:00,Austria,0.5570335358227726,2,1,de,WCE,Europe
+'3b65857064',extremes,Storm,#b3b2b1,wmo,Sturm Emmen Hochdorf,2026-02-16T04:38:00+00:00,Switzerland,0.557019008122231,0,1,de,WCE,Europe
+'07c8db17b6',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Wien Landstraße,2026-02-19T04:32:00+00:00,Austria,0.5570119372707744,0,1,de,WCE,Europe
 'c76501402f',extremes,Snow&Ice,#d60d2b,wmo,Frost Rheintal,2026-01-29T04:19:00+00:00,Switzerland,0.556979962450495,2,1,de,WCE,Europe
+'fa532c3ea4',extremes,Fog,#d60d2b,wmo,Nebel Brabant,2026-03-07T04:12:00+00:00,Belgium,0.5569494287748151,0,1,de,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-02-10T04:43:00+00:00,Italy,0.554146940291327,2,1,de,MED,Europe
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
 '09214ed0b3',extremes,Snow&Ice,#d60d2b,wmo,Schnee Hermagor,2026-02-18T04:34:00+00:00,Austria,0.5486790243680659,2,1,de,WCE,Europe
