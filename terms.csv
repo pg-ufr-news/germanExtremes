@@ -20,7 +20,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac5124b5f7',extremes,Snow&Ice,#d60d2b,wmo,Eis innsbruck stadt,2026-02-19T04:32:00+00:00,Austria,0.5609065122073522,2,2,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-02-06T04:28:00+00:00,Switzerland,0.5585786890425356,2,2,de,WCE,Europe
 '2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,Eis Hallein,2026-02-16T04:38:00+00:00,Austria,0.5570335358227726,2,1,de,WCE,Europe
+'4278452c77',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Rheintal,2026-02-18T04:34:00+00:00,Switzerland,0.555328952426344,0,1,de,WCE,Europe
+'96119cbb1e',extremes,Snow&Ice,#d60d2b,wmo,Frost Rohrbach,2026-02-20T04:27:00+00:00,Austria,0.5551457238731263,0,1,de,WCE,Europe
+'7471fc373c',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Josefstadt,2026-02-19T04:32:00+00:00,Austria,0.5549613105009226,0,1,de,WCE,Europe
+'a63efd7f21',extremes,Heat Wave,#c40202,wmo,Hitzewelle tartagal y alrededores,2026-02-17T04:31:00+00:00,Argentina,0.5547494014169541,0,1,de,SES,South-America
+'49a803c143',extremes,Snow&Ice,#d60d2b,wmo,Frostried im Innkreis,2026-02-19T04:32:00+00:00,Austria,0.554706127609083,0,1,de,WCE,Europe
+'fddefce030',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Liechtenstein,2026-02-16T04:38:00+00:00,Switzerland,0.5544764351729529,0,1,de,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-02-10T04:43:00+00:00,Italy,0.554146940291327,2,1,de,MED,Europe
+'6d757cd2f8',extremes,Snow&Ice,#d60d2b,wmo,Frost-Eferding,2026-02-16T04:38:00+00:00,Austria,0.5539325791513695,0,1,de,WCE,Europe
+'1227e7395b',extremes,Snow&Ice,#d60d2b,wmo,Frost Val d'Entremont Val Ferret,2026-02-20T04:27:00+00:00,Switzerland,0.5538203425103131,0,1,de,WCE,Europe
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-02-11T04:41:00+00:00,Switzerland,0.5427436260587895,2,1,de,WCE,Europe
 '09214ed0b3',extremes,Snow&Ice,#d60d2b,wmo,Schnee Hermagor,2026-02-18T04:34:00+00:00,Austria,0.541677200712856,3,2,de,WCE,Europe
@@ -348,7 +356,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3a4bf4669',extremes,Snow&Ice,#d60d2b,wmo,Schnee Kufstein,2026-02-17T04:31:00+00:00,Austria,0.4457214273149831,2,1,de,WCE,Europe
 'f9dd24b825',extremes,Storm,#b3b2b1,wmo,Sturm Sarnen Lungern,2026-02-13T04:34:00+00:00,Switzerland,0.4457095146568115,2,1,de,WCE,Europe
 '5960ea8e95',extremes,Snow&Ice,#d60d2b,wmo,Eis Krems Land,2026-02-18T04:34:00+00:00,Austria,0.4456569479193837,2,1,de,WCE,Europe
-'181b974757',extremes,Storm,#b3b2b1,wmo,Sturmflutgemeinde Helgoland,2026-02-16T04:38:00+00:00,Germany,0.44527105112326937,2,1,de,WCE,Europe
+'181b974757',extremes,Storm,#b3b2b1,wmo,Sturmflutgemeinde Helgoland,2026-02-16T04:38:00+00:00,Germany,0.4452710511232693,2,1,de,WCE,Europe
 'e5fce79b21',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Zwettl,2026-02-20T04:27:00+00:00,Austria,0.4449368787305789,2,1,de,WCE,Europe
 '7db7dcd497',extremes,Snow&Ice,#d60d2b,wmo,Eis Langnau Eggiwil,2026-02-13T04:34:00+00:00,Switzerland,0.4448750425485767,2,1,de,WCE,Europe
 'ba008d3384',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Floridsdorf,2026-02-20T04:27:00+00:00,Austria,0.4448241434105295,2,1,de,WCE,Europe
