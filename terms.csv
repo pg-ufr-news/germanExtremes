@@ -20,7 +20,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,Eis Hallein,2026-02-16T04:38:00+00:00,Austria,0.5570335358227726,2,1,de,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-02-10T04:43:00+00:00,Italy,0.554146940291327,2,1,de,MED,Europe
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
+'4fa509ced8',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Linzer Land,2026-02-20T04:27:00+00:00,Austria,0.5462319525548802,0,1,de,WCE,Europe
+'7ae29e6905',extremes,Snow&Ice,#d60d2b,wmo,Frost Wiener Neustadt,2026-02-19T04:32:00+00:00,Austria,0.5461810756944644,0,1,de,WCE,Europe
+'aba43c1dfe',extremes,Snow&Ice,#d60d2b,wmo,Frost Graz Umgebung,2026-02-20T04:27:00+00:00,Austria,0.5461169081256325,0,1,de,WCE,Europe
+'88258efc1a',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Penzing,2026-02-19T04:32:00+00:00,Austria,0.5458484542442016,0,1,de,WCE,Europe
+'f37b01ab5d',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Hernals,2026-02-21T04:18:00+00:00,Austria,0.5452688270199313,0,1,de,WCE,Europe
+'19ed114b11',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Bruck an der Leitha,2026-02-21T04:18:00+00:00,Austria,0.5451583029770278,0,1,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.5451263217100173,3,3,de,WCE,Europe
+'ad0557f406',extremes,Snow&Ice,#d60d2b,wmo,Eis Oberwart,2026-02-19T04:32:00+00:00,Austria,0.5451261983546216,0,1,de,WCE,Europe
+'913860860e',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes GmÃ¼nd,2026-02-20T04:27:00+00:00,Austria,0.5450011284943694,0,1,de,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-02-11T04:41:00+00:00,Switzerland,0.5427436260587895,2,1,de,WCE,Europe
 '09214ed0b3',extremes,Snow&Ice,#d60d2b,wmo,Schnee Hermagor,2026-02-18T04:34:00+00:00,Austria,0.541677200712856,3,2,de,WCE,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-02-05T04:27:00+00:00,Germany,0.5366198459375856,3,2,de,WCE,Europe
@@ -95,7 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,Schnee-Island,2026-03-02T04:27:00+00:00,Iceland,0.4979154521632889,2,1,de,GIC,Europe
 '427ee66386',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Neubau,2026-02-20T04:27:00+00:00,Austria,0.4978683649311534,1,1,de,WCE,Europe
 '51aba87da4',extremes,Snow&Ice,#d60d2b,wmo,Eis Waidhofen an der Ybbs Stadt,2026-02-18T04:34:00+00:00,Austria,0.4978368213993576,1,1,de,WCE,Europe
-'0df834d969',extremes,Thunderstorm,#53785a,wmo,Unwetter Sardinien,2026-02-19T04:32:00+00:00,Italy,0.49764878070281166,2,2,de,MED,Europe
+'0df834d969',extremes,Thunderstorm,#53785a,wmo,Unwetter Sardinien,2026-02-19T04:32:00+00:00,Italy,0.4976487807028116,2,2,de,MED,Europe
 '0ebfc06b8b',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Kerenzerberg Seeztal,2026-02-18T04:34:00+00:00,Switzerland,0.4975777188483656,1,1,de,WCE,Europe
 '221e658bfd',extremes,Drought,#edc291,edo,Trockenheit Luxemburg,2026-02-10T04:43:00+00:00,Luxembourg,0.4973318328798201,2,1,de,WCE,Europe
 '94af5e5960',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Kremser Land,2026-02-21T04:18:00+00:00,Austria,0.4972024477683027,1,1,de,WCE,Europe
