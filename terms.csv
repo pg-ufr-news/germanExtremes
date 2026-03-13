@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'081c41fb1c',extremes,Snow&Ice,#d60d2b,wmo,Frost Yverdon Bevaix,2026-03-13T04:25:00+00:00,Switzerland,0.7442560623907962,0,1,de,WCE,Europe
-'4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Freiburg,2026-03-13T04:25:00+00:00,Switzerland,0.7441825587462215,0,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.7440040623678046,0,1,de,WCE,Europe
 '5b9238695e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Werdenberg,2026-03-13T04:25:00+00:00,Switzerland,0.7437962558168161,0,1,de,WCE,Europe
 '4a49035fe3',extremes,Snow&Ice,#d60d2b,wmo,Ice Bex Villars,2026-03-13T04:25:00+00:00,Switzerland,0.7434163090294612,0,1,de,WCE,Europe
@@ -10,8 +8,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-03-11T04:22:00+00:00,Germany,0.6730358680440929,1,3,de,WCE,Europe
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Österreich,2026-02-15T04:35:00+00:00,Austria,0.661957502711096,1,3,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-02-05T04:27:00+00:00,Germany,0.6547062519341802,1,2,de,WCE,Europe
+'4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Freiburg,2026-03-13T04:25:00+00:00,Switzerland,0.6494918685706519,1,2,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-02-25T04:32:00+00:00,Germany,0.6469756093025448,2,3,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-02-24T04:31:00+00:00,Germany,0.6437230529550116,1,2,de,WCE,Europe
+'081c41fb1c',extremes,Snow&Ice,#d60d2b,wmo,Frost Yverdon Bevaix,2026-03-13T04:25:00+00:00,Switzerland,0.6326176530321768,1,1,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-02-25T04:32:00+00:00,Germany,0.6254830524957938,1,2,de,WCE,Europe
 '98e8c9c840',extremes,Snow&Ice,#d60d2b,wmo,Eis Österreich,2026-02-16T04:38:00+00:00,Austria,0.6235859583605229,1,2,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-02-25T04:32:00+00:00,Germany,0.621456755468362,1,2,de,WCE,Europe
