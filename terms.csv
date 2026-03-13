@@ -21,11 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-01-27T03:58:00+00:00,Switzerland,0.5451263217100173,3,3,de,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-02-11T04:41:00+00:00,Switzerland,0.5427436260587895,2,1,de,WCE,Europe
-'b0ecdb08ea',extremes,Snow&Ice,#d60d2b,wmo,Frostbaden,2026-02-21T04:18:00+00:00,Austria,0.5419429584450489,0,1,de,WCE,Europe
-'731c9c6599',extremes,Storm,#b3b2b1,wmo,Sturmbasilikata,2026-03-11T04:22:00+00:00,Italy,0.541863999738201,0,1,de,MED,Europe
 '09214ed0b3',extremes,Snow&Ice,#d60d2b,wmo,Schnee Hermagor,2026-02-18T04:34:00+00:00,Austria,0.541677200712856,3,2,de,WCE,Europe
-'fa1ad4c940',extremes,Fog,#d60d2b,wmo,Nebel Ostflandern,2026-03-07T04:12:00+00:00,Belgium,0.5413465791426846,0,1,de,WCE,Europe
-'1c5f0db6b6',extremes,Snow&Ice,#d60d2b,wmo,Frost Linz Stadt,2026-02-21T04:18:00+00:00,Austria,0.5402844247924835,0,1,de,WCE,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,Regenguss Italien,2026-03-09T04:31:00+00:00,Italy,0.5396860102097979,0,1,de,MED,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-02-05T04:27:00+00:00,Germany,0.5366198459375856,3,2,de,WCE,Europe
 'b5c7eaac43',extremes,Snow&Ice,#d60d2b,wmo,Frost Luxemburg,2026-02-15T04:35:00+00:00,Luxembourg,0.5360365993261479,3,1,de,WCE,Europe
@@ -302,9 +298,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '977a7cdeb6',extremes,Snow&Ice,#d60d2b,wmo,Eis Leventina,2026-02-16T04:38:00+00:00,Switzerland,0.4622959291065118,2,1,de,WCE,Europe
 'cb90ae9e3d',extremes,Snow&Ice,#d60d2b,wmo,Schneesteyrer Land,2026-02-21T04:18:00+00:00,Austria,0.4621521642749683,1,1,de,WCE,Europe
 '71149fa5b9',extremes,Fog,#d60d2b,wmo,NebelkÃ¼stenzone,2026-03-08T04:24:00+00:00,Belgium,0.4621456397567301,1,1,de,WCE,Europe
-'8f8310fd42',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Cordoba San Justo Tulumba.,2026-02-27T04:26:00+00:00,Argentina,0.46206783044427924,1,1,de,SES,South-America
+'8f8310fd42',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Cordoba San Justo Tulumba.,2026-02-27T04:26:00+00:00,Argentina,0.4620678304442792,1,1,de,SES,South-America
 '40f8e9da3c',extremes,Snow&Ice,#d60d2b,wmo,Schnee Liechtenstein,2026-02-21T04:18:00+00:00,Switzerland,0.4615041124886586,1,1,de,WCE,Europe
 '0df834d969',extremes,Thunderstorm,#53785a,wmo,Unwetter Sardinien,2026-02-19T04:32:00+00:00,Italy,0.4611015235973898,3,2,de,MED,Europe
+'b0ecdb08ea',extremes,Snow&Ice,#d60d2b,wmo,Frostbaden,2026-02-21T04:18:00+00:00,Austria,0.4606515146782916,1,1,de,WCE,Europe
+'731c9c6599',extremes,Storm,#b3b2b1,wmo,Sturmbasilikata,2026-03-11T04:22:00+00:00,Italy,0.46058439977747084,1,1,de,MED,Europe
+'fa1ad4c940',extremes,Fog,#d60d2b,wmo,Nebel Ostflandern,2026-03-07T04:12:00+00:00,Belgium,0.4601445922712819,1,1,de,WCE,Europe
+'1c5f0db6b6',extremes,Snow&Ice,#d60d2b,wmo,Frost Linz Stadt,2026-02-21T04:18:00+00:00,Austria,0.459391776073611,1,1,de,WCE,Europe
 '8adc2ad0cc',extremes,Snow&Ice,#d60d2b,wmo,Eisbrigels,2026-02-17T04:31:00+00:00,Switzerland,0.4593177364346815,2,1,de,WCE,Europe
 '689985175c',extremes,Snow&Ice,#d60d2b,wmo,Frost Aigle Leysin,2026-02-17T04:31:00+00:00,Switzerland,0.4586777348579998,2,1,de,WCE,Europe
 '5241447c2f',extremes,Snow&Ice,#d60d2b,wmo,Schneealgorithmus,2026-02-17T04:31:00+00:00,Switzerland,0.4586533380839905,2,1,de,WCE,Europe
