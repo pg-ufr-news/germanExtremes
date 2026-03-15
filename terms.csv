@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'0080cba8b6',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Entlebuch,2026-03-13T04:25:00+00:00,Switzerland,0.7251448616901719,0,1,de,WCE,Europe
+'e8e8c6957c',extremes,Snow&Ice,#d60d2b,wmo,Frost ist vollstÃ¤ndig vorhanden,2026-03-13T04:25:00+00:00,Switzerland,0.7251253964125552,0,1,de,WCE,Europe
+'b6b89911aa',extremes,Snow&Ice,#d60d2b,wmo,Eis Liechtenstein,2026-03-13T04:25:00+00:00,Switzerland,0.7251026671920046,0,1,de,WCE,Europe
+'aeb8fffadb',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes oberes Baselbiet,2026-03-13T04:25:00+00:00,Switzerland,0.7242507320209739,0,1,de,WCE,Europe
+'0d567a4e4a',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Nyon Terre Sainte,2026-03-13T04:25:00+00:00,Switzerland,0.7239945612613758,0,1,de,WCE,Europe
+'acd71006ee',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schangnau Sigriswil,2026-03-13T04:25:00+00:00,Switzerland,0.7232788780807576,0,1,de,WCE,Europe
+'cf8bea3213',extremes,Snow&Ice,#d60d2b,wmo,Schneebroye,2026-03-13T04:25:00+00:00,Switzerland,0.721916982245123,0,1,de,WCE,Europe
+'66dcd8bd2a',extremes,Snow&Ice,#d60d2b,wmo,Eis Rheinfelden,2026-03-13T04:25:00+00:00,Switzerland,0.7215977980871822,0,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-03-11T04:22:00+00:00,Germany,0.6730358680440929,1,3,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.6683106313488264,1,2,de,WCE,Europe
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Österreich,2026-02-15T04:35:00+00:00,Austria,0.661957502711096,1,3,de,WCE,Europe
@@ -328,7 +336,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa1ad4c940',extremes,Fog,#d60d2b,wmo,Nebel Ostflandern,2026-03-07T04:12:00+00:00,Belgium,0.4601445922712819,1,1,de,WCE,Europe
 '1c5f0db6b6',extremes,Snow&Ice,#d60d2b,wmo,Frost Linz Stadt,2026-02-21T04:18:00+00:00,Austria,0.459391776073611,1,1,de,WCE,Europe
 '8adc2ad0cc',extremes,Snow&Ice,#d60d2b,wmo,Eisbrigels,2026-02-17T04:31:00+00:00,Switzerland,0.4593177364346815,2,1,de,WCE,Europe
-'0c3d21da24',extremes,Precipitation,#d60d2b,wmo,Regenguss Italien,2026-03-09T04:31:00+00:00,Italy,0.45873310867832817,1,1,de,MED,Europe
+'0c3d21da24',extremes,Precipitation,#d60d2b,wmo,Regenguss Italien,2026-03-09T04:31:00+00:00,Italy,0.4587331086783281,1,1,de,MED,Europe
 '689985175c',extremes,Snow&Ice,#d60d2b,wmo,Frost Aigle Leysin,2026-02-17T04:31:00+00:00,Switzerland,0.4586777348579998,2,1,de,WCE,Europe
 '5241447c2f',extremes,Snow&Ice,#d60d2b,wmo,Schneealgorithmus,2026-02-17T04:31:00+00:00,Switzerland,0.4586533380839905,2,1,de,WCE,Europe
 '65186f6a29',extremes,Snow&Ice,#d60d2b,wmo,Eis Flims Laax,2026-02-17T04:31:00+00:00,Switzerland,0.4583303364955872,2,1,de,WCE,Europe
