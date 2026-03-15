@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'112f6dd3d9',extremes,Snow&Ice,#d60d2b,wmo,Schneelötschental Naters,2026-03-13T04:25:00+00:00,Switzerland,0.7274892921390703,0,1,de,WCE,Europe
+'1318594aed',extremes,Snow&Ice,#d60d2b,wmo,Sion Crans Montana gefriert,2026-03-13T04:25:00+00:00,Switzerland,0.7274127233927548,0,1,de,WCE,Europe
+'080f963f9f',extremes,Snow&Ice,#d60d2b,wmo,Frost Langenthal,2026-03-13T04:25:00+00:00,Switzerland,0.7266396863157808,0,1,de,WCE,Europe
+'62547e7566',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wohlen Albis,2026-03-13T04:25:00+00:00,Switzerland,0.726599700523661,0,1,de,WCE,Europe
+'159fb0a618',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Gros de Vaud,2026-03-13T04:25:00+00:00,Switzerland,0.7265818404755531,0,1,de,WCE,Europe
+'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Laufental,2026-03-13T04:25:00+00:00,Switzerland,0.7265411396894289,0,1,de,WCE,Europe
+'a0d6b2985f',extremes,Snow&Ice,#d60d2b,wmo,Eis estavayer cudrefin,2026-03-13T04:25:00+00:00,Switzerland,0.7258729402620109,0,1,de,WCE,Europe
+'a935f88023',extremes,Snow&Ice,#d60d2b,wmo,Eis Val d'Hérens,2026-03-13T04:25:00+00:00,Switzerland,0.7257722235107118,0,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-03-11T04:22:00+00:00,Germany,0.6730358680440929,1,3,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.6683106313488264,1,2,de,WCE,Europe
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Österreich,2026-02-15T04:35:00+00:00,Austria,0.661957502711096,1,3,de,WCE,Europe
