@@ -11,6 +11,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-02-25T04:32:00+00:00,Germany,0.621456755468362,1,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-03-09T04:31:00+00:00,Germany,0.6198005503613059,2,1,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.6184697671010478,2,3,de,WCE,Europe
+'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2026-03-13T04:25:00+00:00,Germany,0.6165660938487184,0,1,de,WCE,Europe
+'80a1b6ba6b',extremes,Drought,#edc291,edo,Dürre Belgien,2026-03-02T04:27:00+00:00,Belgium,0.6131675892810666,0,1,de,WCE,Europe
+'2d81a0f692',extremes,Snow&Ice,#d60d2b,wmo,Frost Langnau Eggiwil,2026-03-15T04:45:00+00:00,Switzerland,0.6118269931817029,0,1,de,WCE,Europe
+'e8c62ab0ea',extremes,Snow&Ice,#d60d2b,wmo,Frost Glarus SÃ¼d Sernftal,2026-03-15T04:45:00+00:00,Switzerland,0.6082893942408938,0,1,de,WCE,Europe
+'1f62d5fa69',extremes,Snow&Ice,#d60d2b,wmo,Snow Brig nördliches Simplongebiet,2026-03-14T04:22:00+00:00,Switzerland,0.6070945223744807,0,1,de,WCE,Europe
+'ee5f7d0760',extremes,Snow&Ice,#d60d2b,wmo,Eis Verzasca,2026-03-15T04:45:00+00:00,Switzerland,0.6061448358874637,0,1,de,WCE,Europe
+'d9edc58a09',extremes,Snow&Ice,#d60d2b,wmo,Schnee Appenzell,2026-03-15T04:45:00+00:00,Switzerland,0.602328592926024,0,1,de,WCE,Europe
+'308d34508e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Maderanertal,2026-03-15T04:45:00+00:00,Switzerland,0.6020156453345199,0,1,de,WCE,Europe
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,Nebel Sizilien,2026-02-25T04:32:00+00:00,Italy,0.6018705947544305,2,2,de,MED,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-02-26T04:29:00+00:00,Germany,0.5986273310479766,3,3,de,WCE,Europe
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Island,2026-02-18T04:34:00+00:00,Iceland,0.5950379976372544,2,2,de,GIC,Europe
@@ -481,7 +489,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4cca3599c',extremes,Storm,#b3b2b1,wmo,Sturmflut Meiringen Gadmertal,2026-02-13T04:34:00+00:00,Switzerland,0.4243602716983231,2,1,de,WCE,Europe
 'dafc50fd29',extremes,Storm,#b3b2b1,wmo,Sturm Schangnau Sigriswil,2026-02-11T04:41:00+00:00,Switzerland,0.4242614200801753,2,1,de,WCE,Europe
 '427ee66386',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Neubau,2026-02-20T04:27:00+00:00,Austria,0.4231881101914804,2,1,de,WCE,Europe
-'9d0979dd64',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Mariahilf,2026-02-18T04:34:00+00:00,Austria,0.42180080752750754,2,1,de,WCE,Europe
+'9d0979dd64',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Mariahilf,2026-02-18T04:34:00+00:00,Austria,0.4218008075275075,2,1,de,WCE,Europe
 'e3c8c73b39',extremes,Snow&Ice,#d60d2b,wmo,"Schnee im Val de Ruz, Kolumbien",2026-02-18T04:34:00+00:00,Switzerland,0.4211849900572435,2,1,de,WCE,Europe
 '3457a20fa4',extremes,Storm,#b3b2b1,wmo,Sturm Val Medel Sumvitg,2026-02-12T04:37:00+00:00,Switzerland,0.4194557302914073,2,1,de,WCE,Europe
 '306fcee257',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien liegt,2026-02-20T04:27:00+00:00,Austria,0.4165235071661363,2,1,de,WCE,Europe
