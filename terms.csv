@@ -15,9 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,Nebel Sizilien,2026-02-25T04:32:00+00:00,Italy,0.6018705947544305,2,2,de,MED,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-02-26T04:29:00+00:00,Germany,0.5986273310479766,3,3,de,WCE,Europe
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Island,2026-02-18T04:34:00+00:00,Iceland,0.5950379976372544,2,2,de,GIC,Europe
-'1845344e0b',extremes,Snow&Ice,#d60d2b,wmo,Frost estavayer cudrefin,2026-03-20T04:26:00+00:00,Switzerland,0.5815582493936959,0,1,de,WCE,Europe
-'f2fa7241c7',extremes,Snow&Ice,#d60d2b,wmo,Frost Kerenzerberg Seeztal,2026-03-14T04:22:00+00:00,Switzerland,0.5814447798829824,0,1,de,WCE,Europe
-'075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-03-11T04:22:00+00:00,Italy,0.5813557978653761,0,1,de,MED,Europe
 'a43a9111fd',extremes,Snow&Ice,#d60d2b,wmo,Eis Kerenzerberg Seeztal,2026-03-18T04:36:00+00:00,Switzerland,0.581241966466406,0,1,de,WCE,Europe
 '10b0bb1389',extremes,Snow&Ice,#d60d2b,wmo,Eispfungen Hettlingen,2026-03-18T04:36:00+00:00,Switzerland,0.5811747956415243,0,1,de,WCE,Europe
 '428702ea62',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Westfjorde,2026-03-15T04:45:00+00:00,Iceland,0.580925652538374,0,1,de,GIC,Europe
@@ -150,7 +147,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '354a9b0a00',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Landquart Chur,2026-03-19T04:35:00+00:00,Switzerland,0.4961679246660804,1,1,de,WCE,Europe
 'b5133aaa57',extremes,Snow&Ice,#d60d2b,wmo,Frost domleschg,2026-02-18T04:34:00+00:00,Switzerland,0.496131840099925,1,1,de,WCE,Europe
 '232f5987a6',extremes,Snow&Ice,#d60d2b,wmo,Schnee Sarnen Lungern,2026-02-18T04:34:00+00:00,Switzerland,0.4961315718780625,1,1,de,WCE,Europe
-'dffe1742c9',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Zug Knonau,2026-03-21T04:17:00+00:00,Switzerland,0.49559617663151356,1,1,de,WCE,Europe
+'dffe1742c9',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Zug Knonau,2026-03-21T04:17:00+00:00,Switzerland,0.4955961766315135,1,1,de,WCE,Europe
 '426ae6362d',extremes,Snow&Ice,#d60d2b,wmo,Frost Oron – Haute Broye,2026-02-18T04:34:00+00:00,Switzerland,0.4953441071140099,1,1,de,WCE,Europe
 'e61a52a9b1',extremes,Snow&Ice,#d60d2b,wmo,Eis Bregenz,2026-02-19T04:32:00+00:00,Austria,0.4952505430678278,1,1,de,WCE,Europe
 '996c3128dd',extremes,Snow&Ice,#d60d2b,wmo,Schnee Faxafloi im Südwesten Islands,2026-03-05T04:24:00+00:00,Iceland,0.4952109643312533,1,1,de,GIC,Europe
@@ -158,8 +155,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bfe7304ec',extremes,Storm,#b3b2b1,wmo,Sturm Oberwart,2026-02-15T04:35:00+00:00,Austria,0.4951194181490599,1,1,de,WCE,Europe
 '3d0492bcd4',extremes,Snow&Ice,#d60d2b,wmo,Frost Reute,2026-02-15T04:35:00+00:00,Austria,0.4948431931761119,1,1,de,WCE,Europe
 '55766d0de5',extremes,Cold Wave,#a7e9fa,wmo,Gefrierendes Kremser Land,2026-02-20T04:27:00+00:00,Austria,0.4946700781324654,1,1,de,WCE,Europe
+'075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-03-11T04:22:00+00:00,Italy,0.49460247318556966,1,1,de,MED,Europe
 '05b234b018',extremes,Snow&Ice,#d60d2b,wmo,Frost obersimmental,2026-02-18T04:34:00+00:00,Switzerland,0.494391341090948,1,1,de,WCE,Europe
+'1845344e0b',extremes,Snow&Ice,#d60d2b,wmo,Frost estavayer cudrefin,2026-03-20T04:26:00+00:00,Switzerland,0.49432451198464156,1,1,de,WCE,Europe
 '482452dda1',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Freistadt,2026-02-18T04:34:00+00:00,Austria,0.4943176492911867,1,1,de,WCE,Europe
+'f2fa7241c7',extremes,Snow&Ice,#d60d2b,wmo,Frost Kerenzerberg Seeztal,2026-03-14T04:22:00+00:00,Switzerland,0.494228062900535,1,1,de,WCE,Europe
 '1b261773be',extremes,Snow&Ice,#d60d2b,wmo,Frost Basel,2026-02-18T04:34:00+00:00,Switzerland,0.4936639469162219,1,1,de,WCE,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,Sturm Belgien,2026-03-08T04:24:00+00:00,Belgium,0.4936578618264441,2,1,de,WCE,Europe
 'abfee8c9b3',extremes,Snow&Ice,#d60d2b,wmo,Frostvillachland,2026-02-18T04:34:00+00:00,Austria,0.4936345872796883,1,1,de,WCE,Europe
