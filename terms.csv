@@ -12,11 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,Nebel Sizilien,2026-02-25T04:32:00+00:00,Italy,0.6018705947544305,2,2,de,MED,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-02-26T04:29:00+00:00,Germany,0.5986273310479766,3,3,de,WCE,Europe
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Island,2026-02-18T04:34:00+00:00,Iceland,0.5950379976372544,2,2,de,GIC,Europe
-'67989cbd3c',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Gersau Engelbergertal,2026-03-14T04:22:00+00:00,Switzerland,0.5800679024521995,0,1,de,WCE,Europe
-'08d5240568',extremes,Snow&Ice,#d60d2b,wmo,Frost nördliches Tavetsch,2026-03-14T04:22:00+00:00,Switzerland,0.5793426325055576,0,1,de,WCE,Europe
-'e9bc5e889b',extremes,Snow&Ice,#d60d2b,wmo,Schnee Glarus Südsernftal,2026-03-14T04:22:00+00:00,Switzerland,0.5790284358121238,0,1,de,WCE,Europe
-'005b56d54c',extremes,Snow&Ice,#d60d2b,wmo,Frost Moutier Tavannes,2026-03-15T04:45:00+00:00,Switzerland,0.5789015439172945,0,1,de,WCE,Europe
-'4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-03-20T04:26:00+00:00,Switzerland,0.5788497312323082,0,1,de,WCE,Europe
 '68b65f04f8',extremes,Snow&Ice,#d60d2b,wmo,Frost Morges Cossonay,2026-03-17T04:30:00+00:00,Switzerland,0.5788044874665093,0,1,de,WCE,Europe
 '8319407c99',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Fürstenland,2026-03-15T04:45:00+00:00,Switzerland,0.5787824874181454,0,1,de,WCE,Europe
 '3659a6cf2c',extremes,Snow&Ice,#d60d2b,wmo,Eistal Vallon de Saint-Imier,2026-03-19T04:35:00+00:00,Switzerland,0.5787767072034794,0,1,de,WCE,Europe
@@ -34,9 +29,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-02-26T04:29:00+00:00,Switzerland,0.5376127174118353,2,1,de,WCE,Europe
 '5b9238695e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Werdenberg,2026-03-13T04:25:00+00:00,Switzerland,0.5373927948276496,2,1,de,WCE,Europe
 'c8438d80e0',extremes,Snow&Ice,#d60d2b,wmo,Schnee Effretikon,2026-03-13T04:25:00+00:00,Switzerland,0.5370826122271988,2,1,de,WCE,Europe
-'5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-02-11T04:41:00+00:00,Switzerland,0.536632112149971,3,2,de,WCE,Europe
 'cc3baf13f5',extremes,Snow&Ice,#d60d2b,wmo,Schnee Muotathal,2026-03-13T04:25:00+00:00,Switzerland,0.5364523291617342,2,1,de,WCE,Europe
 'f1141d6aa4',extremes,Snow&Ice,#d60d2b,wmo,Eis Sarnen Lungern,2026-03-13T04:25:00+00:00,Switzerland,0.5362093550283394,2,1,de,WCE,Europe
+'4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-03-20T04:26:00+00:00,Switzerland,0.5359295194046049,1,1,de,WCE,Europe
 '34d97e479b',extremes,Snow&Ice,#d60d2b,wmo,Eis St. Gallen Rorschach,2026-03-13T04:25:00+00:00,Switzerland,0.5358485496277138,2,1,de,WCE,Europe
 '647b6366f3',extremes,Snow&Ice,#d60d2b,wmo,Eis Emmen Hochdorf,2026-03-13T04:25:00+00:00,Switzerland,0.5357203539699509,2,1,de,WCE,Europe
 '8a7356fe46',extremes,Snow&Ice,#d60d2b,wmo,Schnee glâne,2026-03-13T04:25:00+00:00,Switzerland,0.5345868471124032,2,1,de,WCE,Europe
@@ -81,8 +76,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb9a490561',extremes,Drought,#edc291,edo,Trockenperiode Deutschland,2026-03-16T05:05:00+00:00,Germany,0.5127632722598917,2,1,de,WCE,Europe
 'f8b4ad19d7',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Moutier-Tavannes,2026-03-23T04:42:00+00:00,Switzerland,0.512439703170431,1,1,de,WCE,Europe
 '429e0c80e7',extremes,Snow&Ice,#d60d2b,wmo,Frost Davos,2026-02-17T04:31:00+00:00,Switzerland,0.5088661000668622,2,1,de,WCE,Europe
-'6f5cc4014d',extremes,Storm,#b3b2b1,wmo,Sturm st. Stephan Lenk,2026-02-13T04:34:00+00:00,Switzerland,0.5081848703342708,1,1,de,WCE,Europe
-'243c47a1d5',extremes,Snow&Ice,#d60d2b,wmo,Frost Österreich,2026-02-15T04:35:00+00:00,Austria,0.5065837738156748,2,1,de,WCE,Europe
 '43809583c3',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Landstraße,2026-02-20T04:27:00+00:00,Austria,0.5052570059653995,1,1,de,WCE,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,Eis Island,2026-02-26T04:29:00+00:00,Iceland,0.5048136009100082,2,2,de,GIC,Europe
 'dcf82560b0',extremes,Fog,#d60d2b,wmo,Nebel Lombardei,2026-02-23T04:37:00+00:00,Italy,0.5042689700872478,1,1,de,MED,Europe
@@ -112,7 +105,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '326d453847',extremes,Storm,#b3b2b1,wmo,Sturmflut im Nordwesten Islands,2026-03-09T04:31:00+00:00,Iceland,0.5004659533577885,1,1,de,GIC,Europe
 '7757f586d1',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Leopoldstadt,2026-02-21T04:18:00+00:00,Austria,0.5004651325870549,1,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-03-22T04:33:00+00:00,Luxembourg,0.5004398881926678,1,1,de,WCE,Europe
-'13c43ed6fe',extremes,Snow&Ice,#d60d2b,wmo,Frost Saanen Gsteig,2026-02-13T04:34:00+00:00,Switzerland,0.5001950256999852,1,1,de,WCE,Europe
 '7bce9b9392',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Schangnau Sigriswil,2026-03-19T04:35:00+00:00,Switzerland,0.500048255795434,1,1,de,WCE,Europe
 '3babd4d17f',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Limmattal,2026-03-21T04:17:00+00:00,Switzerland,0.4998456971926782,1,1,de,WCE,Europe
 'f5d163185f',extremes,Snow&Ice,#d60d2b,wmo,Frost Luganese,2026-03-19T04:35:00+00:00,Switzerland,0.4997911670070303,1,1,de,WCE,Europe
@@ -172,18 +164,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9597cb5caa',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Österreich,2026-02-21T04:18:00+00:00,Austria,0.4935323426511204,2,1,de,WCE,Europe
 '563516faa2',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Monthey Val d'illiez,2026-03-19T04:35:00+00:00,Switzerland,0.4932505722536853,1,1,de,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2026-03-04T04:20:00+00:00,Italy,0.4932278781385019,1,1,de,MED,Europe
+'67989cbd3c',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Gersau Engelbergertal,2026-03-14T04:22:00+00:00,Switzerland,0.4930577170843696,1,1,de,WCE,Europe
 '1bde8dd51c',extremes,Drought,#edc291,edo,Trockenperiode in Namibia,2026-03-04T04:21:00+00:00,Namibia,0.492945417243271,1,1,de,WSAF,Africa
 '3c389f5306',extremes,Storm,#b3b2b1,wmo,Sturmgemeinde Helgoland,2026-02-19T04:32:00+00:00,Germany,0.4927886080933873,1,1,de,WCE,Europe
-'892f6f9b1d',extremes,Snow&Ice,#d60d2b,wmo,eiskalt einsiedeln wägital,2026-02-13T04:34:00+00:00,Switzerland,0.4924323417833044,1,1,de,WCE,Europe
+'08d5240568',extremes,Snow&Ice,#d60d2b,wmo,Frost nördliches Tavetsch,2026-03-14T04:22:00+00:00,Switzerland,0.49244123762972397,1,1,de,WCE,Europe
 '92615c8656',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Gmunden,2026-02-19T04:32:00+00:00,Austria,0.4922867979029017,1,1,de,WCE,Europe
 '94300b4dad',extremes,Snow&Ice,#d60d2b,wmo,Schnee Italien,2026-02-11T04:41:00+00:00,Italy,0.4922377747786298,2,3,de,MED,Europe
 '9ca1db2ac1',extremes,Snow&Ice,#d60d2b,wmo,Eis im Nordosten Islands,2026-03-07T04:12:00+00:00,Iceland,0.4922005798791007,1,1,de,GIC,Europe
+'e9bc5e889b',extremes,Snow&Ice,#d60d2b,wmo,Schnee Glarus Südsernftal,2026-03-14T04:22:00+00:00,Switzerland,0.49217417044030526,1,1,de,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Österreich,2026-02-20T04:27:00+00:00,Austria,0.4921511506613581,2,1,de,WCE,Europe
 '5a4f91858c',extremes,Snow&Ice,#d60d2b,wmo,Frost Steyrland,2026-02-18T04:34:00+00:00,Austria,0.4921352143636944,1,1,de,WCE,Europe
+'005b56d54c',extremes,Snow&Ice,#d60d2b,wmo,Frost Moutier Tavannes,2026-03-15T04:45:00+00:00,Switzerland,0.49206631232970033,1,1,de,WCE,Europe
 '6f09817c2b',extremes,Snow&Ice,#d60d2b,wmo,Frost einsiedeln wägital,2026-02-18T04:34:00+00:00,Switzerland,0.4919885742674174,1,1,de,WCE,Europe
 '48482a5127',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Thun Belp,2026-02-18T04:34:00+00:00,Switzerland,0.49147924882495,1,1,de,WCE,Europe
 'e6296ee203',extremes,Snow&Ice,#d60d2b,wmo,Schnee perg,2026-02-16T04:38:00+00:00,Austria,0.491435924869198,1,1,de,WCE,Europe
-'6bdfd7d2ad',extremes,Snow&Ice,#d60d2b,wmo,Frost Gersau Engelbergertal,2026-02-13T04:34:00+00:00,Switzerland,0.4909940942209646,1,1,de,WCE,Europe
 'b5a0fd1e63',extremes,Storm,#b3b2b1,wmo,Sturmflut Bruck Mürzzuschlag,2026-02-15T04:35:00+00:00,Austria,0.4907863721853668,1,1,de,WCE,Europe
 '16ac580ff2',extremes,Snow&Ice,#d60d2b,wmo,Frostschiers,2026-02-17T04:31:00+00:00,Switzerland,0.4906808810504712,2,1,de,WCE,Europe
 'd3d85ecd18',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Val Medel Sumvitg,2026-02-17T04:31:00+00:00,Switzerland,0.4906254828992134,2,1,de,WCE,Europe
@@ -191,7 +185,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '528ed09d54',extremes,Snow&Ice,#d60d2b,wmo,Eis Oberes Baselbiet,2026-02-18T04:34:00+00:00,Switzerland,0.4903118093307933,1,1,de,WCE,Europe
 '893cc7b286',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien Penzing,2026-02-18T04:34:00+00:00,Austria,0.489784230612713,1,1,de,WCE,Europe
 '69fd24f23f',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Villach-Land,2026-02-20T04:27:00+00:00,Austria,0.4893242786172104,1,1,de,WCE,Europe
-'ddf6eaac77',extremes,Snow&Ice,#d60d2b,wmo,eiskalt nördliches Tavetsch,2026-02-13T04:34:00+00:00,Switzerland,0.4892371729496457,1,1,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-03-16T05:05:00+00:00,Austria,0.4891835354455565,2,1,de,WCE,Europe
 '0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-02-28T04:07:00+00:00,Luxembourg,0.4890606041778569,2,1,de,WCE,Europe
 '30039c61cf',extremes,Snow&Ice,#d60d2b,wmo,Frost Leoben,2026-02-24T04:31:00+00:00,Austria,0.4887750254248393,1,1,de,WCE,Europe
@@ -213,20 +206,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea3851aef0',extremes,Storm,#b3b2b1,wmo,Sturmflut Mattersburg,2026-02-15T04:35:00+00:00,Austria,0.4856310011100301,1,1,de,WCE,Europe
 '865055a92a',extremes,Storm,#b3b2b1,wmo,Sturm Neunkirchen,2026-02-15T04:35:00+00:00,Austria,0.485341456201131,1,1,de,WCE,Europe
 '03ff01ab82',extremes,Snow&Ice,#d60d2b,wmo,Eis Appenzell,2026-02-15T04:35:00+00:00,Switzerland,0.4852665936716533,1,1,de,WCE,Europe
-'5df2f9cece',extremes,Precipitation,#d60d2b,wmo,Regenguss vor den Waadtländer Alpen,2026-02-13T04:34:00+00:00,Switzerland,0.4851684442259364,1,1,de,WCE,Europe
 '15e9787b38',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Favoriten,2026-02-21T04:18:00+00:00,Austria,0.4849755531067073,1,1,de,WCE,Europe
 '9ea0e31db4',extremes,Drought,#edc291,edo,Regenmangel Belgien,2026-03-06T04:21:00+00:00,Belgium,0.4847208083524036,1,1,de,WCE,Europe
 '1bacbbc4f6',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien währing,2026-02-18T04:34:00+00:00,Austria,0.4846552378254161,1,1,de,WCE,Europe
 '246d17d4ee',extremes,Snow&Ice,#d60d2b,wmo,Frost Kitzbühel,2026-02-20T04:27:00+00:00,Austria,0.4845816344314635,1,1,de,WCE,Europe
 'cf17ac0c6f',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien Neubau,2026-02-18T04:34:00+00:00,Austria,0.4839248003195752,1,1,de,WCE,Europe
-'6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Lauterbrunnen Wilderswil,2026-02-13T04:34:00+00:00,Switzerland,0.4839049623032714,1,1,de,WCE,Europe
 'ff422211b0',extremes,Snow&Ice,#d60d2b,wmo,Schnee Goldau Ã„geri,2026-03-15T04:45:00+00:00,Switzerland,0.4838116907464954,2,1,de,WCE,Europe
 '6076c8543a',extremes,Storm,#b3b2b1,wmo,Sturmflut Ligurien,2026-03-06T04:21:00+00:00,Italy,0.4837362143937917,1,1,de,MED,Europe
 'afb33b72f8',extremes,Snow&Ice,#d60d2b,wmo,Eisschiers,2026-02-18T04:34:00+00:00,Switzerland,0.4836678415130766,1,1,de,WCE,Europe
 '9991073996',extremes,Snow&Ice,#d60d2b,wmo,Schnee Wien Landstraße,2026-02-20T04:27:00+00:00,Austria,0.4834272126624909,1,1,de,WCE,Europe
 'b4b4ecd0b6',extremes,Snow&Ice,#d60d2b,wmo,Frostbetrug,2026-02-16T04:38:00+00:00,Switzerland,0.4833736236741801,1,1,de,WCE,Europe
 '6db196ebc9',extremes,Snow&Ice,#d60d2b,wmo,Eiswahlern Plaffeien,2026-02-18T04:34:00+00:00,Switzerland,0.4832554981817586,1,1,de,WCE,Europe
-'c9436df8cd',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Stadt Isny ​​im Allgäu,2026-02-13T04:34:00+00:00,Germany,0.4831922633322593,1,1,de,WCE,Europe
 'bb24a4fbb7',extremes,Precipitation,#d60d2b,wmo,Regenguss Österreich,2026-02-24T04:31:00+00:00,Austria,0.4828447194822556,1,1,de,WCE,Europe
 '200c06c3b9',extremes,Storm,#b3b2b1,wmo,Sturm Elbe von Hamburg bis Cuxhaven,2026-02-23T04:37:00+00:00,Germany,0.482743215543492,2,1,de,WCE,Europe
 'c4d2a7e7a4',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien Leopoldstadt,2026-02-18T04:34:00+00:00,Austria,0.4826140930309575,1,1,de,WCE,Europe
@@ -257,7 +247,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4972cf2179',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Salzburger Stadt,2026-02-16T04:38:00+00:00,Austria,0.4785196005932648,1,1,de,WCE,Europe
 '7b60b91229',extremes,Fog,#d60d2b,wmo,Nebel Sardinien,2026-02-23T04:37:00+00:00,Italy,0.4784878774856848,2,1,de,MED,Europe
 'ab6c1991fa',extremes,Snow&Ice,#d60d2b,wmo,Frost Neunkirchen,2026-02-20T04:27:00+00:00,Austria,0.4783981209736997,1,1,de,WCE,Europe
-'50f39bafbb',extremes,Precipitation,#d60d2b,wmo,Regenguss Grindelwald,2026-02-13T04:34:00+00:00,Switzerland,0.4782563011243806,1,1,de,WCE,Europe
 'a7b8ca3c8a',extremes,Snow&Ice,#d60d2b,wmo,Eis Nidau ​​ins,2026-02-18T04:34:00+00:00,Switzerland,0.477736856533487,1,1,de,WCE,Europe
 '1be2f78aac',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Brigels,2026-02-15T04:35:00+00:00,Switzerland,0.4777153455177911,1,1,de,WCE,Europe
 'd40f0da408',extremes,Snow&Ice,#d60d2b,wmo,Eis Korneuburg,2026-02-20T04:27:00+00:00,Austria,0.4774979010500991,1,1,de,WCE,Europe
@@ -344,7 +333,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad0557f406',extremes,Snow&Ice,#d60d2b,wmo,Eis Oberwart,2026-02-19T04:32:00+00:00,Austria,0.4633572686014283,1,1,de,WCE,Europe
 '913860860e',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes GmÃ¼nd,2026-02-20T04:27:00+00:00,Austria,0.463250959220214,1,1,de,WCE,Europe
 '4079790e60',extremes,Storm,#b3b2b1,wmo,Sturmflut Cordoba Gral Roca Rio Cuarto.,2026-03-02T04:27:00+00:00,Argentina,0.4628341550825147,1,1,de,SES,South-America
-'977a7cdeb6',extremes,Snow&Ice,#d60d2b,wmo,Eis Leventina,2026-02-16T04:38:00+00:00,Switzerland,0.4622959291065118,2,1,de,WCE,Europe
 'cb90ae9e3d',extremes,Snow&Ice,#d60d2b,wmo,Schneesteyrer Land,2026-02-21T04:18:00+00:00,Austria,0.4621521642749683,1,1,de,WCE,Europe
 '71149fa5b9',extremes,Fog,#d60d2b,wmo,NebelkÃ¼stenzone,2026-03-08T04:24:00+00:00,Belgium,0.4621456397567301,1,1,de,WCE,Europe
 'dd289f890d',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Saanen Gsteig,2026-03-15T04:45:00+00:00,Switzerland,0.4621102404213708,2,1,de,WCE,Europe
@@ -362,7 +350,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '689985175c',extremes,Snow&Ice,#d60d2b,wmo,Frost Aigle Leysin,2026-02-17T04:31:00+00:00,Switzerland,0.4586777348579998,2,1,de,WCE,Europe
 '5241447c2f',extremes,Snow&Ice,#d60d2b,wmo,Schneealgorithmus,2026-02-17T04:31:00+00:00,Switzerland,0.4586533380839905,2,1,de,WCE,Europe
 '65186f6a29',extremes,Snow&Ice,#d60d2b,wmo,Eis Flims Laax,2026-02-17T04:31:00+00:00,Switzerland,0.4583303364955872,2,1,de,WCE,Europe
-'6bc782837c',extremes,Snow&Ice,#d60d2b,wmo,Schnee Sion Crans Montana,2026-02-16T04:38:00+00:00,Switzerland,0.4577413224419195,2,1,de,WCE,Europe
 '4a49035fe3',extremes,Snow&Ice,#d60d2b,wmo,Ice Bex Villars,2026-03-13T04:25:00+00:00,Switzerland,0.4565505407827179,3,1,de,WCE,Europe
 '5377abf72e',extremes,Snow&Ice,#d60d2b,wmo,Frost Leventina,2026-02-17T04:31:00+00:00,Switzerland,0.4556779904470966,2,1,de,WCE,Europe
 'bec3111481',extremes,Snow&Ice,#d60d2b,wmo,Schnee Glarus SÃ¼d Grosstal,2026-02-17T04:31:00+00:00,Switzerland,0.4553799251813927,2,1,de,WCE,Europe
@@ -381,14 +368,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a32c6a309',extremes,Snow&Ice,#d60d2b,wmo,Eis Erstfeld Engelberg,2026-03-14T04:22:00+00:00,Switzerland,0.4485760116755792,2,1,de,WCE,Europe
 '5968efe764',extremes,Precipitation,#d60d2b,wmo,Regen Österreich,2026-02-24T04:31:00+00:00,Austria,0.4483517529516012,2,2,de,WCE,Europe
 '1ed58f28b2',extremes,Snow&Ice,#d60d2b,wmo,Frost Vispertal Nanztal,2026-03-15T04:45:00+00:00,Switzerland,0.4478600703204489,2,1,de,WCE,Europe
-'b40d007bef',extremes,Snow&Ice,#d60d2b,wmo,Eisobergomen,2026-02-17T04:31:00+00:00,Switzerland,0.4471480980045746,2,1,de,WCE,Europe
 'f7a88fba0a',extremes,Fog,#d60d2b,wmo,Nebel Latium,2026-02-24T04:31:00+00:00,Italy,0.4470142876007563,2,1,de,MED,Europe
-'1cbc279697',extremes,Snow&Ice,#d60d2b,wmo,Schneevouvry,2026-02-17T04:31:00+00:00,Switzerland,0.4466613062060217,2,1,de,WCE,Europe
 '75dbe8c27e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Aigle Leysin,2026-03-15T04:45:00+00:00,Switzerland,0.4466275102163403,2,1,de,WCE,Europe
 '7ebbae0c9c',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Brienz Interlaken,2026-03-15T04:45:00+00:00,Switzerland,0.4464435586735479,2,1,de,WCE,Europe
 '159fb0a618',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Gros de Vaud,2026-03-13T04:25:00+00:00,Switzerland,0.446212072782049,3,1,de,WCE,Europe
 '14ed38a1e4',extremes,Fog,#d60d2b,wmo,Nebelmolise,2026-02-24T04:31:00+00:00,Italy,0.4461710360020676,2,1,de,MED,Europe
-'d3a4bf4669',extremes,Snow&Ice,#d60d2b,wmo,Schnee Kufstein,2026-02-17T04:31:00+00:00,Austria,0.4457214273149831,2,1,de,WCE,Europe
 '5960ea8e95',extremes,Snow&Ice,#d60d2b,wmo,Eis Krems Land,2026-02-18T04:34:00+00:00,Austria,0.4456569479193837,2,1,de,WCE,Europe
 '934cac63fe',extremes,Snow&Ice,#d60d2b,wmo,Frost Effretikon,2026-03-19T04:35:00+00:00,Switzerland,0.4454923131995291,2,1,de,WCE,Europe
 'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2026-03-13T04:25:00+00:00,Germany,0.445469002805699,2,1,de,WCE,Europe
@@ -398,7 +382,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e93dbaea9',extremes,Fog,#d60d2b,wmo,Nebel Kampanien,2026-02-23T04:37:00+00:00,Italy,0.4443967521977708,2,1,de,MED,Europe
 '74236bd182',extremes,Drought,#edc291,edo,Mangel an Regen Island,2026-03-03T04:27:00+00:00,Iceland,0.4442191507826908,2,1,de,GIC,Europe
 '714440b2b2',extremes,Cold Wave,#a7e9fa,wmo,eiskaltes Wien Mariahilf,2026-02-21T04:18:00+00:00,Austria,0.4438372305167894,2,1,de,WCE,Europe
-'87ea10f233',extremes,Snow&Ice,#d60d2b,wmo,Eiszernez,2026-02-17T04:31:00+00:00,Switzerland,0.4436597784009299,2,1,de,WCE,Europe
 '000e28ad77',extremes,Snow&Ice,#d60d2b,wmo,Schnee GÃ¤nserndorf,2026-02-18T04:34:00+00:00,Austria,0.443162349301879,2,1,de,WCE,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,Dürre Belgien,2026-03-02T04:27:00+00:00,Belgium,0.4430135832555706,2,1,de,WCE,Europe
 '764bd46d5a',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien liegt,2026-02-21T04:18:00+00:00,Austria,0.4428257440624704,2,1,de,WCE,Europe
@@ -423,7 +406,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db4deee12d',extremes,Fog,#d60d2b,wmo,Nebel Apulien,2026-02-28T04:07:00+00:00,Italy,0.4387007839775862,2,1,de,MED,Europe
 'f850363ed5',extremes,Snow&Ice,#d60d2b,wmo,Eis im SÃ¼dosten Islands,2026-02-24T04:31:00+00:00,Iceland,0.4386332743318482,2,1,de,GIC,Europe
 '1f62d5fa69',extremes,Snow&Ice,#d60d2b,wmo,Snow Brig nördliches Simplongebiet,2026-03-14T04:22:00+00:00,Switzerland,0.4386257924155623,2,1,de,WCE,Europe
-'cc80ba2108',extremes,Storm,#b3b2b1,wmo,Sturm Riein Safiental,2026-02-17T04:31:00+00:00,Switzerland,0.4385284604942046,2,1,de,WCE,Europe
 'b8aaf48e72',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Meidling,2026-02-21T04:18:00+00:00,Austria,0.4383190830215231,2,1,de,WCE,Europe
 'a8c2fe0070',extremes,Snow&Ice,#d60d2b,wmo,Frost in den Westfjorden,2026-02-26T04:29:00+00:00,Iceland,0.4382598658195773,2,1,de,GIC,Europe
 '300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,Schnee im Nordwesten Islands,2026-03-10T04:22:00+00:00,Iceland,0.4381315637024012,2,1,de,GIC,Europe
@@ -443,7 +425,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1004d4af46',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Scheibbs,2026-02-20T04:27:00+00:00,Austria,0.4353050640963222,2,1,de,WCE,Europe
 '308d34508e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Maderanertal,2026-03-15T04:45:00+00:00,Switzerland,0.4352338315041906,2,1,de,WCE,Europe
 'd9edc58a09',extremes,Snow&Ice,#d60d2b,wmo,Schnee Appenzell,2026-03-15T04:45:00+00:00,Switzerland,0.4351824083890523,2,1,de,WCE,Europe
-'e103a9ec0a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Bregenz,2026-02-17T04:31:00+00:00,Austria,0.4351094748271811,2,1,de,WCE,Europe
 '4d32562979',extremes,Storm,#b3b2b1,wmo,Sturm Ostisland,2026-03-02T04:27:00+00:00,Iceland,0.4346922540257774,2,1,de,GIC,Europe
 '6c3e9e38c1',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wien Ottakring,2026-02-18T04:34:00+00:00,Austria,0.4345334509285347,2,1,de,WCE,Europe
 'd179a7daa7',extremes,Snow&Ice,#d60d2b,wmo,Frost bellinzonese,2026-03-20T04:26:00+00:00,Switzerland,0.4344565191554173,2,1,de,WCE,Europe
@@ -493,10 +474,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bc2f196b45',extremes,Snow&Ice,#d60d2b,wmo,Eis schanfigg,2026-03-15T04:45:00+00:00,Switzerland,0.429676334417461,2,1,de,WCE,Europe
 '9594410658',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Urfahrumgebung,2026-02-18T04:34:00+00:00,Austria,0.4293416708029631,2,1,de,WCE,Europe
 '6061d449da',extremes,Snow&Ice,#d60d2b,wmo,Eis Bern Sinn,2026-03-16T05:05:00+00:00,Switzerland,0.4291747711857551,2,1,de,WCE,Europe
-'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,Sturmflut Sarganserland,2026-02-17T04:31:00+00:00,Switzerland,0.4289928079294681,2,1,de,WCE,Europe
 '4c5c39aade',extremes,Cold Wave,#a7e9fa,wmo,Kältewelle Wien Hietzing,2026-02-20T04:27:00+00:00,Austria,0.4286926817740978,2,1,de,WCE,Europe
 '55459a4ab8',extremes,Drought,#edc291,edo,Dürre Luxemburg,2026-03-04T04:21:00+00:00,Luxembourg,0.4266323811807075,3,1,de,WCE,Europe
-'2584dcf47d',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Eis,2026-02-17T04:31:00+00:00,Austria,0.4257766847962446,2,1,de,WCE,Europe
 '6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Hulftegg Untertoggenburg,2026-03-19T04:35:00+00:00,Switzerland,0.4253883072222287,2,1,de,WCE,Europe
 '0db6995ddb',extremes,Snow&Ice,#d60d2b,wmo,Frost Riviera,2026-03-21T04:17:00+00:00,Switzerland,0.4253666425097265,2,1,de,WCE,Europe
 '427ee66386',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Neubau,2026-02-20T04:27:00+00:00,Austria,0.4231881101914804,2,1,de,WCE,Europe
@@ -510,4 +489,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4e47eb5e9',extremes,Snow&Ice,#d60d2b,wmo,Schnee Wien Josefstadt,2026-02-18T04:34:00+00:00,Austria,0.4139812056174367,2,1,de,WCE,Europe
 '5e13e239ca',extremes,Snow&Ice,#d60d2b,wmo,Eis Plaine de l'Orbe,2026-02-18T04:34:00+00:00,Switzerland,0.4137564187504396,2,1,de,WCE,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-03-07T04:12:00+00:00,Iceland,0.3678550535952155,3,1,de,GIC,Europe
-'61783b3c5c',extremes,Cold Wave,#a7e9fa,wmo,eiskalt Wien Innere Stadt,2026-02-21T04:18:00+00:00,Austria,0.3677781090598533,3,1,de,WCE,Europe
