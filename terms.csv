@@ -7,6 +7,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17a0212ee2',extremes,Storm,#b3b2b1,wmo,Sturmflut Mistelbach,2026-03-25T04:33:00+00:00,Austria,0.7600773376300751,0,1,de,WCE,Europe
 '7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Kirchdorf an der Krems,2026-03-25T04:33:00+00:00,Austria,0.7600262783871286,0,1,de,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,Sturmflut Reutte,2026-03-25T04:33:00+00:00,Austria,0.7599423473849769,0,1,de,WCE,Europe
+'c62db23b0d',extremes,Storm,#b3b2b1,wmo,Sturmflut Lilienfeld,2026-03-25T04:33:00+00:00,Austria,0.7599157514822612,0,1,de,WCE,Europe
+'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,Sturm Spittal an der Drau,2026-03-25T04:33:00+00:00,Austria,0.7596974507531309,0,1,de,WCE,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,Eis Hallein,2026-03-25T04:33:00+00:00,Austria,0.7594741602166889,0,1,de,WCE,Europe
+'53cc0bcc71',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurrikan Deutschland,2026-03-25T04:33:00+00:00,Germany,0.7506003718336572,0,1,de,WCE,Europe
+'618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-03-25T04:33:00+00:00,Austria,0.7503760602879962,0,1,de,WCE,Europe
+'243c47a1d5',extremes,Snow&Ice,#d60d2b,wmo,Frost Ã–sterreich,2026-03-25T04:33:00+00:00,Austria,0.7497632374109018,0,1,de,WCE,Europe
+'9cc930f150',extremes,Snow&Ice,#d60d2b,wmo,Schnee Reute,2026-03-25T04:33:00+00:00,Austria,0.7497287560580519,0,1,de,WCE,Europe
+'246dc46b71',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Weiz,2026-03-25T04:33:00+00:00,Austria,0.749720162343756,0,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-02-25T04:32:00+00:00,Germany,0.6469756093025448,2,3,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-02-24T04:31:00+00:00,Germany,0.6437230529550116,1,2,de,WCE,Europe
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Österreich,2026-02-15T04:35:00+00:00,Austria,0.6403423800317043,2,3,de,WCE,Europe
