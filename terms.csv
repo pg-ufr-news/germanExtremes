@@ -23,6 +23,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f7962a661',extremes,Storm,#b3b2b1,wmo,Sturmflut Feldkirch,2026-03-25T04:33:00+00:00,Austria,0.7489249632937859,0,1,de,WCE,Europe
 '0632a85904',extremes,Storm,#b3b2b1,wmo,Sturm Eisenstadt Stadt,2026-03-25T04:33:00+00:00,Austria,0.7488524106050864,0,1,de,WCE,Europe
 'a76459a195',extremes,Storm,#b3b2b1,wmo,Sturmflut Sankt Veit an der Glan,2026-03-25T04:33:00+00:00,Austria,0.7486190681369319,0,1,de,WCE,Europe
+'c7dffd1264',extremes,Storm,#b3b2b1,wmo,Sturmflut Bruck an der Leitha,2026-03-25T04:33:00+00:00,Austria,0.7485472037194081,0,1,de,WCE,Europe
+'3b28e1fc4f',extremes,Storm,#b3b2b1,wmo,Sturmflut Wolfsberg,2026-03-25T04:33:00+00:00,Austria,0.7485369624981425,0,1,de,WCE,Europe
+'5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-03-25T04:33:00+00:00,Austria,0.7483589871983717,0,1,de,WCE,Europe
+'6fc7fa002d',extremes,Storm,#b3b2b1,wmo,Sturmflut Güssing,2026-03-25T04:33:00+00:00,Austria,0.7483441032469154,0,1,de,WCE,Europe
+'ac1e22c404',extremes,Storm,#b3b2b1,wmo,Sturmflut Korneuburg,2026-03-25T04:33:00+00:00,Austria,0.7482954106982042,0,1,de,WCE,Europe
+'6d8d7a16c8',extremes,Storm,#b3b2b1,wmo,Sturm innsbruck stadt,2026-03-25T04:33:00+00:00,Austria,0.7479793503197995,0,1,de,WCE,Europe
+'eb7ae5e849',extremes,Storm,#b3b2b1,wmo,Sturmflut Sankt Pölten Land,2026-03-25T04:33:00+00:00,Austria,0.7478234330663899,0,1,de,WCE,Europe
+'8e7c5ecf78',extremes,Snow&Ice,#d60d2b,wmo,Frost Vöcklabruck,2026-03-25T04:33:00+00:00,Austria,0.7477627330561285,0,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-02-25T04:32:00+00:00,Germany,0.6469756093025448,2,3,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-02-24T04:31:00+00:00,Germany,0.6437230529550116,1,2,de,WCE,Europe
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,Schnee Österreich,2026-02-15T04:35:00+00:00,Austria,0.6403423800317043,2,3,de,WCE,Europe
