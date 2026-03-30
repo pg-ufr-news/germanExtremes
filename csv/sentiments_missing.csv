@@ -1,19 +1,19 @@
 ,phrase,label,sentiment,subjectivity,language,count
-winter,winter,DATE,,,en,68.69999999999995
-first,first,ORDINAL,,,en,16.900000000000006
+winter,winter,DATE,,,en,70.29999999999994
+first,first,ORDINAL,,,en,17.700000000000006
 German,German,NORP,,,en,16.10000000000001
 two,two,CARDINAL,,,en,15.600000000000003
 Winter,Winter,DATE,,,en,15.400000000000004
-Swiss,Swiss,NORP,,,en,9.700000000000001
+Swiss,Swiss,NORP,,,en,11.300000000000002
+Friday,Friday,DATE,,,en,9.400000000000002
 Monday,Monday,DATE,,,en,8.9
-Friday,Friday,DATE,,,en,8.600000000000001
 today,today,DATE,,,en,8.3
+the weekend,the weekend,DATE,,,en,8.1
 Olympics,Olympics,EVENT,,,en,7.699999999999999
 Sunday,Sunday,DATE,,,en,7.499999999999999
-the weekend,the weekend,DATE,,,en,7.299999999999999
+January,January,DATE,,,en,6.900000000000001
 2025,2025,DATE,,,en,6.800000000000001
 Saturday,Saturday,DATE,,,en,6.2
-January,January,DATE,,,en,6.100000000000001
 One,One,CARDINAL,,,en,5.5
 the middle of the week,the middle of the week,DATE,,,en,5.499999999999999
 morning,morning,TIME,,,en,5.4
@@ -22,143 +22,170 @@ night,night,TIME,,,en,4.9
 Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,4.6
 Three,Three,CARDINAL,,,en,4.5
 Russian,Russian,NORP,,,en,4.5
-the start of the week,the start of the week,DATE,,,en,4.4
 the summer,the summer,DATE,,,en,4.4
+the start of the week,the start of the week,DATE,,,en,4.4
 three,three,CARDINAL,,,en,4.3999999999999995
 one,one,CARDINAL,,,en,4.2
 the past few days,the past few days,DATE,,,en,4.0
 the morning,the morning,TIME,,,en,3.7
 Four,Four,CARDINAL,,,en,3.5999999999999996
 days,days,DATE,,,en,3.5
-Christmas Eve,Christmas Eve,DATE,,,en,3.4000000000000004
+this weekend,this weekend,DATE,,,en,3.4000000000000004
 Olympic,Olympic,PRODUCT,,,en,3.4000000000000004
-Thursday,Thursday,DATE,,,en,3.3
+Christmas Eve,Christmas Eve,DATE,,,en,3.4000000000000004
+August,August,DATE,,,en,3.4000000000000004
 Wednesday,Wednesday,DATE,,,en,3.3
+Thursday,Thursday,DATE,,,en,3.3
 European,European,NORP,,,en,3.0
 the Winter Games,the Winter Games,EVENT,,,en,2.9000000000000004
+second,second,ORDINAL,,,en,2.9000000000000004
 Tyrolean,Tyrolean,NORP,,,en,2.8
-2026,2026,DATE,,,en,2.6
 a white Christmas,a white Christmas,DATE,,,en,2.6
-the right day,the right day,DATE,,,en,2.6
-the turn of the year,the turn of the year,DATE,,,en,2.6
+2026,2026,DATE,,,en,2.6
+minus 28 degrees Celsius,minus 28 degrees Celsius,QUANTITY,,,en,2.6
 December,December,DATE,,,en,2.6
 New Year's Eve,New Year's Eve,EVENT,,,en,2.6
 23 degrees,23 degrees,QUANTITY,,,en,2.6
+the right day,the right day,DATE,,,en,2.6
+the turn of the year,the turn of the year,DATE,,,en,2.6
 Austrian,Austrian,NORP,,,en,2.6
-minus 28 degrees Celsius,minus 28 degrees Celsius,QUANTITY,,,en,2.6
-this weekend,this weekend,DATE,,,en,2.6
 Weather week,Weather week,DATE,,,en,2.5
 First,First,ORDINAL,,,en,2.4000000000000004
 Italian,Italian,NORP,,,en,2.3
 February,February,DATE,,,en,2.2
-four,four,CARDINAL,,,en,2.1
-second,second,ORDINAL,,,en,2.1
-the coming days,the coming days,DATE,,,en,2.1
 the week,the week,DATE,,,en,2.1
 evening,evening,TIME,,,en,2.1
+four,four,CARDINAL,,,en,2.1
+the coming days,the coming days,DATE,,,en,2.1
 winter day,winter day,DATE,,,en,2.0
 Greens,Greens,NORP,,,en,1.9000000000000001
 years,years,DATE,,,en,1.9000000000000001
-56,56,CARDINAL,,,en,1.9
 recent years,recent years,DATE,,,en,1.9
-this year,this year,DATE,,,en,1.8
-the new year,the new year,DATE,,,en,1.8
-this week,this week,DATE,,,en,1.8
-Sicilian,Sicilian,NORP,,,en,1.8
-winter night,winter night,TIME,,,en,1.8
-the Olympic Games,the Olympic Games,EVENT,,,en,1.8
-the Winter Olympics,the Winter Olympics,EVENT,,,en,1.8
+56,56,CARDINAL,,,en,1.9
+Seven,Seven,CARDINAL,,,en,1.8
 15 centimeters,15 centimeters,QUANTITY,,,en,1.8
-Saharan,Saharan,NORP,,,en,1.8
+Ukrainian,Ukrainian,NORP,,,en,1.8
+fifth,fifth,ORDINAL,,,en,1.8
+the European Championships,the European Championships,EVENT,,,en,1.8
+this week,this week,DATE,,,en,1.8
+The new week,The new week,DATE,,,en,1.8
+winter night,winter night,TIME,,,en,1.8
+Sicilian,Sicilian,NORP,,,en,1.8
+Harry,Harry,WORK_OF_ART,,,en,1.8
+the Olympic Games,the Olympic Games,EVENT,,,en,1.8
+March,March,DATE,,,en,1.8
+40 centimeters,40 centimeters,QUANTITY,,,en,1.8
+the new week,the new week,DATE,,,en,1.8
 5,5,CARDINAL,,,en,1.8
 Heated Rivalry,Heated Rivalry,WORK_OF_ART,,,en,1.8
-overnight,overnight,TIME,,,en,1.8
-fifth,fifth,ORDINAL,,,en,1.8
-Seven,Seven,CARDINAL,,,en,1.8
-Harry,Harry,WORK_OF_ART,,,en,1.8
-the new week,the new week,DATE,,,en,1.8
-billions,billions,CARDINAL,,,en,1.8
-The new week,The new week,DATE,,,en,1.8
-the European Championships,the European Championships,EVENT,,,en,1.8
 Finnish,Finnish,NORP,,,en,1.8
-Ukrainian,Ukrainian,NORP,,,en,1.8
-40 centimeters,40 centimeters,QUANTITY,,,en,1.8
+billions,billions,CARDINAL,,,en,1.8
+this year,this year,DATE,,,en,1.8
+overnight,overnight,TIME,,,en,1.8
+the new year,the new year,DATE,,,en,1.8
+Saharan,Saharan,NORP,,,en,1.8
 at least three,at least three,CARDINAL,,,en,1.8
-winters,winters,DATE,,,en,1.7
+the Winter Olympics,the Winter Olympics,EVENT,,,en,1.8
+the night,the night,TIME,,,en,1.7
+the beginning of the year,the beginning of the year,DATE,,,en,1.7
+World Cup,World Cup,EVENT,,,en,1.7
 zero,zero,CARDINAL,,,en,1.7
 Winter Games,Winter Games,EVENT,,,en,1.7
-Hundreds,Hundreds,CARDINAL,,,en,1.7
-the beginning of the year,the beginning of the year,DATE,,,en,1.7
 Love Arch,Love Arch,WORK_OF_ART,,,en,1.7
-the night,the night,TIME,,,en,1.7
-World Cup,World Cup,EVENT,,,en,1.7
+2011,2011,DATE,,,en,1.7
+winters,winters,DATE,,,en,1.7
+Hundreds,Hundreds,CARDINAL,,,en,1.7
 the last few weeks,the last few weeks,DATE,,,en,1.6
-American,American,NORP,,,en,1.6
 16 degrees,16 degrees,QUANTITY,,,en,1.6
+American,American,NORP,,,en,1.6
 Germans,Germans,NORP,,,en,1.5999999999999999
+the coming week,the coming week,DATE,,,en,1.3
+the German World Cup,the German World Cup,EVENT,,,en,1.3
+One Piece” Season 2,One Piece” Season 2,WORK_OF_ART,,,en,1.3
 1956,1956,DATE,,,en,1.3
-61,61,CARDINAL,,,en,1.3
+13 to 19 degrees,13 to 19 degrees,QUANTITY,,,en,1.3
+minus 29 degrees,minus 29 degrees,QUANTITY,,,en,1.3
 15,15,CARDINAL,,,en,1.3
+61,61,CARDINAL,,,en,1.3
+the Berlin U2,the Berlin U2,FAC,,,en,1.3
+20 degrees,20 degrees,QUANTITY,,,en,1.3
+U2,U2,CARDINAL,,,en,1.3
+Crans,Crans,NORP,,,en,1.3
+Jewish,Jewish,NORP,,,en,1.3
+2022,2022,DATE,,,en,1.3
 this winter,this winter,DATE,,,en,1.3
 hours,hours,TIME,,,en,1.3
-minus 29 degrees,minus 29 degrees,QUANTITY,,,en,1.3
-13 to 19 degrees,13 to 19 degrees,QUANTITY,,,en,1.3
-the coming week,the coming week,DATE,,,en,1.3
-Crans,Crans,NORP,,,en,1.3
-U2,U2,CARDINAL,,,en,1.3
-Jewish,Jewish,NORP,,,en,1.3
-the German World Cup,the German World Cup,EVENT,,,en,1.3
-2022,2022,DATE,,,en,1.3
-20 degrees,20 degrees,QUANTITY,,,en,1.3
 2006,2006,DATE,,,en,1.3
-the Berlin U2,the Berlin U2,FAC,,,en,1.3
-Tuesday,Tuesday,DATE,,,en,1.2
 half,half,CARDINAL,,,en,1.2
-Two,Two,CARDINAL,,,en,1.2
-weeks,weeks,DATE,,,en,1.2
 the next few days,the next few days,DATE,,,en,1.2
-46 percent,46 percent,PERCENT,,,en,1.0
-The months of November and December,The months of November and December,DATE,,,en,1.0
-only about 24 percent,only about 24 percent,PERCENT,,,en,1.0
-less than last year,less than last year,DATE,,,en,1.0
-7th,7th,ORDINAL,,,en,1.0
-12 centimeters,12 centimeters,QUANTITY,,,en,1.0
-decades,decades,DATE,,,en,1.0
-Volkspark,Volkspark,NORP,,,en,1.0
-The Olympic Winter Games end,The Olympic Winter Games end,EVENT,,,en,1.0
-The Olympic Games,The Olympic Games,EVENT,,,en,1.0
-Olympic Winter Games,Olympic Winter Games,EVENT,,,en,1.0
-late at night,late at night,TIME,,,en,1.0
-these days,these days,DATE,,,en,1.0
-fifteen,fifteen,CARDINAL,,,en,1.0
-The winter season,The winter season,DATE,,,en,1.0
-the winter season,the winter season,DATE,,,en,1.0
-Weekend,Weekend,DATE,,,en,1.0
-At least three,At least three,CARDINAL,,,en,1.0
-only 16 centimeters,only 16 centimeters,QUANTITY,,,en,1.0
-1:5,1:5,CARDINAL,,,en,1.0
-the last foolish days,the last foolish days,DATE,,,en,1.0
-five,five,CARDINAL,,,en,1.0
-the last days,the last days,DATE,,,en,1.0
-"83,443","83,443",CARDINAL,,,en,1.0
-the day,the day,DATE,,,en,1.0
-One day,One day,DATE,,,en,1.0
-Black Friday,Black Friday,EVENT,,,en,1.0
-Balkan,Balkan,NORP,,,en,1.0
-the Big Air,the Big Air,EVENT,,,en,1.0
-DEB,DEB,NORP,,,en,1.0
-this morning,this morning,TIME,,,en,1.0
+weeks,weeks,DATE,,,en,1.2
+Tuesday,Tuesday,DATE,,,en,1.2
+Two,Two,CARDINAL,,,en,1.2
 Arch of Love,Arch of Love,WORK_OF_ART,,,en,1.0
+the Big Air,the Big Air,EVENT,,,en,1.0
+only about 24 percent,only about 24 percent,PERCENT,,,en,1.0
+several years,several years,DATE,,,en,1.0
+this morning,this morning,TIME,,,en,1.0
+The winter season,The winter season,DATE,,,en,1.0
+seasonal,seasonal,DATE,,,en,1.0
+only 16 centimeters,only 16 centimeters,QUANTITY,,,en,1.0
 thousands,thousands,CARDINAL,,,en,1.0
 “Arch of Love,“Arch of Love,WORK_OF_ART,,,en,1.0
 Day of all days,Day of all days,DATE,,,en,1.0
+At least three,At least three,CARDINAL,,,en,1.0
+The months of November and December,The months of November and December,DATE,,,en,1.0
+the winter season,the winter season,DATE,,,en,1.0
 0.04 seconds,0.04 seconds,TIME,,,en,1.0
-Two minutes,Two minutes,TIME,,,en,1.0
-winter of the year,winter of the year,DATE,,,en,1.0
+Lechtal,Lechtal,FAC,,,en,1.0
+the beginning of the week,the beginning of the week,DATE,,,en,1.0
+One day,One day,DATE,,,en,1.0
+The Olympic Games,The Olympic Games,EVENT,,,en,1.0
+1986,1986,DATE,,,en,1.0
+decades,decades,DATE,,,en,1.0
+12 centimeters,12 centimeters,QUANTITY,,,en,1.0
+40 years,40 years,DATE,,,en,1.0
 Swiss Olympic,Swiss Olympic,EVENT,,,en,1.0
-Queen at Sea,Queen at Sea,WORK_OF_ART,,,en,1.0
-next August,next August,DATE,,,en,1.0
-Up to 20 degrees,Up to 20 degrees,QUANTITY,,,en,1.0
+485,485,CARDINAL,,,en,1.0
+DEB,DEB,NORP,,,en,1.0
+Balkan,Balkan,NORP,,,en,1.0
+the day,the day,DATE,,,en,1.0
+Stops in Passenger Check,Stops in Passenger Check,WORK_OF_ART,,,en,1.0
+five,five,CARDINAL,,,en,1.0
+Styrian,Styrian,NORP,,,en,1.0
+1:5,1:5,CARDINAL,,,en,1.0
+Two minutes,Two minutes,TIME,,,en,1.0
+2050,2050,DATE,,,en,1.0
+Weekend,Weekend,DATE,,,en,1.0
+over six hours,over six hours,TIME,,,en,1.0
+1984,1984,DATE,,,en,1.0
+Volkspark,Volkspark,NORP,,,en,1.0
+the last foolish days,the last foolish days,DATE,,,en,1.0
+the last days,the last days,DATE,,,en,1.0
+"83,443","83,443",CARDINAL,,,en,1.0
+The Deep,The Deep,WORK_OF_ART,,,en,1.0
+below 1000 meters,below 1000 meters,QUANTITY,,,en,1.0
+less than last year,less than last year,DATE,,,en,1.0
+the worst years,the worst years,DATE,,,en,1.0
+these days,these days,DATE,,,en,1.0
+Death in the Snow,Death in the Snow,WORK_OF_ART,,,en,1.0
+eight years,eight years,DATE,,,en,1.0
+More than 20 degrees,More than 20 degrees,QUANTITY,,,en,1.0
+Up to,Up to,QUANTITY,,,en,1.0
+over 20 degrees,over 20 degrees,QUANTITY,,,en,1.0
+46 percent,46 percent,PERCENT,,,en,1.0
+the hours,the hours,TIME,,,en,1.0
+Greetings to Africa: Why the sky is gray and the sun is milky”,Greetings to Africa: Why the sky is gray and the sun is milky”,WORK_OF_ART,,,en,1.0
+Islanders,Islanders,NORP,,,en,1.0
+20th,20th,ORDINAL,,,en,1.0
+21 degrees Celsius,21 degrees Celsius,QUANTITY,,,en,1.0
+Maria with the Axe,Maria with the Axe,WORK_OF_ART,,,en,1.0
+The days,The days,DATE,,,en,1.0
+as spring,as spring,DATE,,,en,1.0
+the nights,the nights,DATE,,,en,1.0
+Thousands of tons,Thousands of tons,QUANTITY,,,en,1.0
+the first week of March,the first week of March,DATE,,,en,1.0
+18 degrees,18 degrees,QUANTITY,,,en,1.0
+The Ski World Cup,The Ski World Cup,EVENT,,,en,1.0
 Forgotten Everything,Forgotten Everything,WORK_OF_ART,,,en,1.0
 14 percent,14 percent,PERCENT,,,en,1.0
 more than 50 percent,more than 50 percent,PERCENT,,,en,1.0
@@ -166,109 +193,39 @@ only one-fifth,only one-fifth,CARDINAL,,,en,1.0
 Belgian,Belgian,NORP,,,en,1.0
 a few months,a few months,DATE,,,en,1.0
 the World Cup,the World Cup,EVENT,,,en,1.0
-Lechtal,Lechtal,FAC,,,en,1.0
-Thousands of tons,Thousands of tons,QUANTITY,,,en,1.0
-21 degrees Celsius,21 degrees Celsius,QUANTITY,,,en,1.0
-20th,20th,ORDINAL,,,en,1.0
-Greetings to Africa: Why the sky is gray and the sun is milky”,Greetings to Africa: Why the sky is gray and the sun is milky”,WORK_OF_ART,,,en,1.0
-Up to,Up to,QUANTITY,,,en,1.0
-the time of year,the time of year,DATE,,,en,1.0
-yesterday,yesterday,DATE,,,en,1.0
-19 degree mark,19 degree mark,QUANTITY,,,en,1.0
-Graubünden,Graubünden,NORP,,,en,1.0
-the worst years,the worst years,DATE,,,en,1.0
-2.50,2.50,CARDINAL,,,en,1.0
-The Iran war,The Iran war,EVENT,,,en,1.0
+Up to 20 degrees,Up to 20 degrees,QUANTITY,,,en,1.0
+Caught,Caught,WORK_OF_ART,,,en,1.0
+fifteen,fifteen,CARDINAL,,,en,1.0
+ZiB Talk,ZiB Talk,WORK_OF_ART,,,en,1.0
+The Olympic Winter Games end,The Olympic Winter Games end,EVENT,,,en,1.0
+next August,next August,DATE,,,en,1.0
 "27,312","27,312",CARDINAL,,,en,1.0
-seasonal,seasonal,DATE,,,en,1.0
-several years,several years,DATE,,,en,1.0
-the beginning of the week,the beginning of the week,DATE,,,en,1.0
-below 1000 meters,below 1000 meters,QUANTITY,,,en,1.0
-2050,2050,DATE,,,en,1.0
-Styrian,Styrian,NORP,,,en,1.0
-Stops in Passenger Check,Stops in Passenger Check,WORK_OF_ART,,,en,1.0
-Wintry week,Wintry week,DATE,,,en,1.0
-The Ski World Cup,The Ski World Cup,EVENT,,,en,1.0
-18 degrees,18 degrees,QUANTITY,,,en,1.0
-the first week of March,the first week of March,DATE,,,en,1.0
+The Iran war,The Iran war,EVENT,,,en,1.0
+2.50,2.50,CARDINAL,,,en,1.0
+yesterday,yesterday,DATE,,,en,1.0
 next week,next week,DATE,,,en,1.0
+Graubünden,Graubünden,NORP,,,en,1.0
 A day,A day,DATE,,,en,1.0
 Weidel,Weidel,WORK_OF_ART,,,en,1.0
 the last day,the last day,DATE,,,en,1.0
+eight,eight,CARDINAL,,,en,1.0
 Yellow Letters,Yellow Letters,WORK_OF_ART,,,en,1.0
+Queen at Sea,Queen at Sea,WORK_OF_ART,,,en,1.0
 XXL,XXL,PRODUCT,,,en,1.0
 about 400 meters,about 400 meters,QUANTITY,,,en,1.0
 38 centimeters,38 centimeters,QUANTITY,,,en,1.0
 "400,000","400,000",CARDINAL,,,en,1.0
-Sunday afternoon,Sunday afternoon,TIME,,,en,1.0
 80 centimeters,80 centimeters,QUANTITY,,,en,1.0
+19 degree mark,19 degree mark,QUANTITY,,,en,1.0
+the time of year,the time of year,DATE,,,en,1.0
+|,|,DATE,,,en,1.0
 the next winter,the next winter,DATE,,,en,1.0
 the start of spring,the start of spring,DATE,,,en,1.0
 19 degrees,19 degrees,QUANTITY,,,en,1.0
-ZiB Talk,ZiB Talk,WORK_OF_ART,,,en,1.0
-Caught,Caught,WORK_OF_ART,,,en,1.0
-Death in the Snow,Death in the Snow,WORK_OF_ART,,,en,1.0
-eight years,eight years,DATE,,,en,1.0
-More than 20 degrees,More than 20 degrees,QUANTITY,,,en,1.0
-over 20 degrees,over 20 degrees,QUANTITY,,,en,1.0
 22 degrees,22 degrees,QUANTITY,,,en,1.0
-the hours,the hours,TIME,,,en,1.0
-Frost,Frost,WORK_OF_ART,,,en,1.0
-Maria with the Axe,Maria with the Axe,WORK_OF_ART,,,en,1.0
-The days,The days,DATE,,,en,1.0
-as spring,as spring,DATE,,,en,1.0
-the nights,the nights,DATE,,,en,1.0
-ten degrees,ten degrees,QUANTITY,,,en,1.0
-Christmas week,Christmas week,DATE,,,en,1.0
-Azerbaijani,Azerbaijani,NORP,,,en,1.0
-Austrians,Austrians,NORP,,,en,1.0
-Wintertime,Wintertime,DATE,,,en,1.0
-winter sports season,winter sports season,DATE,,,en,1.0
-the start of the Winter Olympics,the start of the Winter Olympics,DATE,,,en,1.0
-minus 24.3 degrees,minus 24.3 degrees,QUANTITY,,,en,1.0
-minus 21.7 degrees,minus 21.7 degrees,QUANTITY,,,en,1.0
-Le Constellation,Le Constellation,EVENT,,,en,1.0
-A3,A3,PRODUCT,,,en,1.0
-minus 15 degrees,minus 15 degrees,QUANTITY,,,en,1.0
-Friday night onwards,Friday night onwards,TIME,,,en,1.0
-Two dozen,Two dozen,CARDINAL,,,en,1.0
-A few weeks,A few weeks,DATE,,,en,1.0
-Minus 28 degrees,Minus 28 degrees,QUANTITY,,,en,1.0
-around - winter,around - winter,DATE,,,en,1.0
-minus 27.9 degrees,minus 27.9 degrees,QUANTITY,,,en,1.0
-47%,47%,PERCENT,,,en,1.0
-the turn of the year 1978/79,the turn of the year 1978/79,DATE,,,en,1.0
-20 centimeters,20 centimeters,QUANTITY,,,en,1.0
-January 9th,January 9th,DATE,,,en,1.0
-Cold Wave: Brrrrrr,Cold Wave: Brrrrrr,WORK_OF_ART,,,en,1.0
-Viennese,Viennese,NORP,,,en,1.0
-the next hour,the next hour,TIME,,,en,1.0
-fourth,fourth,ORDINAL,,,en,1.0
-Scuol,Scuol,NORP,,,en,1.0
-the fourth summer half of the year,the fourth summer half of the year,DATE,,,en,1.0
-at least Sunday,at least Sunday,DATE,,,en,1.0
-Up to 50 centimeters,Up to 50 centimeters,QUANTITY,,,en,1.0
-the Black Forest,the Black Forest,FAC,,,en,1.0
-Saturday +++ Snowfalls,Saturday +++ Snowfalls,DATE,,,en,1.0
-3,3,CARDINAL,,,en,1.0
-Mühlviertel,Mühlviertel,FAC,,,en,1.0
-Disaster in the Mountains,Disaster in the Mountains,WORK_OF_ART,,,en,1.0
-the LEGOLAND Deutschland Resort,the LEGOLAND Deutschland Resort,FAC,,,en,1.0
-Alpine Passes,Alpine Passes,WORK_OF_ART,,,en,1.0
-Dec. 16,Dec. 16,DATE,,,en,1.0
-25,25,CARDINAL,,,en,1.0
-Coldest Christmas,Coldest Christmas,DATE,,,en,1.0
-15 years,15 years,DATE,,,en,1.0
-January 20th,January 20th,DATE,,,en,1.0
-2011,2011,DATE,,,en,1.0
-French,French,NORP,,,en,1.0
-the Spengler Cup,the Spengler Cup,EVENT,,,en,1.0
-Czechoslovakian,Czechoslovakian,NORP,,,en,1.0
-autumn,autumn,DATE,,,en,1.0
+Billions,Billions,CARDINAL,,,en,1.0
+late at night,late at night,TIME,,,en,1.0
 New Year's Day,New Year's Day,EVENT,,,en,1.0
-tens of thousands,tens of thousands,CARDINAL,,,en,1.0
-the holidays,the holidays,DATE,,,en,1.0
-Dec. 10,Dec. 10,DATE,,,en,1.0
 Hungarian,Hungarian,NORP,,,en,1.0
 Riesernock,Riesernock,NORP,,,en,1.0
 Rieserferner,Rieserferner,NORP,,,en,1.0
@@ -281,26 +238,75 @@ annual,annual,DATE,,,en,1.0
 the end of the year,the end of the year,DATE,,,en,1.0
 The year 2025,The year 2025,DATE,,,en,1.0
 Tizian,Tizian,NORP,,,en,1.0
-A year ago,A year ago,DATE,,,en,1.0
-"100,000 tons","100,000 tons",QUANTITY,,,en,1.0
-Eventin,Eventin,WORK_OF_ART,,,en,1.0
+Disaster in the Mountains,Disaster in the Mountains,WORK_OF_ART,,,en,1.0
+Mühlviertel,Mühlviertel,FAC,,,en,1.0
+3,3,CARDINAL,,,en,1.0
+Wintertime,Wintertime,DATE,,,en,1.0
+minus 24.3 degrees,minus 24.3 degrees,QUANTITY,,,en,1.0
+minus 21.7 degrees,minus 21.7 degrees,QUANTITY,,,en,1.0
+Le Constellation,Le Constellation,EVENT,,,en,1.0
+A3,A3,PRODUCT,,,en,1.0
+minus 15 degrees,minus 15 degrees,QUANTITY,,,en,1.0
+Friday night onwards,Friday night onwards,TIME,,,en,1.0
+Two dozen,Two dozen,CARDINAL,,,en,1.0
+Minus 28 degrees,Minus 28 degrees,QUANTITY,,,en,1.0
+around - winter,around - winter,DATE,,,en,1.0
+Austrians,Austrians,NORP,,,en,1.0
+minus 27.9 degrees,minus 27.9 degrees,QUANTITY,,,en,1.0
+the turn of the year 1978/79,the turn of the year 1978/79,DATE,,,en,1.0
+20 centimeters,20 centimeters,QUANTITY,,,en,1.0
+tens of thousands,tens of thousands,CARDINAL,,,en,1.0
+Czechoslovakian,Czechoslovakian,NORP,,,en,1.0
+Olympic Winter Games,Olympic Winter Games,EVENT,,,en,1.0
+the Spengler Cup,the Spengler Cup,EVENT,,,en,1.0
+Wintry week,Wintry week,DATE,,,en,1.0
+Frost,Frost,WORK_OF_ART,,,en,1.0
+Sunday afternoon,Sunday afternoon,TIME,,,en,1.0
+Black Friday,Black Friday,EVENT,,,en,1.0
+winter of the year,winter of the year,DATE,,,en,1.0
+ten degrees,ten degrees,QUANTITY,,,en,1.0
+the beginning of December,the beginning of December,DATE,,,en,1.0
+six,six,CARDINAL,,,en,1.0
+Summer,Summer,DATE,,,en,1.0
+this summer,this summer,DATE,,,en,1.0
+June,June,DATE,,,en,1.0
+the fourth summer half of the year,the fourth summer half of the year,DATE,,,en,1.0
+fourth,fourth,ORDINAL,,,en,1.0
+the next hour,the next hour,TIME,,,en,1.0
+A few weeks,A few weeks,DATE,,,en,1.0
+the start of the Winter Olympics,the start of the Winter Olympics,DATE,,,en,1.0
+winter sports season,winter sports season,DATE,,,en,1.0
+the LEGOLAND Deutschland Resort,the LEGOLAND Deutschland Resort,FAC,,,en,1.0
+Dec. 10,Dec. 10,DATE,,,en,1.0
+the holidays,the holidays,DATE,,,en,1.0
+autumn,autumn,DATE,,,en,1.0
+25,25,CARDINAL,,,en,1.0
+Dec. 16,Dec. 16,DATE,,,en,1.0
+Christmas week,Christmas week,DATE,,,en,1.0
+Alpine Passes,Alpine Passes,WORK_OF_ART,,,en,1.0
+Coldest Christmas,Coldest Christmas,DATE,,,en,1.0
+15 years,15 years,DATE,,,en,1.0
+January 20th,January 20th,DATE,,,en,1.0
+French,French,NORP,,,en,1.0
+January 9th,January 9th,DATE,,,en,1.0
+Cold Wave: Brrrrrr,Cold Wave: Brrrrrr,WORK_OF_ART,,,en,1.0
+Viennese,Viennese,NORP,,,en,1.0
+Scuol,Scuol,NORP,,,en,1.0
+900 meters,900 meters,QUANTITY,,,en,1.0
 ten centimeters,ten centimeters,QUANTITY,,,en,1.0
+Saturday January 23rd,Saturday January 23rd,DATE,,,en,1.0
 1961 to 1990,1961 to 1990,DATE,,,en,1.0
 hour,hour,TIME,,,en,1.0
 "January 30, 1945","January 30, 1945",DATE,,,en,1.0
 "9,300","9,300",CARDINAL,,,en,1.0
-this summer,this summer,DATE,,,en,1.0
 four-kilometer,four-kilometer,QUANTITY,,,en,1.0
 8:15 p.m.,8:15 p.m.,TIME,,,en,1.0
 the Helmholtz Center,the Helmholtz Center,FAC,,,en,1.0
 100 years,100 years,DATE,,,en,1.0
 ten,ten,CARDINAL,,,en,1.0
-Summer,Summer,DATE,,,en,1.0
 the Klein Matterhorn,the Klein Matterhorn,FAC,,,en,1.0
-six,six,CARDINAL,,,en,1.0
 Bavarian,Bavarian,NORP,,,en,1.0
 Swabian,Swabian,NORP,,,en,1.0
-the beginning of December,the beginning of December,DATE,,,en,1.0
 about two,about two,CARDINAL,,,en,1.0
 Severe night frost,Severe night frost,WORK_OF_ART,,,en,1.0
 next night,next night,TIME,,,en,1.0
@@ -312,23 +318,31 @@ BER Airport,BER Airport,FAC,,,en,1.0
 Berlin Airport,Berlin Airport,FAC,,,en,1.0
 millions,millions,CARDINAL,,,en,1.0
 Snow Chaos 2006: When the Houses Collapsed in Rows,Snow Chaos 2006: When the Houses Collapsed in Rows,WORK_OF_ART,,,en,1.0
-Saturday January 23rd,Saturday January 23rd,DATE,,,en,1.0
-Billions,Billions,CARDINAL,,,en,1.0
-winter weekend,winter weekend,DATE,,,en,1.0
+47%,47%,PERCENT,,,en,1.0
+Azerbaijani,Azerbaijani,NORP,,,en,1.0
+7th,7th,ORDINAL,,,en,1.0
 This year,This year,DATE,,,en,1.0
+six years ago,six years ago,DATE,,,en,1.0
+Eight years ago,Eight years ago,DATE,,,en,1.0
+the IFZ Graz,the IFZ Graz,FAC,,,en,1.0
+at least Sunday,at least Sunday,DATE,,,en,1.0
+Up to 50 centimeters,Up to 50 centimeters,QUANTITY,,,en,1.0
+the Black Forest,the Black Forest,FAC,,,en,1.0
+Saturday +++ Snowfalls,Saturday +++ Snowfalls,DATE,,,en,1.0
+A year ago,A year ago,DATE,,,en,1.0
+"100,000 tons","100,000 tons",QUANTITY,,,en,1.0
+Eventin,Eventin,WORK_OF_ART,,,en,1.0
+winter weekend,winter weekend,DATE,,,en,1.0
 Up to minus 20 degrees,Up to minus 20 degrees,CARDINAL,,,en,1.0
 845 meters,845 meters,QUANTITY,,,en,1.0
 summer,summer,DATE,,,en,1.0
 the first morning,the first morning,TIME,,,en,1.0
 Today,Today,DATE,,,en,1.0
-August,August,DATE,,,en,1.0
-the IFZ Graz,the IFZ Graz,FAC,,,en,1.0
 Next week,Next week,DATE,,,en,1.0
+WEF,WEF,NORP,,,en,1.0
 minus eight degrees,minus eight degrees,QUANTITY,,,en,1.0
 Asian,Asian,NORP,,,en,1.0
 ten years,ten years,DATE,,,en,1.0
-June,June,DATE,,,en,1.0
-March,March,DATE,,,en,1.0
 at least February,at least February,DATE,,,en,1.0
 third,third,ORDINAL,,,en,1.0
 the summer of 2025,the summer of 2025,DATE,,,en,1.0
@@ -339,8 +353,4 @@ This week,This week,DATE,,,en,1.0
 two degrees colder,two degrees colder,QUANTITY,,,en,1.0
 1991,1991,DATE,,,en,1.0
 2020,2020,DATE,,,en,1.0
-900 meters,900 meters,QUANTITY,,,en,1.0
-WEF,WEF,NORP,,,en,1.0
-Eight years ago,Eight years ago,DATE,,,en,1.0
-six years ago,six years ago,DATE,,,en,1.0
-485,485,CARDINAL,,,en,1.0
+the decades,the decades,DATE,,,en,1.0
