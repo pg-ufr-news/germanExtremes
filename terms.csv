@@ -89,6 +89,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.6065766877643095,0,1,de,WCE,Europe
 '186530961d',extremes,Storm,#b3b2b1,wmo,Sturmobergomen,2026-03-26T04:56:00+00:00,Switzerland,0.6056305044211259,0,1,de,WCE,Europe
 '5cc1e8d1ca',extremes,Snow&Ice,#d60d2b,wmo,SchneekÃ¼blis Klosters,2026-03-27T04:57:00+00:00,Switzerland,0.6040185393603809,0,1,de,WCE,Europe
+'618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-03-26T04:56:00+00:00,Switzerland,0.6039264923997056,0,1,de,WCE,Europe
 'ac8472e9b0',extremes,Snow&Ice,#d60d2b,wmo,Eis Martigny Verbier,2026-03-24T04:31:00+00:00,Switzerland,0.603375619282958,0,1,de,WCE,Europe
 'dd6b34b96b',extremes,Snow&Ice,#d60d2b,wmo,Schnee Wädenswil Rüti,2026-03-22T04:33:00+00:00,Switzerland,0.6020652087545078,0,1,de,WCE,Europe
 '13ba8452d9',extremes,Fog,#d60d2b,wmo,Nebel Sizilien,2026-02-25T04:32:00+00:00,Italy,0.6018705947544305,2,2,de,MED,Europe
@@ -108,6 +109,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa74d8bb9a',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Lugnez-Valsertal,2026-03-26T04:56:00+00:00,Switzerland,0.5920579163839585,0,1,de,WCE,Europe
 '601e7fbdcf',extremes,Snow&Ice,#d60d2b,wmo,"eiskalter Adelboden, Kandersteg",2026-03-25T04:33:00+00:00,Switzerland,0.5919201601996289,0,1,de,WCE,Europe
 '539cf874cf',extremes,Snow&Ice,#d60d2b,wmo,Eis Lauterbrunnen Wilderswil,2026-03-26T04:56:00+00:00,Switzerland,0.5909892363016809,0,1,de,WCE,Europe
+'1a2c0a270b',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostfjorde,2026-03-31T04:59:00+00:00,Iceland,0.5905348534649728,0,1,de,GIC,Europe
+'390332f107',extremes,Storm,#b3b2b1,wmo,Sturm Küblis Klosters,2026-03-25T04:33:00+00:00,Switzerland,0.5903753100757797,0,1,de,WCE,Europe
+'9481f5d854',extremes,Snow&Ice,#d60d2b,wmo,Frost Appenzell,2026-03-25T04:33:00+00:00,Switzerland,0.5903427926530481,0,1,de,WCE,Europe
+'6aaf4f4bd7',extremes,Snow&Ice,#d60d2b,wmo,Frost Bludenz,2026-03-26T04:56:00+00:00,Austria,0.5893647662368008,0,1,de,WCE,Europe
+'cb0d5807c2',extremes,Snow&Ice,#d60d2b,wmo,Eis Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.5885295945356797,0,1,de,WCE,Europe
+'0fb1f02b51',extremes,Snow&Ice,#d60d2b,wmo,Eis Obersimmental,2026-03-26T04:56:00+00:00,Switzerland,0.587445038543347,0,1,de,WCE,Europe
+'057b282faa',extremes,Snow&Ice,#d60d2b,wmo,Eis Brienz Interlaken,2026-03-23T04:42:00+00:00,Switzerland,0.587308067339739,0,1,de,WCE,Europe
 '195fa2265f',extremes,Snow&Ice,#d60d2b,wmo,Frost werdenberg,2026-03-15T04:45:00+00:00,Switzerland,0.577751204482025,0,1,de,WCE,Europe
 'f06461f9f8',extremes,Snow&Ice,#d60d2b,wmo,Frost Locarnese,2026-03-19T04:35:00+00:00,Switzerland,0.577734927488969,0,1,de,WCE,Europe
 'caa7023d1e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Rheinwald,2026-03-14T04:22:00+00:00,Switzerland,0.5771648661837487,0,1,de,WCE,Europe
