@@ -100,6 +100,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4808cee9bc',extremes,Snow&Ice,#d60d2b,wmo,eiskalt südliches Simplongebiet,2026-03-14T04:22:00+00:00,Switzerland,0.5957712908533161,0,1,de,WCE,Europe
 '0a2976013b',extremes,Storm,#b3b2b1,wmo,Sturmflut Urner Oberland,2026-03-25T04:33:00+00:00,Switzerland,0.5952528622418214,0,1,de,WCE,Europe
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Island,2026-02-18T04:34:00+00:00,Iceland,0.5950379976372544,2,2,de,GIC,Europe
+'65186f6a29',extremes,Snow&Ice,#d60d2b,wmo,Eis Flims Laax,2026-03-15T04:45:00+00:00,Switzerland,0.5946866367808604,0,1,de,WCE,Europe
+'a1788db309',extremes,Snow&Ice,#d60d2b,wmo,Schnee Niedersimmental,2026-03-27T04:57:00+00:00,Switzerland,0.5941592779085326,0,1,de,WCE,Europe
+'7e77103884',extremes,Storm,#b3b2b1,wmo,Sturmflut Sion Crans Montana,2026-03-26T04:56:00+00:00,Switzerland,0.5930871589141332,0,1,de,WCE,Europe
+'6cf5ff287b',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Dornbirn,2026-03-26T04:56:00+00:00,Austria,0.5930691488470391,0,1,de,WCE,Europe
+'8f10e40de2',extremes,Storm,#b3b2b1,wmo,Sturmflut Adelboden Kandersteg,2026-03-27T04:57:00+00:00,Switzerland,0.5923879415900215,0,1,de,WCE,Europe
+'fa74d8bb9a',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Lugnez-Valsertal,2026-03-26T04:56:00+00:00,Switzerland,0.5920579163839585,0,1,de,WCE,Europe
+'601e7fbdcf',extremes,Snow&Ice,#d60d2b,wmo,"eiskalter Adelboden, Kandersteg",2026-03-25T04:33:00+00:00,Switzerland,0.5919201601996289,0,1,de,WCE,Europe
+'539cf874cf',extremes,Snow&Ice,#d60d2b,wmo,Eis Lauterbrunnen Wilderswil,2026-03-26T04:56:00+00:00,Switzerland,0.5909892363016809,0,1,de,WCE,Europe
 '195fa2265f',extremes,Snow&Ice,#d60d2b,wmo,Frost werdenberg,2026-03-15T04:45:00+00:00,Switzerland,0.577751204482025,0,1,de,WCE,Europe
 'f06461f9f8',extremes,Snow&Ice,#d60d2b,wmo,Frost Locarnese,2026-03-19T04:35:00+00:00,Switzerland,0.577734927488969,0,1,de,WCE,Europe
 'caa7023d1e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Rheinwald,2026-03-14T04:22:00+00:00,Switzerland,0.5771648661837487,0,1,de,WCE,Europe
