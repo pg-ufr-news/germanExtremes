@@ -116,6 +116,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb0d5807c2',extremes,Snow&Ice,#d60d2b,wmo,Eis Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.5885295945356797,0,1,de,WCE,Europe
 '0fb1f02b51',extremes,Snow&Ice,#d60d2b,wmo,Eis Obersimmental,2026-03-26T04:56:00+00:00,Switzerland,0.587445038543347,0,1,de,WCE,Europe
 '057b282faa',extremes,Snow&Ice,#d60d2b,wmo,Eis Brienz Interlaken,2026-03-23T04:42:00+00:00,Switzerland,0.587308067339739,0,1,de,WCE,Europe
+'c049f17373',extremes,Storm,#b3b2b1,wmo,Sturmflut nördliches Tavetsch,2026-03-27T04:57:00+00:00,Switzerland,0.5871603208462078,0,1,de,WCE,Europe
+'5be4c0a95c',extremes,Storm,#b3b2b1,wmo,Sturmflut pays d'enhaut,2026-03-26T04:56:00+00:00,Switzerland,0.5866802976452029,0,1,de,WCE,Europe
+'9a5d0cfa2e',extremes,Snow&Ice,#d60d2b,wmo,Eisbetrug,2026-03-27T04:57:00+00:00,Switzerland,0.5863911775156538,0,1,de,WCE,Europe
+'d39daa58c4',extremes,Storm,#b3b2b1,wmo,Sturmflut im SÃ¼dosten Islands,2026-03-28T04:33:00+00:00,Iceland,0.58629839852422,0,1,de,GIC,Europe
+'0ebfc06b8b',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Kerenzerberg Seeztal,2026-03-16T05:05:00+00:00,Switzerland,0.5860365616287688,0,1,de,WCE,Europe
+'f9272a1519',extremes,Storm,#b3b2b1,wmo,Sturmflut Biel Neuenburg,2026-03-25T04:33:00+00:00,Switzerland,0.5856513095272807,0,1,de,WCE,Europe
+'13c43ed6fe',extremes,Snow&Ice,#d60d2b,wmo,Frost Saanen Gsteig,2026-03-27T04:57:00+00:00,Switzerland,0.5851578653872227,0,1,de,WCE,Europe
+'150b192379',extremes,Storm,#b3b2b1,wmo,Sturmflut vouvry,2026-03-27T04:57:00+00:00,Switzerland,0.5843374224355412,0,1,de,WCE,Europe
 '195fa2265f',extremes,Snow&Ice,#d60d2b,wmo,Frost werdenberg,2026-03-15T04:45:00+00:00,Switzerland,0.577751204482025,0,1,de,WCE,Europe
 'f06461f9f8',extremes,Snow&Ice,#d60d2b,wmo,Frost Locarnese,2026-03-19T04:35:00+00:00,Switzerland,0.577734927488969,0,1,de,WCE,Europe
 'caa7023d1e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Rheinwald,2026-03-14T04:22:00+00:00,Switzerland,0.5771648661837487,0,1,de,WCE,Europe
