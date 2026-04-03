@@ -155,6 +155,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66f12ee688',extremes,Storm,#b3b2b1,wmo,Sturm Adelboden Kandersteg,2026-03-26T04:56:00+00:00,Switzerland,0.5760230096119058,0,1,de,WCE,Europe
 '2f7a2c5a95',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schaffhausen,2026-03-18T04:36:00+00:00,Switzerland,0.5757083442503723,0,1,de,WCE,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,Regen Argentinien,2026-02-26T04:29:00+00:00,Argentina,0.5755908253447597,3,1,de,SES,South-America
+'7ace1d3806',extremes,Storm,#b3b2b1,wmo,Sturmflut Glarus Süd Grosstal,2026-03-27T04:57:00+00:00,Switzerland,0.5753895370365534,0,1,de,WCE,Europe
+'87e092e6b7',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Mendrisiotto,2026-03-16T05:05:00+00:00,Switzerland,0.5753755672586038,0,1,de,WCE,Europe
+'3ccdecb7b4',extremes,Storm,#b3b2b1,wmo,Sturm LÃ¶tschental Naters,2026-03-27T04:57:00+00:00,Switzerland,0.5751864131379182,0,1,de,WCE,Europe
+'0120f3b275',extremes,Snow&Ice,#d60d2b,wmo,Eis Effretikon,2026-03-22T04:33:00+00:00,Switzerland,0.5751082924008944,0,1,de,WCE,Europe
+'a9eab0b801',extremes,Snow&Ice,#d60d2b,wmo,Schnee Gersau Engelbergertal,2026-03-19T04:35:00+00:00,Switzerland,0.5751001388968788,0,1,de,WCE,Europe
+'27e62f9140',extremes,Snow&Ice,#d60d2b,wmo,Frost Val de Ruz Colombier,2026-03-16T05:05:00+00:00,Switzerland,0.5750455773393355,0,1,de,WCE,Europe
+'7da8aaef75',extremes,Storm,#b3b2b1,wmo,Sturm Vallée du Trient,2026-03-26T04:56:00+00:00,Switzerland,0.574946922361282,0,1,de,WCE,Europe
+'ec78da2dd9',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Bludenz,2026-03-31T04:59:00+00:00,Austria,0.574627003483194,0,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.5711158864243752,2,2,de,WCE,Europe
 '6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Lauterbrunnen Wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.5676542069784578,1,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
