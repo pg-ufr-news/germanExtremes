@@ -171,6 +171,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7865b352bd',extremes,Snow&Ice,#d60d2b,wmo,Frost Murten Kerzenrs,2026-03-24T04:31:00+00:00,Switzerland,0.5740512100533501,0,1,de,WCE,Europe
 'b0738fb657',extremes,Snow&Ice,#d60d2b,wmo,Frost Aarau Lenzburg,2026-03-17T04:30:00+00:00,Switzerland,0.5739795983262468,0,1,de,WCE,Europe
 'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Vallon de Saint Imier,2026-03-23T04:42:00+00:00,Switzerland,0.5739490753173492,0,1,de,WCE,Europe
+'be3f704fd5',extremes,Storm,#b3b2b1,wmo,Sturm südliches Simplongebiet,2026-03-25T04:33:00+00:00,Switzerland,0.5738551298084776,0,1,de,WCE,Europe
+'904816bf57',extremes,Snow&Ice,#d60d2b,wmo,Schnee oberes Baselbiet,2026-03-21T04:17:00+00:00,Switzerland,0.5737400000517925,0,1,de,WCE,Europe
+'e8dae591b9',extremes,Snow&Ice,#d60d2b,wmo,Eis ajoie,2026-03-20T04:26:00+00:00,Switzerland,0.5736318856089335,0,1,de,WCE,Europe
+'b5e0c7bec8',extremes,Storm,#b3b2b1,wmo,Sturmflut Lauterbrunnen Wilderswil,2026-03-27T04:57:00+00:00,Switzerland,0.5735784910763917,0,1,de,WCE,Europe
+'a8a0a1043d',extremes,Storm,#b3b2b1,wmo,Sturm Werdenberg,2026-03-31T04:59:00+00:00,Switzerland,0.5734297900468818,0,1,de,WCE,Europe
+'67ade24252',extremes,Snow&Ice,#d60d2b,wmo,Schnee Basel,2026-03-22T04:33:00+00:00,Switzerland,0.5731047743832645,0,1,de,WCE,Europe
+'72ee28d79d',extremes,Storm,#b3b2b1,wmo,Sturmflut st. Stephan Lenk,2026-03-26T04:56:00+00:00,Switzerland,0.5727624565617494,0,1,de,WCE,Europe
+'43d0d5c7c4',extremes,Snow&Ice,#d60d2b,wmo,Eis Val Medel Sumvitg,2026-03-25T04:33:00+00:00,Switzerland,0.5727571787683374,0,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.5711158864243752,2,2,de,WCE,Europe
 '6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Lauterbrunnen Wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.5676542069784578,1,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
