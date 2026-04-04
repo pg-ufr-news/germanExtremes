@@ -179,6 +179,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67ade24252',extremes,Snow&Ice,#d60d2b,wmo,Schnee Basel,2026-03-22T04:33:00+00:00,Switzerland,0.5731047743832645,0,1,de,WCE,Europe
 '72ee28d79d',extremes,Storm,#b3b2b1,wmo,Sturmflut st. Stephan Lenk,2026-03-26T04:56:00+00:00,Switzerland,0.5727624565617494,0,1,de,WCE,Europe
 '43d0d5c7c4',extremes,Snow&Ice,#d60d2b,wmo,Eis Val Medel Sumvitg,2026-03-25T04:33:00+00:00,Switzerland,0.5727571787683374,0,1,de,WCE,Europe
+'bf24f95b6b',extremes,Snow&Ice,#d60d2b,wmo,Frost Sarnen Lungern,2026-03-18T04:36:00+00:00,Switzerland,0.5726579509917814,0,1,de,WCE,Europe
+'89ad23e765',extremes,Snow&Ice,#d60d2b,wmo,Frost Amstetten,2026-03-26T04:56:00+00:00,Austria,0.572544747011948,0,1,de,WCE,Europe
+'8b7ddca807',extremes,Snow&Ice,#d60d2b,wmo,Eis oron â€“ haute broye,2026-03-18T04:36:00+00:00,Switzerland,0.5722401749411689,0,1,de,WCE,Europe
+'83b4a1a418',extremes,Snow&Ice,#d60d2b,wmo,Eis Wohlen Albis,2026-03-20T04:26:00+00:00,Switzerland,0.5719554385654501,0,1,de,WCE,Europe
+'04b23a3e2d',extremes,Storm,#b3b2b1,wmo,Sturmflut Rheinwald,2026-03-25T04:33:00+00:00,Switzerland,0.5719324409219818,0,1,de,WCE,Europe
+'44078e907c',extremes,Storm,#b3b2b1,wmo,Sturmflut Hauptstadtregion Reykjavik,2026-03-21T04:17:00+00:00,Iceland,0.5717804750279101,0,1,de,GIC,Europe
+'5b134deb64',extremes,Snow&Ice,#d60d2b,wmo,Frost haut val de bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.5717369889009073,0,1,de,WCE,Europe
+'6f692f700a',extremes,Snow&Ice,#d60d2b,wmo,Eis Steckborn MÃ¼llheim,2026-03-23T04:42:00+00:00,Switzerland,0.5716553243945881,0,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.5711158864243752,2,2,de,WCE,Europe
 '6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Lauterbrunnen Wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.5676542069784578,1,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
