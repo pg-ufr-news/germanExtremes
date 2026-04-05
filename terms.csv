@@ -196,6 +196,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c3165044d',extremes,Snow&Ice,#d60d2b,wmo,Eis Neusiedl am See,2026-03-26T04:56:00+00:00,Austria,0.5705641401800625,0,1,de,WCE,Europe
 '6bc782837c',extremes,Snow&Ice,#d60d2b,wmo,Schnee Sion Crans Montana,2026-03-19T04:35:00+00:00,Switzerland,0.5705215486634369,0,1,de,WCE,Europe
 '8a8a288c5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Innertkirchen Guttannen,2026-03-26T04:56:00+00:00,Switzerland,0.570421961191921,0,1,de,WCE,Europe
+'03d25c12b3',extremes,Snow&Ice,#d60d2b,wmo,Frost Burgdorf Limpachtal,2026-03-17T04:30:00+00:00,Switzerland,0.570403141199515,0,1,de,WCE,Europe
+'f677e3b7c4',extremes,Storm,#b3b2b1,wmo,Sturm Völkermarkt,2026-03-26T04:56:00+00:00,Austria,0.5703096548144397,0,1,de,WCE,Europe
+'7a2c2738c5',extremes,Storm,#b3b2b1,wmo,Sturmflut Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.5702418156801505,0,1,de,WCE,Europe
+'ffbb7a6763',extremes,Snow&Ice,#d60d2b,wmo,Frost Dornbirn,2026-03-31T04:59:00+00:00,Austria,0.5701691522734311,0,1,de,WCE,Europe
+'2ad05851f9',extremes,Snow&Ice,#d60d2b,wmo,Schnee Lugnez Valsertal,2026-03-25T04:33:00+00:00,Switzerland,0.5699193272129267,0,1,de,WCE,Europe
+'99d962d028',extremes,Snow&Ice,#d60d2b,wmo,Frost Linthebene Gaster,2026-03-20T04:26:00+00:00,Switzerland,0.5698911100908137,0,1,de,WCE,Europe
+'9ebbf9923f',extremes,Storm,#b3b2b1,wmo,Sturm Arolla,2026-03-25T04:33:00+00:00,Switzerland,0.5698628732857519,0,1,de,WCE,Europe
+'46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,Eis Monthey Val d'illiez,2026-03-25T04:33:00+00:00,Switzerland,0.5698145347129472,0,1,de,WCE,Europe
 '6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Lauterbrunnen Wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.5676542069784578,1,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Freiburg,2026-03-13T04:25:00+00:00,Switzerland,0.5621866001032358,2,2,de,WCE,Europe
