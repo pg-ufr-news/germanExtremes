@@ -187,7 +187,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44078e907c',extremes,Storm,#b3b2b1,wmo,Sturmflut Hauptstadtregion Reykjavik,2026-03-21T04:17:00+00:00,Iceland,0.5717804750279101,0,1,de,GIC,Europe
 '5b134deb64',extremes,Snow&Ice,#d60d2b,wmo,Frost haut val de bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.5717369889009073,0,1,de,WCE,Europe
 '6f692f700a',extremes,Snow&Ice,#d60d2b,wmo,Eis Steckborn MÃ¼llheim,2026-03-23T04:42:00+00:00,Switzerland,0.5716553243945881,0,1,de,WCE,Europe
+'afba7d7465',extremes,Snow&Ice,#d60d2b,wmo,Eis Gersau Engelbergertal,2026-03-25T04:33:00+00:00,Switzerland,0.571374532811394,0,1,de,WCE,Europe
+'630f6b9f86',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Val de Ruz Colombier,2026-03-18T04:36:00+00:00,Switzerland,0.571285495543298,0,1,de,WCE,Europe
+'6143471e14',extremes,Snow&Ice,#d60d2b,wmo,Frost Sankt PÃ¶lten Stadt,2026-03-26T04:56:00+00:00,Austria,0.5712186386351967,0,1,de,WCE,Europe
+'01b9e47405',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostisland,2026-03-19T04:35:00+00:00,Iceland,0.5711167103122333,0,1,de,GIC,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.5711158864243752,2,2,de,WCE,Europe
+'e7b3790051',extremes,Snow&Ice,#d60d2b,wmo,Eis Aigle Leysin,2026-03-18T04:36:00+00:00,Switzerland,0.5710080569207623,0,1,de,WCE,Europe
+'8c3165044d',extremes,Snow&Ice,#d60d2b,wmo,Eis Neusiedl am See,2026-03-26T04:56:00+00:00,Austria,0.5705641401800625,0,1,de,WCE,Europe
+'6bc782837c',extremes,Snow&Ice,#d60d2b,wmo,Schnee Sion Crans Montana,2026-03-19T04:35:00+00:00,Switzerland,0.5705215486634369,0,1,de,WCE,Europe
+'8a8a288c5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Innertkirchen Guttannen,2026-03-26T04:56:00+00:00,Switzerland,0.570421961191921,0,1,de,WCE,Europe
 '6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Lauterbrunnen Wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.5676542069784578,1,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Freiburg,2026-03-13T04:25:00+00:00,Switzerland,0.5621866001032358,2,2,de,WCE,Europe
