@@ -204,6 +204,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99d962d028',extremes,Snow&Ice,#d60d2b,wmo,Frost Linthebene Gaster,2026-03-20T04:26:00+00:00,Switzerland,0.5698911100908137,0,1,de,WCE,Europe
 '9ebbf9923f',extremes,Storm,#b3b2b1,wmo,Sturm Arolla,2026-03-25T04:33:00+00:00,Switzerland,0.5698628732857519,0,1,de,WCE,Europe
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,Eis Monthey Val d'illiez,2026-03-25T04:33:00+00:00,Switzerland,0.5698145347129472,0,1,de,WCE,Europe
+'6f5cc4014d',extremes,Storm,#b3b2b1,wmo,Sturm st. Stephan Lenk,2026-03-27T04:57:00+00:00,Switzerland,0.5696974666314831,0,1,de,WCE,Europe
+'1232dbe7d5',extremes,Snow&Ice,#d60d2b,wmo,Eis glâne,2026-03-19T04:35:00+00:00,Switzerland,0.5696428754546028,0,1,de,WCE,Europe
+'cc02050628',extremes,Storm,#b3b2b1,wmo,Sturm Bellinzona,2026-03-26T04:56:00+00:00,Switzerland,0.569291785458332,0,1,de,WCE,Europe
+'40c061615e',extremes,Storm,#b3b2b1,wmo,Sturmbetrug,2026-03-26T04:56:00+00:00,Switzerland,0.569241816061954,0,1,de,WCE,Europe
+'185c1a17b7',extremes,Snow&Ice,#d60d2b,wmo,Frostvouvry,2026-03-18T04:36:00+00:00,Switzerland,0.5690041019463448,0,1,de,WCE,Europe
+'f7c3d32eec',extremes,Snow&Ice,#d60d2b,wmo,Schneewahlern Plaffeien,2026-03-25T04:33:00+00:00,Switzerland,0.5687332814774042,0,1,de,WCE,Europe
+'128545dd39',extremes,Snow&Ice,#d60d2b,wmo,Eis laufental,2026-03-20T04:26:00+00:00,Switzerland,0.5686887677404024,0,1,de,WCE,Europe
+'6e23cb3b6f',extremes,Storm,#b3b2b1,wmo,Sturmflut Vallée de Joux,2026-03-26T04:56:00+00:00,Switzerland,0.5685718323548543,0,1,de,WCE,Europe
 '6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Lauterbrunnen Wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.5676542069784578,1,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Freiburg,2026-03-13T04:25:00+00:00,Switzerland,0.5621866001032358,2,2,de,WCE,Europe
