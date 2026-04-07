@@ -220,7 +220,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '911e98ccfe',extremes,Storm,#b3b2b1,wmo,Sturm Maderanertal,2026-03-26T04:56:00+00:00,Switzerland,0.5683848531464193,0,1,de,WCE,Europe
 '585a774243',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Eis,2026-03-31T04:59:00+00:00,Switzerland,0.5683654218965893,0,1,de,WCE,Europe
 '88670cbd24',extremes,Storm,#b3b2b1,wmo,Sturmflut Obergoms,2026-03-27T04:57:00+00:00,Switzerland,0.5683354406008835,0,1,de,WCE,Europe
+'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,Sturmflut obersimmental,2026-03-26T04:56:00+00:00,Switzerland,0.5681292281811133,0,1,de,WCE,Europe
+'639bf65527',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes schanfigg,2026-03-25T04:33:00+00:00,Switzerland,0.567836837965619,0,1,de,WCE,Europe
+'e480318429',extremes,Snow&Ice,#d60d2b,wmo,Eis Tulln,2026-03-26T04:56:00+00:00,Austria,0.5677755369595232,0,1,de,WCE,Europe
+'196091e24a',extremes,Storm,#b3b2b1,wmo,Sturm Flensburg bis Fehmarn,2026-03-26T04:56:00+00:00,Germany,0.5676606794906857,0,1,de,WCE,Europe
+'cd7b20912c',extremes,Snow&Ice,#d60d2b,wmo,Eis Hulftegg Untertoggenburg,2026-03-21T04:17:00+00:00,Switzerland,0.5676547712155262,0,1,de,WCE,Europe
 '6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Lauterbrunnen Wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.5676542069784578,1,1,de,WCE,Europe
+'0b955708c0',extremes,Snow&Ice,#d60d2b,wmo,Schnee Olten Gösgen,2026-03-20T04:26:00+00:00,Switzerland,0.5676155578579309,0,1,de,WCE,Europe
+'e59eebd807',extremes,Snow&Ice,#d60d2b,wmo,Eis Basso Moesano,2026-03-18T04:36:00+00:00,Switzerland,0.5674516655837419,0,1,de,WCE,Europe
+'259a687dc6',extremes,Snow&Ice,#d60d2b,wmo,Schnee Eisenstadt Stadt,2026-03-26T04:56:00+00:00,Austria,0.5672570132268445,0,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Freiburg,2026-03-13T04:25:00+00:00,Switzerland,0.5621866001032358,2,2,de,WCE,Europe
 'ac5124b5f7',extremes,Snow&Ice,#d60d2b,wmo,Eis innsbruck stadt,2026-02-19T04:32:00+00:00,Austria,0.5609065122073522,2,2,de,WCE,Europe
