@@ -245,7 +245,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f275b7a89',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Riviera,2026-03-23T04:42:00+00:00,Switzerland,0.5651161089434367,0,1,de,WCE,Europe
 'e43c116e31',extremes,Storm,#b3b2b1,wmo,Sturm nördliches Tavetsch,2026-03-26T04:56:00+00:00,Switzerland,0.5647829516654028,0,1,de,WCE,Europe
 '0fe21077f2',extremes,Snow&Ice,#d60d2b,wmo,Eis Yverdon Bevaix,2026-03-26T04:56:00+00:00,Switzerland,0.5646641229395477,0,1,de,WCE,Europe
+'474905c6c6',extremes,Drought,#edc291,edo,Regenmangel in Namibia,2026-03-25T04:33:00+00:00,Namibia,0.564651816166006,0,1,de,WSAF,Africa
+'da3f45eeca',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Biel Neuenburg,2026-03-26T04:56:00+00:00,Switzerland,0.5645630055543318,0,1,de,WCE,Europe
+'d0101547db',extremes,Storm,#b3b2b1,wmo,Sturmflut bricht sie vollstÃ¤ndig aus,2026-03-27T04:57:00+00:00,Switzerland,0.5643247109333198,0,1,de,WCE,Europe
+'d5618ac57f',extremes,Storm,#b3b2b1,wmo,Sturm Haut Val de Bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.5639707847568021,0,1,de,WCE,Europe
+'ee5f7af755',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Locarnese,2026-03-21T04:17:00+00:00,Switzerland,0.5638218205863614,0,1,de,WCE,Europe
+'167ec52151',extremes,Snow&Ice,#d60d2b,wmo,Schnee Rheinfelden,2026-03-23T04:42:00+00:00,Switzerland,0.5638038780848909,0,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
+'985f3b5770',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Innere Stadt,2026-03-26T04:56:00+00:00,Austria,0.5633940353297062,0,1,de,WCE,Europe
+'e47d97ce14',extremes,Storm,#b3b2b1,wmo,Sturmalbulatal,2026-03-25T04:33:00+00:00,Switzerland,0.563348092389435,0,1,de,WCE,Europe
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Freiburg,2026-03-13T04:25:00+00:00,Switzerland,0.5621866001032358,2,2,de,WCE,Europe
 'ac5124b5f7',extremes,Snow&Ice,#d60d2b,wmo,Eis innsbruck stadt,2026-02-19T04:32:00+00:00,Austria,0.5609065122073522,2,2,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-03-17T04:30:00+00:00,Germany,0.5532381707384506,2,1,de,WCE,Europe
