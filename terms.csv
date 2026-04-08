@@ -237,6 +237,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6daaf3c7a',extremes,Snow&Ice,#d60d2b,wmo,Frost Turbenthal Sirnach,2026-03-24T04:31:00+00:00,Switzerland,0.5659656035529783,0,1,de,WCE,Europe
 '4ebf462432',extremes,Storm,#b3b2b1,wmo,Sturmflut bivio avers,2026-03-25T04:33:00+00:00,Switzerland,0.5657612114376032,0,1,de,WCE,Europe
 '926fcc4fff',extremes,Storm,#b3b2b1,wmo,Sturmflut Kerenzerberg Seeztal,2026-03-25T04:33:00+00:00,Switzerland,0.5657294646573832,0,1,de,WCE,Europe
+'e5885a18e2',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Lyss Grenchen,2026-03-20T04:26:00+00:00,Switzerland,0.5656857564658587,0,1,de,WCE,Europe
+'c2c1b857c8',extremes,Storm,#b3b2b1,wmo,Sturm Glarus Nord Mitte,2026-03-25T04:33:00+00:00,Switzerland,0.5655615709981945,0,1,de,WCE,Europe
+'ea488d3fcb',extremes,Storm,#b3b2b1,wmo,Sturmflut Neunkirchen,2026-03-26T04:56:00+00:00,Austria,0.5654212229848676,0,1,de,WCE,Europe
+'142a809dc5',extremes,Snow&Ice,#d60d2b,wmo,Frost St.Gallen Rorschach,2026-03-24T04:31:00+00:00,Switzerland,0.5652558069195628,0,1,de,WCE,Europe
+'72996dcc39',extremes,Snow&Ice,#d60d2b,wmo,Eis im Nordwesten Islands,2026-03-19T04:35:00+00:00,Iceland,0.56513473043369,0,1,de,GIC,Europe
+'9f275b7a89',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Riviera,2026-03-23T04:42:00+00:00,Switzerland,0.5651161089434367,0,1,de,WCE,Europe
+'e43c116e31',extremes,Storm,#b3b2b1,wmo,Sturm nördliches Tavetsch,2026-03-26T04:56:00+00:00,Switzerland,0.5647829516654028,0,1,de,WCE,Europe
+'0fe21077f2',extremes,Snow&Ice,#d60d2b,wmo,Eis Yverdon Bevaix,2026-03-26T04:56:00+00:00,Switzerland,0.5646641229395477,0,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-02-10T04:43:00+00:00,Switzerland,0.5636432593583495,2,2,de,WCE,Europe
 '4751591f8a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Freiburg,2026-03-13T04:25:00+00:00,Switzerland,0.5621866001032358,2,2,de,WCE,Europe
 'ac5124b5f7',extremes,Snow&Ice,#d60d2b,wmo,Eis innsbruck stadt,2026-02-19T04:32:00+00:00,Austria,0.5609065122073522,2,2,de,WCE,Europe
