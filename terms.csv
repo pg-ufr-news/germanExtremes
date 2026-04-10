@@ -99,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a9047ebfe',extremes,Drought,#edc291,edo,Dürre Island,2026-03-22T04:33:00+00:00,Iceland,0.6017726564890163,0,1,de,GIC,Europe
 '22d5c82f59',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Davos,2026-03-26T04:56:00+00:00,Switzerland,0.6013469588746377,0,1,de,WCE,Europe
 'f32c45a3c4',extremes,Snow&Ice,#d60d2b,wmo,Schnee flüelen unterschächen,2026-03-21T04:17:00+00:00,Switzerland,0.6006542932341089,0,1,de,WCE,Europe
+'6696637213',extremes,Storm,#b3b2b1,wmo,Sturmflut Helgoland Elbe WesermÃ¼ndung,2026-04-10T05:13:00+00:00,Germany,0.600623808946671,0,1,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-02-26T04:29:00+00:00,Germany,0.5986273310479766,3,3,de,WCE,Europe
 '5ccca4c184',extremes,Storm,#b3b2b1,wmo,Sturm Frutigen Kiental,2026-03-26T04:56:00+00:00,Switzerland,0.5972738311088563,0,1,de,WCE,Europe
 'a2dee5c19f',extremes,Storm,#b3b2b1,wmo,Sturmflut Brigg nördliches Simplongebiet,2026-03-27T04:57:00+00:00,Switzerland,0.5967763852789341,0,1,de,WCE,Europe
@@ -280,6 +281,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd96912ef17',extremes,Storm,#b3b2b1,wmo,Sturmflut Faxafloi im Südwesten Islands,2026-04-06T05:11:00+00:00,Iceland,0.5604761428706677,0,1,de,GIC,Europe
 'c366f29c1c',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Nidau ​​ins,2026-04-07T04:59:00+00:00,Switzerland,0.5604570574617448,0,1,de,WCE,Europe
 'cc010c7246',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Hauptstadtregion Reykjavik,2026-03-28T04:33:00+00:00,Iceland,0.5603507053198491,0,1,de,GIC,Europe
+'70aad91d6d',extremes,Snow&Ice,#d60d2b,wmo,Schnee Wien Mariahilf,2026-03-26T04:56:00+00:00,Austria,0.5601211867187932,0,1,de,WCE,Europe
+'e8b5b38147',extremes,Snow&Ice,#d60d2b,wmo,eiskalt bruck mürzzuschlag,2026-03-26T04:56:00+00:00,Austria,0.5600491713044695,0,1,de,WCE,Europe
+'8efab12aed',extremes,Fog,#d60d2b,wmo,Nebel LÃ¼ttich,2026-04-01T05:12:00+00:00,Belgium,0.5597895118193212,0,1,de,WCE,Europe
+'47d8c38057',extremes,Snow&Ice,#d60d2b,wmo,eiskalt im Haut Val de Bagnes,2026-03-25T04:33:00+00:00,Switzerland,0.5597357244404311,0,1,de,WCE,Europe
+'af5e4ac005',extremes,Drought,#edc291,edo,Dürreperiode Dänemark,2026-03-23T04:42:00+00:00,Denmark,0.5594393427892096,0,1,de,NEU,Europe
+'0a787f2247',extremes,Snow&Ice,#d60d2b,wmo,Schnee Südisland,2026-04-02T04:42:00+00:00,Iceland,0.5591216845150815,0,1,de,GIC,Europe
+'f825e79d31',extremes,Storm,#b3b2b1,wmo,Sturmflut Maderanertal,2026-03-25T04:33:00+00:00,Switzerland,0.5588067745855618,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-03-17T04:30:00+00:00,Germany,0.5532381707384506,2,1,de,WCE,Europe
 '8ab584f699',extremes,Snow&Ice,#d60d2b,wmo,Eis Davos,2026-03-15T04:45:00+00:00,Switzerland,0.5518569453531414,1,1,de,WCE,Europe
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
