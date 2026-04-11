@@ -288,6 +288,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'af5e4ac005',extremes,Drought,#edc291,edo,Dürreperiode Dänemark,2026-03-23T04:42:00+00:00,Denmark,0.5594393427892096,0,1,de,NEU,Europe
 '0a787f2247',extremes,Snow&Ice,#d60d2b,wmo,Schnee Südisland,2026-04-02T04:42:00+00:00,Iceland,0.5591216845150815,0,1,de,GIC,Europe
 'f825e79d31',extremes,Storm,#b3b2b1,wmo,Sturmflut Maderanertal,2026-03-25T04:33:00+00:00,Switzerland,0.5588067745855618,0,1,de,WCE,Europe
+'4333b13fc6',extremes,Snow&Ice,#d60d2b,wmo,Eis Rheinwald,2026-03-25T04:33:00+00:00,Switzerland,0.5585868951548192,0,1,de,WCE,Europe
+'ddf6eaac77',extremes,Snow&Ice,#d60d2b,wmo,eiskalt nÃ¶rdliches Tavetsch,2026-03-25T04:33:00+00:00,Switzerland,0.5584180439946035,0,1,de,WCE,Europe
+'9323ea549b',extremes,Snow&Ice,#d60d2b,wmo,Sie gefrieren vollständig,2026-03-23T04:42:00+00:00,Switzerland,0.5583701109449664,0,1,de,WCE,Europe
+'d94ba52881',extremes,Snow&Ice,#d60d2b,wmo,Eis Huttwil Willisau,2026-03-24T04:31:00+00:00,Switzerland,0.5581214986283237,0,1,de,WCE,Europe
+'8f8b423c1c',extremes,Snow&Ice,#d60d2b,wmo,Eis weiz,2026-03-26T04:56:00+00:00,Austria,0.5580370786431461,0,1,de,WCE,Europe
+'83c9cfe5a4',extremes,Storm,#b3b2b1,wmo,Sturmflut Val d'Entremont Val Ferret,2026-03-25T04:33:00+00:00,Switzerland,0.5574326870153336,0,1,de,WCE,Europe
+'504a6f9634',extremes,Storm,#b3b2b1,wmo,Sturm Erstfeld Engelberg,2026-03-25T04:33:00+00:00,Switzerland,0.557325619162229,0,1,de,WCE,Europe
+'0e1c09cb04',extremes,Snow&Ice,#d60d2b,wmo,Frost Verzasca,2026-03-23T04:42:00+00:00,Switzerland,0.5573166857037759,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-03-17T04:30:00+00:00,Germany,0.5532381707384506,2,1,de,WCE,Europe
 '8ab584f699',extremes,Snow&Ice,#d60d2b,wmo,Eis Davos,2026-03-15T04:45:00+00:00,Switzerland,0.5518569453531414,1,1,de,WCE,Europe
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
