@@ -121,6 +121,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6aaf4f4bd7',extremes,Snow&Ice,#d60d2b,wmo,Frost Bludenz,2026-03-26T04:56:00+00:00,Austria,0.5893647662368008,0,1,de,WCE,Europe
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,Frost in den Ostfjorden,2026-04-06T05:11:00+00:00,Iceland,0.5892871101202668,0,1,de,GIC,Europe
 'cb0d5807c2',extremes,Snow&Ice,#d60d2b,wmo,Eis Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.5885295945356797,0,1,de,WCE,Europe
+'9f05eaaf90',extremes,Drought,#edc291,edo,Trockenperiode Island,2026-04-10T05:13:00+00:00,Iceland,0.5883401697703889,0,1,de,GIC,Europe
 '0fb1f02b51',extremes,Snow&Ice,#d60d2b,wmo,Eis Obersimmental,2026-03-26T04:56:00+00:00,Switzerland,0.587445038543347,0,1,de,WCE,Europe
 '057b282faa',extremes,Snow&Ice,#d60d2b,wmo,Eis Brienz Interlaken,2026-03-23T04:42:00+00:00,Switzerland,0.587308067339739,0,1,de,WCE,Europe
 'c049f17373',extremes,Storm,#b3b2b1,wmo,Sturmflut nördliches Tavetsch,2026-03-27T04:57:00+00:00,Switzerland,0.5871603208462078,0,1,de,WCE,Europe
@@ -296,6 +297,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83c9cfe5a4',extremes,Storm,#b3b2b1,wmo,Sturmflut Val d'Entremont Val Ferret,2026-03-25T04:33:00+00:00,Switzerland,0.5574326870153336,0,1,de,WCE,Europe
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,Sturm Erstfeld Engelberg,2026-03-25T04:33:00+00:00,Switzerland,0.557325619162229,0,1,de,WCE,Europe
 '0e1c09cb04',extremes,Snow&Ice,#d60d2b,wmo,Frost Verzasca,2026-03-23T04:42:00+00:00,Switzerland,0.5573166857037759,0,1,de,WCE,Europe
+'6dea63153a',extremes,Storm,#b3b2b1,wmo,Sturm Zurzach BÃ¼lach,2026-03-25T04:33:00+00:00,Switzerland,0.5572889542885022,0,1,de,WCE,Europe
+'cbb63d08a6',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Betrügereien,2026-03-25T04:33:00+00:00,Switzerland,0.5571611086684931,0,1,de,WCE,Europe
+'46492d075c',extremes,Storm,#b3b2b1,wmo,Sturmflut vor den Waadtländer Alpen,2026-03-27T04:57:00+00:00,Switzerland,0.5569430269164284,0,1,de,WCE,Europe
+'0102bac3c1',extremes,Snow&Ice,#d60d2b,wmo,Eis Wien Ottakring,2026-03-26T04:56:00+00:00,Austria,0.5568250955695229,0,1,de,WCE,Europe
+'906eca8937',extremes,Storm,#b3b2b1,wmo,Sturmflut Erstfeld Engelberg,2026-03-31T04:59:00+00:00,Switzerland,0.5568145928334528,0,1,de,WCE,Europe
+'159d9a44ff',extremes,Storm,#b3b2b1,wmo,Sturmflut Riein Safiental,2026-03-25T04:33:00+00:00,Switzerland,0.556801309678358,0,1,de,WCE,Europe
+'2e298aa28c',extremes,Storm,#b3b2b1,wmo,Sturm Oberes Baselbiet,2026-03-25T04:33:00+00:00,Switzerland,0.5567613927685213,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-03-17T04:30:00+00:00,Germany,0.5532381707384506,2,1,de,WCE,Europe
 '8ab584f699',extremes,Snow&Ice,#d60d2b,wmo,Eis Davos,2026-03-15T04:45:00+00:00,Switzerland,0.5518569453531414,1,1,de,WCE,Europe
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
