@@ -304,6 +304,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '906eca8937',extremes,Storm,#b3b2b1,wmo,Sturmflut Erstfeld Engelberg,2026-03-31T04:59:00+00:00,Switzerland,0.5568145928334528,0,1,de,WCE,Europe
 '159d9a44ff',extremes,Storm,#b3b2b1,wmo,Sturmflut Riein Safiental,2026-03-25T04:33:00+00:00,Switzerland,0.556801309678358,0,1,de,WCE,Europe
 '2e298aa28c',extremes,Storm,#b3b2b1,wmo,Sturm Oberes Baselbiet,2026-03-25T04:33:00+00:00,Switzerland,0.5567613927685213,0,1,de,WCE,Europe
+'53c3ed5ff2',extremes,Snow&Ice,#d60d2b,wmo,Schnee im Val d'Anniviers,2026-03-25T04:33:00+00:00,Switzerland,0.5564398139911527,0,1,de,WCE,Europe
+'a2bde0b50a',extremes,Storm,#b3b2b1,wmo,Sturmflut basso moesano,2026-03-26T04:56:00+00:00,Switzerland,0.5557340560771934,0,1,de,WCE,Europe
+'68dcd044b4',extremes,Snow&Ice,#d60d2b,wmo,Frost in den franzÃ¶sischen Bergen,2026-03-24T04:31:00+00:00,Switzerland,0.5557227255671324,0,1,de,WCE,Europe
+'fe41e616f4',extremes,Snow&Ice,#d60d2b,wmo,Frost Amriswil,2026-04-03T04:43:00+00:00,Switzerland,0.5556815269901404,0,1,de,WCE,Europe
+'b4a720ff08',extremes,Snow&Ice,#d60d2b,wmo,Eis Entlebuch,2026-03-26T04:56:00+00:00,Switzerland,0.555681352385965,0,1,de,WCE,Europe
+'a8a0b3c3c6',extremes,Snow&Ice,#d60d2b,wmo,Eis Hartberg Fürstenfeld,2026-03-26T04:56:00+00:00,Austria,0.5555539721045477,0,1,de,WCE,Europe
+'c2530e2e5c',extremes,Snow&Ice,#d60d2b,wmo,Flims Laax ist eiskalt,2026-03-25T04:33:00+00:00,Switzerland,0.5555463746160394,0,1,de,WCE,Europe
+'8c3537efea',extremes,Storm,#b3b2b1,wmo,"Sturm, sie vollbringen",2026-03-25T04:33:00+00:00,Switzerland,0.5555403880779016,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-03-17T04:30:00+00:00,Germany,0.5532381707384506,2,1,de,WCE,Europe
 '8ab584f699',extremes,Snow&Ice,#d60d2b,wmo,Eis Davos,2026-03-15T04:45:00+00:00,Switzerland,0.5518569453531414,1,1,de,WCE,Europe
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
