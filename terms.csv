@@ -312,6 +312,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8a0b3c3c6',extremes,Snow&Ice,#d60d2b,wmo,Eis Hartberg Fürstenfeld,2026-03-26T04:56:00+00:00,Austria,0.5555539721045477,0,1,de,WCE,Europe
 'c2530e2e5c',extremes,Snow&Ice,#d60d2b,wmo,Flims Laax ist eiskalt,2026-03-25T04:33:00+00:00,Switzerland,0.5555463746160394,0,1,de,WCE,Europe
 '8c3537efea',extremes,Storm,#b3b2b1,wmo,"Sturm, sie vollbringen",2026-03-25T04:33:00+00:00,Switzerland,0.5555403880779016,0,1,de,WCE,Europe
+'6d1cbf0043',extremes,Snow&Ice,#d60d2b,wmo,Eis fürstenland,2026-03-26T04:56:00+00:00,Switzerland,0.555219126114853,0,1,de,WCE,Europe
+'43a8549d1b',extremes,Storm,#b3b2b1,wmo,Sturmflut Sarnen Lungern,2026-03-31T04:59:00+00:00,Switzerland,0.5551090336493579,0,1,de,WCE,Europe
+'b24f5fee7b',extremes,Snow&Ice,#d60d2b,wmo,Schnee Thun Belp,2026-04-09T04:58:00+00:00,Switzerland,0.5550892679982946,0,1,de,WCE,Europe
+'4a6b9d2482',extremes,Snow&Ice,#d60d2b,wmo,Frost Luzern Alpnach,2026-03-24T04:31:00+00:00,Switzerland,0.5549506642887199,0,1,de,WCE,Europe
+'2839475b10',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Zernez,2026-03-26T04:56:00+00:00,Switzerland,0.5549463729497092,0,1,de,WCE,Europe
+'bd1bfea9ad',extremes,Storm,#b3b2b1,wmo,Sturmflut Davos,2026-03-31T04:59:00+00:00,Switzerland,0.5548212100680211,0,1,de,WCE,Europe
+'5107ca6e12',extremes,Storm,#b3b2b1,wmo,Sturmflut Basel,2026-03-25T04:33:00+00:00,Switzerland,0.554758103353589,0,1,de,WCE,Europe
+'4da7eb8ec6',extremes,Snow&Ice,#d60d2b,wmo,Schnee Urserntal,2026-03-31T04:59:00+00:00,Switzerland,0.5546606495390424,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-03-17T04:30:00+00:00,Germany,0.5532381707384506,2,1,de,WCE,Europe
 '8ab584f699',extremes,Snow&Ice,#d60d2b,wmo,Eis Davos,2026-03-15T04:45:00+00:00,Switzerland,0.5518569453531414,1,1,de,WCE,Europe
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
