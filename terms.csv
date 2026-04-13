@@ -216,6 +216,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '185c1a17b7',extremes,Snow&Ice,#d60d2b,wmo,Frostvouvry,2026-03-18T04:36:00+00:00,Switzerland,0.5690041019463448,0,1,de,WCE,Europe
 'f7c3d32eec',extremes,Snow&Ice,#d60d2b,wmo,Schneewahlern Plaffeien,2026-03-25T04:33:00+00:00,Switzerland,0.5687332814774042,0,1,de,WCE,Europe
 '128545dd39',extremes,Snow&Ice,#d60d2b,wmo,Eis laufental,2026-03-20T04:26:00+00:00,Switzerland,0.5686887677404024,0,1,de,WCE,Europe
+'507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2026-04-02T04:42:00+00:00,Italy,0.5685847058628045,0,1,de,MED,Europe
 '6e23cb3b6f',extremes,Storm,#b3b2b1,wmo,Sturmflut Vallée de Joux,2026-03-26T04:56:00+00:00,Switzerland,0.5685718323548543,0,1,de,WCE,Europe
 '760bc08eb4',extremes,Storm,#b3b2b1,wmo,Sturmflut Saanen Gsteig,2026-03-26T04:56:00+00:00,Switzerland,0.5685164141991512,0,1,de,WCE,Europe
 '24ca87aeaf',extremes,Snow&Ice,#d60d2b,wmo,Savognin-Eis,2026-03-26T04:56:00+00:00,Switzerland,0.5684569152327861,0,1,de,WCE,Europe
@@ -241,6 +242,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ebf462432',extremes,Storm,#b3b2b1,wmo,Sturmflut bivio avers,2026-03-25T04:33:00+00:00,Switzerland,0.5657612114376032,0,1,de,WCE,Europe
 '926fcc4fff',extremes,Storm,#b3b2b1,wmo,Sturmflut Kerenzerberg Seeztal,2026-03-25T04:33:00+00:00,Switzerland,0.5657294646573832,0,1,de,WCE,Europe
 'e5885a18e2',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Lyss Grenchen,2026-03-20T04:26:00+00:00,Switzerland,0.5656857564658587,0,1,de,WCE,Europe
+'8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,Unwetter Piemont,2026-04-13T05:28:00+00:00,Italy,0.5655704055243179,0,1,de,MED,Europe
 'c2c1b857c8',extremes,Storm,#b3b2b1,wmo,Sturm Glarus Nord Mitte,2026-03-25T04:33:00+00:00,Switzerland,0.5655615709981945,0,1,de,WCE,Europe
 'ea488d3fcb',extremes,Storm,#b3b2b1,wmo,Sturmflut Neunkirchen,2026-03-26T04:56:00+00:00,Austria,0.5654212229848676,0,1,de,WCE,Europe
 '142a809dc5',extremes,Snow&Ice,#d60d2b,wmo,Frost St.Gallen Rorschach,2026-03-24T04:31:00+00:00,Switzerland,0.5652558069195628,0,1,de,WCE,Europe
@@ -329,8 +331,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e9101e015',extremes,Storm,#b3b2b1,wmo,Sturmflut Wiener Neustadt Land,2026-03-26T04:56:00+00:00,Austria,0.5530392293481451,0,1,de,WCE,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,Schnee Argentinien,2026-04-11T04:34:00+00:00,Argentina,0.5528366091020321,0,1,de,SES,South-America
 'd1520c9ca5',extremes,Snow&Ice,#d60d2b,wmo,Eis Turbenthal Sirnach,2026-03-25T04:33:00+00:00,Switzerland,0.5527943741511909,0,1,de,WCE,Europe
+'b747a2c7e1',extremes,Storm,#b3b2b1,wmo,Sturm Jogne Haute Gruyere,2026-03-25T04:33:00+00:00,Switzerland,0.5527842825794127,0,1,de,WCE,Europe
+'037babc754',extremes,Snow&Ice,#d60d2b,wmo,Frost Erstfeld Engelberg,2026-04-07T04:59:00+00:00,Switzerland,0.5527282048295591,0,1,de,WCE,Europe
+'8a4ae9fc55',extremes,Storm,#b3b2b1,wmo,Sturmflut Jennersdorf,2026-03-26T04:56:00+00:00,Austria,0.5526384370827171,0,1,de,WCE,Europe
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,Frost Argentinien,2026-04-11T04:34:00+00:00,Argentina,0.5520539350422125,0,1,de,SES,South-America
 '8ab584f699',extremes,Snow&Ice,#d60d2b,wmo,Eis Davos,2026-03-15T04:45:00+00:00,Switzerland,0.5518569453531414,1,1,de,WCE,Europe
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
+'49f364b3e2',extremes,Precipitation,#d60d2b,wmo,Regenguss Formosa Patino Pirane.,2026-04-13T05:28:00+00:00,Argentina,0.551449011414323,0,1,de,SES,South-America
+'98df2e81cb',extremes,Storm,#b3b2b1,wmo,Sturmflut Frutigen Kiental,2026-03-31T04:59:00+00:00,Switzerland,0.551418655386184,0,1,de,WCE,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-02-27T04:26:00+00:00,Germany,0.549386823820684,2,1,de,WCE,Europe
 '09214ed0b3',extremes,Snow&Ice,#d60d2b,wmo,Schnee Hermagor,2026-02-18T04:34:00+00:00,Austria,0.541677200712856,3,2,de,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.539507864673249,2,1,de,WCE,Europe
