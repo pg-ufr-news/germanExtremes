@@ -320,7 +320,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd1bfea9ad',extremes,Storm,#b3b2b1,wmo,Sturmflut Davos,2026-03-31T04:59:00+00:00,Switzerland,0.5548212100680211,0,1,de,WCE,Europe
 '5107ca6e12',extremes,Storm,#b3b2b1,wmo,Sturmflut Basel,2026-03-25T04:33:00+00:00,Switzerland,0.554758103353589,0,1,de,WCE,Europe
 '4da7eb8ec6',extremes,Snow&Ice,#d60d2b,wmo,Schnee Urserntal,2026-03-31T04:59:00+00:00,Switzerland,0.5546606495390424,0,1,de,WCE,Europe
+'dee33216ce',extremes,Snow&Ice,#d60d2b,wmo,Eis Sion Crans Montana,2026-03-25T04:33:00+00:00,Switzerland,0.5543611448116935,0,1,de,WCE,Europe
+'541b9930a2',extremes,Storm,#b3b2b1,wmo,Sturmflut Liechtenstein,2026-03-31T04:59:00+00:00,Switzerland,0.554206362930172,0,1,de,WCE,Europe
+'e143c07e0c',extremes,Storm,#b3b2b1,wmo,Sturm Val de Ruz Colombier,2026-03-25T04:33:00+00:00,Switzerland,0.554189497415979,0,1,de,WCE,Europe
+'e9848e2fff',extremes,Storm,#b3b2b1,wmo,Sturmbrigg nÃ¶rdliches Simplongebiet,2026-03-25T04:33:00+00:00,Switzerland,0.553849602328352,0,1,de,WCE,Europe
+'32a418b87f',extremes,Storm,#b3b2b1,wmo,Sturmflut Frick Leibstadt,2026-03-25T04:33:00+00:00,Switzerland,0.5535539643138807,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-03-17T04:30:00+00:00,Germany,0.5532381707384506,2,1,de,WCE,Europe
+'4e9101e015',extremes,Storm,#b3b2b1,wmo,Sturmflut Wiener Neustadt Land,2026-03-26T04:56:00+00:00,Austria,0.5530392293481451,0,1,de,WCE,Europe
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,Schnee Argentinien,2026-04-11T04:34:00+00:00,Argentina,0.5528366091020321,0,1,de,SES,South-America
+'d1520c9ca5',extremes,Snow&Ice,#d60d2b,wmo,Eis Turbenthal Sirnach,2026-03-25T04:33:00+00:00,Switzerland,0.5527943741511909,0,1,de,WCE,Europe
 '8ab584f699',extremes,Snow&Ice,#d60d2b,wmo,Eis Davos,2026-03-15T04:45:00+00:00,Switzerland,0.5518569453531414,1,1,de,WCE,Europe
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-02-27T04:26:00+00:00,Germany,0.549386823820684,2,1,de,WCE,Europe
