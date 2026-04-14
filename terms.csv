@@ -339,6 +339,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '05e764fe97',extremes,Snow&Ice,#d60d2b,wmo,Eis Salzburg Umgebung,2026-02-24T04:31:00+00:00,Austria,0.5517475672916129,2,2,de,WCE,Europe
 '49f364b3e2',extremes,Precipitation,#d60d2b,wmo,Regenguss Formosa Patino Pirane.,2026-04-13T05:28:00+00:00,Argentina,0.551449011414323,0,1,de,SES,South-America
 '98df2e81cb',extremes,Storm,#b3b2b1,wmo,Sturmflut Frutigen Kiental,2026-03-31T04:59:00+00:00,Switzerland,0.551418655386184,0,1,de,WCE,Europe
+'06e76b19b8',extremes,Storm,#b3b2b1,wmo,Sturm Thun Belp,2026-03-25T04:33:00+00:00,Switzerland,0.5513235176582911,0,1,de,WCE,Europe
+'bf870a986a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Vispertal Nanztal,2026-03-26T04:56:00+00:00,Switzerland,0.5512341255137572,0,1,de,WCE,Europe
+'df5bd44a2f',extremes,Snow&Ice,#d60d2b,wmo,Frost olten gÃ¶sgen,2026-03-26T04:56:00+00:00,Switzerland,0.5511063667922277,0,1,de,WCE,Europe
+'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,Hitzewelle parana y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.5509299584644183,0,1,de,SES,South-America
+'3e390eb87c',extremes,Storm,#b3b2b1,wmo,Sturm Broye,2026-03-25T04:33:00+00:00,Switzerland,0.5508270767578682,0,1,de,WCE,Europe
+'5c2063d4e1',extremes,Storm,#b3b2b1,wmo,Sturmflut Obertoggenburg,2026-03-25T04:33:00+00:00,Switzerland,0.55079354860842,0,1,de,WCE,Europe
+'28ddd4229b',extremes,Storm,#b3b2b1,wmo,Sturm Sumiswald Worb,2026-03-25T04:33:00+00:00,Switzerland,0.5504883861432738,0,1,de,WCE,Europe
+'fd620f7c19',extremes,Snow&Ice,#d60d2b,wmo,Frost Solothurn Rothrist,2026-03-27T04:57:00+00:00,Switzerland,0.5503592745119714,0,1,de,WCE,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-02-27T04:26:00+00:00,Germany,0.549386823820684,2,1,de,WCE,Europe
 '09214ed0b3',extremes,Snow&Ice,#d60d2b,wmo,Schnee Hermagor,2026-02-18T04:34:00+00:00,Austria,0.541677200712856,3,2,de,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.539507864673249,2,1,de,WCE,Europe
