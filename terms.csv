@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,Eis Hallein,2026-03-25T04:33:00+00:00,Austria,0.7594741602166889,0,1,de,WCE,Europe
 '53cc0bcc71',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurrikan Deutschland,2026-03-25T04:33:00+00:00,Germany,0.7506003718336572,0,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-03-25T04:33:00+00:00,Austria,0.7503760602879962,0,1,de,WCE,Europe
 '243c47a1d5',extremes,Snow&Ice,#d60d2b,wmo,Frost Ã–sterreich,2026-03-25T04:33:00+00:00,Austria,0.7497632374109018,0,1,de,WCE,Europe
@@ -58,6 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Kirchdorf an der Krems,2026-03-25T04:33:00+00:00,Austria,0.6460223366290593,1,1,de,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,Sturmflut Reutte,2026-03-25T04:33:00+00:00,Austria,0.6459509952772303,1,1,de,WCE,Europe
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,Sturmflut Lilienfeld,2026-03-25T04:33:00+00:00,Austria,0.645928388759922,1,1,de,WCE,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,Eis Hallein,2026-03-25T04:33:00+00:00,Austria,0.6458530661841856,1,1,de,WCE,Europe
 '16ac580ff2',extremes,Snow&Ice,#d60d2b,wmo,Frostschiers,2026-03-27T04:57:00+00:00,Switzerland,0.6444799675857971,0,1,de,WCE,Europe
 '3d0492bcd4',extremes,Snow&Ice,#d60d2b,wmo,Frost Reute,2026-03-30T05:12:00+00:00,Austria,0.6396282877578097,0,1,de,WCE,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-03-13T04:25:00+00:00,Germany,0.639162921159891,1,2,de,WCE,Europe
