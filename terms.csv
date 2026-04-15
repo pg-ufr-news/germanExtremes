@@ -1,19 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-03-25T04:33:00+00:00,Austria,0.7503760602879962,0,1,de,WCE,Europe
-'243c47a1d5',extremes,Snow&Ice,#d60d2b,wmo,Frost Ã–sterreich,2026-03-25T04:33:00+00:00,Austria,0.7497632374109018,0,1,de,WCE,Europe
-'9cc930f150',extremes,Snow&Ice,#d60d2b,wmo,Schnee Reute,2026-03-25T04:33:00+00:00,Austria,0.7497287560580519,0,1,de,WCE,Europe
-'246dc46b71',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Weiz,2026-03-25T04:33:00+00:00,Austria,0.749720162343756,0,1,de,WCE,Europe
-'6e18c8b44d',extremes,Snow&Ice,#d60d2b,wmo,Frost innsbruck stadt,2026-03-25T04:33:00+00:00,Austria,0.7494807490055349,0,1,de,WCE,Europe
-'56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Ã–sterreich,2026-03-25T04:33:00+00:00,Austria,0.7494804070804951,0,1,de,WCE,Europe
-'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-03-25T04:33:00+00:00,Austria,0.7494210545426897,0,1,de,WCE,Europe
-'b61a6d1d65',extremes,Snow&Ice,#d60d2b,wmo,Frost Lilienfeld,2026-03-25T04:33:00+00:00,Austria,0.7491759593421045,0,1,de,WCE,Europe
-'4822b6bd98',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Tamsweg,2026-03-25T04:33:00+00:00,Austria,0.7490388259920477,0,1,de,WCE,Europe
-'8f7962a661',extremes,Storm,#b3b2b1,wmo,Sturmflut Feldkirch,2026-03-25T04:33:00+00:00,Austria,0.7489249632937859,0,1,de,WCE,Europe
-'0632a85904',extremes,Storm,#b3b2b1,wmo,Sturm Eisenstadt Stadt,2026-03-25T04:33:00+00:00,Austria,0.7488524106050864,0,1,de,WCE,Europe
-'a76459a195',extremes,Storm,#b3b2b1,wmo,Sturmflut Sankt Veit an der Glan,2026-03-25T04:33:00+00:00,Austria,0.7486190681369319,0,1,de,WCE,Europe
-'c7dffd1264',extremes,Storm,#b3b2b1,wmo,Sturmflut Bruck an der Leitha,2026-03-25T04:33:00+00:00,Austria,0.7485472037194081,0,1,de,WCE,Europe
-'3b28e1fc4f',extremes,Storm,#b3b2b1,wmo,Sturmflut Wolfsberg,2026-03-25T04:33:00+00:00,Austria,0.7485369624981425,0,1,de,WCE,Europe
-'5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-03-25T04:33:00+00:00,Austria,0.7483589871983717,0,1,de,WCE,Europe
 '6fc7fa002d',extremes,Storm,#b3b2b1,wmo,Sturmflut Güssing,2026-03-25T04:33:00+00:00,Austria,0.7483441032469154,0,1,de,WCE,Europe
 'ac1e22c404',extremes,Storm,#b3b2b1,wmo,Sturmflut Korneuburg,2026-03-25T04:33:00+00:00,Austria,0.7482954106982042,0,1,de,WCE,Europe
 '6d8d7a16c8',extremes,Storm,#b3b2b1,wmo,Sturm innsbruck stadt,2026-03-25T04:33:00+00:00,Austria,0.7479793503197995,0,1,de,WCE,Europe
@@ -62,6 +48,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-03-13T04:25:00+00:00,Germany,0.639162921159891,1,2,de,WCE,Europe
 'ea8de7a9b2',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Innertkirchen Guttannen,2026-03-25T04:33:00+00:00,Switzerland,0.6386844806942658,0,1,de,WCE,Europe
 '53cc0bcc71',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurrikan Deutschland,2026-03-25T04:33:00+00:00,Germany,0.6381603310586086,1,1,de,WCE,Europe
+'243c47a1d5',extremes,Snow&Ice,#d60d2b,wmo,Frost Ã–sterreich,2026-03-25T04:33:00+00:00,Austria,0.6372987517992665,1,1,de,WCE,Europe
+'9cc930f150',extremes,Snow&Ice,#d60d2b,wmo,Schnee Reute,2026-03-25T04:33:00+00:00,Austria,0.637269442649344,1,1,de,WCE,Europe
+'246dc46b71',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Weiz,2026-03-25T04:33:00+00:00,Austria,0.6372621379921927,1,1,de,WCE,Europe
+'6e18c8b44d',extremes,Snow&Ice,#d60d2b,wmo,Frost innsbruck stadt,2026-03-25T04:33:00+00:00,Austria,0.6370586366547046,1,1,de,WCE,Europe
+'56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Ã–sterreich,2026-03-25T04:33:00+00:00,Austria,0.6370583460184208,1,1,de,WCE,Europe
+'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-03-25T04:33:00+00:00,Austria,0.6370078963612862,1,1,de,WCE,Europe
+'b61a6d1d65',extremes,Snow&Ice,#d60d2b,wmo,Frost Lilienfeld,2026-03-25T04:33:00+00:00,Austria,0.6367995654407888,1,1,de,WCE,Europe
+'4822b6bd98',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Tamsweg,2026-03-25T04:33:00+00:00,Austria,0.6366830020932406,1,1,de,WCE,Europe
+'8f7962a661',extremes,Storm,#b3b2b1,wmo,Sturmflut Feldkirch,2026-03-25T04:33:00+00:00,Austria,0.636586218799718,1,1,de,WCE,Europe
+'0632a85904',extremes,Storm,#b3b2b1,wmo,Sturm Eisenstadt Stadt,2026-03-25T04:33:00+00:00,Austria,0.6365245490143234,1,1,de,WCE,Europe
+'a76459a195',extremes,Storm,#b3b2b1,wmo,Sturmflut Sankt Veit an der Glan,2026-03-25T04:33:00+00:00,Austria,0.6363262079163922,1,1,de,WCE,Europe
+'c7dffd1264',extremes,Storm,#b3b2b1,wmo,Sturmflut Bruck an der Leitha,2026-03-25T04:33:00+00:00,Austria,0.6362651231614969,1,1,de,WCE,Europe
+'3b28e1fc4f',extremes,Storm,#b3b2b1,wmo,Sturmflut Wolfsberg,2026-03-25T04:33:00+00:00,Austria,0.6362564181234212,1,1,de,WCE,Europe
+'5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-03-25T04:33:00+00:00,Austria,0.6362551541186159,1,1,de,WCE,Europe
 'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2026-03-25T04:33:00+00:00,Germany,0.6360225803362596,0,1,de,WCE,Europe
 'e04d29c79b',extremes,Snow&Ice,#d60d2b,wmo,Eis Glarus Süd Grosstal,2026-03-27T04:57:00+00:00,Switzerland,0.6349910484724,0,1,de,WCE,Europe
 '5e27394d94',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Muotathal,2026-03-26T04:56:00+00:00,Switzerland,0.633344849907916,0,1,de,WCE,Europe
