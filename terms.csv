@@ -54,16 +54,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '07ce06ae23',extremes,Storm,#b3b2b1,wmo,Sturm Helgoland,2026-04-06T05:11:00+00:00,Germany,0.6338276887474248,1,2,de,WCE,Europe
 '72c859897b',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Favoriten,2026-03-25T04:33:00+00:00,Austria,0.633371658369152,1,1,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-04-15T05:12:00+00:00,Austria,0.6327324670841473,1,2,de,WCE,Europe
-'1fea4f642d',extremes,Storm,#b3b2b1,wmo,Sturmflut Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.6256263810297003,0,1,de,WCE,Europe
-'52228edbac',extremes,Storm,#b3b2b1,wmo,Sturmflut Flims Laax,2026-03-27T04:57:00+00:00,Switzerland,0.6246933308711711,0,1,de,WCE,Europe
-'6e3b71fd63',extremes,Snow&Ice,#d60d2b,wmo,Frost Sarganserland,2026-03-14T04:22:00+00:00,Switzerland,0.6239779192842628,0,1,de,WCE,Europe
-'241721e6ad',extremes,Storm,#b3b2b1,wmo,Sturmflut Savognin,2026-03-26T04:56:00+00:00,Switzerland,0.6211642058663381,0,1,de,WCE,Europe
-'d3d8dac284',extremes,Snow&Ice,#d60d2b,wmo,Frost Riein Safiental,2026-03-27T04:57:00+00:00,Switzerland,0.6211097585532903,0,1,de,WCE,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Italien,2026-03-13T04:25:00+00:00,Italy,0.6204954635709776,0,1,de,MED,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-03-09T04:31:00+00:00,Germany,0.6198005503613059,2,1,de,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2026-04-13T05:28:00+00:00,Italy,0.6191718898354239,0,1,de,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.6184697671010478,2,3,de,WCE,Europe
-'85ae56220e',extremes,Snow&Ice,#d60d2b,wmo,Frost Liechtenstein,2026-03-23T04:42:00+00:00,Switzerland,0.6150738312662071,0,1,de,WCE,Europe
 'e93774feb6',extremes,Snow&Ice,#d60d2b,wmo,Frost Meiringen Gadmertal,2026-03-27T04:57:00+00:00,Switzerland,0.6143916916208371,0,1,de,WCE,Europe
 '5a812cfc1c',extremes,Snow&Ice,#d60d2b,wmo,Schnee-Bivio-Avers,2026-03-26T04:56:00+00:00,Switzerland,0.6134556506813871,0,1,de,WCE,Europe
 '9c678b4258',extremes,Snow&Ice,#d60d2b,wmo,Frost Lugnez Valsertal,2026-03-27T04:57:00+00:00,Switzerland,0.6127061544340852,0,1,de,WCE,Europe
@@ -378,10 +372,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d08b60cd4',extremes,Snow&Ice,#d60d2b,wmo,Eis Solothurn Rothrist,2026-03-13T04:25:00+00:00,Switzerland,0.5336888223794675,2,1,de,WCE,Europe
 '689985175c',extremes,Snow&Ice,#d60d2b,wmo,Frost Aigle Leysin,2026-03-20T04:26:00+00:00,Switzerland,0.5334094151659915,1,1,de,WCE,Europe
 '91dce060fe',extremes,Storm,#b3b2b1,wmo,Sturm östlich Fehmarn bis Rügen,2026-03-25T04:33:00+00:00,Germany,0.5327106619527968,1,1,de,WCE,Europe
+'1fea4f642d',extremes,Storm,#b3b2b1,wmo,Sturmflut Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.5317824238752452,1,1,de,WCE,Europe
+'52228edbac',extremes,Storm,#b3b2b1,wmo,Sturmflut Flims Laax,2026-03-27T04:57:00+00:00,Switzerland,0.5309893312404954,1,1,de,WCE,Europe
+'6e3b71fd63',extremes,Snow&Ice,#d60d2b,wmo,Frost Sarganserland,2026-03-14T04:22:00+00:00,Switzerland,0.5303812313916234,1,1,de,WCE,Europe
 '968bd19e5e',extremes,Snow&Ice,#d60d2b,wmo,Frost Glarus Nord Mitte,2026-03-13T04:25:00+00:00,Switzerland,0.5294333575695567,2,1,de,WCE,Europe
 'ac5f846cfc',extremes,Snow&Ice,#d60d2b,wmo,Frost Schaffhausen,2026-03-13T04:25:00+00:00,Switzerland,0.5291062261683136,2,1,de,WCE,Europe
 '347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,Schnee Delémont Bellelay,2026-03-13T04:25:00+00:00,Switzerland,0.5288230432348168,2,1,de,WCE,Europe
 'a0ba7c50dd',extremes,Snow&Ice,#d60d2b,wmo,Frost Landquart Chur,2026-03-13T04:25:00+00:00,Switzerland,0.5287611837213736,2,1,de,WCE,Europe
+'241721e6ad',extremes,Storm,#b3b2b1,wmo,Sturmflut Savognin,2026-03-26T04:56:00+00:00,Switzerland,0.5279895749863874,1,1,de,WCE,Europe
+'d3d8dac284',extremes,Snow&Ice,#d60d2b,wmo,Frost Riein Safiental,2026-03-27T04:57:00+00:00,Switzerland,0.5279432947702968,1,1,de,WCE,Europe
 'b95838c00f',extremes,Snow&Ice,#d60d2b,wmo,Basel eiskalt,2026-03-13T04:25:00+00:00,Switzerland,0.5279039729515681,2,1,de,WCE,Europe
 'ea9dd39a43',extremes,Snow&Ice,#d60d2b,wmo,Schnee Martigny Verbier,2026-03-13T04:25:00+00:00,Switzerland,0.5273749744173114,2,1,de,WCE,Europe
 '7d43005c4f',extremes,Snow&Ice,#d60d2b,wmo,Frost Monthey Val d'illiez,2026-03-13T04:25:00+00:00,Switzerland,0.5270386239186243,2,1,de,WCE,Europe
@@ -398,6 +397,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0080cba8b6',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Entlebuch,2026-03-13T04:25:00+00:00,Switzerland,0.5239171625711492,2,1,de,WCE,Europe
 'e8e8c6957c',extremes,Snow&Ice,#d60d2b,wmo,Frost ist vollstÃ¤ndig vorhanden,2026-03-13T04:25:00+00:00,Switzerland,0.5239030989080712,2,1,de,WCE,Europe
 'aeb8fffadb',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes oberes Baselbiet,2026-03-13T04:25:00+00:00,Switzerland,0.5232711538851537,2,1,de,WCE,Europe
+'85ae56220e',extremes,Snow&Ice,#d60d2b,wmo,Frost Liechtenstein,2026-03-23T04:42:00+00:00,Switzerland,0.522962771576276,1,1,de,WCE,Europe
 'acd71006ee',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schangnau Sigriswil,2026-03-13T04:25:00+00:00,Switzerland,0.5225689894133474,2,1,de,WCE,Europe
 'cf8bea3213',extremes,Snow&Ice,#d60d2b,wmo,Schneebroye,2026-03-13T04:25:00+00:00,Switzerland,0.5215850196721014,2,1,de,WCE,Europe
 '66dcd8bd2a',extremes,Snow&Ice,#d60d2b,wmo,Eis Rheinfelden,2026-03-13T04:25:00+00:00,Switzerland,0.5213544091179891,2,1,de,WCE,Europe
