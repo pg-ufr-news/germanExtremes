@@ -157,6 +157,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '89ad23e765',extremes,Snow&Ice,#d60d2b,wmo,Frost Amstetten,2026-03-26T04:56:00+00:00,Austria,0.572544747011948,0,1,de,WCE,Europe
 '90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-04-08T05:01:00+00:00,Germany,0.5722421810559395,0,1,de,WCE,Europe
 '8b7ddca807',extremes,Snow&Ice,#d60d2b,wmo,Eis oron â€“ haute broye,2026-03-18T04:36:00+00:00,Switzerland,0.5722401749411689,0,1,de,WCE,Europe
+'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2026-04-03T04:43:00+00:00,Germany,0.5720949673510556,0,1,de,WCE,Europe
 '83b4a1a418',extremes,Snow&Ice,#d60d2b,wmo,Eis Wohlen Albis,2026-03-20T04:26:00+00:00,Switzerland,0.5719554385654501,0,1,de,WCE,Europe
 '04b23a3e2d',extremes,Storm,#b3b2b1,wmo,Sturmflut Rheinwald,2026-03-25T04:33:00+00:00,Switzerland,0.5719324409219818,0,1,de,WCE,Europe
 '44078e907c',extremes,Storm,#b3b2b1,wmo,Sturmflut Hauptstadtregion Reykjavik,2026-03-21T04:17:00+00:00,Iceland,0.5717804750279101,0,1,de,GIC,Europe
@@ -338,7 +339,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70aeae94f5',extremes,Snow&Ice,#d60d2b,wmo,Frost st. Stephan Lenk,2026-03-27T04:57:00+00:00,Switzerland,0.550222033825594,1,1,de,WCE,Europe
 '2aefcc58de',extremes,Tropical Cyclone,#4f4f4f,wmo,tropischer Wirbelsturm DÃ¤nemark,2026-04-04T04:30:00+00:00,Denmark,0.5500503983024594,0,1,de,NEU,Europe
 '5e35e9b9cc',extremes,Earthquake,#870007,usgs,Erdbeben Yacuiba,2026-04-07T04:59:00+00:00,Argentina,0.5499209829778021,0,1,de,SES,South-America
+'d92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,Eis Italien,2026-04-02T04:42:00+00:00,Italy,0.5495474370280766,0,1,de,MED,Europe
+'f0e5575a07',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Winterwetter,2026-04-13T05:28:00+00:00,Switzerland,0.5489439712309785,0,1,de,WCE,Europe
+'4213b8a736',extremes,Storm,#b3b2b1,wmo,Sturmflut Gersau Engelbergertal,2026-03-31T04:59:00+00:00,Switzerland,0.5479227429659541,0,1,de,WCE,Europe
+'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,Regen Italien,2026-04-15T05:12:00+00:00,Italy,0.5479151430372576,0,1,de,MED,Europe
 '16ac580ff2',extremes,Snow&Ice,#d60d2b,wmo,Frostschiers,2026-03-27T04:57:00+00:00,Switzerland,0.5478079724479274,1,1,de,WCE,Europe
+'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,Eis Argentinien,2026-04-12T05:12:00+00:00,Argentina,0.5471681030322667,0,1,de,SES,South-America
+'9a09c92166',extremes,Snow&Ice,#d60d2b,wmo,Gefrieren Thalwil Wetzikon,2026-03-31T04:59:00+00:00,Switzerland,0.545805556874808,0,1,de,WCE,Europe
+'27e7c34337',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Plaine de l'Orbe,2026-04-01T05:12:00+00:00,Switzerland,0.5451952909637506,0,1,de,WCE,Europe
 '3d0492bcd4',extremes,Snow&Ice,#d60d2b,wmo,Frost Reute,2026-03-30T05:12:00+00:00,Austria,0.5436840445941382,1,1,de,WCE,Europe
 'ea8de7a9b2',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Innertkirchen Guttannen,2026-03-25T04:33:00+00:00,Switzerland,0.5428818085901259,1,1,de,WCE,Europe
 'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2026-03-25T04:33:00+00:00,Germany,0.5406191932858206,1,1,de,WCE,Europe
