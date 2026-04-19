@@ -5,7 +5,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-03-25T04:33:00+00:00,Germany,0.7310883471313085,0,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-04-07T04:59:00+00:00,Germany,0.7169365793116783,0,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-04-07T04:59:00+00:00,Germany,0.7036492358927054,0,1,de,WCE,Europe
+'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Österreich,2026-04-19T05:16:00+00:00,Austria,0.6890818679415235,0,1,de,WCE,Europe
+'37187ef97e',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Rudolfsheim fünfhaus,2026-04-19T05:16:00+00:00,Austria,0.682714890789163,0,1,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-04-07T04:59:00+00:00,Germany,0.6819231962640193,1,2,de,WCE,Europe
+'7a21954729',extremes,Thunderstorm,#53785a,wmo,Gewitter Steyr Stadt,2026-04-19T05:16:00+00:00,Austria,0.6779471600223816,0,1,de,WCE,Europe
+'fa4012d47e',extremes,Thunderstorm,#53785a,wmo,Gewitter Oberpullendorf,2026-04-19T05:16:00+00:00,Austria,0.6740164802575299,0,1,de,WCE,Europe
+'c657d07261',extremes,Thunderstorm,#53785a,wmo,Hagel Salzburg Stadt,2026-04-19T05:16:00+00:00,Austria,0.6685445259358135,0,1,de,WCE,Europe
+'6149b29ebd',extremes,Thunderstorm,#53785a,wmo,Unwetter Kufstein,2026-04-19T05:16:00+00:00,Austria,0.667341728145307,0,1,de,WCE,Europe
+'18b78f45b4',extremes,Thunderstorm,#53785a,wmo,Gewitter Feldkirchen,2026-04-19T05:16:00+00:00,Austria,0.6636034607937671,0,1,de,WCE,Europe
+'9acb4a7b02',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Landstraße,2026-04-19T05:16:00+00:00,Austria,0.6615192395956021,0,1,de,WCE,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2026-04-06T05:11:00+00:00,Iceland,0.6581158144202072,1,2,de,GIC,Europe
 '612f83fd45',extremes,Storm,#b3b2b1,wmo,Sturm Ostfriesische Küste,2026-04-10T05:13:00+00:00,Germany,0.6549843477834039,0,1,de,WCE,Europe
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,Frost Bregenz,2026-03-25T04:33:00+00:00,Austria,0.6466759093000851,1,1,de,WCE,Europe
@@ -444,10 +452,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '354a9b0a00',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Landquart Chur,2026-03-19T04:35:00+00:00,Switzerland,0.4961679246660804,1,1,de,WCE,Europe
 '04b582e729',extremes,Snow&Ice,#d60d2b,wmo,Eis der französischen Berge,2026-04-17T05:16:00+00:00,Switzerland,0.4960650794034041,1,1,de,WCE,Europe
 'dffe1742c9',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Zug Knonau,2026-03-21T04:17:00+00:00,Switzerland,0.4955961766315135,1,1,de,WCE,Europe
-'dec54bf379',extremes,Storm,#b3b2b1,wmo,Sturmflut Schiers,2026-03-26T04:56:00+00:00,Switzerland,0.49544164959755743,1,1,de,WCE,Europe
+'dec54bf379',extremes,Storm,#b3b2b1,wmo,Sturmflut Schiers,2026-03-26T04:56:00+00:00,Switzerland,0.4954416495975574,1,1,de,WCE,Europe
 '19c6023dc8',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Ostisland,2026-04-02T04:42:00+00:00,Iceland,0.4952016538782141,1,1,de,GIC,Europe
-'3457a20fa4',extremes,Storm,#b3b2b1,wmo,Sturm Val Medel Sumvitg,2026-03-26T04:56:00+00:00,Switzerland,0.49504014517532763,1,1,de,WCE,Europe
-'338cd644ea',extremes,Storm,#b3b2b1,wmo,Sturm Graz Stadt,2026-03-26T04:56:00+00:00,Austria,0.49453551940910206,1,1,de,WCE,Europe
+'3457a20fa4',extremes,Storm,#b3b2b1,wmo,Sturm Val Medel Sumvitg,2026-03-26T04:56:00+00:00,Switzerland,0.4950401451753276,1,1,de,WCE,Europe
+'338cd644ea',extremes,Storm,#b3b2b1,wmo,Sturm Graz Stadt,2026-03-26T04:56:00+00:00,Austria,0.494535519409102,1,1,de,WCE,Europe
 '752048e101',extremes,Storm,#b3b2b1,wmo,Sturmflut Oberes Saastal,2026-03-27T04:57:00+00:00,Switzerland,0.4943398603807951,1,1,de,WCE,Europe
 '1845344e0b',extremes,Snow&Ice,#d60d2b,wmo,Frost estavayer cudrefin,2026-03-20T04:26:00+00:00,Switzerland,0.4943245119846415,1,1,de,WCE,Europe
 'f2fa7241c7',extremes,Snow&Ice,#d60d2b,wmo,Frost Kerenzerberg Seeztal,2026-03-14T04:22:00+00:00,Switzerland,0.494228062900535,1,1,de,WCE,Europe
