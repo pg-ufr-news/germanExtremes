@@ -315,8 +315,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,Eis Argentinien,2026-04-12T05:12:00+00:00,Argentina,0.5471681030322667,0,1,de,SES,South-America
 '9a09c92166',extremes,Snow&Ice,#d60d2b,wmo,Gefrieren Thalwil Wetzikon,2026-03-31T04:59:00+00:00,Switzerland,0.545805556874808,0,1,de,WCE,Europe
 '27e7c34337',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Plaine de l'Orbe,2026-04-01T05:12:00+00:00,Switzerland,0.5451952909637506,0,1,de,WCE,Europe
+'e0cff663b6',extremes,Snow&Ice,#d60d2b,wmo,Frost ajoie,2026-04-09T04:58:00+00:00,Switzerland,0.5439887191360597,0,1,de,WCE,Europe
+'42b882d252',extremes,Drought,#edc291,edo,Mangel an Regen Dänemark,2026-04-02T04:42:00+00:00,Denmark,0.5437273755653521,0,1,de,NEU,Europe
 '3d0492bcd4',extremes,Snow&Ice,#d60d2b,wmo,Frost Reute,2026-03-30T05:12:00+00:00,Austria,0.5436840445941382,1,1,de,WCE,Europe
+'0021faf7b8',extremes,Fog,#d60d2b,wmo,Nebel DÃ¤nemark,2026-04-15T05:12:00+00:00,Denmark,0.5434676130649209,0,1,de,NEU,Europe
+'61f3b66d71',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Turtmanntal,2026-04-05T05:01:00+00:00,Switzerland,0.5429030732720593,0,1,de,WCE,Europe
+'e4728621b1',extremes,Snow&Ice,#d60d2b,wmo,Eis Vispertal Nanztal,2026-04-09T04:58:00+00:00,Switzerland,0.5428992154425958,0,1,de,WCE,Europe
 'ea8de7a9b2',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Innertkirchen Guttannen,2026-03-25T04:33:00+00:00,Switzerland,0.5428818085901259,1,1,de,WCE,Europe
+'efceb7a36e',extremes,Snow&Ice,#d60d2b,wmo,Schnee ajoie,2026-04-05T05:01:00+00:00,Switzerland,0.5426090293321955,0,1,de,WCE,Europe
+'8e5b367351',extremes,Precipitation,#d60d2b,wmo,Niederschlag Italien,2026-04-15T05:12:00+00:00,Italy,0.5420504304323895,0,1,de,MED,Europe
+'1b949122b7',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Lötschental Naters,2026-04-07T04:59:00+00:00,Switzerland,0.5420501932828177,0,1,de,WCE,Europe
 'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2026-03-25T04:33:00+00:00,Germany,0.5406191932858206,1,1,de,WCE,Europe
 'e04d29c79b',extremes,Snow&Ice,#d60d2b,wmo,Eis Glarus Süd Grosstal,2026-03-27T04:57:00+00:00,Switzerland,0.53974239120154,1,1,de,WCE,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.539507864673249,2,1,de,WCE,Europe
