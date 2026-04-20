@@ -6,8 +6,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-04-07T04:59:00+00:00,Germany,0.7169365793116783,0,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-04-07T04:59:00+00:00,Germany,0.7036492358927054,0,1,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-04-07T04:59:00+00:00,Germany,0.6819231962640193,1,2,de,WCE,Europe
+'ab79a002de',extremes,Storm,#b3b2b1,wmo,Sturmflut Nordfriesische KÃ¼ste,2026-04-10T05:13:00+00:00,Germany,0.6707206445160011,0,1,de,WCE,Europe
 '596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Österreich,2026-04-19T05:16:00+00:00,Austria,0.6610196177502949,1,2,de,WCE,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2026-04-06T05:11:00+00:00,Iceland,0.6581158144202072,1,2,de,GIC,Europe
+'6cfd1444b1',extremes,Storm,#b3b2b1,wmo,Sturm Stadt Oberwiesenthal,2026-04-06T05:11:00+00:00,Germany,0.6570167232658435,0,1,de,WCE,Europe
 '612f83fd45',extremes,Storm,#b3b2b1,wmo,Sturm Ostfriesische Küste,2026-04-10T05:13:00+00:00,Germany,0.6549843477834039,0,1,de,WCE,Europe
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,Frost Bregenz,2026-03-25T04:33:00+00:00,Austria,0.6466759093000851,1,1,de,WCE,Europe
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Währing,2026-03-25T04:33:00+00:00,Austria,0.6465302292431625,1,1,de,WCE,Europe
@@ -56,9 +58,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '07ce06ae23',extremes,Storm,#b3b2b1,wmo,Sturm Helgoland,2026-04-06T05:11:00+00:00,Germany,0.6338276887474248,1,2,de,WCE,Europe
 '72c859897b',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Favoriten,2026-03-25T04:33:00+00:00,Austria,0.633371658369152,1,1,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-04-15T05:12:00+00:00,Austria,0.6327324670841473,1,2,de,WCE,Europe
+'0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-04-20T05:27:00+00:00,Germany,0.6324505831525362,0,1,de,WCE,Europe
+'fe93b004f0',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Brigittenau,2026-04-19T05:16:00+00:00,Austria,0.6247413653822061,0,1,de,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-03-31T04:59:00+00:00,Italy,0.622692925857443,0,1,de,MED,Europe
+'d4b40d7444',extremes,Storm,#b3b2b1,wmo,Sturm Klagenfurt Stadt,2026-04-19T05:16:00+00:00,Austria,0.6213555440873458,0,1,de,WCE,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Italien,2026-03-13T04:25:00+00:00,Italy,0.6204954635709776,0,1,de,MED,Europe
+'56fee7fb2a',extremes,Storm,#b3b2b1,wmo,Sturmhorn,2026-04-19T05:16:00+00:00,Austria,0.6189931924849696,0,1,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.6184697671010478,2,3,de,WCE,Europe
+'fe2ee0ae5b',extremes,Snow&Ice,#d60d2b,wmo,Marthalen Stammheim,2026-04-02T04:42:00+00:00,Switzerland,0.6182812476257545,0,1,de,WCE,Europe
+'ea29aa1b41',extremes,Storm,#b3b2b1,wmo,Sturmflut GmÃ¼nd,2026-04-19T05:16:00+00:00,Austria,0.6174627413377335,0,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-03-11T04:22:00+00:00,Germany,0.6115822278374788,2,3,de,WCE,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Ostfjorde,2026-04-13T05:28:00+00:00,Iceland,0.6094708913213084,0,1,de,GIC,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-03-28T04:33:00+00:00,Iceland,0.6071369057794186,0,1,de,GIC,Europe
@@ -481,7 +489,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92cb3f72a3',extremes,Storm,#b3b2b1,wmo,Sturmflut val medel sumvitg,2026-03-27T04:57:00+00:00,Switzerland,0.4909100670178477,1,1,de,WCE,Europe
 'cc80ba2108',extremes,Storm,#b3b2b1,wmo,Sturm Riein Safiental,2026-03-27T04:57:00+00:00,Switzerland,0.4908985468406354,1,1,de,WCE,Europe
 'caa7023d1e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Rheinwald,2026-03-14T04:22:00+00:00,Switzerland,0.4905901362561864,1,1,de,WCE,Europe
-'957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-03-27T04:57:00+00:00,Iceland,0.49057535513797096,1,1,de,GIC,Europe
+'957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-03-27T04:57:00+00:00,Iceland,0.4905753551379709,1,1,de,GIC,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-03-16T05:05:00+00:00,Austria,0.4891835354455565,2,1,de,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-03-20T04:26:00+00:00,Switzerland,0.4780187679224855,2,1,de,WCE,Europe
 '4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-03-17T04:30:00+00:00,Austria,0.4753687564167005,2,1,de,WCE,Europe
