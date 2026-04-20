@@ -70,7 +70,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-04-13T05:28:00+00:00,Italy,0.5872556496995304,1,2,de,MED,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-04-02T04:42:00+00:00,Switzerland,0.5805888911521748,1,1,de,WCE,Europe
 '37187ef97e',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Rudolfsheim fünfhaus,2026-04-19T05:16:00+00:00,Austria,0.5803076571707886,1,1,de,WCE,Europe
-'200915a12f',extremes,Drought,#edc291,edo,Dürre Namibia,2026-04-02T04:42:00+00:00,Namibia,0.577445943969701,0,1,de,WSAF,Africa
 'caa7023d1e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Rheinwald,2026-03-14T04:22:00+00:00,Switzerland,0.5771648661837487,0,1,de,WCE,Europe
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-03-27T04:57:00+00:00,Iceland,0.577147476632907,0,1,de,GIC,Europe
 'fcd90ae262',extremes,Snow&Ice,#d60d2b,wmo,Schnee bedeckt sie vollständig,2026-03-25T04:33:00+00:00,Switzerland,0.5770376226313751,0,1,de,WCE,Europe
@@ -459,7 +458,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7c5febdb3',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Werdenberg,2026-03-19T04:35:00+00:00,Switzerland,0.4936754123001987,1,1,de,WCE,Europe
 '563516faa2',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Monthey Val d'illiez,2026-03-19T04:35:00+00:00,Switzerland,0.4932505722536853,1,1,de,WCE,Europe
 '67989cbd3c',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Gersau Engelbergertal,2026-03-14T04:22:00+00:00,Switzerland,0.4930577170843696,1,1,de,WCE,Europe
-'c4e95835b8',extremes,Storm,#b3b2b1,wmo,Sturm Urner Oberland,2026-03-26T04:56:00+00:00,Switzerland,0.49298671101085445,1,1,de,WCE,Europe
+'c4e95835b8',extremes,Storm,#b3b2b1,wmo,Sturm Urner Oberland,2026-03-26T04:56:00+00:00,Switzerland,0.4929867110108544,1,1,de,WCE,Europe
 'b3f95478f2',extremes,Snow&Ice,#d60d2b,wmo,Schnee Lauterbrunnen Wilderswil,2026-03-25T04:33:00+00:00,Switzerland,0.4928647024179722,1,1,de,WCE,Europe
 '08d5240568',extremes,Snow&Ice,#d60d2b,wmo,Frost nördliches Tavetsch,2026-03-14T04:22:00+00:00,Switzerland,0.4924412376297239,1,1,de,WCE,Europe
 '980fb462e0',extremes,Snow&Ice,#d60d2b,wmo,Schnee Luzern Alpnach,2026-03-25T04:33:00+00:00,Switzerland,0.4923737358884957,1,1,de,WCE,Europe
@@ -472,10 +471,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '31d7e49063',extremes,Snow&Ice,#d60d2b,wmo,Schneezug Knonau,2026-03-18T04:36:00+00:00,Switzerland,0.4918835656391059,1,1,de,WCE,Europe
 'f5d01b4168',extremes,Snow&Ice,#d60d2b,wmo,Eis Val de Ruz Colombier,2026-03-21T04:17:00+00:00,Switzerland,0.4918683177337635,1,1,de,WCE,Europe
 'f1af90f26f',extremes,Snow&Ice,#d60d2b,wmo,Frost Bern Sinn,2026-03-23T04:42:00+00:00,Switzerland,0.4911243588703992,1,1,de,WCE,Europe
-'195fa2265f',extremes,Snow&Ice,#d60d2b,wmo,Frost werdenberg,2026-03-15T04:45:00+00:00,Switzerland,0.49108852380972123,1,1,de,WCE,Europe
+'195fa2265f',extremes,Snow&Ice,#d60d2b,wmo,Frost werdenberg,2026-03-15T04:45:00+00:00,Switzerland,0.4910885238097212,1,1,de,WCE,Europe
 'f06461f9f8',extremes,Snow&Ice,#d60d2b,wmo,Frost Locarnese,2026-03-19T04:35:00+00:00,Switzerland,0.4910746883656237,1,1,de,WCE,Europe
+'200915a12f',extremes,Drought,#edc291,edo,Dürre Namibia,2026-04-02T04:42:00+00:00,Namibia,0.4909790673742458,1,1,de,WSAF,Africa
 '92cb3f72a3',extremes,Storm,#b3b2b1,wmo,Sturmflut val medel sumvitg,2026-03-27T04:57:00+00:00,Switzerland,0.4909100670178477,1,1,de,WCE,Europe
-'cc80ba2108',extremes,Storm,#b3b2b1,wmo,Sturm Riein Safiental,2026-03-27T04:57:00+00:00,Switzerland,0.49089854684063544,1,1,de,WCE,Europe
+'cc80ba2108',extremes,Storm,#b3b2b1,wmo,Sturm Riein Safiental,2026-03-27T04:57:00+00:00,Switzerland,0.4908985468406354,1,1,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-03-16T05:05:00+00:00,Austria,0.4891835354455565,2,1,de,WCE,Europe
 '151a84a4dd',extremes,Snow&Ice,#d60d2b,wmo,Schnee Entlebuch,2026-03-15T04:45:00+00:00,Switzerland,0.4868483081474032,2,1,de,WCE,Europe
 '28e3230166',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Nordwesten Islands,2026-03-12T04:26:00+00:00,Iceland,0.4862215485822542,1,1,de,GIC,Europe
