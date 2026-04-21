@@ -59,9 +59,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-03-31T04:59:00+00:00,Italy,0.622692925857443,0,1,de,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Italien,2026-03-13T04:25:00+00:00,Italy,0.6204954635709776,0,1,de,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.6184697671010478,2,3,de,WCE,Europe
+'1318594aed',extremes,Snow&Ice,#d60d2b,wmo,Sion Crans Montana gefriert,2026-04-09T04:58:00+00:00,Switzerland,0.6159335656447825,0,1,de,WCE,Europe
+'80d12cfa4a',extremes,Storm,#b3b2b1,wmo,Sturm Südoststeiermark,2026-04-19T05:16:00+00:00,Austria,0.613713413510772,0,1,de,WCE,Europe
+'b97ae2a6e8',extremes,Storm,#b3b2b1,wmo,Sturm Kirchdorf an der Krems,2026-04-19T05:16:00+00:00,Austria,0.613698929893727,0,1,de,WCE,Europe
+'b6a88c8853',extremes,Storm,#b3b2b1,wmo,Sturm Wien Hietzing,2026-04-19T05:16:00+00:00,Austria,0.6135260891585885,0,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-03-11T04:22:00+00:00,Germany,0.6115822278374788,2,3,de,WCE,Europe
+'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes frutiges Kiental,2026-04-09T04:58:00+00:00,Switzerland,0.610754646090452,0,1,de,WCE,Europe
+'10dd48d8cf',extremes,Storm,#b3b2b1,wmo,Sturm Salzburg Umgebung,2026-04-19T05:16:00+00:00,Austria,0.610001195502756,0,1,de,WCE,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Ostfjorde,2026-04-13T05:28:00+00:00,Iceland,0.6094708913213084,0,1,de,GIC,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-03-28T04:33:00+00:00,Iceland,0.6071369057794186,0,1,de,GIC,Europe
+'7ebbae0c9c',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Brienz Interlaken,2026-04-17T05:16:00+00:00,Switzerland,0.6070093864123755,0,1,de,WCE,Europe
+'adb5a636f0',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Josefstadt,2026-04-19T05:16:00+00:00,Austria,0.6055968920293981,0,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-03-30T05:12:00+00:00,Germany,0.6055229383378805,1,1,de,WCE,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,Eis Island,2026-04-08T05:01:00+00:00,Iceland,0.6032368896518071,0,1,de,GIC,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.6027211516819475,1,1,de,WCE,Europe
@@ -486,11 +494,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ccdecb7b4',extremes,Storm,#b3b2b1,wmo,Sturm LÃ¶tschental Naters,2026-03-27T04:57:00+00:00,Switzerland,0.4889084511672304,1,1,de,WCE,Europe
 '0120f3b275',extremes,Snow&Ice,#d60d2b,wmo,Eis Effretikon,2026-03-22T04:33:00+00:00,Switzerland,0.4888420485407602,1,1,de,WCE,Europe
 'a9eab0b801',extremes,Snow&Ice,#d60d2b,wmo,Schnee Gersau Engelbergertal,2026-03-19T04:35:00+00:00,Switzerland,0.488835118062347,1,1,de,WCE,Europe
-'27e62f9140',extremes,Snow&Ice,#d60d2b,wmo,Frost Val de Ruz Colombier,2026-03-16T05:05:00+00:00,Switzerland,0.48878874073843515,1,1,de,WCE,Europe
-'7da8aaef75',extremes,Storm,#b3b2b1,wmo,Sturm Vallée du Trient,2026-03-26T04:56:00+00:00,Switzerland,0.48870488400708967,1,1,de,WCE,Europe
+'27e62f9140',extremes,Snow&Ice,#d60d2b,wmo,Frost Val de Ruz Colombier,2026-03-16T05:05:00+00:00,Switzerland,0.4887887407384351,1,1,de,WCE,Europe
+'7da8aaef75',extremes,Storm,#b3b2b1,wmo,Sturm Vallée du Trient,2026-03-26T04:56:00+00:00,Switzerland,0.4887048840070896,1,1,de,WCE,Europe
 'b1adbe63f3',extremes,Snow&Ice,#d60d2b,wmo,"Eis, das sie vollständig bedeckt",2026-03-20T04:26:00+00:00,Switzerland,0.4886546166161111,1,1,de,WCE,Europe
 'ec78da2dd9',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Bludenz,2026-03-31T04:59:00+00:00,Austria,0.4884329529607149,1,1,de,WCE,Europe
-'cca407ca9a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Lienz,2026-03-26T04:56:00+00:00,Austria,0.48831639559325074,1,1,de,WCE,Europe
+'cca407ca9a',extremes,Snow&Ice,#d60d2b,wmo,Schnee Lienz,2026-03-26T04:56:00+00:00,Austria,0.4883163955932507,1,1,de,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-03-20T04:26:00+00:00,Switzerland,0.4780187679224855,2,1,de,WCE,Europe
 '4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-03-17T04:30:00+00:00,Austria,0.4753687564167005,2,1,de,WCE,Europe
 '816b06be50',extremes,Snow&Ice,#d60d2b,wmo,Eis Val d'Anniviers,2026-03-17T04:30:00+00:00,Switzerland,0.4522537476458895,2,1,de,WCE,Europe
