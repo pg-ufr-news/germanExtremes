@@ -63,9 +63,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Ostfjorde,2026-04-13T05:28:00+00:00,Iceland,0.6094708913213084,0,1,de,GIC,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-03-28T04:33:00+00:00,Iceland,0.6071369057794186,0,1,de,GIC,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-03-30T05:12:00+00:00,Germany,0.6055229383378805,1,1,de,WCE,Europe
+'cc4797e4e0',extremes,Snow&Ice,#d60d2b,wmo,Schneelimmattal,2026-04-21T05:15:00+00:00,Switzerland,0.6037559791022998,0,1,de,WCE,Europe
+'62547e7566',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Wohlen Albis,2026-04-17T05:16:00+00:00,Switzerland,0.6037145491406142,0,1,de,WCE,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,Eis Island,2026-04-08T05:01:00+00:00,Iceland,0.6032368896518071,0,1,de,GIC,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.6027211516819475,1,1,de,WCE,Europe
+'01da57e73e',extremes,Snow&Ice,#d60d2b,wmo,Eis Goldau Ägeri,2026-04-21T05:15:00+00:00,Switzerland,0.6019467159304174,0,1,de,WCE,Europe
+'ab27a710cb',extremes,Storm,#b3b2b1,wmo,Sturmflut Zell am See,2026-04-19T05:16:00+00:00,Austria,0.6017596711256955,0,1,de,WCE,Europe
+'ac5f846cfc',extremes,Snow&Ice,#d60d2b,wmo,Frost Schaffhausen,2026-04-21T05:15:00+00:00,Switzerland,0.6016431013854651,0,1,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
+'bb6ad006e9',extremes,Storm,#b3b2b1,wmo,Sturmflut Scheibbs,2026-04-19T05:16:00+00:00,Austria,0.6005936730785377,0,1,de,WCE,Europe
+'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Laufental,2026-04-17T05:16:00+00:00,Switzerland,0.5988685954281318,0,1,de,WCE,Europe
+'7d43005c4f',extremes,Snow&Ice,#d60d2b,wmo,Frost Monthey Val d'illiez,2026-04-21T05:15:00+00:00,Switzerland,0.5983577951522071,0,1,de,WCE,Europe
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,Frost in den Ostfjorden,2026-04-06T05:11:00+00:00,Iceland,0.5892871101202668,0,1,de,GIC,Europe
 'cb0d5807c2',extremes,Snow&Ice,#d60d2b,wmo,Eis Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.5885295945356797,0,1,de,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-04-13T05:28:00+00:00,Italy,0.5872556496995304,1,2,de,MED,Europe
@@ -495,11 +503,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf24f95b6b',extremes,Snow&Ice,#d60d2b,wmo,Frost Sarnen Lungern,2026-03-18T04:36:00+00:00,Switzerland,0.4867592583430142,1,1,de,WCE,Europe
 '89ad23e765',extremes,Snow&Ice,#d60d2b,wmo,Frost Amstetten,2026-03-26T04:56:00+00:00,Austria,0.4866630349601558,1,1,de,WCE,Europe
 '8b7ddca807',extremes,Snow&Ice,#d60d2b,wmo,Eis oron â€“ haute broye,2026-03-18T04:36:00+00:00,Switzerland,0.4864041486999935,1,1,de,WCE,Europe
-'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2026-04-03T04:43:00+00:00,Germany,0.48628072224839725,1,1,de,WCE,Europe
-'83b4a1a418',extremes,Snow&Ice,#d60d2b,wmo,Eis Wohlen Albis,2026-03-20T04:26:00+00:00,Switzerland,0.48616212278063253,1,1,de,WCE,Europe
+'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2026-04-03T04:43:00+00:00,Germany,0.4862807222483972,1,1,de,WCE,Europe
+'83b4a1a418',extremes,Snow&Ice,#d60d2b,wmo,Eis Wohlen Albis,2026-03-20T04:26:00+00:00,Switzerland,0.4861621227806325,1,1,de,WCE,Europe
 '04b23a3e2d',extremes,Storm,#b3b2b1,wmo,Sturmflut Rheinwald,2026-03-25T04:33:00+00:00,Switzerland,0.4861425747836845,1,1,de,WCE,Europe
-'44078e907c',extremes,Storm,#b3b2b1,wmo,Sturmflut Hauptstadtregion Reykjavik,2026-03-21T04:17:00+00:00,Iceland,0.48601340377372354,1,1,de,GIC,Europe
-'5b134deb64',extremes,Snow&Ice,#d60d2b,wmo,Frost haut val de bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.48597644056577116,1,1,de,WCE,Europe
+'44078e907c',extremes,Storm,#b3b2b1,wmo,Sturmflut Hauptstadtregion Reykjavik,2026-03-21T04:17:00+00:00,Iceland,0.4860134037737235,1,1,de,GIC,Europe
+'5b134deb64',extremes,Snow&Ice,#d60d2b,wmo,Frost haut val de bagnes,2026-03-26T04:56:00+00:00,Switzerland,0.4859764405657711,1,1,de,WCE,Europe
 '6f692f700a',extremes,Snow&Ice,#d60d2b,wmo,Eis Steckborn MÃ¼llheim,2026-03-23T04:42:00+00:00,Switzerland,0.4859070257353999,1,1,de,WCE,Europe
 'afba7d7465',extremes,Snow&Ice,#d60d2b,wmo,Eis Gersau Engelbergertal,2026-03-25T04:33:00+00:00,Switzerland,0.4856683528896849,1,1,de,WCE,Europe
 '630f6b9f86',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Val de Ruz Colombier,2026-03-18T04:36:00+00:00,Switzerland,0.4855926712118033,1,1,de,WCE,Europe
