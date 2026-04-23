@@ -60,6 +60,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-03-31T04:59:00+00:00,Italy,0.622692925857443,0,1,de,MED,Europe
 '3a8dcca50b',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Italien,2026-03-13T04:25:00+00:00,Italy,0.6204954635709776,0,1,de,MED,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.6184697671010478,2,3,de,WCE,Europe
+'6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Hulftegg Untertoggenburg,2026-04-17T05:16:00+00:00,Switzerland,0.6128755182634406,0,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-03-11T04:22:00+00:00,Germany,0.6115822278374788,2,3,de,WCE,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Ostfjorde,2026-04-13T05:28:00+00:00,Iceland,0.6094708913213084,0,1,de,GIC,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-03-28T04:33:00+00:00,Iceland,0.6071369057794186,0,1,de,GIC,Europe
@@ -67,6 +68,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,Eis Island,2026-04-08T05:01:00+00:00,Iceland,0.6032368896518071,0,1,de,GIC,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.6027211516819475,1,1,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
+'54ed87804d',extremes,Snow&Ice,#d60d2b,wmo,Eisvouvry,2026-04-21T05:15:00+00:00,Switzerland,0.5944693420896924,0,1,de,WCE,Europe
+'2787b82550',extremes,Snow&Ice,#d60d2b,wmo,Frost Delémont Bellelay,2026-04-21T05:15:00+00:00,Switzerland,0.5943086259900227,0,1,de,WCE,Europe
+'24a388e940',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Fehmarn bis Rügen,2026-04-20T05:27:00+00:00,Germany,0.5941043613913869,0,1,de,WCE,Europe
+'f1141d6aa4',extremes,Snow&Ice,#d60d2b,wmo,Eis Sarnen Lungern,2026-04-22T05:13:00+00:00,Switzerland,0.5935391485720959,0,1,de,WCE,Europe
+'3119bc53d4',extremes,Snow&Ice,#d60d2b,wmo,Frost glâne,2026-04-22T05:13:00+00:00,Switzerland,0.5923913776774667,0,1,de,WCE,Europe
+'279cf9a7bb',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Rheinfelden,2026-04-22T05:13:00+00:00,Switzerland,0.5921749603091115,0,1,de,WCE,Europe
+'bcd59ca149',extremes,Snow&Ice,#d60d2b,wmo,Eis Werdenberg,2026-04-21T05:15:00+00:00,Switzerland,0.591922129839889,0,1,de,WCE,Europe
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,Frost in den Ostfjorden,2026-04-06T05:11:00+00:00,Iceland,0.5892871101202668,0,1,de,GIC,Europe
 'cb0d5807c2',extremes,Snow&Ice,#d60d2b,wmo,Eis Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.5885295945356797,0,1,de,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-04-13T05:28:00+00:00,Italy,0.5872556496995304,1,2,de,MED,Europe
