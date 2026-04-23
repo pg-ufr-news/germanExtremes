@@ -82,11 +82,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.5711158864243752,2,2,de,WCE,Europe
 'ab79a002de',extremes,Storm,#b3b2b1,wmo,Sturmflut Nordfriesische KÃ¼ste,2026-04-10T05:13:00+00:00,Germany,0.5701125478386009,1,1,de,WCE,Europe
 'c0e18437c9',extremes,Snow&Ice,#d60d2b,wmo,Frost Italien,2026-03-14T04:22:00+00:00,Italy,0.5699802917322736,1,1,de,MED,Europe
-'88670cbd24',extremes,Storm,#b3b2b1,wmo,Sturmflut Obergoms,2026-03-27T04:57:00+00:00,Switzerland,0.5683354406008835,0,1,de,WCE,Europe
 'c657d07261',extremes,Thunderstorm,#53785a,wmo,Hagel Salzburg Stadt,2026-04-19T05:16:00+00:00,Austria,0.5682628470454415,1,1,de,WCE,Europe
 'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,Sturmflut obersimmental,2026-03-26T04:56:00+00:00,Switzerland,0.5681292281811133,0,1,de,WCE,Europe
-'639bf65527',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes schanfigg,2026-03-25T04:33:00+00:00,Switzerland,0.567836837965619,0,1,de,WCE,Europe
-'e480318429',extremes,Snow&Ice,#d60d2b,wmo,Eis Tulln,2026-03-26T04:56:00+00:00,Austria,0.5677755369595232,0,1,de,WCE,Europe
 '196091e24a',extremes,Storm,#b3b2b1,wmo,Sturm Flensburg bis Fehmarn,2026-03-26T04:56:00+00:00,Germany,0.5676606794906857,0,1,de,WCE,Europe
 'cd7b20912c',extremes,Snow&Ice,#d60d2b,wmo,Eis Hulftegg Untertoggenburg,2026-03-21T04:17:00+00:00,Switzerland,0.5676547712155262,0,1,de,WCE,Europe
 '6c1dcbcc31',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Lauterbrunnen Wilderswil,2026-03-15T04:45:00+00:00,Switzerland,0.5676542069784578,1,1,de,WCE,Europe
@@ -512,6 +509,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24ca87aeaf',extremes,Snow&Ice,#d60d2b,wmo,Savognin-Eis,2026-03-26T04:56:00+00:00,Switzerland,0.4831883779478682,1,1,de,WCE,Europe
 '77c6450961',extremes,Snow&Ice,#d60d2b,wmo,Schnee St. Gallen Rorschach,2026-03-25T04:33:00+00:00,Switzerland,0.4831696648259183,1,1,de,WCE,Europe
 '911e98ccfe',extremes,Storm,#b3b2b1,wmo,Sturm Maderanertal,2026-03-26T04:56:00+00:00,Switzerland,0.4831271251744564,1,1,de,WCE,Europe
+'88670cbd24',extremes,Storm,#b3b2b1,wmo,Sturmflut Obergoms,2026-03-27T04:57:00+00:00,Switzerland,0.4830851245107509,1,1,de,WCE,Europe
+'e480318429',extremes,Snow&Ice,#d60d2b,wmo,Eis Tulln,2026-03-26T04:56:00+00:00,Austria,0.48275922141559474,1,1,de,WCE,Europe
+'639bf65527',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes schanfigg,2026-03-25T04:33:00+00:00,Switzerland,0.48266131227077613,1,1,de,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-03-20T04:26:00+00:00,Switzerland,0.4780187679224855,2,1,de,WCE,Europe
 '934cac63fe',extremes,Snow&Ice,#d60d2b,wmo,Frost Effretikon,2026-03-19T04:35:00+00:00,Switzerland,0.4454923131995291,2,1,de,WCE,Europe
 'cf5c339ba7',extremes,Snow&Ice,#d60d2b,wmo,Schnee Yverdon Bevaix,2026-03-20T04:26:00+00:00,Switzerland,0.4394319135187285,2,1,de,WCE,Europe
