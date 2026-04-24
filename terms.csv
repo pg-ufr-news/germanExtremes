@@ -67,8 +67,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,Eis Island,2026-04-08T05:01:00+00:00,Iceland,0.6032368896518071,0,1,de,GIC,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.6027211516819475,1,1,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
+'24679aec56',extremes,Snow&Ice,#d60d2b,wmo,Eiszug Knonau,2026-04-22T05:13:00+00:00,Switzerland,0.5916665941125295,0,1,de,WCE,Europe
+'4aed486588',extremes,Snow&Ice,#d60d2b,wmo,Eis Biel Neuenburg,2026-04-21T05:15:00+00:00,Switzerland,0.5909845082364915,0,1,de,WCE,Europe
+'04ddce26e4',extremes,Snow&Ice,#d60d2b,wmo,Frost Goldau Ägeri,2026-04-17T05:16:00+00:00,Switzerland,0.5909283710005544,0,1,de,WCE,Europe
+'94a7ded57b',extremes,Snow&Ice,#d60d2b,wmo,Schnee Turtmanntal,2026-04-22T05:13:00+00:00,Switzerland,0.5906024634374173,0,1,de,WCE,Europe
+'d05836ff1e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Kerenzerberg Seeztal,2026-04-22T05:13:00+00:00,Switzerland,0.5901614123196282,0,1,de,WCE,Europe
+'ff422211b0',extremes,Snow&Ice,#d60d2b,wmo,Schnee Goldau Ã„geri,2026-04-09T04:58:00+00:00,Switzerland,0.5900334161682894,0,1,de,WCE,Europe
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,Frost in den Ostfjorden,2026-04-06T05:11:00+00:00,Iceland,0.5892871101202668,0,1,de,GIC,Europe
 'cb0d5807c2',extremes,Snow&Ice,#d60d2b,wmo,Eis Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.5885295945356797,0,1,de,WCE,Europe
+'ce12e0a649',extremes,Snow&Ice,#d60d2b,wmo,Eis Thalwil Wetzikon,2026-04-21T05:15:00+00:00,Switzerland,0.5882319950311091,0,1,de,WCE,Europe
+'48482a5127',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Thun Belp,2026-04-21T05:15:00+00:00,Switzerland,0.587916486119677,0,1,de,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-04-13T05:28:00+00:00,Italy,0.5872556496995304,1,2,de,MED,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-04-02T04:42:00+00:00,Switzerland,0.5805888911521748,1,1,de,WCE,Europe
 '37187ef97e',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Rudolfsheim fünfhaus,2026-04-19T05:16:00+00:00,Austria,0.5803076571707886,1,1,de,WCE,Europe
