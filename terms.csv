@@ -65,10 +65,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,Frost in den Ostfjorden,2026-04-06T05:11:00+00:00,Iceland,0.5892871101202668,0,1,de,GIC,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-04-13T05:28:00+00:00,Italy,0.5872556496995304,1,2,de,MED,Europe
-'f088ad0444',extremes,Snow&Ice,#d60d2b,wmo,Estavayer Cudrefin gefriert,2026-04-24T05:22:00+00:00,Switzerland,0.5844644258415056,0,1,de,WCE,Europe
-'a3a6a90ae2',extremes,Snow&Ice,#d60d2b,wmo,Frost Steckborn Müllheim,2026-04-22T05:13:00+00:00,Switzerland,0.5824977201546045,0,1,de,WCE,Europe
-'4244b1f8be',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Solothurn Rothrist,2026-04-22T05:13:00+00:00,Switzerland,0.582400105956495,0,1,de,WCE,Europe
-'e6243cd6b4',extremes,Snow&Ice,#d60d2b,wmo,Eis Freiburg,2026-04-21T05:15:00+00:00,Switzerland,0.5811824273715996,0,1,de,WCE,Europe
 'c4fd603a57',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Basse Gruyère,2026-04-22T05:13:00+00:00,Switzerland,0.5810763522796564,0,1,de,WCE,Europe
 '5bd9aa7ede',extremes,Snow&Ice,#d60d2b,wmo,Schnee Zurzach Bülach,2026-04-22T05:13:00+00:00,Switzerland,0.5807343671946481,0,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-04-02T04:42:00+00:00,Switzerland,0.5805888911521748,1,1,de,WCE,Europe
@@ -256,6 +252,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '73aa45cf69',extremes,Snow&Ice,#d60d2b,wmo,Frost Maderanertal,2026-03-25T04:33:00+00:00,Switzerland,0.5172548255372088,1,1,de,WCE,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-03-28T04:33:00+00:00,Iceland,0.5171164749125058,1,1,de,GIC,Europe
 '4080bf3418',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Frankenberge,2026-04-21T05:15:00+00:00,Switzerland,0.5166142305014559,1,1,de,WCE,Europe
+'e6243cd6b4',extremes,Snow&Ice,#d60d2b,wmo,Eis Freiburg,2026-04-21T05:15:00+00:00,Switzerland,0.5164837396944311,1,1,de,WCE,Europe
 '246d17d4ee',extremes,Snow&Ice,#d60d2b,wmo,Frost Kitzbühel,2026-03-26T04:56:00+00:00,Austria,0.5164721121788631,1,1,de,WCE,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,Nebel Belgien,2026-04-01T05:12:00+00:00,Belgium,0.5161235750608242,1,1,de,WCE,Europe
 '4d32562979',extremes,Storm,#b3b2b1,wmo,Sturm Ostisland,2026-04-11T04:34:00+00:00,Iceland,0.5160816398532527,1,1,de,GIC,Europe
@@ -378,6 +375,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c681861de',extremes,Precipitation,#d60d2b,wmo,Regenguss Island,2026-03-19T04:35:00+00:00,Iceland,0.4973965876128691,1,1,de,GIC,Europe
 '13c43ed6fe',extremes,Snow&Ice,#d60d2b,wmo,Frost Saanen Gsteig,2026-03-27T04:57:00+00:00,Switzerland,0.4973841855791392,1,1,de,WCE,Europe
 'e3ceed4617',extremes,Snow&Ice,#d60d2b,wmo,Eis Langenthal,2026-03-23T04:42:00+00:00,Switzerland,0.4971588025881605,1,1,de,WCE,Europe
+'f088ad0444',extremes,Snow&Ice,#d60d2b,wmo,Estavayer Cudrefin gefriert,2026-04-24T05:22:00+00:00,Switzerland,0.4967947619652797,1,1,de,WCE,Europe
 '150b192379',extremes,Storm,#b3b2b1,wmo,Sturmflut vouvry,2026-03-27T04:57:00+00:00,Switzerland,0.49668680907021,1,1,de,WCE,Europe
 'a228bcfd9b',extremes,Snow&Ice,#d60d2b,wmo,Schnee Val d'hÃ©rens,2026-03-20T04:26:00+00:00,Switzerland,0.4964833233306306,1,1,de,WCE,Europe
 '3db2345e5f',extremes,Snow&Ice,#d60d2b,wmo,Eis Muotathal,2026-03-21T04:17:00+00:00,Switzerland,0.4964783044952379,1,1,de,WCE,Europe
@@ -388,7 +386,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dffe1742c9',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Zug Knonau,2026-03-21T04:17:00+00:00,Switzerland,0.4955961766315135,1,1,de,WCE,Europe
 'dec54bf379',extremes,Storm,#b3b2b1,wmo,Sturmflut Schiers,2026-03-26T04:56:00+00:00,Switzerland,0.4954416495975574,1,1,de,WCE,Europe
 '19c6023dc8',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Ostisland,2026-04-02T04:42:00+00:00,Iceland,0.4952016538782141,1,1,de,GIC,Europe
+'a3a6a90ae2',extremes,Snow&Ice,#d60d2b,wmo,Frost Steckborn Müllheim,2026-04-22T05:13:00+00:00,Switzerland,0.4951230621314138,1,1,de,WCE,Europe
 '3457a20fa4',extremes,Storm,#b3b2b1,wmo,Sturm Val Medel Sumvitg,2026-03-26T04:56:00+00:00,Switzerland,0.4950401451753276,1,1,de,WCE,Europe
+'4244b1f8be',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Solothurn Rothrist,2026-04-22T05:13:00+00:00,Switzerland,0.4950400900630208,1,1,de,WCE,Europe
 '338cd644ea',extremes,Storm,#b3b2b1,wmo,Sturm Graz Stadt,2026-03-26T04:56:00+00:00,Austria,0.494535519409102,1,1,de,WCE,Europe
 '752048e101',extremes,Storm,#b3b2b1,wmo,Sturmflut Oberes Saastal,2026-03-27T04:57:00+00:00,Switzerland,0.4943398603807951,1,1,de,WCE,Europe
 '1845344e0b',extremes,Snow&Ice,#d60d2b,wmo,Frost estavayer cudrefin,2026-03-20T04:26:00+00:00,Switzerland,0.4943245119846415,1,1,de,WCE,Europe
