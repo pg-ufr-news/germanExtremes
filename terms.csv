@@ -61,12 +61,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.6184697671010478,2,3,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-03-11T04:22:00+00:00,Germany,0.6115822278374788,2,3,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-03-30T05:12:00+00:00,Germany,0.6055229383378805,1,1,de,WCE,Europe
-'0d9b148c07',extremes,Fog,#d60d2b,wmo,Nebel Antwerpen,2026-04-25T05:00:00+00:00,Belgium,0.6041876738553055,0,1,de,WCE,Europe
-'fa1ad4c940',extremes,Fog,#d60d2b,wmo,Nebel Ostflandern,2026-04-25T05:00:00+00:00,Belgium,0.6039754513757559,0,1,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.6027211516819475,1,1,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,Frost in den Ostfjorden,2026-04-06T05:11:00+00:00,Iceland,0.5892871101202668,0,1,de,GIC,Europe
-'cb0d5807c2',extremes,Snow&Ice,#d60d2b,wmo,Eis Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.5885295945356797,0,1,de,WCE,Europe
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-04-13T05:28:00+00:00,Italy,0.5872556496995304,1,2,de,MED,Europe
 'f088ad0444',extremes,Snow&Ice,#d60d2b,wmo,Estavayer Cudrefin gefriert,2026-04-24T05:22:00+00:00,Switzerland,0.5844644258415056,0,1,de,WCE,Europe
 'a3a6a90ae2',extremes,Snow&Ice,#d60d2b,wmo,Frost Steckborn Müllheim,2026-04-22T05:13:00+00:00,Switzerland,0.5824977201546045,0,1,de,WCE,Europe
@@ -271,7 +268,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adb5a636f0',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Josefstadt,2026-04-19T05:16:00+00:00,Austria,0.5147573582249884,1,1,de,WCE,Europe
 '27e62f9140',extremes,Snow&Ice,#d60d2b,wmo,Frost Val de Ruz Colombier,2026-04-17T05:16:00+00:00,Switzerland,0.5147537352698386,1,1,de,WCE,Europe
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,Schnee-Ostfjorde,2026-04-09T04:58:00+00:00,Iceland,0.5137116295287874,1,1,de,GIC,Europe
+'0d9b148c07',extremes,Fog,#d60d2b,wmo,Nebel Antwerpen,2026-04-25T05:00:00+00:00,Belgium,0.5135595227770097,1,1,de,WCE,Europe
 '5cc1e8d1ca',extremes,Snow&Ice,#d60d2b,wmo,SchneekÃ¼blis Klosters,2026-03-27T04:57:00+00:00,Switzerland,0.5134157584563237,1,1,de,WCE,Europe
+'fa1ad4c940',extremes,Fog,#d60d2b,wmo,Nebel Ostflandern,2026-04-25T05:00:00+00:00,Belgium,0.5133791336693925,1,1,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-03-26T04:56:00+00:00,Switzerland,0.5133375185397497,1,1,de,WCE,Europe
 'b4ff03a9ce',extremes,Snow&Ice,#d60d2b,wmo,Schnee Bern Sinn,2026-04-21T05:15:00+00:00,Switzerland,0.5133168942581228,1,1,de,WCE,Europe
 'cc4797e4e0',extremes,Snow&Ice,#d60d2b,wmo,Schneelimmattal,2026-04-21T05:15:00+00:00,Switzerland,0.5131925822369549,1,1,de,WCE,Europe
@@ -347,6 +346,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ff422211b0',extremes,Snow&Ice,#d60d2b,wmo,Schnee Goldau Ã„geri,2026-04-09T04:58:00+00:00,Switzerland,0.501528403743046,1,1,de,WCE,Europe
 '6aaf4f4bd7',extremes,Snow&Ice,#d60d2b,wmo,Frost Bludenz,2026-03-26T04:56:00+00:00,Austria,0.5009600513012806,1,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-03-22T04:33:00+00:00,Luxembourg,0.5004398881926678,1,1,de,WCE,Europe
+'cb0d5807c2',extremes,Snow&Ice,#d60d2b,wmo,Eis Grindelwald,2026-03-26T04:56:00+00:00,Switzerland,0.5004001703553277,1,1,de,WCE,Europe
 '9f05eaaf90',extremes,Drought,#edc291,edo,Trockenperiode Island,2026-04-10T05:13:00+00:00,Iceland,0.5000891443048305,1,1,de,GIC,Europe
 '7bce9b9392',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Schangnau Sigriswil,2026-03-19T04:35:00+00:00,Switzerland,0.500048255795434,1,1,de,WCE,Europe
 'ae8979372b',extremes,Snow&Ice,#d60d2b,wmo,Eisfrick Leibstadt,2026-04-01T05:12:00+00:00,Switzerland,0.5000212263641515,1,1,de,WCE,Europe
