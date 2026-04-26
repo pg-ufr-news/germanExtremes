@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-04-08T05:01:00+00:00,Germany,0.695377986935784,0,1,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-04-07T04:59:00+00:00,Germany,0.6819231962640193,1,2,de,WCE,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-03-25T04:33:00+00:00,Germany,0.6809212396070667,1,2,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.6738112107620525,0,1,de,WCE,Europe
@@ -58,10 +57,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-04-15T05:12:00+00:00,Austria,0.6327324670841473,1,2,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-04-20T05:27:00+00:00,Germany,0.6324505831525362,0,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-04-07T04:59:00+00:00,Germany,0.6234380815058356,1,2,de,WCE,Europe
+'0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-04-08T05:01:00+00:00,Germany,0.6199941811681436,1,1,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.6184697671010478,2,3,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-04-07T04:59:00+00:00,Germany,0.6121457295997087,1,2,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-03-11T04:22:00+00:00,Germany,0.6115822278374788,2,3,de,WCE,Europe
-'a43a9111fd',extremes,Snow&Ice,#d60d2b,wmo,Eis Kerenzerberg Seeztal,2026-04-17T05:16:00+00:00,Switzerland,0.6103874793267758,0,1,de,WCE,Europe
 '10b0bb1389',extremes,Snow&Ice,#d60d2b,wmo,Eispfungen Hettlingen,2026-04-22T05:13:00+00:00,Switzerland,0.6078239123465808,0,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-03-30T05:12:00+00:00,Germany,0.6055229383378805,1,1,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.6027211516819475,1,1,de,WCE,Europe
@@ -238,6 +237,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5d4a62412',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Glane,2026-04-21T05:15:00+00:00,Switzerland,0.51953413912785,1,1,de,WCE,Europe
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Island,2026-04-02T04:42:00+00:00,Iceland,0.5191814431804826,1,1,de,GIC,Europe
 'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes frutiges Kiental,2026-04-09T04:58:00+00:00,Switzerland,0.5191414491768842,1,1,de,WCE,Europe
+'a43a9111fd',extremes,Snow&Ice,#d60d2b,wmo,Eis Kerenzerberg Seeztal,2026-04-17T05:16:00+00:00,Switzerland,0.5188293574277595,1,1,de,WCE,Europe
 '10dd48d8cf',extremes,Storm,#b3b2b1,wmo,Sturm Salzburg Umgebung,2026-04-19T05:16:00+00:00,Austria,0.5185010161773426,1,1,de,WCE,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Ostfjorde,2026-04-13T05:28:00+00:00,Iceland,0.5180502576231121,1,1,de,GIC,Europe
 '5535b68b72',extremes,Snow&Ice,#d60d2b,wmo,Eis Delémont Bellelay,2026-04-17T05:16:00+00:00,Switzerland,0.5179732680759433,1,1,de,WCE,Europe
