@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-04-07T04:59:00+00:00,Germany,0.7036492358927054,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-04-08T05:01:00+00:00,Germany,0.695377986935784,0,1,de,WCE,Europe
 '6de8fe7baa',extremes,Snow&Ice,#d60d2b,wmo,Schnee Deutschland,2026-04-07T04:59:00+00:00,Germany,0.6819231962640193,1,2,de,WCE,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-03-25T04:33:00+00:00,Germany,0.6809212396070667,1,2,de,WCE,Europe
@@ -59,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-04-20T05:27:00+00:00,Germany,0.6324505831525362,0,1,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-04-07T04:59:00+00:00,Germany,0.6234380815058356,1,2,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-03-13T04:25:00+00:00,Switzerland,0.6184697671010478,2,3,de,WCE,Europe
+'9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-04-07T04:59:00+00:00,Germany,0.6121457295997087,1,2,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-03-11T04:22:00+00:00,Germany,0.6115822278374788,2,3,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-03-30T05:12:00+00:00,Germany,0.6055229383378805,1,1,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.6027211516819475,1,1,de,WCE,Europe
@@ -67,7 +67,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-04-02T04:42:00+00:00,Switzerland,0.5805888911521748,1,1,de,WCE,Europe
 '37187ef97e',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Rudolfsheim fünfhaus,2026-04-19T05:16:00+00:00,Austria,0.5803076571707886,1,1,de,WCE,Europe
 '7a21954729',extremes,Thunderstorm,#53785a,wmo,Gewitter Steyr Stadt,2026-04-19T05:16:00+00:00,Austria,0.5762550860190244,1,1,de,WCE,Europe
-'347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,Schnee Delémont Bellelay,2026-04-24T05:22:00+00:00,Switzerland,0.5752691914730167,0,1,de,WCE,Europe
 '416515d6df',extremes,Snow&Ice,#d60d2b,wmo,Schnee Glarus Nord Mitte,2026-04-07T04:59:00+00:00,Switzerland,0.5751526909768675,0,1,de,WCE,Europe
 '75dbe8c27e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Aigle Leysin,2026-04-24T05:22:00+00:00,Switzerland,0.5750694628550461,0,1,de,WCE,Europe
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2026-04-10T05:13:00+00:00,Germany,0.574569745057622,1,1,de,WCE,Europe
@@ -412,8 +411,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66f12ee688',extremes,Storm,#b3b2b1,wmo,Sturm Adelboden Kandersteg,2026-03-26T04:56:00+00:00,Switzerland,0.4896195581701199,1,1,de,WCE,Europe
 '68b65f04f8',extremes,Snow&Ice,#d60d2b,wmo,Frost Morges Cossonay,2026-04-24T05:22:00+00:00,Switzerland,0.4895318950526775,1,1,de,WCE,Europe
 'cc3baf13f5',extremes,Snow&Ice,#d60d2b,wmo,Schnee Muotathal,2026-04-23T05:16:00+00:00,Switzerland,0.4894365693260126,1,1,de,WCE,Europe
-'82b8913676',extremes,Storm,#b3b2b1,wmo,Sturmflut Sardinien,2026-04-22T05:13:00+00:00,Italy,0.48932515227119766,1,1,de,MED,Europe
+'82b8913676',extremes,Storm,#b3b2b1,wmo,Sturmflut Sardinien,2026-04-22T05:13:00+00:00,Italy,0.4893251522711976,1,1,de,MED,Europe
 '7ace1d3806',extremes,Storm,#b3b2b1,wmo,Sturmflut Glarus Süd Grosstal,2026-03-27T04:57:00+00:00,Switzerland,0.4890811064810703,1,1,de,WCE,Europe
+'347dca16c6',extremes,Snow&Ice,#d60d2b,wmo,Schnee Delémont Bellelay,2026-04-24T05:22:00+00:00,Switzerland,0.4889788127520642,1,1,de,WCE,Europe
 '8f986a86a6',extremes,Storm,#b3b2b1,wmo,Sturmflut Landquart Chur,2026-03-27T04:57:00+00:00,Switzerland,0.4889334401188137,1,1,de,WCE,Europe
 '3ccdecb7b4',extremes,Storm,#b3b2b1,wmo,Sturm LÃ¶tschental Naters,2026-03-27T04:57:00+00:00,Switzerland,0.4889084511672304,1,1,de,WCE,Europe
 '0120f3b275',extremes,Snow&Ice,#d60d2b,wmo,Eis Effretikon,2026-03-22T04:33:00+00:00,Switzerland,0.4888420485407602,1,1,de,WCE,Europe
