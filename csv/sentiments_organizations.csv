@@ -5,7 +5,7 @@ Elli,Elli,ORG,-0.2717917675544794,0.5623486682808716,en,5.9
 DWD,DWD,ORG,0.04354869449209072,0.2608157042119306,en,5.3
 CDU,CDU,ORG,0.08363636363636363,0.26,en,5.0
 EU,EU,ORG,0.2818813131313132,0.34816919191919204,en,4.799999999999999
-the German Weather Service,the German Weather Service,ORG,0.06686046511627906,0.0930232558139535,en,4.3
+the German Weather Service,the German Weather Service,ORG,0.0806159420289855,0.12318840579710146,en,4.6
 DFB,DFB,ORG,0.3292682926829269,0.4634146341463415,en,4.1
 White Christmas,White Christmas,ORG,0.1323529411764706,0.3431372549019608,en,3.4000000000000004
 German Weather Service,German Weather Service,ORG,-0.06666666666666667,0.17333333333333334,en,2.5
@@ -13,23 +13,41 @@ Deutsche Bahn,Deutsche Bahn,ORG,0.06,0.0,en,2.5
 Greenland,Greenland,ORG,0.4628099173553719,0.5681818181818181,en,2.2
 Trump,Trump,ORG,0.4,0.625,en,2.0
 Cozy,Cozy,ORG,-0.2105263157894737,0.32894736842105265,en,1.9
-Storm Elli,Storm Elli,ORG,-0.024691358024691364,0.2469135802469136,en,1.8
-ntv,ntv,ORG,0.3333333333333333,0.06944444444444445,en,1.8
-Germany Blog,Germany Blog,ORG,-0.5555555555555556,0.0,en,1.8
-RiskLab,RiskLab,ORG,0.05555555555555556,0.11111111111111112,en,1.8
 BER,BER,ORG,0.0,0.0,en,1.8
-LNG,LNG,ORG,0.0,0.0,en,1.7
+Sturm,Sturm,ORG,0.1277777777777778,0.5,en,1.8
+Storm Elli,Storm Elli,ORG,-0.024691358024691364,0.2469135802469136,en,1.8
+RiskLab,RiskLab,ORG,0.05555555555555556,0.11111111111111112,en,1.8
+Germany Blog,Germany Blog,ORG,-0.5555555555555556,0.0,en,1.8
+ntv,ntv,ORG,0.3333333333333333,0.06944444444444445,en,1.8
+Icelandic,Icelandic,ORG,-0.08823529411764704,0.49019607843137253,en,1.7
+Raiffeisen,Raiffeisen,ORG,0.0,0.0,en,1.7
 ORF,ORF,ORG,0.0273109243697479,0.4117647058823529,en,1.7
 NRW,NRW,ORG,0.07843137254901966,0.4705882352941177,en,1.7
-Baden-Württemberg,Baden-Württemberg,ORG,-0.0641025641025641,0.0,en,1.3
-ZDF,ZDF,ORG,0.15384615384615388,0.0,en,1.3
-Netflix,Netflix,ORG,0.3846153846153846,0.3076923076923077,en,1.3
+LNG,LNG,ORG,0.0,0.0,en,1.7
 Liebenau-Gugu,Liebenau-Gugu,ORG,-0.3461538461538461,0.07692307692307693,en,1.3
-Splügen,Splügen,ORG,0.243006993006993,0.4895104895104895,en,1.3
-FAZ,FAZ,ORG,-0.04326923076923076,0.23076923076923075,en,1.3
 DSDS,DSDS,ORG,0.4230769230769231,0.30769230769230765,en,1.3
+ZDF,ZDF,ORG,0.15384615384615388,0.0,en,1.3
+Splügen,Splügen,ORG,0.243006993006993,0.4895104895104895,en,1.3
+Baden-Württemberg,Baden-Württemberg,ORG,-0.0641025641025641,0.0,en,1.3
+Netflix,Netflix,ORG,0.3846153846153846,0.3076923076923077,en,1.3
+FAZ,FAZ,ORG,-0.04326923076923076,0.23076923076923075,en,1.3
 FDP,FDP,ORG,0.0,0.0,en,1.2
-RTL,RTL,ORG,0.15,0.0,en,1.0
+teltarif.de,teltarif.de,ORG,0.0,0.0,en,1.0
+Berlin Day & Power,Berlin Day & Power,ORG,0.0,0.0,en,1.0
+VCÖ,VCÖ,ORG,0.0,0.0,en,1.0
+The Federal Court of Justice,The Federal Court of Justice,ORG,0.0,0.0,en,1.0
+the Straw Hat Gang,the Straw Hat Gang,ORG,-0.2318181818181818,0.0,en,1.0
+Mobile World Congress,Mobile World Congress,ORG,0.0,0.0,en,1.0
+The Austrian Transport Club,The Austrian Transport Club,ORG,0.0,0.0,en,1.0
+Coast guard,Coast guard,ORG,-0.2,0.0,en,1.0
+Gulli,Gulli,ORG,0.0,0.0,en,1.0
+GDV,GDV,ORG,0.02500000000000001,0.0,en,1.0
+MWC,MWC,ORG,0.0,0.0,en,1.0
+Coast Guard,Coast Guard,ORG,0.0,0.0,en,1.0
+VfB,VfB,ORG,0.0,0.0,en,1.0
+HBO Max,HBO Max,ORG,0.0,0.0,en,1.0
+Rust,Rust,ORG,0.25,0.0,en,1.0
+Treasury,Treasury,ORG,0.1,0.0,en,1.0
 renaissance,renaissance,ORG,0.0,0.0,en,1.0
 Garmisch-Partenkirchen,Garmisch-Partenkirchen,ORG,0.0,0.0,en,1.0
 Abor & Tynna,Abor & Tynna,ORG,0.0,0.0,en,1.0
@@ -37,70 +55,79 @@ Tardivo,Tardivo,ORG,0.38888888888888884,0.0,en,1.0
 Mercedes and Co.,Mercedes and Co.,ORG,0.0,0.0,en,1.0
 BMW,BMW,ORG,0.0,0.0,en,1.0
 Volkswagen,Volkswagen,ORG,0.0,0.0,en,1.0
-linear TV,linear TV,ORG,0.4,0.0,en,1.0
-the New York Weather Service,the New York Weather Service,ORG,0.043181818181818175,0.0,en,1.0
-Gulli,Gulli,ORG,0.0,0.0,en,1.0
-Stubai,Stubai,ORG,-0.15555555555555559,0.0,en,1.0
-Golden Bear,Golden Bear,ORG,0.033333333333333326,0.0,en,1.0
-AfD,AfD,ORG,0.0,0.0,en,1.0
-Söder,Söder,ORG,-0.8,0.0,en,1.0
-the “Chancellor Election Association”,the “Chancellor Election Association”,ORG,0.0,0.0,en,1.0
-Baden-Württemberg +,Baden-Württemberg +,ORG,0.04545454545454545,0.0,en,1.0
-Interior,Interior,ORG,0.2,0.0,en,1.0
-Deutschland sucht den Superstar,Deutschland sucht den Superstar,ORG,0.15,0.0,en,1.0
-CH,CH,ORG,0.0,0.0,en,1.0
-the Franz Senn Hut,the Franz Senn Hut,ORG,-0.15555555555555559,0.0,en,1.0
-Treasury,Treasury,ORG,0.1,0.0,en,1.0
-Berlin/Munich - Storms,Berlin/Munich - Storms,ORG,-0.16666666666666666,0.0,en,1.0
-Coast Guard,Coast Guard,ORG,0.0,0.0,en,1.0
-Berlin Day & Power,Berlin Day & Power,ORG,0.0,0.0,en,1.0
-The Austrian Transport Club,The Austrian Transport Club,ORG,0.0,0.0,en,1.0
-VCÖ,VCÖ,ORG,0.0,0.0,en,1.0
-the Straw Hat Gang,the Straw Hat Gang,ORG,-0.2318181818181818,0.0,en,1.0
-Coast guard,Coast guard,ORG,-0.2,0.0,en,1.0
-The Federal Court of Justice,The Federal Court of Justice,ORG,0.0,0.0,en,1.0
-Höchst,Höchst,ORG,0.0,0.0,en,1.0
-Mobile World Congress,Mobile World Congress,ORG,0.0,0.0,en,1.0
-WMO,WMO,ORG,0.0,0.0,en,1.0
-Black Forest,Black Forest,ORG,-0.08333333333333333,0.0,en,1.0
-teltarif.de,teltarif.de,ORG,0.0,0.0,en,1.0
-Icelandic,Icelandic,ORG,-0.30000000000000004,0.0,en,1.0
-MWC,MWC,ORG,0.0,0.0,en,1.0
 Lower Bavaria,Lower Bavaria,ORG,0.024999999999999994,0.0,en,1.0
+Paul Panzer,Paul Panzer,ORG,0.0,0.0,en,1.0
+WMO,WMO,ORG,0.0,0.0,en,1.0
 Cuxhaven/Helgoland - Due,Cuxhaven/Helgoland - Due,ORG,-0.0625,0.0,en,1.0
-VfB,VfB,ORG,0.0,0.0,en,1.0
+the Swiss Ice Hockey Association,the Swiss Ice Hockey Association,ORG,0.25,0.0,en,1.0
+Association,Association,ORG,-0.03181818181818183,0.0,en,1.0
+WKÖ,WKÖ,ORG,0.0,0.0,en,1.0
+the Federal Council,the Federal Council,ORG,0.09999999999999999,0.0,en,1.0
+SVP,SVP,ORG,0.09999999999999999,0.0,en,1.0
+The Federal Council,The Federal Council,ORG,0.0,0.0,en,1.0
+the Lex Koller,the Lex Koller,ORG,0.0,0.0,en,1.0
+Geosphere Austria,Geosphere Austria,ORG,0.1,0.0,en,1.0
+Cold Sophie 2026,Cold Sophie 2026,ORG,-0.6,0.0,en,1.0
+Deutschland sucht den Superstar,Deutschland sucht den Superstar,ORG,0.15,0.0,en,1.0
+RTL,RTL,ORG,0.15,0.0,en,1.0
+linear TV,linear TV,ORG,0.4,0.0,en,1.0
+Sun,Sun,ORG,-0.125,0.0,en,1.0
+Kiel,Kiel,ORG,-0.3,0.0,en,1.0
+Berlin/Munich - Storms,Berlin/Munich - Storms,ORG,-0.16666666666666666,0.0,en,1.0
+Neustift,Neustift,ORG,0.0035714285714285657,0.0,en,1.0
+the Upper Austria Ladies,the Upper Austria Ladies,ORG,0.0,0.0,en,1.0
+Potapova,Potapova,ORG,0.0,0.0,en,1.0
+Comedian Paul Panzer,Comedian Paul Panzer,ORG,0.13636363636363635,0.0,en,1.0
+the New York Weather Service,the New York Weather Service,ORG,0.043181818181818175,0.0,en,1.0
+Hase/Volodin,Hase/Volodin,ORG,0.3866666666666667,0.0,en,1.0
+Black Forest,Black Forest,ORG,-0.08333333333333333,0.0,en,1.0
 Germany -,Germany -,ORG,-0.08333333333333333,0.0,en,1.0
-Rust,Rust,ORG,0.25,0.0,en,1.0
-Fußach,Fußach,ORG,0.0,0.0,en,1.0
-Formello,Formello,ORG,-0.3,0.0,en,1.0
-Draisaitl and Co.,Draisaitl and Co.,ORG,-0.1,0.0,en,1.0
+Apple Weather,Apple Weather,ORG,0.0,0.0,en,1.0
+AfD,AfD,ORG,0.0,0.0,en,1.0
+the Franz Senn Hut,the Franz Senn Hut,ORG,-0.15555555555555559,0.0,en,1.0
+Stubai,Stubai,ORG,-0.15555555555555559,0.0,en,1.0
+A10,A10,ORG,-0.2,0.0,en,1.0
+Baku,Baku,ORG,0.0,0.0,en,1.0
+Glice,Glice,ORG,0.7484848484848485,1.1656565656565654,en,1.0
+StellarGlide,StellarGlide,ORG,0.5863636363636364,0.7696969696969695,en,1.0
+BSR,BSR,ORG,-0.06250000000000001,0.0,en,1.0
+NATO,NATO,ORG,0.04545454545454545,0.0,en,1.0
+s(n)ee,s(n)ee,ORG,0.0,0.0,en,1.0
+Frozen,Frozen,ORG,0.0,0.0,en,1.0
+Niscemi,Niscemi,ORG,0.05,0.0,en,1.0
+the “Wild West of Switzerland,the “Wild West of Switzerland,ORG,0.1,0.0,en,1.0
 Weser,Weser,ORG,-0.19166666666666665,0.0,en,1.0
+Wanda,Wanda,ORG,0.0,0.0,en,1.0
+the FH Joanneum,the FH Joanneum,ORG,0.0,0.0,en,1.0
 the Foreign Office,the Foreign Office,ORG,-0.0625,0.0,en,1.0
 European Championship,European Championship,ORG,0.0,0.0,en,1.0
 Mikutina,Mikutina,ORG,0.0,0.0,en,1.0
 Lower Saxony,Lower Saxony,ORG,0.0,0.0,en,1.0
 Rügen,Rügen,ORG,0.0,0.0,en,1.0
+Assembly,Assembly,ORG,0.0,0.0,en,1.0
 Aida-Nova,Aida-Nova,ORG,-0.125,0.0,en,1.0
 ICE,ICE,ORG,0.0,0.0,en,1.0
 BILD,BILD,ORG,0.16666666666666666,0.0,en,1.0
+The General Association of the German Insurance Industry,The General Association of the German Insurance Industry,ORG,0.02500000000000001,0.0,en,1.0
 Deep Elli,Deep Elli,ORG,-0.12222222222222223,0.0,en,1.0
 Schwarzau im Freiwald,Schwarzau im Freiwald,ORG,-0.35,0.0,en,1.0
-Lower Austria,Lower Austria,ORG,-0.4,0.0,en,1.0
-GDV,GDV,ORG,0.02500000000000001,0.0,en,1.0
-The General Association of the German Insurance Industry,The General Association of the German Insurance Industry,ORG,0.02500000000000001,0.0,en,1.0
-Assembly,Assembly,ORG,0.0,0.0,en,1.0
-Wanda,Wanda,ORG,0.0,0.0,en,1.0
-StellarGlide,StellarGlide,ORG,0.5863636363636364,0.7696969696969695,en,1.0
-Glice,Glice,ORG,0.7484848484848485,1.1656565656565654,en,1.0
+Freiburg,Freiburg,ORG,0.0,0.0,en,1.0
+Cold,Cold,ORG,-0.033333333333333326,0.0,en,1.0
+European Rugby Championship,European Rugby Championship,ORG,0.03333333333333334,0.0,en,1.0
 Apple,Apple,ORG,0.32142857142857145,0.0,en,1.0
-Apple Weather,Apple Weather,ORG,0.0,0.0,en,1.0
-HBO Max,HBO Max,ORG,0.0,0.0,en,1.0
-Neustift,Neustift,ORG,0.0035714285714285657,0.0,en,1.0
-the FH Joanneum,the FH Joanneum,ORG,0.0,0.0,en,1.0
-the “Wild West of Switzerland,the “Wild West of Switzerland,ORG,0.1,0.0,en,1.0
+Golden Bear,Golden Bear,ORG,0.033333333333333326,0.0,en,1.0
+Lower Austria,Lower Austria,ORG,-0.4,0.0,en,1.0
+Söder,Söder,ORG,-0.8,0.0,en,1.0
+the “Chancellor Election Association”,the “Chancellor Election Association”,ORG,0.0,0.0,en,1.0
+Baden-Württemberg +,Baden-Württemberg +,ORG,0.04545454545454545,0.0,en,1.0
+Interior,Interior,ORG,0.2,0.0,en,1.0
+CH,CH,ORG,0.0,0.0,en,1.0
+Fußach,Fußach,ORG,0.0,0.0,en,1.0
+Höchst,Höchst,ORG,0.0,0.0,en,1.0
+Draisaitl and Co.,Draisaitl and Co.,ORG,-0.1,0.0,en,1.0
 CSU,CSU,ORG,0.06818181818181818,0.0,en,1.0
-Niscemi,Niscemi,ORG,0.05,0.0,en,1.0
 The KÃ¶nigsee Railway,The KÃ¶nigsee Railway,ORG,0.1,0.0,en,1.0
+Bansko,Bansko,ORG,0.0,0.0,en,1.0
 DSV,DSV,ORG,0.2,0.0,en,1.0
 Super Team,Super Team,ORG,0.10416666666666666,0.0,en,1.0
 Swiss Fiala,Swiss Fiala,ORG,-0.6,0.0,en,1.0
@@ -108,17 +135,8 @@ Truck,Truck,ORG,-0.15,0.0,en,1.0
 Meteorage,Meteorage,ORG,0.0,0.0,en,1.0
 Carnival,Carnival,ORG,0.0,0.0,en,1.0
 Maggia Delta,Maggia Delta,ORG,0.0,0.0,en,1.0
+Formello,Formello,ORG,-0.3,0.0,en,1.0
 the International Court of Arbitration for Sport,the International Court of Arbitration for Sport,ORG,0.0,0.0,en,1.0
 Skeletoni,Skeletoni,ORG,0.0,0.0,en,1.0
 DEB,DEB,ORG,0.0,0.0,en,1.0
-Bansko,Bansko,ORG,0.0,0.0,en,1.0
-European Rugby Championship,European Rugby Championship,ORG,0.03333333333333334,0.0,en,1.0
-Cold,Cold,ORG,-0.033333333333333326,0.0,en,1.0
-Freiburg,Freiburg,ORG,0.0,0.0,en,1.0
-A10,A10,ORG,-0.2,0.0,en,1.0
-Baku,Baku,ORG,0.0,0.0,en,1.0
-BSR,BSR,ORG,-0.06250000000000001,0.0,en,1.0
-NATO,NATO,ORG,0.04545454545454545,0.0,en,1.0
-s(n)ee,s(n)ee,ORG,0.0,0.0,en,1.0
-Frozen,Frozen,ORG,0.0,0.0,en,1.0
-Geosphere Austria,Geosphere Austria,ORG,0.1,0.0,en,1.0
+The Ice Saints,The Ice Saints,ORG,-0.125,0.0,en,1.0
