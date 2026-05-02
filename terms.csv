@@ -27,8 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-03-30T05:12:00+00:00,Germany,0.5612716653310439,1,2,de,WCE,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2026-04-06T05:11:00+00:00,Iceland,0.5593985322571761,2,1,de,GIC,Europe
 '245f5baacd',extremes,Thunderstorm,#53785a,wmo,Hagel Wien DÃ¶bling,2026-04-19T05:16:00+00:00,Austria,0.5578956731732836,1,1,de,WCE,Europe
-'5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-04-02T04:42:00+00:00,Switzerland,0.5462026910095005,1,1,de,WCE,Europe
-'9a09c92166',extremes,Snow&Ice,#d60d2b,wmo,Gefrieren Thalwil Wetzikon,2026-03-31T04:59:00+00:00,Switzerland,0.545805556874808,0,1,de,WCE,Europe
 '27e7c34337',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Plaine de l'Orbe,2026-04-01T05:12:00+00:00,Switzerland,0.5451952909637506,0,1,de,WCE,Europe
 'e0cff663b6',extremes,Snow&Ice,#d60d2b,wmo,Frost ajoie,2026-04-09T04:58:00+00:00,Switzerland,0.5439887191360597,0,1,de,WCE,Europe
 '42b882d252',extremes,Drought,#edc291,edo,Mangel an Regen Dänemark,2026-04-02T04:42:00+00:00,Denmark,0.5437273755653521,0,1,de,NEU,Europe
@@ -283,7 +281,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '416515d6df',extremes,Snow&Ice,#d60d2b,wmo,Schnee Glarus Nord Mitte,2026-04-07T04:59:00+00:00,Switzerland,0.4888797873303374,1,1,de,WCE,Europe
 '75dbe8c27e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Aigle Leysin,2026-04-24T05:22:00+00:00,Switzerland,0.4888090434267892,1,1,de,WCE,Europe
 '7da8aaef75',extremes,Storm,#b3b2b1,wmo,Sturm Vallée du Trient,2026-03-26T04:56:00+00:00,Switzerland,0.4887048840070896,1,1,de,WCE,Europe
-'1bde8dd51c',extremes,Drought,#edc291,edo,Trockenperiode in Namibia,2026-04-23T05:17:00+00:00,Namibia,0.48843309783767513,1,1,de,WSAF,Africa
+'1bde8dd51c',extremes,Drought,#edc291,edo,Trockenperiode in Namibia,2026-04-23T05:17:00+00:00,Namibia,0.4884330978376751,1,1,de,WSAF,Africa
 'ec78da2dd9',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Bludenz,2026-03-31T04:59:00+00:00,Austria,0.4884329529607149,1,1,de,WCE,Europe
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2026-04-10T05:13:00+00:00,Germany,0.4883842832989787,2,1,de,WCE,Europe
 '83b4a1a418',extremes,Snow&Ice,#d60d2b,wmo,Eis Wohlen Albis,2026-04-09T04:58:00+00:00,Switzerland,0.4883799104922147,1,1,de,WCE,Europe
@@ -326,7 +324,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b9614db79',extremes,Snow&Ice,#d60d2b,wmo,Frost Thalwil Wetzikon,2026-04-09T04:58:00+00:00,Switzerland,0.4844217754538164,1,1,de,WCE,Europe
 '9ebbf9923f',extremes,Storm,#b3b2b1,wmo,Sturm Arolla,2026-03-25T04:33:00+00:00,Switzerland,0.4843834422928891,1,1,de,WCE,Europe
 '46faf1e7f5',extremes,Snow&Ice,#d60d2b,wmo,Eis Monthey Val d'illiez,2026-03-25T04:33:00+00:00,Switzerland,0.4843423545060051,1,1,de,WCE,Europe
-'03d25c12b3',extremes,Snow&Ice,#d60d2b,wmo,Frost Burgdorf Limpachtal,2026-05-01T05:54:00+00:00,Switzerland,0.48428041138881917,1,1,de,WCE,Europe
+'03d25c12b3',extremes,Snow&Ice,#d60d2b,wmo,Frost Burgdorf Limpachtal,2026-05-01T05:54:00+00:00,Switzerland,0.4842804113888191,1,1,de,WCE,Europe
 '6f5cc4014d',extremes,Storm,#b3b2b1,wmo,Sturm st. Stephan Lenk,2026-03-27T04:57:00+00:00,Switzerland,0.4842428466367606,1,1,de,WCE,Europe
 'cc02050628',extremes,Storm,#b3b2b1,wmo,Sturm Bellinzona,2026-03-26T04:56:00+00:00,Switzerland,0.4838980176395822,1,1,de,WCE,Europe
 '40c061615e',extremes,Storm,#b3b2b1,wmo,Sturmbetrug,2026-03-26T04:56:00+00:00,Switzerland,0.4838555436526608,1,1,de,WCE,Europe
@@ -465,3 +463,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f0e5575a07',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Winterwetter,2026-04-13T05:28:00+00:00,Switzerland,0.4666023755463317,1,1,de,WCE,Europe
 'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-04-19T05:16:00+00:00,Austria,0.4661702576541434,2,1,de,WCE,Europe
 '4213b8a736',extremes,Storm,#b3b2b1,wmo,Sturmflut Gersau Engelbergertal,2026-03-31T04:59:00+00:00,Switzerland,0.465734331521061,1,1,de,WCE,Europe
+'5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-04-02T04:42:00+00:00,Switzerland,0.4645723173580754,2,1,de,WCE,Europe
+'9a09c92166',extremes,Snow&Ice,#d60d2b,wmo,Gefrieren Thalwil Wetzikon,2026-03-31T04:59:00+00:00,Switzerland,0.4639347233435868,1,1,de,WCE,Europe
