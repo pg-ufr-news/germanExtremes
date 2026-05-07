@@ -22,23 +22,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5748787674962664,1,2,de,WCE,Europe
 '596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Österreich,2026-04-19T05:16:00+00:00,Austria,0.5620166900877507,2,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-03-30T05:12:00+00:00,Germany,0.5612716653310439,1,2,de,WCE,Europe
-'a9b734fc46',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Rudolfsheim Fünfhaus,2026-05-05T05:29:00+00:00,Austria,0.5597197608603649,0,1,de,WCE,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2026-04-06T05:11:00+00:00,Iceland,0.5593985322571761,2,1,de,GIC,Europe
-'efd4a65dcc',extremes,Storm,#b3b2b1,wmo,Sturm Wien Leopoldstadt,2026-05-05T05:29:00+00:00,Austria,0.5588666138389833,0,1,de,WCE,Europe
-'8ee80c64a2',extremes,Storm,#b3b2b1,wmo,Sturm Wien Landstraße,2026-05-05T05:29:00+00:00,Austria,0.5584387733298146,0,1,de,WCE,Europe
-'fceb636b46',extremes,Storm,#b3b2b1,wmo,Sturmflut Hartberg Fürstenfeld,2026-05-05T05:29:00+00:00,Austria,0.5583817894128364,0,1,de,WCE,Europe
 '245f5baacd',extremes,Thunderstorm,#53785a,wmo,Hagel Wien DÃ¶bling,2026-04-19T05:16:00+00:00,Austria,0.5578956731732836,1,1,de,WCE,Europe
-'a0092fba89',extremes,Thunderstorm,#53785a,wmo,Gewitter Sardinien,2026-04-22T05:13:00+00:00,Italy,0.5576610438387752,0,1,de,MED,Europe
-'fa4d2c2292',extremes,Snow&Ice,#d60d2b,wmo,Schnee im Gros de Vaud,2026-04-27T05:40:00+00:00,Switzerland,0.5576045516384305,0,1,de,WCE,Europe
-'30b7b41a32',extremes,Storm,#b3b2b1,wmo,Sturmflut marche,2026-05-05T05:29:00+00:00,Italy,0.5574034311285138,0,1,de,MED,Europe
-'9513049278',extremes,Storm,#b3b2b1,wmo,Sturm Wien Wieden,2026-05-05T05:29:00+00:00,Austria,0.5573535653351719,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-04-08T05:01:00+00:00,Germany,0.5450118556595888,2,1,de,WCE,Europe
 'c4d6d26fcd',extremes,Storm,#b3b2b1,wmo,Sturm Wien liegt,2026-05-05T05:29:00+00:00,Austria,0.5440684998403934,2,2,de,WCE,Europe
 '585a774243',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Eis,2026-03-31T04:59:00+00:00,Switzerland,0.5384215450702857,2,2,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-03-25T04:33:00+00:00,Switzerland,0.5341772532360267,1,2,de,WCE,Europe
 'fe93b004f0',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Brigittenau,2026-04-19T05:16:00+00:00,Austria,0.5310301605748752,1,1,de,WCE,Europe
-'865055a92a',extremes,Storm,#b3b2b1,wmo,Sturm Neunkirchen,2026-05-05T05:29:00+00:00,Austria,0.5294974707751754,1,1,de,WCE,Europe
-'d4b40d7444',extremes,Storm,#b3b2b1,wmo,Sturm Klagenfurt Stadt,2026-04-19T05:16:00+00:00,Austria,0.5283022274742439,1,1,de,WCE,Europe
 'c4e95835b8',extremes,Storm,#b3b2b1,wmo,Sturm Urner Oberland,2026-05-04T05:50:00+00:00,Switzerland,0.5282481258890397,1,1,de,WCE,Europe
 '03e8940f51',extremes,Snow&Ice,#d60d2b,wmo,Eis Sumiswald Worb,2026-04-17T05:16:00+00:00,Switzerland,0.5280108574885095,1,1,de,WCE,Europe
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,Sturm Erstfeld Engelberg,2026-05-04T05:50:00+00:00,Switzerland,0.5268782114116124,1,1,de,WCE,Europe
@@ -311,19 +301,27 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c366f29c1c',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Nidau ​​ins,2026-04-07T04:59:00+00:00,Switzerland,0.4763884988424831,1,1,de,WCE,Europe
 '8efab12aed',extremes,Fog,#d60d2b,wmo,Nebel LÃ¼ttich,2026-04-01T05:12:00+00:00,Belgium,0.475821085046423,1,1,de,WCE,Europe
 'd94ba52881',extremes,Snow&Ice,#d60d2b,wmo,Eis Huttwil Willisau,2026-04-27T05:40:00+00:00,Switzerland,0.4758079075046345,1,1,de,WCE,Europe
+'a9b734fc46',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Rudolfsheim Fünfhaus,2026-05-05T05:29:00+00:00,Austria,0.47576179673131014,1,1,de,WCE,Europe
 '79bfa3750e',extremes,Snow&Ice,#d60d2b,wmo,Schneefrick Leibstadt,2026-04-25T05:00:00+00:00,Switzerland,0.4755522605578265,1,1,de,WCE,Europe
 '0a787f2247',extremes,Snow&Ice,#d60d2b,wmo,Schnee Südisland,2026-04-02T04:42:00+00:00,Iceland,0.4752534318378192,1,1,de,GIC,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,Regen Italien,2026-04-15T05:12:00+00:00,Italy,0.4752238661271235,1,2,de,MED,Europe
 '93680729a3',extremes,Snow&Ice,#d60d2b,wmo,Eis Nyon Terre Sainte,2026-04-24T05:22:00+00:00,Switzerland,0.4752093040135452,1,1,de,WCE,Europe
+'efd4a65dcc',extremes,Storm,#b3b2b1,wmo,Sturm Wien Leopoldstadt,2026-05-05T05:29:00+00:00,Austria,0.47503662176313577,1,1,de,WCE,Europe
 '8e9277f88e',extremes,Snow&Ice,#d60d2b,wmo,Eis Olten GÃ¶sgen,2026-04-25T05:00:00+00:00,Switzerland,0.4747152887299231,1,1,de,WCE,Europe
 '6cfd1444b1',extremes,Storm,#b3b2b1,wmo,Sturm Stadt Oberwiesenthal,2026-04-06T05:11:00+00:00,Germany,0.4746945825595719,2,1,de,WCE,Europe
+'8ee80c64a2',extremes,Storm,#b3b2b1,wmo,Sturm Wien Landstraße,2026-05-05T05:29:00+00:00,Austria,0.4746729573303424,1,1,de,WCE,Europe
 '61aa0713cb',extremes,Snow&Ice,#d60d2b,wmo,Eis frutigen Kiental,2026-04-27T05:40:00+00:00,Switzerland,0.4746617507514255,1,1,de,WCE,Europe
+'fceb636b46',extremes,Storm,#b3b2b1,wmo,Sturmflut Hartberg Fürstenfeld,2026-05-05T05:29:00+00:00,Austria,0.47462452100091096,1,1,de,WCE,Europe
 '68dcd044b4',extremes,Snow&Ice,#d60d2b,wmo,Frost in den französischen Bergen,2026-04-23T05:16:00+00:00,Switzerland,0.474622016569389,1,1,de,WCE,Europe
 '6678d475fb',extremes,Snow&Ice,#d60d2b,wmo,Eis Landquart Chur,2026-04-25T05:00:00+00:00,Switzerland,0.4745947578078345,1,1,de,WCE,Europe
 '816b06be50',extremes,Snow&Ice,#d60d2b,wmo,Eis Val d'Anniviers,2026-04-23T05:16:00+00:00,Switzerland,0.4742827688663032,1,1,de,WCE,Europe
 '117e9a9455',extremes,Storm,#b3b2b1,wmo,Sturmflut Kalabrien,2026-05-01T05:54:00+00:00,Italy,0.47409984599419,1,1,de,MED,Europe
 '6d16d1721c',extremes,Snow&Ice,#d60d2b,wmo,Schnee Burgdorf Limpachtal,2026-04-27T05:40:00+00:00,Switzerland,0.4740483903366492,1,1,de,WCE,Europe
+'a0092fba89',extremes,Thunderstorm,#53785a,wmo,Gewitter Sardinien,2026-04-22T05:13:00+00:00,Italy,0.47401188726295895,1,1,de,MED,Europe
+'fa4d2c2292',extremes,Snow&Ice,#d60d2b,wmo,Schnee im Gros de Vaud,2026-04-27T05:40:00+00:00,Switzerland,0.4739638688926659,1,1,de,WCE,Europe
 '8023f8dcd3',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Leopoldstadt,2026-04-19T05:16:00+00:00,Austria,0.4738063560382666,2,1,de,WCE,Europe
+'30b7b41a32',extremes,Storm,#b3b2b1,wmo,Sturmflut marche,2026-05-05T05:29:00+00:00,Italy,0.47379291645923666,1,1,de,MED,Europe
+'9513049278',extremes,Storm,#b3b2b1,wmo,Sturm Wien Wieden,2026-05-05T05:29:00+00:00,Austria,0.4737505305348961,1,1,de,WCE,Europe
 '906eca8937',extremes,Storm,#b3b2b1,wmo,Sturmflut Erstfeld Engelberg,2026-03-31T04:59:00+00:00,Switzerland,0.4732924039084348,1,1,de,WCE,Europe
 '612f83fd45',extremes,Storm,#b3b2b1,wmo,Sturm Ostfriesische Küste,2026-04-10T05:13:00+00:00,Germany,0.4732261912735092,2,1,de,WCE,Europe
 'aa37cddd19',extremes,Snow&Ice,#d60d2b,wmo,Frost im Nordosten Islands,2026-04-06T05:11:00+00:00,Iceland,0.4731403732405784,1,1,de,GIC,Europe
@@ -377,6 +375,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cadf52d735',extremes,Storm,#b3b2b1,wmo,Sturm Wien Neubau,2026-05-05T05:29:00+00:00,Austria,0.4542438494372753,2,1,de,WCE,Europe
 '3fcf88b33e',extremes,Storm,#b3b2b1,wmo,Sturm MÃ¶dling,2026-05-05T05:29:00+00:00,Austria,0.4514493241269348,2,1,de,WCE,Europe
 '12b83aa611',extremes,Storm,#b3b2b1,wmo,Sturmflut Weiz,2026-05-05T05:29:00+00:00,Austria,0.4510064380555269,2,1,de,WCE,Europe
+'865055a92a',extremes,Storm,#b3b2b1,wmo,Sturm Neunkirchen,2026-05-05T05:29:00+00:00,Austria,0.4500728501588991,2,1,de,WCE,Europe
+'d4b40d7444',extremes,Storm,#b3b2b1,wmo,Sturm Klagenfurt Stadt,2026-04-19T05:16:00+00:00,Austria,0.44935692335310734,2,1,de,WCE,Europe
 'e5b1342785',extremes,Snow&Ice,#d60d2b,wmo,Eis Amriswil,2026-04-17T05:16:00+00:00,Switzerland,0.4442092660767754,2,1,de,WCE,Europe
 'b6a88c8853',extremes,Storm,#b3b2b1,wmo,Sturm Wien Hietzing,2026-04-19T05:16:00+00:00,Austria,0.4432725994170802,2,1,de,WCE,Europe
 '957c870453',extremes,Drought,#edc291,edo,Trockenheit Island,2026-04-21T05:15:00+00:00,Iceland,0.4421493369458302,2,1,de,GIC,Europe
