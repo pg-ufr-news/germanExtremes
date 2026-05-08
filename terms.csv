@@ -9,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2693e2fe02',extremes,Storm,#b3b2b1,wmo,Sturm Murau,2026-04-19T05:16:00+00:00,Austria,0.6160146162188079,2,2,de,WCE,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-04-19T05:16:00+00:00,Germany,0.6140382386342279,1,2,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-04-20T05:27:00+00:00,Germany,0.6137226845971877,1,2,de,WCE,Europe
+'3efa5a5e06',extremes,Storm,#b3b2b1,wmo,Sturmflut Waidhofen an der Ybbs-Stadt,2026-05-05T05:29:00+00:00,Austria,0.6130700150017019,0,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-04-07T04:59:00+00:00,Germany,0.6121457295997087,1,2,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-04-11T04:34:00+00:00,Germany,0.6081703134163995,2,3,de,WCE,Europe
 'bb9a490561',extremes,Drought,#edc291,edo,Trockenperiode Deutschland,2026-04-05T05:01:00+00:00,Germany,0.602436479150622,2,2,de,WCE,Europe
@@ -24,6 +25,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-03-30T05:12:00+00:00,Germany,0.5612716653310439,1,2,de,WCE,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2026-04-06T05:11:00+00:00,Iceland,0.5593985322571761,2,1,de,GIC,Europe
 '245f5baacd',extremes,Thunderstorm,#53785a,wmo,Hagel Wien DÃ¶bling,2026-04-19T05:16:00+00:00,Austria,0.5578956731732836,1,1,de,WCE,Europe
+'0cdb9d0c41',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien brodelnd,2026-05-05T05:29:00+00:00,Austria,0.557204098610676,0,1,de,WCE,Europe
+'9d6cac03c7',extremes,Precipitation,#d60d2b,wmo,Niederschlag Schweiz,2026-05-06T05:43:00+00:00,Switzerland,0.5570236319746494,0,1,de,WCE,Europe
+'08690dac71',extremes,Snow&Ice,#d60d2b,wmo,Frost fürstenland,2026-05-01T05:54:00+00:00,Switzerland,0.5566369918743579,0,1,de,WCE,Europe
+'fc7ef1cf36',extremes,Storm,#b3b2b1,wmo,Sturm Wien Favoriten,2026-05-05T05:29:00+00:00,Austria,0.5563855042026751,0,1,de,WCE,Europe
+'40f8e9da3c',extremes,Snow&Ice,#d60d2b,wmo,Schnee Liechtenstein,2026-04-23T05:16:00+00:00,Switzerland,0.5563142113598902,0,1,de,WCE,Europe
+'0b955708c0',extremes,Snow&Ice,#d60d2b,wmo,Schnee Olten Gösgen,2026-04-24T05:22:00+00:00,Switzerland,0.5562403777670576,0,1,de,WCE,Europe
+'5c5726d584',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Luzern Alpnach,2026-04-25T05:00:00+00:00,Switzerland,0.5561583543401912,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-04-08T05:01:00+00:00,Germany,0.5450118556595888,2,1,de,WCE,Europe
 'c4d6d26fcd',extremes,Storm,#b3b2b1,wmo,Sturm Wien liegt,2026-05-05T05:29:00+00:00,Austria,0.5440684998403934,2,2,de,WCE,Europe
 '585a774243',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Eis,2026-03-31T04:59:00+00:00,Switzerland,0.5384215450702857,2,2,de,WCE,Europe
