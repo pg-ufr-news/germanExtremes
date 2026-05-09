@@ -33,6 +33,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2acc964cba',extremes,Storm,#b3b2b1,wmo,Sturmflut Toskana,2026-04-22T05:13:00+00:00,Italy,0.554809012228833,0,1,de,MED,Europe
 'dfb29fa675',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Penzing,2026-05-05T05:29:00+00:00,Austria,0.5545557447967256,0,1,de,WCE,Europe
 '6dcea60399',extremes,Snow&Ice,#d60d2b,wmo,Frost Val d'hÃ©rens,2026-04-25T05:00:00+00:00,Switzerland,0.5543950524189688,0,1,de,WCE,Europe
+'c45fe89da8',extremes,Snow&Ice,#d60d2b,wmo,Frost Basso Moesano,2026-04-23T05:16:00+00:00,Switzerland,0.5541826356788541,0,1,de,WCE,Europe
+'8869b63e12',extremes,Snow&Ice,#d60d2b,wmo,Frost Gros de Vaud,2026-04-24T05:22:00+00:00,Switzerland,0.55409806815591,0,1,de,WCE,Europe
+'87e092e6b7',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Mendrisiotto,2026-04-23T05:16:00+00:00,Switzerland,0.5537396952214138,0,1,de,WCE,Europe
+'98cd9f9b80',extremes,Storm,#b3b2b1,wmo,Sturmflut Rust Stadt,2026-05-05T05:29:00+00:00,Austria,0.5527259606975472,0,1,de,WCE,Europe
+'6899e22830',extremes,Snow&Ice,#d60d2b,wmo,Sumiswald Worb gefriert,2026-04-27T05:40:00+00:00,Switzerland,0.5526412115539464,0,1,de,WCE,Europe
+'3d4ffbc119',extremes,Storm,#b3b2b1,wmo,Sturm Friaul Julisch Venetien,2026-04-28T05:45:00+00:00,Italy,0.5523072406020134,0,1,de,MED,Europe
+'b8c71b51f2',extremes,Thunderstorm,#53785a,wmo,Hagel Welsland,2026-04-19T05:16:00+00:00,Austria,0.5521846274314238,0,1,de,WCE,Europe
+'0a32c6a309',extremes,Snow&Ice,#d60d2b,wmo,Eis Erstfeld Engelberg,2026-04-23T05:16:00+00:00,Switzerland,0.5520000369452487,0,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-04-08T05:01:00+00:00,Germany,0.5450118556595888,2,1,de,WCE,Europe
 'c4d6d26fcd',extremes,Storm,#b3b2b1,wmo,Sturm Wien liegt,2026-05-05T05:29:00+00:00,Austria,0.5440684998403934,2,2,de,WCE,Europe
 '585a774243',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Eis,2026-03-31T04:59:00+00:00,Switzerland,0.5384215450702857,2,2,de,WCE,Europe
