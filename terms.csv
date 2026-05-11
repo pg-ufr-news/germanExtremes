@@ -19,9 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-03-30T05:12:00+00:00,Germany,0.5612716653310439,1,2,de,WCE,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2026-04-06T05:11:00+00:00,Iceland,0.5593985322571761,2,1,de,GIC,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-04-08T05:01:00+00:00,Germany,0.5450118556595888,2,1,de,WCE,Europe
-'47a8b8f04f',extremes,Storm,#b3b2b1,wmo,Sturm Scheibbs,2026-05-05T05:29:00+00:00,Austria,0.5440911035403758,0,1,de,WCE,Europe
 'c4d6d26fcd',extremes,Storm,#b3b2b1,wmo,Sturm Wien liegt,2026-05-05T05:29:00+00:00,Austria,0.5440684998403934,2,2,de,WCE,Europe
-'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-05-06T05:43:00+00:00,Switzerland,0.542342725133807,0,1,de,WCE,Europe
 '88012cd0b2',extremes,Snow&Ice,#d60d2b,wmo,eisige Murten-Kerzer,2026-04-26T05:25:00+00:00,Switzerland,0.5412556223998626,0,1,de,WCE,Europe
 'b1adbe63f3',extremes,Snow&Ice,#d60d2b,wmo,"Eis, das sie vollständig bedeckt",2026-04-23T05:16:00+00:00,Switzerland,0.5409474587470416,0,1,de,WCE,Europe
 '572704ba2e',extremes,Thunderstorm,#53785a,wmo,Gewitter Lombardei,2026-04-29T05:40:00+00:00,Italy,0.5402093059283952,0,1,de,MED,Europe
@@ -72,7 +70,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb6ad006e9',extremes,Storm,#b3b2b1,wmo,Sturmflut Scheibbs,2026-04-19T05:16:00+00:00,Austria,0.5105046221167571,1,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-04-19T05:16:00+00:00,Germany,0.5097578651255212,2,1,de,WCE,Europe
 'c76501402f',extremes,Snow&Ice,#d60d2b,wmo,Frost Rheintal,2026-04-17T05:16:00+00:00,Switzerland,0.5097287295232114,1,1,de,WCE,Europe
-'b1680333f2',extremes,Snow&Ice,#d60d2b,wmo,Faxafloi im SÃ¼dwesten Islands,2026-04-02T04:42:00+00:00,Iceland,0.5092015902786732,1,1,de,GIC,Europe
 '3f2289e92c',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Val d'Anniviers,2026-04-17T05:16:00+00:00,Switzerland,0.5090975867764501,1,1,de,WCE,Europe
 '67cbbf213c',extremes,Snow&Ice,#d60d2b,wmo,Frost la chaux de fonds le locle,2026-04-21T05:15:00+00:00,Switzerland,0.5090683633351967,1,1,de,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Laufental,2026-04-17T05:16:00+00:00,Switzerland,0.509038306113912,1,1,de,WCE,Europe
@@ -153,7 +150,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04b582e729',extremes,Snow&Ice,#d60d2b,wmo,Eis der französischen Berge,2026-04-17T05:16:00+00:00,Switzerland,0.4960650794034041,1,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-04-11T04:34:00+00:00,Luxembourg,0.4955339189976569,1,1,de,WCE,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-05-03T05:44:00+00:00,Germany,0.4952269284829102,1,2,de,WCE,Europe
-'19c6023dc8',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Ostisland,2026-04-02T04:42:00+00:00,Iceland,0.4952016538782141,1,1,de,GIC,Europe
 'a3a6a90ae2',extremes,Snow&Ice,#d60d2b,wmo,Frost Steckborn Müllheim,2026-04-22T05:13:00+00:00,Switzerland,0.4951230621314138,1,1,de,WCE,Europe
 '4244b1f8be',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Solothurn Rothrist,2026-04-22T05:13:00+00:00,Switzerland,0.4950400900630208,1,1,de,WCE,Europe
 '7a93ca259e',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Wädenswil Rüti,2026-04-24T05:22:00+00:00,Switzerland,0.4942206541923052,1,1,de,WCE,Europe
@@ -170,7 +166,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1af90f26f',extremes,Snow&Ice,#d60d2b,wmo,Frost Bern Sinn,2026-04-23T05:16:00+00:00,Switzerland,0.4916267770689588,1,1,de,WCE,Europe
 'ff7bc70a86',extremes,Snow&Ice,#d60d2b,wmo,Eis-Moutier-Tavannen,2026-04-24T05:22:00+00:00,Switzerland,0.4913187010876312,1,1,de,WCE,Europe
 '85befecc45',extremes,Snow&Ice,#d60d2b,wmo,Schnee Solothurn Rothrist,2026-04-26T05:25:00+00:00,Switzerland,0.4912513072316756,1,1,de,WCE,Europe
-'200915a12f',extremes,Drought,#edc291,edo,Dürre Namibia,2026-04-02T04:42:00+00:00,Namibia,0.4909790673742458,1,1,de,WSAF,Africa
 '5465dc301c',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Flüelen unterschächen,2026-04-23T05:16:00+00:00,Switzerland,0.4908876215803306,1,1,de,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Ã–sterreich,2026-04-19T05:16:00+00:00,Austria,0.4908022779115715,1,1,de,WCE,Europe
 '938ab50b92',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Meidling,2026-05-05T05:29:00+00:00,Austria,0.490699853998537,1,1,de,WCE,Europe
@@ -220,6 +215,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03d25c12b3',extremes,Snow&Ice,#d60d2b,wmo,Frost Burgdorf Limpachtal,2026-05-01T05:54:00+00:00,Switzerland,0.4842804113888191,1,1,de,WCE,Europe
 '1ffefe001b',extremes,Snow&Ice,#d60d2b,wmo,Frost Nidau ​​ins,2026-04-25T05:00:00+00:00,Switzerland,0.4842323308520193,1,1,de,WCE,Europe
 'b78e2d72dc',extremes,Snow&Ice,#d60d2b,wmo,Schnee frutigen Kiental,2026-04-24T05:22:00+00:00,Switzerland,0.4841239829376164,1,1,de,WCE,Europe
+'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-05-06T05:43:00+00:00,Switzerland,0.4841237045455541,1,2,de,WCE,Europe
 '630f6b9f86',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Val de Ruz Colombier,2026-04-26T05:25:00+00:00,Switzerland,0.4838046711521229,1,1,de,WCE,Europe
 'c51cabd603',extremes,Snow&Ice,#d60d2b,wmo,Frost Vallon de Saint Imier,2026-04-27T05:40:00+00:00,Switzerland,0.4836444098808649,1,1,de,WCE,Europe
 'fe1f6509a4',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Genf,2026-04-24T05:22:00+00:00,Switzerland,0.4834982319969615,1,1,de,WCE,Europe
@@ -277,7 +273,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd94ba52881',extremes,Snow&Ice,#d60d2b,wmo,Eis Huttwil Willisau,2026-04-27T05:40:00+00:00,Switzerland,0.4758079075046345,1,1,de,WCE,Europe
 'a9b734fc46',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Rudolfsheim Fünfhaus,2026-05-05T05:29:00+00:00,Austria,0.4757617967313101,1,1,de,WCE,Europe
 '79bfa3750e',extremes,Snow&Ice,#d60d2b,wmo,Schneefrick Leibstadt,2026-04-25T05:00:00+00:00,Switzerland,0.4755522605578265,1,1,de,WCE,Europe
-'0a787f2247',extremes,Snow&Ice,#d60d2b,wmo,Schnee Südisland,2026-04-02T04:42:00+00:00,Iceland,0.4752534318378192,1,1,de,GIC,Europe
 'cd3d048b5a',extremes,Precipitation,#d60d2b,wmo,Regen Italien,2026-04-15T05:12:00+00:00,Italy,0.4752238661271235,1,2,de,MED,Europe
 '93680729a3',extremes,Snow&Ice,#d60d2b,wmo,Eis Nyon Terre Sainte,2026-04-24T05:22:00+00:00,Switzerland,0.4752093040135452,1,1,de,WCE,Europe
 'efd4a65dcc',extremes,Storm,#b3b2b1,wmo,Sturm Wien Leopoldstadt,2026-05-05T05:29:00+00:00,Austria,0.4750366217631357,1,1,de,WCE,Europe
@@ -306,7 +301,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b955708c0',extremes,Snow&Ice,#d60d2b,wmo,Schnee Olten Gösgen,2026-04-24T05:22:00+00:00,Switzerland,0.4728043211019989,1,1,de,WCE,Europe
 '5c5726d584',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Luzern Alpnach,2026-04-25T05:00:00+00:00,Switzerland,0.4727346011891625,1,1,de,WCE,Europe
 '7819840fbc',extremes,Storm,#b3b2b1,wmo,Sturm Innsbruck Land,2026-04-19T05:16:00+00:00,Austria,0.472412144972845,2,1,de,WCE,Europe
-'fe41e616f4',extremes,Snow&Ice,#d60d2b,wmo,Frost Amriswil,2026-04-03T04:43:00+00:00,Switzerland,0.4723292979416193,1,1,de,WCE,Europe
 '3babd4d17f',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Limmattal,2026-04-25T05:00:00+00:00,Switzerland,0.472318444440008,1,1,de,WCE,Europe
 '4e3dc2c4d7',extremes,Snow&Ice,#d60d2b,wmo,Schnee Hulftegg Untertoggenburg,2026-04-26T05:25:00+00:00,Switzerland,0.4723148162041899,1,1,de,WCE,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,Regen Argentinien,2026-04-07T04:59:00+00:00,Argentina,0.4719194457680216,1,1,de,SES,South-America
@@ -336,7 +330,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a32c6a309',extremes,Snow&Ice,#d60d2b,wmo,Eis Erstfeld Engelberg,2026-04-23T05:16:00+00:00,Switzerland,0.4692000314034614,1,1,de,WCE,Europe
 '1a5689dc3f',extremes,Storm,#b3b2b1,wmo,Sturmflut Neusiedl am See,2026-05-05T05:29:00+00:00,Austria,0.4689377332918918,1,1,de,WCE,Europe
 '49f364b3e2',extremes,Precipitation,#d60d2b,wmo,Regenguss Formosa Patino Pirane.,2026-04-13T05:28:00+00:00,Argentina,0.4687316597021745,1,1,de,SES,South-America
-'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,Hitzewelle parana y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.4682904646947555,1,1,de,SES,South-America
 '4aa9b3b735',extremes,Snow&Ice,#d60d2b,wmo,Eis Thun Belp,2026-04-25T05:00:00+00:00,Switzerland,0.4681040119533246,1,1,de,WCE,Europe
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Argentinien,2026-04-11T04:34:00+00:00,Argentina,0.468061383881019,1,1,de,SES,South-America
 '194fe621b3',extremes,Snow&Ice,#d60d2b,wmo,Schnee Bellinzona,2026-04-25T05:00:00+00:00,Switzerland,0.4678185904243007,1,1,de,WCE,Europe
@@ -357,6 +350,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fe21077f2',extremes,Snow&Ice,#d60d2b,wmo,Eis Yverdon Bevaix,2026-04-25T05:00:00+00:00,Switzerland,0.4630524932372736,1,1,de,WCE,Europe
 '8a8a288c5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Innertkirchen Guttannen,2026-05-04T05:50:00+00:00,Switzerland,0.4629810226081486,1,1,de,WCE,Europe
 'b75d040f61',extremes,Snow&Ice,#d60d2b,wmo,Eis Broye,2026-04-23T05:16:00+00:00,Switzerland,0.4628969554701598,1,1,de,WCE,Europe
+'47a8b8f04f',extremes,Storm,#b3b2b1,wmo,Sturm Scheibbs,2026-05-05T05:29:00+00:00,Austria,0.46247743800931945,1,1,de,WCE,Europe
 'e0cff663b6',extremes,Snow&Ice,#d60d2b,wmo,Frost ajoie,2026-04-09T04:58:00+00:00,Switzerland,0.4623904112656508,1,1,de,WCE,Europe
 '0021faf7b8',extremes,Fog,#d60d2b,wmo,Nebel DÃ¤nemark,2026-04-15T05:12:00+00:00,Denmark,0.4619474711051827,1,1,de,NEU,Europe
 '61f3b66d71',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Turtmanntal,2026-04-05T05:01:00+00:00,Switzerland,0.4614676122812504,1,1,de,WCE,Europe
