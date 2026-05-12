@@ -23,11 +23,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0bd8fbc940',extremes,Snow&Ice,#d60d2b,wmo,Frost Zug Knonau,2026-04-26T05:25:00+00:00,Switzerland,0.5392356751689257,0,1,de,WCE,Europe
 '585a774243',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Eis,2026-03-31T04:59:00+00:00,Switzerland,0.5384215450702857,2,2,de,WCE,Europe
 '1accfc4933',extremes,Snow&Ice,#d60d2b,wmo,Schnee Lausanne Lavaux,2026-04-24T05:22:00+00:00,Switzerland,0.5374400736769402,0,1,de,WCE,Europe
+'1339ca75ae',extremes,Thunderstorm,#53785a,wmo,Hagelmarsch,2026-05-05T05:29:00+00:00,Italy,0.5372696899831688,0,1,de,MED,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-04-19T05:16:00+00:00,Germany,0.5372195264754573,2,2,de,WCE,Europe
+'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-05-02T05:24:00+00:00,Switzerland,0.5347657370431406,0,1,de,WCE,Europe
 'd4b40d7444',extremes,Storm,#b3b2b1,wmo,Sturm Klagenfurt Stadt,2026-04-19T05:16:00+00:00,Austria,0.5322534148501412,3,2,de,WCE,Europe
+'80fa381938',extremes,Thunderstorm,#53785a,wmo,Gewitter Friaul Julisch Venetien,2026-05-07T05:46:00+00:00,Italy,0.5321000409234586,0,1,de,MED,Europe
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5314186275972063,2,1,de,WCE,Europe
+'1a199d3cb5',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Belgien,2026-05-05T05:29:00+00:00,Belgium,0.5308772597162313,0,1,de,WCE,Europe
+'c9fc484d05',extremes,Storm,#b3b2b1,wmo,Sturmflut Umbrien,2026-05-05T05:29:00+00:00,Italy,0.5304930472994026,0,1,de,MED,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-04-16T05:17:00+00:00,Austria,0.5301438074913947,3,2,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-04-07T04:59:00+00:00,Germany,0.5298221597052069,2,3,de,WCE,Europe
+'a5a39339c4',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Tal,2026-04-25T05:00:00+00:00,Switzerland,0.5290629676854091,0,1,de,WCE,Europe
+'983b7cfa35',extremes,Snow&Ice,#d60d2b,wmo,Frost Biel Neuenburg,2026-04-27T05:40:00+00:00,Switzerland,0.5266908703566989,0,1,de,WCE,Europe
+'4fd8d48f37',extremes,Thunderstorm,#53785a,wmo,"Hagel, Lombardei",2026-05-06T05:43:00+00:00,Italy,0.5266343539093157,0,1,de,MED,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,Eis Island,2026-04-08T05:01:00+00:00,Iceland,0.524526596204036,1,1,de,GIC,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,Eis Italien,2026-04-02T04:42:00+00:00,Italy,0.5220658164738652,1,2,de,MED,Europe
 '6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Hulftegg Untertoggenburg,2026-04-17T05:16:00+00:00,Switzerland,0.5209441905239245,1,1,de,WCE,Europe
@@ -364,9 +372,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1b949122b7',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Lötschental Naters,2026-04-07T04:59:00+00:00,Switzerland,0.460742664290395,1,1,de,WCE,Europe
 'b1adbe63f3',extremes,Snow&Ice,#d60d2b,wmo,"Eis, das sie vollständig bedeckt",2026-04-23T05:16:00+00:00,Switzerland,0.4601053699349854,1,1,de,WCE,Europe
 '88012cd0b2',extremes,Snow&Ice,#d60d2b,wmo,eisige Murten-Kerzer,2026-04-26T05:25:00+00:00,Switzerland,0.4600672790398832,1,1,de,WCE,Europe
-'3a069bf630',extremes,Precipitation,#d60d2b,wmo,Regenguss Schweiz,2026-05-11T06:14:00+00:00,Switzerland,0.45939839344607325,1,1,de,WCE,Europe
+'3a069bf630',extremes,Precipitation,#d60d2b,wmo,Regenguss Schweiz,2026-05-11T06:14:00+00:00,Switzerland,0.4593983934460732,1,1,de,WCE,Europe
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,Eis Argentinien,2026-04-12T05:12:00+00:00,Argentina,0.4593339949408127,2,1,de,SES,South-America
-'572704ba2e',extremes,Thunderstorm,#53785a,wmo,Gewitter Lombardei,2026-04-29T05:40:00+00:00,Italy,0.45917791003913594,1,1,de,MED,Europe
+'572704ba2e',extremes,Thunderstorm,#53785a,wmo,Gewitter Lombardei,2026-04-29T05:40:00+00:00,Italy,0.4591779100391359,1,1,de,MED,Europe
 'a7d6b2dbac',extremes,Storm,#b3b2b1,wmo,Sturm Wiener Neustadt Stadt,2026-05-05T05:29:00+00:00,Austria,0.4590632850224032,2,1,de,WCE,Europe
 '2e5b96daab',extremes,Storm,#b3b2b1,wmo,Sturmflut Eisenstadt Umgebung,2026-05-05T05:29:00+00:00,Austria,0.4585949713873117,2,1,de,WCE,Europe
 '8e5b367351',extremes,Precipitation,#d60d2b,wmo,Niederschlag Italien,2026-04-15T05:12:00+00:00,Italy,0.4570466024874014,2,2,de,MED,Europe
