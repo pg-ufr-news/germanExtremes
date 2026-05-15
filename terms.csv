@@ -22,13 +22,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5314186275972063,2,1,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-04-16T05:17:00+00:00,Austria,0.5301438074913947,3,2,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-04-07T04:59:00+00:00,Germany,0.5298221597052069,2,3,de,WCE,Europe
+'88670cbd24',extremes,Storm,#b3b2b1,wmo,Sturmflut Obergoms,2026-05-12T05:52:00+00:00,Switzerland,0.5290105122672102,0,1,de,WCE,Europe
+'8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-05-11T06:14:00+00:00,Italy,0.5265750214784128,0,1,de,MED,Europe
+'7685a9c1a1',extremes,Storm,#b3b2b1,wmo,Sturmflut Trentino-SÃ¼dtirol,2026-05-03T05:44:00+00:00,Italy,0.5246696643267422,0,1,de,MED,Europe
+'5864dfb495',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Verzasca,2026-04-25T05:00:00+00:00,Switzerland,0.5238448415683116,0,1,de,WCE,Europe
 '2693e2fe02',extremes,Storm,#b3b2b1,wmo,Sturm Murau,2026-04-19T05:16:00+00:00,Austria,0.5237624387859867,3,2,de,WCE,Europe
 'd92d2dbe23',extremes,Snow&Ice,#d60d2b,wmo,Eis Italien,2026-04-02T04:42:00+00:00,Italy,0.5220658164738652,1,2,de,MED,Europe
 'b4a720ff08',extremes,Snow&Ice,#d60d2b,wmo,Eis Entlebuch,2026-05-13T06:03:00+00:00,Switzerland,0.5216673821638296,1,1,de,WCE,Europe
+'a4237e9d0a',extremes,Precipitation,#d60d2b,wmo,Niederschlag Belgien,2026-05-05T05:29:00+00:00,Belgium,0.5212404575620808,0,1,de,WCE,Europe
 '6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Hulftegg Untertoggenburg,2026-04-17T05:16:00+00:00,Switzerland,0.5209441905239245,1,1,de,WCE,Europe
+'211cb14393',extremes,Precipitation,#d60d2b,wmo,Regen Belgien,2026-05-05T05:29:00+00:00,Belgium,0.5209088168507479,0,1,de,WCE,Europe
+'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,Sturm Kampanien,2026-04-30T05:46:00+00:00,Italy,0.5203962229379173,0,1,de,MED,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-05-12T05:52:00+00:00,Switzerland,0.5199884979660764,1,2,de,WCE,Europe
 'ac0e36fd65',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes frutiges Kiental,2026-04-09T04:58:00+00:00,Switzerland,0.5191414491768842,1,1,de,WCE,Europe
 'a43a9111fd',extremes,Snow&Ice,#d60d2b,wmo,Eis Kerenzerberg Seeztal,2026-04-17T05:16:00+00:00,Switzerland,0.5188293574277595,1,1,de,WCE,Europe
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,Erdbeben San Antonio de los Cobres,2026-05-10T05:51:00+00:00,Argentina,0.5176813880852491,0,1,de,SES,South-America
 'ea9dd39a43',extremes,Snow&Ice,#d60d2b,wmo,Schnee Martigny Verbier,2026-04-22T05:13:00+00:00,Switzerland,0.5176563921544844,1,1,de,WCE,Europe
 '1232dbe7d5',extremes,Snow&Ice,#d60d2b,wmo,Eis glâne,2026-04-17T05:16:00+00:00,Switzerland,0.5158796771488743,1,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5141143102105011,2,1,de,WCE,Europe
