@@ -15,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-04-29T05:40:00+00:00,Austria,0.5734136819702553,2,1,de,WCE,Europe
 '596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Österreich,2026-04-19T05:16:00+00:00,Austria,0.5620166900877507,2,2,de,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-05-17T06:01:00+00:00,Switzerland,0.5574018998517447,2,1,de,WCE,Europe
-'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,Eis Argentinien,2026-05-04T05:50:00+00:00,Argentina,0.5545110970945177,0,1,de,SES,South-America
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2026-05-06T05:43:00+00:00,Germany,0.5542625467574895,3,1,de,WCE,Europe
 'c4d6d26fcd',extremes,Storm,#b3b2b1,wmo,Sturm Wien liegt,2026-05-05T05:29:00+00:00,Austria,0.5440684998403934,2,2,de,WCE,Europe
 '7780dab23f',extremes,Snow&Ice,#d60d2b,wmo,Frost Deutschland,2026-04-07T04:59:00+00:00,Germany,0.5439642233708692,2,2,de,WCE,Europe
@@ -94,13 +93,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '569a1f5c0e',extremes,Storm,#b3b2b1,wmo,Sturmflut Friaul Julisch Venetien,2026-05-12T05:52:00+00:00,Italy,0.4965524248709085,0,1,de,MED,Europe
 '4591926c69',extremes,Snow&Ice,#d60d2b,wmo,Eis Limmattal,2026-04-26T05:25:00+00:00,Switzerland,0.4964062212608894,1,1,de,WCE,Europe
 '934cac63fe',extremes,Snow&Ice,#d60d2b,wmo,Frost Effretikon,2026-04-26T05:25:00+00:00,Switzerland,0.4962672829671415,1,1,de,WCE,Europe
-'5df2f9cece',extremes,Precipitation,#d60d2b,wmo,Regenguss vor den Waadtländer Alpen,2026-05-11T06:14:00+00:00,Switzerland,0.49625645331397644,0,1,de,WCE,Europe
+'5df2f9cece',extremes,Precipitation,#d60d2b,wmo,Regenguss vor den Waadtländer Alpen,2026-05-11T06:14:00+00:00,Switzerland,0.4962564533139764,0,1,de,WCE,Europe
 '04b582e729',extremes,Snow&Ice,#d60d2b,wmo,Eis der französischen Berge,2026-04-17T05:16:00+00:00,Switzerland,0.4960650794034041,1,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-04-11T04:34:00+00:00,Luxembourg,0.4955339189976569,1,1,de,WCE,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-05-03T05:44:00+00:00,Germany,0.4952269284829102,1,2,de,WCE,Europe
 'a3a6a90ae2',extremes,Snow&Ice,#d60d2b,wmo,Frost Steckborn Müllheim,2026-04-22T05:13:00+00:00,Switzerland,0.4951230621314138,1,1,de,WCE,Europe
 '4244b1f8be',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Solothurn Rothrist,2026-04-22T05:13:00+00:00,Switzerland,0.4950400900630208,1,1,de,WCE,Europe
-'57d748873a',extremes,Precipitation,#d60d2b,wmo,Regen Trentino-Südtirol,2026-05-05T05:29:00+00:00,Italy,0.49479341049963904,0,1,de,MED,Europe
+'57d748873a',extremes,Precipitation,#d60d2b,wmo,Regen Trentino-Südtirol,2026-05-05T05:29:00+00:00,Italy,0.494793410499639,0,1,de,MED,Europe
 'e0cff663b6',extremes,Snow&Ice,#d60d2b,wmo,Frost ajoie,2026-05-01T05:54:00+00:00,Switzerland,0.4942319267125586,1,1,de,WCE,Europe
 '7a93ca259e',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Wädenswil Rüti,2026-04-24T05:22:00+00:00,Switzerland,0.4942206541923052,1,1,de,WCE,Europe
 'c4fd603a57',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Basse Gruyère,2026-04-22T05:13:00+00:00,Switzerland,0.4939148994377079,1,1,de,WCE,Europe
@@ -109,13 +108,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae8979372b',extremes,Snow&Ice,#d60d2b,wmo,Eisfrick Leibstadt,2026-04-21T05:15:00+00:00,Switzerland,0.4934676733108985,1,1,de,WCE,Europe
 '37187ef97e',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Rudolfsheim fünfhaus,2026-04-19T05:16:00+00:00,Austria,0.4932615085951702,2,1,de,WCE,Europe
 'f8b4ad19d7',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Moutier-Tavannes,2026-04-27T05:40:00+00:00,Switzerland,0.4929840668615222,1,1,de,WCE,Europe
-'fc0aa0e61b',extremes,Precipitation,#d60d2b,wmo,Regenguss Delémont Bellelay,2026-05-11T06:14:00+00:00,Switzerland,0.49294358645542746,0,1,de,WCE,Europe
+'fc0aa0e61b',extremes,Precipitation,#d60d2b,wmo,Regenguss Delémont Bellelay,2026-05-11T06:14:00+00:00,Switzerland,0.4929435864554274,0,1,de,WCE,Europe
 'b24f5fee7b',extremes,Snow&Ice,#d60d2b,wmo,Schnee Thun Belp,2026-05-01T05:54:00+00:00,Switzerland,0.4927263152384425,1,1,de,WCE,Europe
 '980fb462e0',extremes,Snow&Ice,#d60d2b,wmo,Schnee Luzern Alpnach,2026-04-27T05:40:00+00:00,Switzerland,0.4926783617676709,1,1,de,WCE,Europe
 '7fced7e700',extremes,Precipitation,#d60d2b,wmo,Regenguss Luxemburg,2026-05-10T05:51:00+00:00,Luxembourg,0.4923158735375575,2,1,de,WCE,Europe
 'f3c52c6c6e',extremes,Storm,#b3b2b1,wmo,Sturm bruck mürzzuschlag,2026-05-05T05:29:00+00:00,Austria,0.4922140568144709,1,1,de,WCE,Europe
-'54f5b8faba',extremes,Thunderstorm,#53785a,wmo,Gewitter Trentino-Südtirol,2026-05-07T05:46:00+00:00,Italy,0.49181111969014774,0,1,de,MED,Europe
-'06c067df36',extremes,Precipitation,#d60d2b,wmo,Platzregen Glarner Südsernftal,2026-05-12T05:52:00+00:00,Switzerland,0.49174845124633265,0,1,de,WCE,Europe
+'54f5b8faba',extremes,Thunderstorm,#53785a,wmo,Gewitter Trentino-Südtirol,2026-05-07T05:46:00+00:00,Italy,0.4918111196901477,0,1,de,MED,Europe
+'06c067df36',extremes,Precipitation,#d60d2b,wmo,Platzregen Glarner Südsernftal,2026-05-12T05:52:00+00:00,Switzerland,0.4917484512463326,0,1,de,WCE,Europe
 'e53d2e240d',extremes,Snow&Ice,#d60d2b,wmo,Schnee-Moutier-Tavannes,2026-04-25T05:00:00+00:00,Switzerland,0.4916602684945203,1,1,de,WCE,Europe
 'f1af90f26f',extremes,Snow&Ice,#d60d2b,wmo,Frost Bern Sinn,2026-04-23T05:16:00+00:00,Switzerland,0.4916267770689588,1,1,de,WCE,Europe
 'ff7bc70a86',extremes,Snow&Ice,#d60d2b,wmo,Eis-Moutier-Tavannen,2026-04-24T05:22:00+00:00,Switzerland,0.4913187010876312,1,1,de,WCE,Europe
@@ -256,6 +255,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7819840fbc',extremes,Storm,#b3b2b1,wmo,Sturm Innsbruck Land,2026-04-19T05:16:00+00:00,Austria,0.472412144972845,2,1,de,WCE,Europe
 '3babd4d17f',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Limmattal,2026-04-25T05:00:00+00:00,Switzerland,0.472318444440008,1,1,de,WCE,Europe
 '4e3dc2c4d7',extremes,Snow&Ice,#d60d2b,wmo,Schnee Hulftegg Untertoggenburg,2026-04-26T05:25:00+00:00,Switzerland,0.4723148162041899,1,1,de,WCE,Europe
+'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,Eis Argentinien,2026-05-04T05:50:00+00:00,Argentina,0.4720845075303401,1,1,de,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,Regen Argentinien,2026-04-28T05:45:00+00:00,Argentina,0.4718176323059399,1,1,de,SES,South-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Argentinien,2026-04-28T05:45:00+00:00,Argentina,0.4717364034809058,1,1,de,SES,South-America
 '2acc964cba',extremes,Storm,#b3b2b1,wmo,Sturmflut Toskana,2026-04-22T05:13:00+00:00,Italy,0.471587660394508,1,1,de,MED,Europe
