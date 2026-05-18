@@ -2,7 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-04-30T05:46:00+00:00,Germany,0.6309324357867309,1,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-04-20T05:27:00+00:00,Germany,0.6137226845971877,1,2,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-04-11T04:34:00+00:00,Germany,0.6081703134163995,2,3,de,WCE,Europe
-'90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-05-03T05:44:00+00:00,Germany,0.6061677852458426,1,2,de,WCE,Europe
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2026-05-04T05:50:00+00:00,Italy,0.6032386537078274,0,1,de,MED,Europe
 'bb9a490561',extremes,Drought,#edc291,edo,Trockenperiode Deutschland,2026-04-05T05:01:00+00:00,Germany,0.602436479150622,2,2,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
@@ -32,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea9dd39a43',extremes,Snow&Ice,#d60d2b,wmo,Schnee Martigny Verbier,2026-04-22T05:13:00+00:00,Switzerland,0.5176563921544844,1,1,de,WCE,Europe
 '6fe46e247b',extremes,Snow&Ice,#d60d2b,wmo,Aigle Leysin gefriert,2026-05-17T06:01:00+00:00,Switzerland,0.5159948433758615,1,1,de,WCE,Europe
 '1232dbe7d5',extremes,Snow&Ice,#d60d2b,wmo,Eis glâne,2026-04-17T05:16:00+00:00,Switzerland,0.5158796771488743,1,1,de,WCE,Europe
+'90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-05-03T05:44:00+00:00,Germany,0.5155426474589662,2,2,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5141143102105011,2,1,de,WCE,Europe
 'efceb7a36e',extremes,Snow&Ice,#d60d2b,wmo,Schnee ajoie,2026-05-13T06:03:00+00:00,Switzerland,0.5132997417245776,1,1,de,WCE,Europe
 'bfc85623cc',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Turbenthal Sirnach,2026-04-22T05:13:00+00:00,Switzerland,0.5119117316909269,1,1,de,WCE,Europe
@@ -61,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd05836ff1e',extremes,Snow&Ice,#d60d2b,wmo,Schnee Kerenzerberg Seeztal,2026-04-22T05:13:00+00:00,Switzerland,0.5016372004716839,1,1,de,WCE,Europe
 '85ae56220e',extremes,Snow&Ice,#d60d2b,wmo,Frost Liechtenstein,2026-04-21T05:15:00+00:00,Switzerland,0.5014463064464721,1,1,de,WCE,Europe
 '46eb26b72c',extremes,Snow&Ice,#d60d2b,wmo,Schnee Nidau ​​ins,2026-05-01T05:54:00+00:00,Switzerland,0.5013296515185478,1,1,de,WCE,Europe
-'7ee26e9d4f',extremes,Storm,#b3b2b1,wmo,Sturm Lombardei,2026-04-28T05:45:00+00:00,Italy,0.501306884962904,0,1,de,MED,Europe
 '8944b0683f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Brienz Interlaken,2026-04-24T05:22:00+00:00,Switzerland,0.5011311373850489,1,1,de,WCE,Europe
 'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Vallon de Saint Imier,2026-04-21T05:15:00+00:00,Switzerland,0.5003513974014401,1,1,de,WCE,Europe
 'df5bd44a2f',extremes,Snow&Ice,#d60d2b,wmo,Frost olten gösgen,2026-05-01T05:54:00+00:00,Switzerland,0.5002874737236142,1,1,de,WCE,Europe
@@ -462,6 +461,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4f740835f',extremes,Storm,#b3b2b1,wmo,Sturm Piemonte,2026-04-28T05:45:00+00:00,Italy,0.4275949767403873,1,1,de,MED,Europe
 '2f7a2c5a95',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schaffhausen,2026-04-24T05:22:00+00:00,Switzerland,0.4275535990652955,2,1,de,WCE,Europe
 '24679aec56',extremes,Snow&Ice,#d60d2b,wmo,Eiszug Knonau,2026-04-22T05:13:00+00:00,Switzerland,0.4274791142463025,2,1,de,WCE,Europe
+'7ee26e9d4f',extremes,Storm,#b3b2b1,wmo,Sturm Lombardei,2026-04-28T05:45:00+00:00,Italy,0.4261108522184684,1,1,de,MED,Europe
 '48482a5127',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Thun Belp,2026-04-21T05:15:00+00:00,Switzerland,0.4247696612214666,2,1,de,WCE,Europe
 '85befecc45',extremes,Snow&Ice,#d60d2b,wmo,Schnee Solothurn Rothrist,2026-04-26T05:25:00+00:00,Switzerland,0.4175636111469242,2,1,de,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Ã–sterreich,2026-04-19T05:16:00+00:00,Austria,0.4171819362248357,2,1,de,WCE,Europe
