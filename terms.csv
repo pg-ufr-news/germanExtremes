@@ -138,8 +138,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9304c44065',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Vallon de Saint-Imier,2026-04-23T05:16:00+00:00,Switzerland,0.4815440272959138,1,1,de,WCE,Europe
 'a0ba7c50dd',extremes,Snow&Ice,#d60d2b,wmo,Frost Landquart Chur,2026-04-24T05:22:00+00:00,Switzerland,0.4815332642811445,1,1,de,WCE,Europe
 'd081044f8a',extremes,Snow&Ice,#d60d2b,wmo,eiskalter Bern-Sinn,2026-04-24T05:22:00+00:00,Switzerland,0.4812902523026116,1,1,de,WCE,Europe
+'bfe8b114a8',extremes,Storm,#b3b2b1,wmo,Sturmflut Valle d'Aosta,2026-05-11T06:14:00+00:00,Italy,0.48125665292881714,0,1,de,MED,Europe
+'643c19f216',extremes,Precipitation,#d60d2b,wmo,Regen Muotathal,2026-05-12T05:52:00+00:00,Switzerland,0.48124450747457814,0,1,de,WCE,Europe
 'e6a3951543',extremes,Snow&Ice,#d60d2b,wmo,Yverdon Bevaix gefriert,2026-04-26T05:25:00+00:00,Switzerland,0.4811265053571652,1,1,de,WCE,Europe
 '57a22b4778',extremes,Snow&Ice,#d60d2b,wmo,Schnee Basse Gruyère,2026-04-25T05:00:00+00:00,Switzerland,0.4811125582247754,1,1,de,WCE,Europe
+'442ae17476',extremes,Precipitation,#d60d2b,wmo,Niederschlag Latium,2026-05-05T05:29:00+00:00,Italy,0.4810344749861634,0,1,de,MED,Europe
 '2af2f814ef',extremes,Snow&Ice,#d60d2b,wmo,Frost laufental,2026-04-25T05:00:00+00:00,Switzerland,0.4809936832399627,1,1,de,WCE,Europe
 '90fce750f8',extremes,Fog,#d60d2b,wmo,Nebel Hennegau,2026-05-04T05:50:00+00:00,Belgium,0.480918344735197,1,1,de,WCE,Europe
 '8dbdda11a1',extremes,Thunderstorm,#53785a,wmo,Unwetter Piemont,2026-04-13T05:28:00+00:00,Italy,0.4807348446956702,1,1,de,MED,Europe
@@ -150,12 +153,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75bf75dc59',extremes,Snow&Ice,#d60d2b,wmo,Frost Rheinfelden,2026-04-25T05:00:00+00:00,Switzerland,0.4800792400951219,1,1,de,WCE,Europe
 '167ec52151',extremes,Snow&Ice,#d60d2b,wmo,Schnee Rheinfelden,2026-04-24T05:22:00+00:00,Switzerland,0.4797538080877458,1,1,de,WCE,Europe
 '159fb0a618',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Gros de Vaud,2026-04-23T05:16:00+00:00,Switzerland,0.4796559168632954,1,1,de,WCE,Europe
+'1569de52f7',extremes,Precipitation,#d60d2b,wmo,Niederschlag Antwerpen,2026-05-05T05:29:00+00:00,Belgium,0.47965550753502695,0,1,de,WCE,Europe
+'402de54131',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Saint Cergue,2026-05-11T06:14:00+00:00,Switzerland,0.4795389274564662,0,1,de,WCE,Europe
 '18b78f45b4',extremes,Thunderstorm,#53785a,wmo,Gewitter Feldkirchen,2026-04-19T05:16:00+00:00,Austria,0.4794535004234967,2,1,de,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-05-02T05:24:00+00:00,Switzerland,0.4793823678350976,2,2,de,WCE,Europe
+'70549607af',extremes,Precipitation,#d60d2b,wmo,Regenmarsch,2026-05-09T05:36:00+00:00,Italy,0.479349379548995,0,1,de,MED,Europe
 '7460e3c92b',extremes,Snow&Ice,#d60d2b,wmo,Schnee Huttwil Willisau,2026-04-24T05:22:00+00:00,Switzerland,0.4792513417981248,1,1,de,WCE,Europe
 'f5d163185f',extremes,Snow&Ice,#d60d2b,wmo,Frost Luganese,2026-04-25T05:00:00+00:00,Switzerland,0.479142663036852,1,1,de,WCE,Europe
 '0c3d21da24',extremes,Precipitation,#d60d2b,wmo,Regenguss Italien,2026-04-20T05:27:00+00:00,Italy,0.4790994650915533,1,1,de,MED,Europe
 'f89c0a5f62',extremes,Snow&Ice,#d60d2b,wmo,Frost Wädenswil Rüti,2026-04-27T05:40:00+00:00,Switzerland,0.4790279480168897,1,1,de,WCE,Europe
+'548bcaf393',extremes,Precipitation,#d60d2b,wmo,Regen Emilia und Romagna,2026-05-06T05:43:00+00:00,Italy,0.47900943783590444,0,1,de,MED,Europe
+'b885c97e01',extremes,Precipitation,#d60d2b,wmo,Regen Venetien,2026-05-05T05:29:00+00:00,Italy,0.47891184412807625,0,1,de,MED,Europe
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Ã–sterreich,2026-04-19T05:16:00+00:00,Austria,0.4786030866876009,1,1,de,WCE,Europe
 '4e1b2d3b38',extremes,Snow&Ice,#d60d2b,wmo,Frost Lötschental Naters,2026-04-25T05:00:00+00:00,Switzerland,0.4784124159924193,1,1,de,WCE,Europe
 'e083252689',extremes,Snow&Ice,#d60d2b,wmo,Schnee Biel Neuenburg,2026-04-24T05:22:00+00:00,Switzerland,0.4783897433729879,1,1,de,WCE,Europe
@@ -478,12 +486,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ff7bc70a86',extremes,Snow&Ice,#d60d2b,wmo,Eis-Moutier-Tavannen,2026-04-24T05:22:00+00:00,Switzerland,0.4176208959244865,2,1,de,WCE,Europe
 '85befecc45',extremes,Snow&Ice,#d60d2b,wmo,Schnee Solothurn Rothrist,2026-04-26T05:25:00+00:00,Switzerland,0.4175636111469242,2,1,de,WCE,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,Sturm Sizilien,2026-05-16T05:40:00+00:00,Italy,0.4175530940805446,1,1,de,MED,Europe
-'1f4020ebca',extremes,Precipitation,#d60d2b,wmo,Niederschlag Ligurien,2026-05-04T05:50:00+00:00,Italy,0.41733622503819706,1,1,de,MED,Europe
+'1f4020ebca',extremes,Precipitation,#d60d2b,wmo,Niederschlag Ligurien,2026-05-04T05:50:00+00:00,Italy,0.417336225038197,1,1,de,MED,Europe
 '5465dc301c',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Flüelen unterschächen,2026-04-23T05:16:00+00:00,Switzerland,0.417254478343281,2,1,de,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Ã–sterreich,2026-04-19T05:16:00+00:00,Austria,0.4171819362248357,2,1,de,WCE,Europe
-'938ab50b92',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Meidling,2026-05-05T05:29:00+00:00,Austria,0.41709487589875643,2,1,de,WCE,Europe
+'938ab50b92',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Meidling,2026-05-05T05:29:00+00:00,Austria,0.4170948758987564,2,1,de,WCE,Europe
 'e7c5febdb3',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Werdenberg,2026-04-23T05:16:00+00:00,Switzerland,0.4170618135321405,2,1,de,WCE,Europe
 '7b6cfce5f0',extremes,Precipitation,#d60d2b,wmo,Regen Meiringen Gadmertal,2026-05-12T05:52:00+00:00,Switzerland,0.4168914008041742,1,1,de,WCE,Europe
-'fe41e616f4',extremes,Snow&Ice,#d60d2b,wmo,Frost Amriswil,2026-05-01T05:54:00+00:00,Switzerland,0.41666604631735576,2,1,de,WCE,Europe
+'fe41e616f4',extremes,Snow&Ice,#d60d2b,wmo,Frost Amriswil,2026-05-01T05:54:00+00:00,Switzerland,0.4166660463173557,2,1,de,WCE,Europe
 '1b261773be',extremes,Snow&Ice,#d60d2b,wmo,Frost Basel,2026-04-26T05:25:00+00:00,Switzerland,0.4166531331351398,2,1,de,WCE,Europe
 '207df0d218',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Piemont,2026-05-03T05:44:00+00:00,Italy,0.4166026551652075,1,1,de,MED,Europe
