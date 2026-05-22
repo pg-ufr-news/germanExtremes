@@ -74,20 +74,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '185c1a17b7',extremes,Snow&Ice,#d60d2b,wmo,Frostvouvry,2026-04-24T05:22:00+00:00,Switzerland,0.485459824627707,1,1,de,WCE,Europe
 'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-05-06T05:43:00+00:00,Switzerland,0.4841237045455541,1,2,de,WCE,Europe
 'c51cabd603',extremes,Snow&Ice,#d60d2b,wmo,Frost Vallon de Saint Imier,2026-04-27T05:40:00+00:00,Switzerland,0.4836444098808649,1,1,de,WCE,Europe
-'507a873369',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Linthebene Gaster,2026-05-12T05:52:00+00:00,Switzerland,0.4830830458906159,0,1,de,WCE,Europe
 'c657d07261',extremes,Thunderstorm,#53785a,wmo,Hagel Salzburg Stadt,2026-04-19T05:16:00+00:00,Austria,0.4830234199886252,2,1,de,WCE,Europe
-'d1520c9ca5',extremes,Snow&Ice,#d60d2b,wmo,Eis Turbenthal Sirnach,2026-04-23T05:16:00+00:00,Switzerland,0.4829014758760132,1,1,de,WCE,Europe
-'0c1038253c',extremes,Precipitation,#d60d2b,wmo,Regenguss VallÃ©e de Joux,2026-05-11T06:14:00+00:00,Switzerland,0.4828246359321712,0,1,de,WCE,Europe
-'5649c0bd8e',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen lauterbrunnen wilderswil,2026-05-12T05:52:00+00:00,Switzerland,0.4827186653316606,0,1,de,WCE,Europe
-'128545dd39',extremes,Snow&Ice,#d60d2b,wmo,Eis laufental,2026-04-22T05:13:00+00:00,Switzerland,0.4824653866859281,1,1,de,WCE,Europe
-'a4b34689d8',extremes,Snow&Ice,#d60d2b,wmo,Schneethal,2026-04-23T05:16:00+00:00,Switzerland,0.4822513155780233,1,1,de,WCE,Europe
-'dc876e3b94',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Huttwil Willisau,2026-04-22T05:13:00+00:00,Switzerland,0.4822391101224625,1,1,de,WCE,Europe
 '6149b29ebd',extremes,Thunderstorm,#53785a,wmo,Unwetter Kufstein,2026-04-19T05:16:00+00:00,Austria,0.4821543985849843,2,1,de,WCE,Europe
-'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-05-10T05:51:00+00:00,Switzerland,0.4820844880343047,0,1,de,WCE,Europe
-'a733b810b5',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Burgdorf Limpachtal,2026-04-26T05:25:00+00:00,Switzerland,0.4819816955233674,1,1,de,WCE,Europe
-'7865b352bd',extremes,Snow&Ice,#d60d2b,wmo,Frost Murten Kerzenrs,2026-04-23T05:16:00+00:00,Switzerland,0.4819632627420158,1,1,de,WCE,Europe
-'8ced7275a5',extremes,Storm,#b3b2b1,wmo,Sturmflut Kremser Land,2026-05-05T05:29:00+00:00,Austria,0.4818921383339587,1,1,de,WCE,Europe
-'89c5c380c9',extremes,Precipitation,#d60d2b,wmo,Regen Kampanien,2026-05-09T05:36:00+00:00,Italy,0.4817670087700162,0,1,de,MED,Europe
 '3bfe7304ec',extremes,Storm,#b3b2b1,wmo,Sturm Oberwart,2026-05-05T05:29:00+00:00,Austria,0.4817573703709728,1,1,de,WCE,Europe
 '9304c44065',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Vallon de Saint-Imier,2026-04-23T05:16:00+00:00,Switzerland,0.4815440272959138,1,1,de,WCE,Europe
 'a0ba7c50dd',extremes,Snow&Ice,#d60d2b,wmo,Frost Landquart Chur,2026-04-24T05:22:00+00:00,Switzerland,0.4815332642811445,1,1,de,WCE,Europe
@@ -466,19 +454,31 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70134315ec',extremes,Precipitation,#d60d2b,wmo,Regenguss frutigen Kiental,2026-05-12T05:52:00+00:00,Switzerland,0.4130569867323777,1,1,de,WCE,Europe
 '29c7bd8fdc',extremes,Snow&Ice,#d60d2b,wmo,Schnee Steckborn Müllheim,2026-04-27T05:40:00+00:00,Switzerland,0.4129998000059739,2,1,de,WCE,Europe
 '7a020e86c6',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Alsergrund,2026-05-05T05:29:00+00:00,Austria,0.4127969460354223,2,1,de,WCE,Europe
-'1318594aed',extremes,Snow&Ice,#d60d2b,wmo,Sion Crans Montana gefriert,2026-05-01T05:54:00+00:00,Switzerland,0.41259706854581557,2,1,de,WCE,Europe
+'1318594aed',extremes,Snow&Ice,#d60d2b,wmo,Sion Crans Montana gefriert,2026-05-01T05:54:00+00:00,Switzerland,0.4125970685458155,2,1,de,WCE,Europe
 '63b8afd7a4',extremes,Storm,#b3b2b1,wmo,Sturm Lazio,2026-04-23T05:16:00+00:00,Italy,0.4124254151780185,2,1,de,MED,Europe
-'1ee0dcd438',extremes,Precipitation,#d60d2b,wmo,Regenguss Val de Ruz Colombier,2026-05-11T06:14:00+00:00,Switzerland,0.41233918422804344,1,1,de,WCE,Europe
-'2a0fdfe0dd',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Lombardei,2026-05-06T05:43:00+00:00,Italy,0.41223720796583363,1,1,de,MED,Europe
+'1ee0dcd438',extremes,Precipitation,#d60d2b,wmo,Regenguss Val de Ruz Colombier,2026-05-11T06:14:00+00:00,Switzerland,0.4123391842280434,1,1,de,WCE,Europe
+'2a0fdfe0dd',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Lombardei,2026-05-06T05:43:00+00:00,Italy,0.4122372079658336,1,1,de,MED,Europe
 'b2fc7fdbac',extremes,Snow&Ice,#d60d2b,wmo,Frost oberes Baselbiet,2026-05-01T05:54:00+00:00,Switzerland,0.412079471104837,2,1,de,WCE,Europe
 'f733595ffd',extremes,Thunderstorm,#53785a,wmo,Unwettermarsch,2026-04-19T05:16:00+00:00,Italy,0.4119283032767825,2,1,de,MED,Europe
 'a935f88023',extremes,Snow&Ice,#d60d2b,wmo,Eis Val d'Hérens,2026-04-27T05:40:00+00:00,Switzerland,0.411736446050369,2,1,de,WCE,Europe
-'03d25c12b3',extremes,Snow&Ice,#d60d2b,wmo,Frost Burgdorf Limpachtal,2026-05-01T05:54:00+00:00,Switzerland,0.41163834968049623,2,1,de,WCE,Europe
-'1ffefe001b',extremes,Snow&Ice,#d60d2b,wmo,Frost Nidau ​​ins,2026-04-25T05:00:00+00:00,Switzerland,0.41159748122421635,2,1,de,WCE,Europe
+'03d25c12b3',extremes,Snow&Ice,#d60d2b,wmo,Frost Burgdorf Limpachtal,2026-05-01T05:54:00+00:00,Switzerland,0.4116383496804962,2,1,de,WCE,Europe
+'1ffefe001b',extremes,Snow&Ice,#d60d2b,wmo,Frost Nidau ​​ins,2026-04-25T05:00:00+00:00,Switzerland,0.4115974812242163,2,1,de,WCE,Europe
 'b78e2d72dc',extremes,Snow&Ice,#d60d2b,wmo,Schnee frutigen Kiental,2026-04-24T05:22:00+00:00,Switzerland,0.4115053854969739,2,1,de,WCE,Europe
-'630f6b9f86',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Val de Ruz Colombier,2026-04-26T05:25:00+00:00,Switzerland,0.41123397047930443,2,1,de,WCE,Europe
-'fe1f6509a4',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Genf,2026-04-24T05:22:00+00:00,Switzerland,0.41097349719741727,2,1,de,WCE,Europe
+'630f6b9f86',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Val de Ruz Colombier,2026-04-26T05:25:00+00:00,Switzerland,0.4112339704793044,2,1,de,WCE,Europe
+'fe1f6509a4',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Genf,2026-04-24T05:22:00+00:00,Switzerland,0.4109734971974172,2,1,de,WCE,Europe
 '1989aea39a',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen la chaux de fonds le locle,2026-05-11T06:14:00+00:00,Switzerland,0.4108855854182324,1,1,de,WCE,Europe
-'eced88a9b2',extremes,Precipitation,#d60d2b,wmo,Regenguss Ligurien,2026-05-03T05:44:00+00:00,Italy,0.41087016280181315,1,1,de,MED,Europe
+'eced88a9b2',extremes,Precipitation,#d60d2b,wmo,Regenguss Ligurien,2026-05-03T05:44:00+00:00,Italy,0.4108701628018131,1,1,de,MED,Europe
 '2ef7ee1cc4',extremes,Snow&Ice,#d60d2b,wmo,Schnee Aarau Lenzburg,2026-04-22T05:13:00+00:00,Switzerland,0.4108465375678125,2,1,de,WCE,Europe
-'2c2aadffd8',extremes,Snow&Ice,#d60d2b,wmo,Schnee einsiedeln wÃ¤gital,2026-05-12T05:52:00+00:00,Switzerland,0.41074755871703234,2,1,de,WCE,Europe
+'2c2aadffd8',extremes,Snow&Ice,#d60d2b,wmo,Schnee einsiedeln wÃ¤gital,2026-05-12T05:52:00+00:00,Switzerland,0.4107475587170323,2,1,de,WCE,Europe
+'507a873369',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Linthebene Gaster,2026-05-12T05:52:00+00:00,Switzerland,0.41062058900702353,1,1,de,WCE,Europe
+'89c5c380c9',extremes,Precipitation,#d60d2b,wmo,Regen Kampanien,2026-05-09T05:36:00+00:00,Italy,0.4105520624545138,1,1,de,MED,Europe
+'d1520c9ca5',extremes,Snow&Ice,#d60d2b,wmo,Eis Turbenthal Sirnach,2026-04-23T05:16:00+00:00,Switzerland,0.4104662544946112,2,1,de,WCE,Europe
+'0c1038253c',extremes,Precipitation,#d60d2b,wmo,Regenguss VallÃ©e de Joux,2026-05-11T06:14:00+00:00,Switzerland,0.4104009405423455,1,1,de,WCE,Europe
+'5649c0bd8e',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen lauterbrunnen wilderswil,2026-05-12T05:52:00+00:00,Switzerland,0.4103108655319115,1,1,de,WCE,Europe
+'128545dd39',extremes,Snow&Ice,#d60d2b,wmo,Eis laufental,2026-04-22T05:13:00+00:00,Switzerland,0.41009557868303886,2,1,de,WCE,Europe
+'a4b34689d8',extremes,Snow&Ice,#d60d2b,wmo,Schneethal,2026-04-23T05:16:00+00:00,Switzerland,0.4099136182413198,2,1,de,WCE,Europe
+'dc876e3b94',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Huttwil Willisau,2026-04-22T05:13:00+00:00,Switzerland,0.40990324360409314,2,1,de,WCE,Europe
+'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-05-10T05:51:00+00:00,Switzerland,0.409771814829159,1,1,de,WCE,Europe
+'a733b810b5',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Burgdorf Limpachtal,2026-04-26T05:25:00+00:00,Switzerland,0.40968444119486225,2,1,de,WCE,Europe
+'7865b352bd',extremes,Snow&Ice,#d60d2b,wmo,Frost Murten Kerzenrs,2026-04-23T05:16:00+00:00,Switzerland,0.4096687733307134,2,1,de,WCE,Europe
+'8ced7275a5',extremes,Storm,#b3b2b1,wmo,Sturmflut Kremser Land,2026-05-05T05:29:00+00:00,Austria,0.4096083175838649,2,1,de,WCE,Europe
