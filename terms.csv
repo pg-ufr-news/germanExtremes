@@ -84,7 +84,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18b78f45b4',extremes,Thunderstorm,#53785a,wmo,Gewitter Feldkirchen,2026-04-19T05:16:00+00:00,Austria,0.4794535004234967,2,1,de,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-05-02T05:24:00+00:00,Switzerland,0.4793823678350976,2,2,de,WCE,Europe
 'f89c0a5f62',extremes,Snow&Ice,#d60d2b,wmo,Frost Wädenswil Rüti,2026-04-27T05:40:00+00:00,Switzerland,0.4790279480168897,1,1,de,WCE,Europe
-'b885c97e01',extremes,Precipitation,#d60d2b,wmo,Regen Venetien,2026-05-05T05:29:00+00:00,Italy,0.4789118441280762,0,1,de,MED,Europe
 '643c47ee4f',extremes,Precipitation,#d60d2b,wmo,Niederschlag Namur,2026-05-05T05:29:00+00:00,Belgium,0.4787978031360498,0,1,de,WCE,Europe
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Ã–sterreich,2026-04-19T05:16:00+00:00,Austria,0.4786030866876009,1,1,de,WCE,Europe
 '4e1b2d3b38',extremes,Snow&Ice,#d60d2b,wmo,Frost Lötschental Naters,2026-04-25T05:00:00+00:00,Switzerland,0.4784124159924193,1,1,de,WCE,Europe
@@ -495,3 +494,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7460e3c92b',extremes,Snow&Ice,#d60d2b,wmo,Schnee Huttwil Willisau,2026-04-24T05:22:00+00:00,Switzerland,0.407363640528406,2,1,de,WCE,Europe
 '548bcaf393',extremes,Precipitation,#d60d2b,wmo,Regen Emilia und Romagna,2026-05-06T05:43:00+00:00,Italy,0.4073080371605187,1,1,de,MED,Europe
 'f5d163185f',extremes,Snow&Ice,#d60d2b,wmo,Frost Luganese,2026-04-25T05:00:00+00:00,Switzerland,0.4072712635813242,2,1,de,WCE,Europe
+'b885c97e01',extremes,Precipitation,#d60d2b,wmo,Regen Venetien,2026-05-05T05:29:00+00:00,Italy,0.40722508250886474,1,1,de,MED,Europe
