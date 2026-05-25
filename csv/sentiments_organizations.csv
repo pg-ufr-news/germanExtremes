@@ -1,21 +1,19 @@
 ,phrase,label,sentiment,subjectivity,language,count
-NHL,NHL,ORG,0.06944444444444445,0.38518518518518513,en,9.0
 The German Weather Service,The German Weather Service,ORG,0.04027777777777777,0.5216049382716049,en,9.0
+NHL,NHL,ORG,0.07530120481927711,0.4176706827309237,en,8.299999999999999
 EU,EU,ORG,0.2561379097093383,0.5689857761286334,en,6.999999999999999
-DWD,DWD,ORG,0.010842552509219177,0.30274971941638606,en,6.3
 Elli,Elli,ORG,-0.2717917675544794,0.5623486682808716,en,5.9
-the German Weather Service,the German Weather Service,ORG,0.05709876543209876,0.19290123456790123,en,5.3999999999999995
+DWD,DWD,ORG,0.023783287419651057,0.2604224058769513,en,5.5
 CDU,CDU,ORG,0.08363636363636363,0.26,en,5.0
+the German Weather Service,the German Weather Service,ORG,0.0806159420289855,0.12318840579710146,en,4.6
 DFB,DFB,ORG,0.3292682926829269,0.4634146341463415,en,4.1
-the Ice Hockey World Cup,the Ice Hockey World Cup,ORG,0.11793611793611793,0.18918918918918917,en,3.7
+Forest,Forest,ORG,0.009803921568627456,0.2647058823529411,en,3.4000000000000004
 White Christmas,White Christmas,ORG,0.1323529411764706,0.3431372549019608,en,3.4000000000000004
 Trump,Trump,ORG,0.07692307692307696,0.8076923076923078,en,2.5999999999999996
-Deutsche Bahn,Deutsche Bahn,ORG,0.06,0.0,en,2.5
 German Weather Service,German Weather Service,ORG,-0.06666666666666667,0.17333333333333334,en,2.5
-Forest,Forest,ORG,0.013888888888888899,0.375,en,2.4
+Deutsche Bahn,Deutsche Bahn,ORG,0.06,0.0,en,2.5
 Greenland,Greenland,ORG,0.4628099173553719,0.5681818181818181,en,2.2
 LASK,LASK,ORG,0.5883838383838382,0.9722222222222221,en,2.2
-Sturm,Sturm,ORG,0.12105263157894738,0.47368421052631576,en,1.9000000000000001
 Cozy,Cozy,ORG,-0.2105263157894737,0.32894736842105265,en,1.9
 RiskLab,RiskLab,ORG,0.05555555555555556,0.11111111111111112,en,1.8
 BER,BER,ORG,0.0,0.0,en,1.8
@@ -23,51 +21,53 @@ Storm Elli,Storm Elli,ORG,-0.024691358024691364,0.2469135802469136,en,1.8
 Sun,Sun,ORG,-0.06944444444444445,0.20833333333333331,en,1.8
 Bohemian Switzerland National Park: Fire near,Bohemian Switzerland National Park: Fire near,ORG,0.11111111111111112,0.22222222222222224,en,1.8
 Germany Blog,Germany Blog,ORG,-0.5555555555555556,0.0,en,1.8
-Brexit,Brexit,ORG,0.04166666666666667,0.375,en,1.8
 ntv,ntv,ORG,0.3333333333333333,0.06944444444444445,en,1.8
+Brexit,Brexit,ORG,0.04166666666666667,0.375,en,1.8
 Icelandic,Icelandic,ORG,-0.08823529411764704,0.49019607843137253,en,1.7
 NRW,NRW,ORG,0.07843137254901966,0.4705882352941177,en,1.7
 KFV,KFV,ORG,0.08823529411764708,0.11764705882352942,en,1.7
-ORF,ORF,ORG,0.0273109243697479,0.4117647058823529,en,1.7
 LNG,LNG,ORG,0.0,0.0,en,1.7
+ORF,ORF,ORG,0.0273109243697479,0.4117647058823529,en,1.7
 Rapid,Rapid,ORG,0.8958333333333333,0.35416666666666663,en,1.6
 NATO,NATO,ORG,0.028409090909090905,0.0,en,1.6
+the Ice Hockey World Cup,the Ice Hockey World Cup,ORG,0.31168831168831157,0.49999999999999983,en,1.4000000000000004
 Baden-Württemberg,Baden-Württemberg,ORG,-0.0641025641025641,0.0,en,1.3
 Splügen,Splügen,ORG,0.243006993006993,0.4895104895104895,en,1.3
 the Admiral Bundesliga,the Admiral Bundesliga,ORG,-1.0675221390626504e-17,0.2948717948717948,en,1.3
-FAZ,FAZ,ORG,-0.04326923076923076,0.23076923076923075,en,1.3
 Netflix,Netflix,ORG,0.3846153846153846,0.3076923076923077,en,1.3
 Liebenau-Gugu,Liebenau-Gugu,ORG,-0.3461538461538461,0.07692307692307693,en,1.3
+FAZ,FAZ,ORG,-0.04326923076923076,0.23076923076923075,en,1.3
+Sturm,Sturm,ORG,0.19166666666666668,0.7499999999999999,en,1.2000000000000002
 DSDS,DSDS,ORG,0.1666666666666667,0.7499999999999998,en,1.2000000000000002
 FDP,FDP,ORG,0.0,0.0,en,1.2
 Deutschland sucht den Superstar,Deutschland sucht den Superstar,ORG,0.2727272727272727,0.3636363636363636,en,1.1
 Raiffeisen,Raiffeisen,ORG,0.0,0.0,en,1.1
 ZDF,ZDF,ORG,0.18181818181818185,0.0,en,1.1
-Berlin/Munich - Storms,Berlin/Munich - Storms,ORG,-0.16666666666666666,0.0,en,1.0
-Kiel,Kiel,ORG,-0.3,0.0,en,1.0
-linear TV,linear TV,ORG,0.4,0.0,en,1.0
-RTL,RTL,ORG,0.15,0.0,en,1.0
-the Doñana National Park,the Doñana National Park,ORG,0.13777777777777778,0.0,en,1.0
-Cold Sophie 2026,Cold Sophie 2026,ORG,-0.6,0.0,en,1.0
-Hase/Volodin,Hase/Volodin,ORG,0.3866666666666667,0.0,en,1.0
-Geosphere Austria,Geosphere Austria,ORG,0.1,0.0,en,1.0
-ÖEHV,ÖEHV,ORG,0.0,0.0,en,1.0
 the European Space Agency,the European Space Agency,ORG,0.06000000000000001,0.0,en,1.0
-GFZ,GFZ,ORG,0.0,0.0,en,1.0
-Cuxhaven/Helgoland - Due,Cuxhaven/Helgoland - Due,ORG,-0.0625,0.0,en,1.0
+ÖEHV,ÖEHV,ORG,0.0,0.0,en,1.0
 the Upper Austria Ladies,the Upper Austria Ladies,ORG,0.0,0.0,en,1.0
+Hase/Volodin,Hase/Volodin,ORG,0.3866666666666667,0.0,en,1.0
+Cold Sophie 2026,Cold Sophie 2026,ORG,-0.6,0.0,en,1.0
+RTL,RTL,ORG,0.15,0.0,en,1.0
+linear TV,linear TV,ORG,0.4,0.0,en,1.0
+Kiel,Kiel,ORG,-0.3,0.0,en,1.0
+Berlin/Munich - Storms,Berlin/Munich - Storms,ORG,-0.16666666666666666,0.0,en,1.0
+GFZ,GFZ,ORG,0.0,0.0,en,1.0
+Geosphere Austria,Geosphere Austria,ORG,0.1,0.0,en,1.0
+Kremlin,Kremlin,ORG,0.0,0.0,en,1.0
 Potapova,Potapova,ORG,0.0,0.0,en,1.0
 Oberwallmenach,Oberwallmenach,ORG,0.26666666666666666,0.0,en,1.0
+the Doñana National Park,the Doñana National Park,ORG,0.13777777777777778,0.0,en,1.0
+Cuxhaven/Helgoland - Due,Cuxhaven/Helgoland - Due,ORG,-0.0625,0.0,en,1.0
+Comedian Paul Panzer,Comedian Paul Panzer,ORG,0.13636363636363635,0.0,en,1.0
 Germany -,Germany -,ORG,-0.08333333333333333,0.0,en,1.0
 Black Forest,Black Forest,ORG,-0.08333333333333333,0.0,en,1.0
-Comedian Paul Panzer,Comedian Paul Panzer,ORG,0.13636363636363635,0.0,en,1.0
+Paul Panzer,Paul Panzer,ORG,0.0,0.0,en,1.0
 ​​for,​​for,ORG,0.4166666666666667,0.0,en,1.0
-the Institute for Snow and Avalanche Research,the Institute for Snow and Avalanche Research,ORG,0.1,0.0,en,1.0
 Karls-erlebnisdörfer,Karls-erlebnisdörfer,ORG,-0.0125,0.0,en,1.0
-Kremlin,Kremlin,ORG,0.0,0.0,en,1.0
 Karls,Karls,ORG,0.0,0.0,en,1.0
 AUTO BILD,AUTO BILD,ORG,-0.375,0.0,en,1.0
-Paul Panzer,Paul Panzer,ORG,0.0,0.0,en,1.0
+the Institute for Snow and Avalanche Research,the Institute for Snow and Avalanche Research,ORG,0.1,0.0,en,1.0
 Apple,Apple,ORG,0.32142857142857145,0.0,en,1.0
 the Lex Koller,the Lex Koller,ORG,0.0,0.0,en,1.0
 Black Hawk,Black Hawk,ORG,0.04166666666666667,0.0,en,1.0
@@ -83,8 +83,8 @@ Sturm Graz,Sturm Graz,ORG,-0.15000000000000002,0.0,en,1.0
 Green,Green,ORG,0.09999999999999999,0.0,en,1.0
 Heidelberg Play Market:,Heidelberg Play Market:,ORG,0.0,0.0,en,1.0
 Batschkapp,Batschkapp,ORG,0.0,0.0,en,1.0
-the Chamber of Agriculture,the Chamber of Agriculture,ORG,0.16666666666666666,0.0,en,1.0
 the Ice Hockey World Cup - NHL,the Ice Hockey World Cup - NHL,ORG,0.0,0.0,en,1.0
+Cacau,Cacau,ORG,0.0,0.0,en,1.0
 Stanley Cup,Stanley Cup,ORG,0.0,0.0,en,1.0
 the Ice Hockey World Championship,the Ice Hockey World Championship,ORG,0.0,0.0,en,1.0
 Whoop,Whoop,ORG,0.5,0.0,en,1.0
