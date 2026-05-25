@@ -1,23 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-05-25T06:53:00+00:00,Austria,0.7159874416656685,0,1,de,WCE,Europe
-'576c17e8df',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hallein,2026-05-25T06:53:00+00:00,Austria,0.7122576489505971,0,1,de,WCE,Europe
-'23ac100060',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurter Land,2026-05-25T06:53:00+00:00,Austria,0.7117046071406181,0,1,de,WCE,Europe
-'f65d206b41',extremes,Heat Wave,#c40202,wmo,Hitzewelle weiz,2026-05-24T06:22:00+00:00,Austria,0.7103623188991022,0,1,de,WCE,Europe
-'0918c68712',extremes,Heat Wave,#c40202,wmo,Hitzewelle Grieskirchen,2026-05-25T06:53:00+00:00,Austria,0.7096207271887603,0,1,de,WCE,Europe
-'25d361ff38',extremes,Heat Wave,#c40202,wmo,Hitzewelle Dornbirn,2026-05-24T06:22:00+00:00,Austria,0.7094129342506841,0,1,de,WCE,Europe
-'b6866b3638',extremes,Heat Wave,#c40202,wmo,Hitzewelle Spittal an der Drau,2026-05-25T06:53:00+00:00,Austria,0.7073713072195851,0,1,de,WCE,Europe
-'a7dc4db3f7',extremes,Heat Wave,#c40202,wmo,Hitzewelle imst,2026-05-24T06:22:00+00:00,Austria,0.7044140787645062,0,1,de,WCE,Europe
-'995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ã–sterreich,2026-05-24T06:22:00+00:00,Austria,0.6207081030719493,1,1,de,WCE,Europe
+'4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-05-25T06:53:00+00:00,Austria,0.6085893254158182,1,1,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-04-11T04:34:00+00:00,Germany,0.6081703134163995,2,3,de,WCE,Europe
+'576c17e8df',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hallein,2026-05-25T06:53:00+00:00,Austria,0.6054190016080075,1,1,de,WCE,Europe
+'23ac100060',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurter Land,2026-05-25T06:53:00+00:00,Austria,0.6049489160695254,1,1,de,WCE,Europe
+'f65d206b41',extremes,Heat Wave,#c40202,wmo,Hitzewelle weiz,2026-05-24T06:22:00+00:00,Austria,0.6038079710642368,1,1,de,WCE,Europe
+'0918c68712',extremes,Heat Wave,#c40202,wmo,Hitzewelle Grieskirchen,2026-05-25T06:53:00+00:00,Austria,0.6031776181104462,1,1,de,WCE,Europe
+'25d361ff38',extremes,Heat Wave,#c40202,wmo,Hitzewelle Dornbirn,2026-05-24T06:22:00+00:00,Austria,0.6030009941130815,1,1,de,WCE,Europe
+'b6866b3638',extremes,Heat Wave,#c40202,wmo,Hitzewelle Spittal an der Drau,2026-05-25T06:53:00+00:00,Austria,0.6012656111366473,1,1,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
-'de37eb7f33',extremes,Heat Wave,#c40202,wmo,Hitzewelle perg,2026-05-24T06:22:00+00:00,Austria,0.5966126592425361,1,1,de,WCE,Europe
+'a7dc4db3f7',extremes,Heat Wave,#c40202,wmo,Hitzewelle imst,2026-05-24T06:22:00+00:00,Austria,0.5987519669498302,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5962900841477446,1,2,de,WCE,Europe
-'5dd4b0774d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eferding,2026-05-24T06:22:00+00:00,Austria,0.5961747674809198,1,1,de,WCE,Europe
-'26ad6b04a8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschlandsberg,2026-05-24T06:22:00+00:00,Austria,0.5951968424711499,1,1,de,WCE,Europe
-'17b0136195',extremes,Heat Wave,#c40202,wmo,Hitzewelle Völkermarkt,2026-05-24T06:22:00+00:00,Austria,0.5948379750982102,1,1,de,WCE,Europe
-'9c74be65b8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schärding,2026-05-24T06:22:00+00:00,Austria,0.5941744082253965,1,1,de,WCE,Europe
-'4a9dee2eb3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Jennersdorf,2026-05-24T06:22:00+00:00,Austria,0.5932418903535858,1,1,de,WCE,Europe
-'2f548c5822',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schwaz,2026-05-24T06:22:00+00:00,Austria,0.5910816037035385,1,1,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-04-21T05:15:00+00:00,Italy,0.5898126001854604,1,2,de,MED,Europe
 '4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-04-30T05:46:00+00:00,Austria,0.5856170236855226,1,1,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-04-20T05:27:00+00:00,Germany,0.5789003670432921,1,2,de,WCE,Europe
@@ -36,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5314186275972063,2,1,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-04-16T05:17:00+00:00,Austria,0.5301438074913947,3,2,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-04-07T04:59:00+00:00,Germany,0.5298221597052069,2,3,de,WCE,Europe
+'995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ã–sterreich,2026-05-24T06:22:00+00:00,Austria,0.5276018876111569,2,1,de,WCE,Europe
 '2693e2fe02',extremes,Storm,#b3b2b1,wmo,Sturm Murau,2026-04-19T05:16:00+00:00,Austria,0.5237624387859867,3,2,de,WCE,Europe
 'b4a720ff08',extremes,Snow&Ice,#d60d2b,wmo,Eis Entlebuch,2026-05-13T06:03:00+00:00,Switzerland,0.5216673821638296,1,1,de,WCE,Europe
 '6c21bed8ae',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Hulftegg Untertoggenburg,2026-04-17T05:16:00+00:00,Switzerland,0.5209441905239245,1,1,de,WCE,Europe
@@ -62,14 +55,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1de161b756',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hartberg Fürstenfeld,2026-05-24T06:22:00+00:00,Austria,0.5075514661804894,2,1,de,WCE,Europe
 '538ad91bbf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Voitsberg,2026-05-24T06:22:00+00:00,Austria,0.5074706961035468,2,1,de,WCE,Europe
 'a37d69084b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Feldkirch,2026-05-24T06:22:00+00:00,Austria,0.5071487205359944,2,1,de,WCE,Europe
+'de37eb7f33',extremes,Heat Wave,#c40202,wmo,Hitzewelle perg,2026-05-24T06:22:00+00:00,Austria,0.5071207603561557,2,1,de,WCE,Europe
+'5dd4b0774d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eferding,2026-05-24T06:22:00+00:00,Austria,0.5067485523587818,2,1,de,WCE,Europe
 'a7b8ca3c8a',extremes,Snow&Ice,#d60d2b,wmo,Eis Nidau ​​ins,2026-04-21T05:15:00+00:00,Switzerland,0.50643621730189,1,1,de,WCE,Europe
 'e25443a8be',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Zofingen Triengen,2026-04-21T05:15:00+00:00,Switzerland,0.5064004760723254,1,1,de,WCE,Europe
 '72f03986c3',extremes,Snow&Ice,#d60d2b,wmo,Eis Glarus Nord Mitte,2026-04-17T05:16:00+00:00,Switzerland,0.5061095393568885,1,1,de,WCE,Europe
 '1f5ac63b71',extremes,Snow&Ice,#d60d2b,wmo,Schnee Sumiswald Worb,2026-04-21T05:15:00+00:00,Switzerland,0.5059506036163401,1,1,de,WCE,Europe
+'26ad6b04a8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschlandsberg,2026-05-24T06:22:00+00:00,Austria,0.5059173161004774,2,1,de,WCE,Europe
 '8b7ddca807',extremes,Snow&Ice,#d60d2b,wmo,Eis oron – haute broye,2026-04-21T05:15:00+00:00,Switzerland,0.5058889007864381,1,1,de,WCE,Europe
+'17b0136195',extremes,Heat Wave,#c40202,wmo,Hitzewelle Völkermarkt,2026-05-24T06:22:00+00:00,Austria,0.5056122788334787,2,1,de,WCE,Europe
+'9c74be65b8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schärding,2026-05-24T06:22:00+00:00,Austria,0.505048246991587,2,1,de,WCE,Europe
+'4a9dee2eb3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Jennersdorf,2026-05-24T06:22:00+00:00,Austria,0.5042556068005479,2,1,de,WCE,Europe
 'dd6b34b96b',extremes,Snow&Ice,#d60d2b,wmo,Schnee Wädenswil Rüti,2026-05-01T05:54:00+00:00,Switzerland,0.5041084406126922,1,1,de,WCE,Europe
 '354a9b0a00',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Landquart Chur,2026-04-17T05:16:00+00:00,Switzerland,0.5038347297196452,1,1,de,WCE,Europe
 'fddefce030',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Liechtenstein,2026-05-01T05:54:00+00:00,Switzerland,0.5032891364886611,1,1,de,WCE,Europe
+'2f548c5822',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schwaz,2026-05-24T06:22:00+00:00,Austria,0.5024193631480077,2,1,de,WCE,Europe
 '131cc84711',extremes,Snow&Ice,#d60d2b,wmo,Frost Lyss Grenchen,2026-04-21T05:15:00+00:00,Switzerland,0.5016726785444272,1,1,de,WCE,Europe
 '20cc17d899',extremes,Snow&Ice,#d60d2b,wmo,Schnee Emmen Hochdorf,2026-04-25T05:00:00+00:00,Switzerland,0.5016668626033218,1,1,de,WCE,Europe
 '8944b0683f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Brienz Interlaken,2026-04-24T05:22:00+00:00,Switzerland,0.5011311373850489,1,1,de,WCE,Europe
