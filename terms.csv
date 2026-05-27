@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-05-27T06:46:00+00:00,Austria,0.7077604143275389,0,1,de,WCE,Europe
-'0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-05-26T06:31:00+00:00,Switzerland,0.7046607931196573,0,1,de,WCE,Europe
 '48b7df133f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Melk,2026-05-26T06:31:00+00:00,Austria,0.6754447327319685,0,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-05-26T06:31:00+00:00,Austria,0.6754132918886047,0,1,de,WCE,Europe
 'd0cacfcd20',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Wärring,2026-05-26T06:31:00+00:00,Austria,0.672683960522067,0,1,de,WCE,Europe
@@ -8,7 +6,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97e8e6e190',extremes,Heat Wave,#c40202,wmo,Hitzewelle Locarnese,2026-05-26T06:31:00+00:00,Switzerland,0.6718027825665022,0,1,de,WCE,Europe
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Riviera,2026-05-26T06:31:00+00:00,Switzerland,0.6710048938115151,0,1,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-04-11T04:34:00+00:00,Germany,0.6081703134163995,2,3,de,WCE,Europe
+'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-05-27T06:46:00+00:00,Austria,0.601596352178408,1,1,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
+'0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-05-26T06:31:00+00:00,Switzerland,0.5991116891517088,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5962900841477446,1,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-04-21T05:15:00+00:00,Italy,0.5898126001854604,1,2,de,MED,Europe
 '4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-04-30T05:46:00+00:00,Austria,0.5856170236855226,1,1,de,WCE,Europe
