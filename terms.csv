@@ -1,7 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luxemburg,2026-05-26T06:31:00+00:00,Luxembourg,0.7154472935198196,1,2,de,WCE,Europe
 'baad89d880',extremes,Heat Wave,#c40202,wmo,Hitzewelle Mödling,2026-05-26T06:31:00+00:00,Austria,0.6624148636758846,0,1,de,WCE,Europe
+'43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.6597214278196729,0,1,de,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-05-26T06:31:00+00:00,Austria,0.6565757058713997,0,1,de,WCE,Europe
+'6aad127a70',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien brodelt,2026-05-27T06:46:00+00:00,Austria,0.6464119974612008,0,1,de,WCE,Europe
+'373a7dee66',extremes,Heat Wave,#c40202,wmo,Hitzewelle Feldkirchen,2026-05-25T06:53:00+00:00,Austria,0.6436515998439838,0,1,de,WCE,Europe
+'0392d8d3fc',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Brigittenau,2026-05-27T06:46:00+00:00,Austria,0.6403641627894391,0,1,de,WCE,Europe
+'0568f120c7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Innsbruck Stadt,2026-05-24T06:22:00+00:00,Austria,0.6402595868625366,0,1,de,WCE,Europe
+'c83f84aa0c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Alsergrund,2026-05-27T06:46:00+00:00,Austria,0.6393038144002431,0,1,de,WCE,Europe
+'37c2f83cd3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Josefstadt,2026-05-26T06:31:00+00:00,Austria,0.6377995330485294,0,1,de,WCE,Europe
+'da3f45eeca',extremes,Snow&Ice,#d60d2b,wmo,eiskalt Biel Neuenburg,2026-05-17T06:01:00+00:00,Switzerland,0.6361291352308017,0,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.6291984489864488,1,1,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-04-11T04:34:00+00:00,Germany,0.6081703134163995,2,3,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
