@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'add797bdd0',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gänserndorf,2026-05-27T06:46:00+00:00,Austria,0.6355138484665702,0,1,de,WCE,Europe
+'eecd031bb8',extremes,Thunderstorm,#53785a,wmo,"Hagel, Murtal",2026-05-27T06:46:00+00:00,Austria,0.6293736027956743,0,1,de,WCE,Europe
+'efb002bcd6',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eisenstadt Stadt,2026-05-27T06:46:00+00:00,Austria,0.6274875438170133,0,1,de,WCE,Europe
+'997d3a0b2a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Leopoldstadt,2026-05-27T06:46:00+00:00,Austria,0.6259938550784158,0,1,de,WCE,Europe
+'80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-05-27T06:46:00+00:00,Austria,0.623097357715884,0,1,de,WCE,Europe
+'338cd644ea',extremes,Storm,#b3b2b1,wmo,Sturm Graz Stadt,2026-05-27T06:46:00+00:00,Austria,0.6223619609752171,0,1,de,WCE,Europe
+'bcd59ca149',extremes,Snow&Ice,#d60d2b,wmo,Eis werdenberg,2026-05-13T06:03:00+00:00,Switzerland,0.6219837900818858,0,1,de,WCE,Europe
+'4b17a1cdac',extremes,Snow&Ice,#d60d2b,wmo,Eis vor den Waadtländer Alpen,2026-05-14T06:02:00+00:00,Switzerland,0.6212287268211173,0,1,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-04-11T04:34:00+00:00,Germany,0.6081703134163995,2,3,de,WCE,Europe
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luxemburg,2026-05-26T06:31:00+00:00,Luxembourg,0.6081302294918467,2,1,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
