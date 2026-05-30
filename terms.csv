@@ -1,6 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'d4b40d7444',extremes,Storm,#b3b2b1,wmo,Sturm Klagenfurt Stadt,2026-05-27T06:46:00+00:00,Austria,0.621536910780332,0,1,de,WCE,Europe
+'519e9b6757',extremes,Thunderstorm,#53785a,wmo,Hagel Rust Stadt,2026-05-30T06:01:00+00:00,Austria,0.620416900419738,0,1,de,WCE,Europe
+'5a66b177fc',extremes,Thunderstorm,#53785a,wmo,Hagel GmÃ¼nd,2026-05-30T06:01:00+00:00,Austria,0.6179676017466349,0,1,de,WCE,Europe
+'028b8a95f1',extremes,Thunderstorm,#53785a,wmo,Hagel Waidhofen an der Ybbs Stadt,2026-05-30T06:01:00+00:00,Austria,0.612501674087929,0,1,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-04-11T04:34:00+00:00,Germany,0.6081703134163995,2,3,de,WCE,Europe
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luxemburg,2026-05-26T06:31:00+00:00,Luxembourg,0.6081302294918467,2,1,de,WCE,Europe
+'68b1e924ba',extremes,Thunderstorm,#53785a,wmo,Hagel Mattersburg,2026-05-30T06:01:00+00:00,Austria,0.6047181617493304,0,1,de,WCE,Europe
+'191282e733',extremes,Thunderstorm,#53785a,wmo,Unwetter Wien Donaustadt,2026-05-30T06:01:00+00:00,Austria,0.604274318427921,0,1,de,WCE,Europe
+'8bbbd2e51b',extremes,Thunderstorm,#53785a,wmo,Unwetter Tulln,2026-05-30T06:01:00+00:00,Austria,0.6025341878697822,0,1,de,WCE,Europe
+'d46357b6a7',extremes,Thunderstorm,#53785a,wmo,Unwetter Grieskirchen,2026-05-30T06:01:00+00:00,Austria,0.6024705309949595,0,1,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.6009827972810599,1,2,de,WCE,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-05-28T06:38:00+00:00,Iceland,0.5997340177444964,0,1,de,GIC,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5962900841477446,1,2,de,WCE,Europe
