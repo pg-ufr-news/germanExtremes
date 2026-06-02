@@ -1,9 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.7037096291586262,0,1,de,WCE,Europe
-'c90f85775b',extremes,Thunderstorm,#53785a,wmo,Unwetter Luxemburg,2026-06-02T07:08:00+00:00,Luxembourg,0.6454720890426455,0,1,de,WCE,Europe
-'fa7af29bef',extremes,Thunderstorm,#53785a,wmo,Gewitter Luxemburg,2026-06-02T07:08:00+00:00,Luxembourg,0.6371969488657868,0,1,de,WCE,Europe
 'e8e8c6957c',extremes,Snow&Ice,#d60d2b,wmo,Frost ist vollständig vorhanden,2026-05-17T06:01:00+00:00,Switzerland,0.616784389570612,0,1,de,WCE,Europe
 '67da8791c0',extremes,Snow&Ice,#d60d2b,wmo,Eis-Ostfjorde,2026-06-02T07:08:00+00:00,Iceland,0.6003374964769866,0,1,de,GIC,Europe
+'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.5981531847848323,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5962900841477446,1,2,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-05-12T05:52:00+00:00,Switzerland,0.5940752689846589,1,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5924835181427092,3,2,de,WCE,Europe
@@ -23,8 +21,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.560763213646722,1,1,de,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-05-17T06:01:00+00:00,Switzerland,0.5574018998517447,2,1,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2026-05-06T05:43:00+00:00,Germany,0.5542625467574895,3,1,de,WCE,Europe
+'c90f85775b',extremes,Thunderstorm,#53785a,wmo,Unwetter Luxemburg,2026-06-02T07:08:00+00:00,Luxembourg,0.5486512756862487,1,1,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-05-06T05:43:00+00:00,Austria,0.5457973081171611,1,1,de,WCE,Europe
 'c4d6d26fcd',extremes,Storm,#b3b2b1,wmo,Sturm Wien liegt,2026-05-05T05:29:00+00:00,Austria,0.5440684998403934,2,2,de,WCE,Europe
+'fa7af29bef',extremes,Thunderstorm,#53785a,wmo,Gewitter Luxemburg,2026-06-02T07:08:00+00:00,Luxembourg,0.5419174365359188,1,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-04-30T05:46:00+00:00,Germany,0.5377927204187213,2,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-04-20T05:27:00+00:00,Germany,0.5358420419076095,2,3,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ã–sterreich,2026-05-24T06:22:00+00:00,Austria,0.5276018876111569,2,1,de,WCE,Europe
