@@ -1,10 +1,18 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.7037096291586262,0,1,de,WCE,Europe
+'c90f85775b',extremes,Thunderstorm,#53785a,wmo,Unwetter Luxemburg,2026-06-02T07:08:00+00:00,Luxembourg,0.6454720890426455,0,1,de,WCE,Europe
+'fa7af29bef',extremes,Thunderstorm,#53785a,wmo,Gewitter Luxemburg,2026-06-02T07:08:00+00:00,Luxembourg,0.6371969488657868,0,1,de,WCE,Europe
+'e8e8c6957c',extremes,Snow&Ice,#d60d2b,wmo,Frost ist vollständig vorhanden,2026-05-17T06:01:00+00:00,Switzerland,0.616784389570612,0,1,de,WCE,Europe
+'67da8791c0',extremes,Snow&Ice,#d60d2b,wmo,Eis-Ostfjorde,2026-06-02T07:08:00+00:00,Iceland,0.6003374964769866,0,1,de,GIC,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5962900841477446,1,2,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-05-12T05:52:00+00:00,Switzerland,0.5940752689846589,1,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5924835181427092,3,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-04-21T05:15:00+00:00,Italy,0.5898126001854604,1,2,de,MED,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.5885135054161736,2,3,de,WCE,Europe
+'351c432035',extremes,Thunderstorm,#53785a,wmo,Gewitter Belgien,2026-06-02T07:08:00+00:00,Belgium,0.5879968307658515,0,1,de,WCE,Europe
+'d227c65851',extremes,Precipitation,#d60d2b,wmo,Regen Brienz Interlaken,2026-06-02T07:08:00+00:00,Switzerland,0.5878910094454612,0,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-05-26T06:31:00+00:00,Austria,0.5835977876507685,1,2,de,WCE,Europe
+'6448a46c1a',extremes,Thunderstorm,#53785a,wmo,Hagel Namur,2026-06-02T07:08:00+00:00,Belgium,0.5823167090982868,0,1,de,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-05-26T06:31:00+00:00,Austria,0.5803395749906897,1,1,de,WCE,Europe
 '338cd644ea',extremes,Storm,#b3b2b1,wmo,Sturm Graz Stadt,2026-05-27T06:46:00+00:00,Austria,0.5799077568289345,1,1,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-04-20T05:27:00+00:00,Germany,0.5789003670432921,1,2,de,WCE,Europe
@@ -167,7 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6899e22830',extremes,Snow&Ice,#d60d2b,wmo,Sumiswald Worb gefriert,2026-04-27T05:40:00+00:00,Switzerland,0.4697450298208544,1,1,de,WCE,Europe
 '3d4ffbc119',extremes,Storm,#b3b2b1,wmo,Sturm Friaul Julisch Venetien,2026-04-28T05:45:00+00:00,Italy,0.4694611545117114,1,1,de,MED,Europe
 '1a5689dc3f',extremes,Storm,#b3b2b1,wmo,Sturmflut Neusiedl am See,2026-05-05T05:29:00+00:00,Austria,0.4689377332918918,1,1,de,WCE,Europe
-'c366e9882a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vöcklabruck,2026-05-25T06:53:00+00:00,Austria,0.46824580582211495,1,1,de,WCE,Europe
+'c366e9882a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vöcklabruck,2026-05-25T06:53:00+00:00,Austria,0.4682458058221149,1,1,de,WCE,Europe
 'adf5595b75',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Deutschland,2026-05-11T06:14:00+00:00,Germany,0.4679289383220365,2,1,de,WCE,Europe
 '9a5e0b935b',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Döbling,2026-05-05T05:29:00+00:00,Austria,0.4676711412270066,1,1,de,WCE,Europe
 '2705694fea',extremes,Storm,#b3b2b1,wmo,Sturm Wien Margareten,2026-05-05T05:29:00+00:00,Austria,0.4676409309186192,1,1,de,WCE,Europe
@@ -244,9 +252,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ea0e31db4',extremes,Drought,#edc291,edo,Regenmangel Belgien,2026-05-16T05:40:00+00:00,Belgium,0.4491256063805863,1,1,de,WCE,Europe
 'c4e95835b8',extremes,Storm,#b3b2b1,wmo,Sturm Urner Oberland,2026-05-04T05:50:00+00:00,Switzerland,0.4490109070056837,2,1,de,WCE,Europe
 '4b17a1cdac',extremes,Snow&Ice,#d60d2b,wmo,Eis vor den Waadtländer Alpen,2026-05-14T06:02:00+00:00,Switzerland,0.4488377551282572,2,1,de,WCE,Europe
-'519e9b6757',extremes,Thunderstorm,#53785a,wmo,Hagel Rust Stadt,2026-05-30T06:01:00+00:00,Austria,0.44825121055326067,2,1,de,WCE,Europe
+'519e9b6757',extremes,Thunderstorm,#53785a,wmo,Hagel Rust Stadt,2026-05-30T06:01:00+00:00,Austria,0.4482512105532606,2,1,de,WCE,Europe
 'ddcb5d8eb9',extremes,Thunderstorm,#53785a,wmo,Unwetter Emilia und Romagna,2026-05-11T06:14:00+00:00,Italy,0.4482505802481827,0,1,de,MED,Europe
-'9895f39f78',extremes,Heat Wave,#c40202,wmo,Hitzewelle Neunkirchen,2026-05-27T06:46:00+00:00,Austria,0.44805542570475904,2,1,de,WCE,Europe
+'9895f39f78',extremes,Heat Wave,#c40202,wmo,Hitzewelle Neunkirchen,2026-05-27T06:46:00+00:00,Austria,0.448055425704759,2,1,de,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-05-11T06:14:00+00:00,Italy,0.4480388132566509,1,1,de,MED,Europe
 '504a6f9634',extremes,Storm,#b3b2b1,wmo,Sturm Erstfeld Engelberg,2026-05-04T05:50:00+00:00,Switzerland,0.4478464796998705,2,1,de,WCE,Europe
 '983b7cfa35',extremes,Snow&Ice,#d60d2b,wmo,Frost Biel Neuenburg,2026-04-27T05:40:00+00:00,Switzerland,0.4476872398031941,1,1,de,WCE,Europe
