@@ -1,12 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'67da8791c0',extremes,Snow&Ice,#d60d2b,wmo,Eis-Ostfjorde,2026-06-02T07:08:00+00:00,Iceland,0.6003374964769866,0,1,de,GIC,Europe
-'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.5981531847848323,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5962900841477446,1,2,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-05-12T05:52:00+00:00,Switzerland,0.5940752689846589,1,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5924835181427092,3,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-04-21T05:15:00+00:00,Italy,0.5898126001854604,1,2,de,MED,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.5885135054161736,2,3,de,WCE,Europe
-'351c432035',extremes,Thunderstorm,#53785a,wmo,Gewitter Belgien,2026-06-02T07:08:00+00:00,Belgium,0.5879968307658515,0,1,de,WCE,Europe
 'd227c65851',extremes,Precipitation,#d60d2b,wmo,Regen Brienz Interlaken,2026-06-02T07:08:00+00:00,Switzerland,0.5878910094454612,0,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-05-26T06:31:00+00:00,Austria,0.5835977876507685,1,2,de,WCE,Europe
 '6448a46c1a',extremes,Thunderstorm,#53785a,wmo,Hagel Namur,2026-06-02T07:08:00+00:00,Belgium,0.5823167090982868,0,1,de,WCE,Europe
@@ -32,6 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e8e8c6957c',extremes,Snow&Ice,#d60d2b,wmo,Frost ist vollständig vorhanden,2026-05-17T06:01:00+00:00,Switzerland,0.5247167761350202,1,1,de,WCE,Europe
 'ddf73912d5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Margareten,2026-05-27T06:46:00+00:00,Austria,0.5245485449804966,1,1,de,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Laufental,2026-05-13T06:03:00+00:00,Switzerland,0.5241897353094583,1,1,de,WCE,Europe
+'351c432035',extremes,Thunderstorm,#53785a,wmo,Gewitter Belgien,2026-06-02T07:08:00+00:00,Belgium,0.5222759825795452,1,1,de,WCE,Europe
 'b4a720ff08',extremes,Snow&Ice,#d60d2b,wmo,Eis Entlebuch,2026-05-13T06:03:00+00:00,Switzerland,0.5216673821638296,1,1,de,WCE,Europe
 'f5257af514',extremes,Storm,#b3b2b1,wmo,Sturm Feldkirchen,2026-05-27T06:46:00+00:00,Austria,0.521242387198563,1,1,de,WCE,Europe
 '028b8a95f1',extremes,Thunderstorm,#53785a,wmo,Hagel Waidhofen an der Ybbs Stadt,2026-05-30T06:01:00+00:00,Austria,0.5206264229747396,1,1,de,WCE,Europe
@@ -64,11 +62,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6866b3638',extremes,Heat Wave,#c40202,wmo,Hitzewelle Spittal an der Drau,2026-05-25T06:53:00+00:00,Austria,0.5110757694661502,2,1,de,WCE,Europe
 '174bbfe494',extremes,Heat Wave,#c40202,wmo,Hitzewelle Braunau am Gasthaus,2026-05-24T06:22:00+00:00,Austria,0.510367406647168,2,1,de,WCE,Europe
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Limburg,2026-05-26T06:31:00+00:00,Belgium,0.5103282555983755,1,1,de,WCE,Europe
+'67da8791c0',extremes,Snow&Ice,#d60d2b,wmo,Eis-Ostfjorde,2026-06-02T07:08:00+00:00,Iceland,0.5102868720054387,1,1,de,GIC,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-05-28T06:38:00+00:00,Iceland,0.510223960082822,1,1,de,GIC,Europe
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,Schnee-Island,2026-05-29T06:38:00+00:00,Iceland,0.5097263768639545,1,1,de,GIC,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-05-26T06:31:00+00:00,Switzerland,0.5093949507789525,2,1,de,WCE,Europe
 'a7dc4db3f7',extremes,Heat Wave,#c40202,wmo,Hitzewelle imst,2026-05-24T06:22:00+00:00,Austria,0.5089391719073557,2,1,de,WCE,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Ostfjorde,2026-05-29T06:38:00+00:00,Iceland,0.5088334620189322,1,1,de,GIC,Europe
+'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.5084302070671074,2,1,de,WCE,Europe
 'cd26928722',extremes,Heat Wave,#c40202,wmo,Hitzewelle Linzer Land,2026-05-24T06:22:00+00:00,Austria,0.5083770652770997,2,1,de,WCE,Europe
 '000af0663c',extremes,Storm,#b3b2b1,wmo,Sturmflut Steyrland,2026-05-30T06:01:00+00:00,Austria,0.5083675564688674,1,1,de,WCE,Europe
 '4e2c70caba',extremes,Storm,#b3b2b1,wmo,Sturmflut Perg,2026-05-30T06:01:00+00:00,Austria,0.5083037502857792,1,1,de,WCE,Europe
@@ -99,7 +99,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '426dfc62d8',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Ottakring,2026-05-30T06:01:00+00:00,Austria,0.502968416880178,1,1,de,WCE,Europe
 '2f548c5822',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schwaz,2026-05-24T06:22:00+00:00,Austria,0.5024193631480077,2,1,de,WCE,Europe
 '73e3b9abec',extremes,Snow&Ice,#d60d2b,wmo,Frost Ostisland,2026-05-30T06:01:00+00:00,Iceland,0.5023851797591569,1,1,de,GIC,Europe
-'20cc17d899',extremes,Snow&Ice,#d60d2b,wmo,Schnee Emmen Hochdorf,2026-04-25T05:00:00+00:00,Switzerland,0.5016668626033218,1,1,de,WCE,Europe
 '43eb4d9368',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eisenstadt Umgebung,2026-05-26T06:31:00+00:00,Austria,0.5012813970301708,2,1,de,WCE,Europe
 '6423d3e9f5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Neubau,2026-05-26T06:31:00+00:00,Austria,0.5006163286954982,2,1,de,WCE,Europe
 'fccc1a846a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Stadt,2026-05-26T06:31:00+00:00,Austria,0.5001072167607387,2,1,de,WCE,Europe
@@ -153,7 +152,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c9f3a79d5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bellinzona,2026-05-26T06:31:00+00:00,Switzerland,0.482623076523394,2,1,de,WCE,Europe
 '33db445b97',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurt Stadt,2026-05-26T06:31:00+00:00,Austria,0.4820192744088379,2,1,de,WCE,Europe
 'dd14e97d87',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oberwart,2026-05-26T06:31:00+00:00,Austria,0.4815083583986783,2,1,de,WCE,Europe
-'c17dba4c33',extremes,Snow&Ice,#d60d2b,wmo,Schnee Zofingen Triengen,2026-04-25T05:00:00+00:00,Switzerland,0.4806115044599853,1,1,de,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-05-02T05:24:00+00:00,Switzerland,0.4793823678350976,2,2,de,WCE,Europe
 'baad89d880',extremes,Heat Wave,#c40202,wmo,Hitzewelle Mödling,2026-05-26T06:31:00+00:00,Austria,0.4785947390058266,2,1,de,WCE,Europe
 '213b50b853',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luxemburg Süden,2026-05-23T05:53:00+00:00,Luxembourg,0.4766743968378034,2,1,de,WCE,Europe
