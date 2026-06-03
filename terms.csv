@@ -7,15 +7,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd227c65851',extremes,Precipitation,#d60d2b,wmo,Regen Brienz Interlaken,2026-06-02T07:08:00+00:00,Switzerland,0.5878910094454612,0,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-05-26T06:31:00+00:00,Austria,0.5835977876507685,1,2,de,WCE,Europe
 '6448a46c1a',extremes,Thunderstorm,#53785a,wmo,Hagel Namur,2026-06-02T07:08:00+00:00,Belgium,0.5823167090982868,0,1,de,WCE,Europe
+'185c1a17b7',extremes,Snow&Ice,#d60d2b,wmo,Frostvouvry,2026-05-17T06:01:00+00:00,Switzerland,0.5805602472506505,0,1,de,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-05-26T06:31:00+00:00,Austria,0.5803395749906897,1,1,de,WCE,Europe
 '338cd644ea',extremes,Storm,#b3b2b1,wmo,Sturm Graz Stadt,2026-05-27T06:46:00+00:00,Austria,0.5799077568289345,1,1,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-04-20T05:27:00+00:00,Germany,0.5789003670432921,1,2,de,WCE,Europe
+'7106d0ba4f',extremes,Storm,#b3b2b1,wmo,Sturmflut Belgien,2026-06-02T07:08:00+00:00,Belgium,0.5787621602281932,0,1,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5748787674962664,1,2,de,WCE,Europe
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2026-05-06T05:43:00+00:00,Germany,0.574587153667561,2,2,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-04-29T05:40:00+00:00,Austria,0.5734136819702553,2,1,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-05-30T06:01:00+00:00,Germany,0.5725935968672842,1,2,de,WCE,Europe
+'b317b52df4',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Turbenthal Sirnach,2026-06-02T07:08:00+00:00,Switzerland,0.5680769293608232,0,1,de,WCE,Europe
+'0fe21077f2',extremes,Snow&Ice,#d60d2b,wmo,Eis Yverdon Bevaix,2026-05-17T06:01:00+00:00,Switzerland,0.566852564473538,0,1,de,WCE,Europe
+'0301a561b6',extremes,Thunderstorm,#53785a,wmo,Hagel Apulien,2026-06-02T07:08:00+00:00,Italy,0.5648554414491443,0,1,de,MED,Europe
+'5022ceabea',extremes,Storm,#b3b2b1,wmo,Sturmflut Abruzzen,2026-06-02T07:08:00+00:00,Italy,0.5634829304822826,0,1,de,MED,Europe
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.560763213646722,1,1,de,WCE,Europe
+'484f861deb',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Adelboden Kandersteg,2026-06-02T07:08:00+00:00,Switzerland,0.5582096550029998,0,1,de,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-05-17T06:01:00+00:00,Switzerland,0.5574018998517447,2,1,de,WCE,Europe
+'9a09042a39',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen hulftegg untertoggenburg,2026-06-02T07:08:00+00:00,Switzerland,0.556086656915063,0,1,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2026-05-06T05:43:00+00:00,Germany,0.5542625467574895,3,1,de,WCE,Europe
 'c90f85775b',extremes,Thunderstorm,#53785a,wmo,Unwetter Luxemburg,2026-06-02T07:08:00+00:00,Luxembourg,0.5486512756862487,1,1,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-05-06T05:43:00+00:00,Austria,0.5457973081171611,1,1,de,WCE,Europe
