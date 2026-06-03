@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'dba5720d63',extremes,Snow&Ice,#d60d2b,wmo,Eis Ostisland,2026-06-03T07:23:00+00:00,Iceland,0.601906247953178,0,1,de,GIC,Europe
-'29ab340774',extremes,Precipitation,#d60d2b,wmo,Platzregen Langnau Eggiwil,2026-06-03T07:23:00+00:00,Switzerland,0.6017215581420969,0,1,de,WCE,Europe
-'716066cd14',extremes,Snow&Ice,#d60d2b,wmo,Frost in den Ostfjorden,2026-05-30T06:01:00+00:00,Iceland,0.5992768341590184,0,1,de,GIC,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5962900841477446,1,2,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-05-12T05:52:00+00:00,Switzerland,0.5940752689846589,1,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5924835181427092,3,2,de,WCE,Europe
@@ -62,6 +59,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd46357b6a7',extremes,Thunderstorm,#53785a,wmo,Unwetter Grieskirchen,2026-05-30T06:01:00+00:00,Austria,0.5120999513457156,1,1,de,WCE,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,Eis Island,2026-05-29T06:38:00+00:00,Iceland,0.5118278559506678,1,1,de,GIC,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,Nebel Belgien,2026-04-25T05:00:00+00:00,Belgium,0.5116463993287431,2,2,de,WCE,Europe
+'dba5720d63',extremes,Snow&Ice,#d60d2b,wmo,Eis Ostisland,2026-06-03T07:23:00+00:00,Iceland,0.5116203107602013,1,1,de,GIC,Europe
+'29ab340774',extremes,Precipitation,#d60d2b,wmo,Platzregen Langnau Eggiwil,2026-06-03T07:23:00+00:00,Switzerland,0.5114633244207824,1,1,de,WCE,Europe
 'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-05-27T06:46:00+00:00,Austria,0.5113568993516467,2,1,de,WCE,Europe
 'b6866b3638',extremes,Heat Wave,#c40202,wmo,Hitzewelle Spittal an der Drau,2026-05-25T06:53:00+00:00,Austria,0.5110757694661502,2,1,de,WCE,Europe
 '174bbfe494',extremes,Heat Wave,#c40202,wmo,Hitzewelle Braunau am Gasthaus,2026-05-24T06:22:00+00:00,Austria,0.510367406647168,2,1,de,WCE,Europe
@@ -69,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67da8791c0',extremes,Snow&Ice,#d60d2b,wmo,Eis-Ostfjorde,2026-06-02T07:08:00+00:00,Iceland,0.5102868720054387,1,1,de,GIC,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-05-28T06:38:00+00:00,Iceland,0.510223960082822,1,1,de,GIC,Europe
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,Schnee-Island,2026-05-29T06:38:00+00:00,Iceland,0.5097263768639545,1,1,de,GIC,Europe
+'716066cd14',extremes,Snow&Ice,#d60d2b,wmo,Frost in den Ostfjorden,2026-05-30T06:01:00+00:00,Iceland,0.5095353240351657,1,1,de,GIC,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-05-26T06:31:00+00:00,Switzerland,0.5093949507789525,2,1,de,WCE,Europe
 'a7dc4db3f7',extremes,Heat Wave,#c40202,wmo,Hitzewelle imst,2026-05-24T06:22:00+00:00,Austria,0.5089391719073557,2,1,de,WCE,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,eiskalte Ostfjorde,2026-05-29T06:38:00+00:00,Iceland,0.5088334620189322,1,1,de,GIC,Europe
