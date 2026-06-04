@@ -8,10 +8,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-05-26T06:31:00+00:00,Austria,0.5803395749906897,1,1,de,WCE,Europe
 '338cd644ea',extremes,Storm,#b3b2b1,wmo,Sturm Graz Stadt,2026-05-27T06:46:00+00:00,Austria,0.5799077568289345,1,1,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-04-20T05:27:00+00:00,Germany,0.5789003670432921,1,2,de,WCE,Europe
+'fcc9a54ff2',extremes,Precipitation,#d60d2b,wmo,Regen Kerenzerberg Seeztal,2026-06-03T07:23:00+00:00,Switzerland,0.575401349496145,0,1,de,WCE,Europe
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5748787674962664,1,2,de,WCE,Europe
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2026-05-06T05:43:00+00:00,Germany,0.574587153667561,2,2,de,WCE,Europe
+'3a7960fcd2',extremes,Precipitation,#d60d2b,wmo,Regen Appenzell,2026-06-03T07:23:00+00:00,Switzerland,0.5739719629702378,0,1,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-04-29T05:40:00+00:00,Austria,0.5734136819702553,2,1,de,WCE,Europe
+'3368e9441b',extremes,Precipitation,#d60d2b,wmo,Regen Entlebuch,2026-06-03T07:23:00+00:00,Switzerland,0.5732651547325188,0,1,de,WCE,Europe
+'dcbf7954b0',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Wädenswil Rüti,2026-06-03T07:23:00+00:00,Switzerland,0.572745222839601,0,1,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-05-30T06:01:00+00:00,Germany,0.5725935968672842,1,2,de,WCE,Europe
+'28afa46279',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Glarus Nord Mitte,2026-06-03T07:23:00+00:00,Switzerland,0.5712758495743024,0,1,de,WCE,Europe
+'1660e0818c',extremes,Precipitation,#d60d2b,wmo,Niederschlag Obertoggenburg,2026-06-03T07:23:00+00:00,Switzerland,0.5700336417562855,0,1,de,WCE,Europe
+'b7030f8398',extremes,Precipitation,#d60d2b,wmo,Niederschlag frutigen kiental,2026-06-03T07:23:00+00:00,Switzerland,0.5695224432280829,0,1,de,WCE,Europe
+'851be9f98e',extremes,Precipitation,#d60d2b,wmo,Niederschlag Gersau Engelbergertal,2026-06-03T07:23:00+00:00,Switzerland,0.5667774323752223,0,1,de,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-05-17T06:01:00+00:00,Switzerland,0.5574018998517447,2,1,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2026-05-06T05:43:00+00:00,Germany,0.5542625467574895,3,1,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-05-06T05:43:00+00:00,Austria,0.5457973081171611,1,1,de,WCE,Europe
@@ -161,7 +169,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,Sturmflut Abruzzen,2026-06-02T07:08:00+00:00,Italy,0.4789604909099402,1,1,de,MED,Europe
 'baad89d880',extremes,Heat Wave,#c40202,wmo,Hitzewelle Mödling,2026-05-26T06:31:00+00:00,Austria,0.4785947390058266,2,1,de,WCE,Europe
 '213b50b853',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luxemburg Süden,2026-05-23T05:53:00+00:00,Luxembourg,0.4766743968378034,2,1,de,WCE,Europe
-'43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.47664873159971366,2,1,de,WCE,Europe
+'43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.4766487315997136,2,1,de,WCE,Europe
 'd5422ed483',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luxemburg Norden,2026-05-24T06:22:00+00:00,Luxembourg,0.4749948071771896,2,1,de,WCE,Europe
 '61aa0713cb',extremes,Snow&Ice,#d60d2b,wmo,Eis frutigen Kiental,2026-04-27T05:40:00+00:00,Switzerland,0.4746617507514255,1,1,de,WCE,Europe
 '484f861deb',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Adelboden Kandersteg,2026-06-02T07:08:00+00:00,Switzerland,0.4744782067525498,1,1,de,WCE,Europe
@@ -436,7 +444,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97dccc2e27',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen St.Gallen Rorschach,2026-05-12T05:52:00+00:00,Switzerland,0.3981219801636012,1,1,de,WCE,Europe
 '7169630db1',extremes,Precipitation,#d60d2b,wmo,Regen Brabant,2026-05-05T05:29:00+00:00,Belgium,0.3977083898582535,1,1,de,WCE,Europe
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,Erdbeben el Aguilar,2026-05-18T06:38:00+00:00,Argentina,0.397526070676366,1,1,de,SES,South-America
-'9f05eaaf90',extremes,Drought,#edc291,edo,Trockenperiode Island,2026-05-21T06:35:00+00:00,Iceland,0.39707881387668315,1,1,de,GIC,Europe
+'9f05eaaf90',extremes,Drought,#edc291,edo,Trockenperiode Island,2026-05-21T06:35:00+00:00,Iceland,0.3970788138766831,1,1,de,GIC,Europe
 '1b75d5a61f',extremes,Precipitation,#d60d2b,wmo,Niederschlag Hennegau,2026-05-06T05:43:00+00:00,Belgium,0.3958638746740908,1,1,de,WCE,Europe
 'da7d718400',extremes,Thunderstorm,#53785a,wmo,Gewitter Apulien,2026-05-10T05:51:00+00:00,Italy,0.3947756319027282,1,1,de,MED,Europe
 '9be83f6511',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Urner Oberland,2026-05-12T05:52:00+00:00,Switzerland,0.3914069010554638,1,1,de,WCE,Europe
