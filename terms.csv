@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5257af514',extremes,Storm,#b3b2b1,wmo,Sturm Feldkirchen,2026-05-27T06:46:00+00:00,Austria,0.5932060441187785,2,2,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5924835181427092,3,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-04-21T05:15:00+00:00,Italy,0.5898126001854604,1,2,de,MED,Europe
-'b69967b67a',extremes,Storm,#b3b2b1,wmo,Sturm Grieskirchen,2026-06-04T07:06:00+00:00,Austria,0.5896727569573698,0,1,de,WCE,Europe
 '1dfd74518b',extremes,Thunderstorm,#53785a,wmo,Gewitter urfahr umgebung,2026-06-04T07:06:00+00:00,Austria,0.5891502621324524,0,1,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.5885135054161736,2,3,de,WCE,Europe
 '741c6f2698',extremes,Storm,#b3b2b1,wmo,Sturmflut liezen,2026-06-04T07:06:00+00:00,Austria,0.5875830720716182,0,1,de,WCE,Europe
@@ -95,6 +94,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '426dfc62d8',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Ottakring,2026-05-30T06:01:00+00:00,Austria,0.502968416880178,1,1,de,WCE,Europe
 '2f548c5822',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schwaz,2026-05-24T06:22:00+00:00,Austria,0.5024193631480077,2,1,de,WCE,Europe
 '73e3b9abec',extremes,Snow&Ice,#d60d2b,wmo,Frost Ostisland,2026-05-30T06:01:00+00:00,Iceland,0.5023851797591569,1,1,de,GIC,Europe
+'b69967b67a',extremes,Storm,#b3b2b1,wmo,Sturm Grieskirchen,2026-06-04T07:06:00+00:00,Austria,0.5013718584137643,1,1,de,WCE,Europe
 '43eb4d9368',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eisenstadt Umgebung,2026-05-26T06:31:00+00:00,Austria,0.5012813970301708,2,1,de,WCE,Europe
 '6423d3e9f5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Neubau,2026-05-26T06:31:00+00:00,Austria,0.5006163286954982,2,1,de,WCE,Europe
 'fccc1a846a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Stadt,2026-05-26T06:31:00+00:00,Austria,0.5001072167607387,2,1,de,WCE,Europe
