@@ -1,11 +1,18 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-05-31T06:40:00+00:00,Austria,0.6871986515434676,0,1,de,WCE,Europe
+'ab27a710cb',extremes,Storm,#b3b2b1,wmo,Sturmflut Zell am See,2026-06-04T07:06:00+00:00,Austria,0.6148880941699248,0,1,de,WCE,Europe
+'dd82a59b95',extremes,Storm,#b3b2b1,wmo,Sturmflut Linzer Land,2026-06-04T07:06:00+00:00,Austria,0.6059905618514546,0,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-05-12T05:52:00+00:00,Switzerland,0.5940752689846589,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5936166733437648,2,3,de,WCE,Europe
 'f5257af514',extremes,Storm,#b3b2b1,wmo,Sturm Feldkirchen,2026-05-27T06:46:00+00:00,Austria,0.5932060441187785,2,2,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5924835181427092,3,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-04-21T05:15:00+00:00,Italy,0.5898126001854604,1,2,de,MED,Europe
+'b69967b67a',extremes,Storm,#b3b2b1,wmo,Sturm Grieskirchen,2026-06-04T07:06:00+00:00,Austria,0.5896727569573698,0,1,de,WCE,Europe
+'1dfd74518b',extremes,Thunderstorm,#53785a,wmo,Gewitter urfahr umgebung,2026-06-04T07:06:00+00:00,Austria,0.5891502621324524,0,1,de,WCE,Europe
 '4130bd2b8a',extremes,Thunderstorm,#53785a,wmo,Gewitter baden,2026-04-19T05:16:00+00:00,Austria,0.5885135054161736,2,3,de,WCE,Europe
+'741c6f2698',extremes,Storm,#b3b2b1,wmo,Sturmflut liezen,2026-06-04T07:06:00+00:00,Austria,0.5875830720716182,0,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-05-26T06:31:00+00:00,Austria,0.5835977876507685,1,2,de,WCE,Europe
+'0901d87837',extremes,Storm,#b3b2b1,wmo,Sturmflut Salzburg Umgebung,2026-06-04T07:06:00+00:00,Austria,0.5832666575952258,0,1,de,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-05-26T06:31:00+00:00,Austria,0.5803395749906897,1,1,de,WCE,Europe
 '338cd644ea',extremes,Storm,#b3b2b1,wmo,Sturm Graz Stadt,2026-05-27T06:46:00+00:00,Austria,0.5799077568289345,1,1,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-04-20T05:27:00+00:00,Germany,0.5789003670432921,1,2,de,WCE,Europe
@@ -13,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2026-05-06T05:43:00+00:00,Germany,0.574587153667561,2,2,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-04-29T05:40:00+00:00,Austria,0.5734136819702553,2,1,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-05-30T06:01:00+00:00,Germany,0.5725935968672842,1,2,de,WCE,Europe
+'2d3a791b07',extremes,Storm,#b3b2b1,wmo,Sturm Steyr Stadt,2026-06-04T07:06:00+00:00,Austria,0.5691694398291667,0,1,de,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-05-17T06:01:00+00:00,Switzerland,0.5574018998517447,2,1,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2026-05-06T05:43:00+00:00,Germany,0.5542625467574895,3,1,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-05-06T05:43:00+00:00,Austria,0.5457973081171611,1,1,de,WCE,Europe
@@ -281,9 +289,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ceb4a488b0',extremes,Snow&Ice,#d60d2b,wmo,Eis Basse Gruyère,2026-05-17T06:01:00+00:00,Switzerland,0.4438561665039296,2,1,de,WCE,Europe
 'a4237e9d0a',extremes,Precipitation,#d60d2b,wmo,Niederschlag Belgien,2026-05-05T05:29:00+00:00,Belgium,0.4430543889277686,1,1,de,WCE,Europe
 '3efa5a5e06',extremes,Storm,#b3b2b1,wmo,Sturmflut Waidhofen an der Ybbs-Stadt,2026-05-05T05:29:00+00:00,Austria,0.4429430858387295,2,1,de,WCE,Europe
-'028b8a95f1',extremes,Thunderstorm,#53785a,wmo,Hagel Waidhofen an der Ybbs Stadt,2026-05-30T06:01:00+00:00,Austria,0.44253245952852865,2,1,de,WCE,Europe
+'028b8a95f1',extremes,Thunderstorm,#53785a,wmo,Hagel Waidhofen an der Ybbs Stadt,2026-05-30T06:01:00+00:00,Austria,0.4425324595285286,2,1,de,WCE,Europe
 'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,Sturm Kampanien,2026-04-30T05:46:00+00:00,Italy,0.4423367894972297,1,1,de,MED,Europe
-'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Vallon de Saint Imier,2026-05-17T06:01:00+00:00,Switzerland,0.44213758751932697,2,1,de,WCE,Europe
+'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Vallon de Saint Imier,2026-05-17T06:01:00+00:00,Switzerland,0.4421375875193269,2,1,de,WCE,Europe
 'b3f95478f2',extremes,Snow&Ice,#d60d2b,wmo,Schnee Lauterbrunnen Wilderswil,2026-05-12T05:52:00+00:00,Switzerland,0.4406001341465122,2,1,de,WCE,Europe
 'be37d6f7a5',extremes,Snow&Ice,#d60d2b,wmo,Gefrierendes Effretikon,2026-05-13T06:03:00+00:00,Switzerland,0.4404062272279841,2,1,de,WCE,Europe
 '416515d6df',extremes,Snow&Ice,#d60d2b,wmo,Schnee Glarus Nord Mitte,2026-05-12T05:52:00+00:00,Switzerland,0.4401709997704029,2,1,de,WCE,Europe
@@ -291,7 +299,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,Erdbeben San Antonio de los Cobres,2026-05-10T05:51:00+00:00,Argentina,0.4400291798724617,1,1,de,SES,South-America
 '3840c76d04',extremes,Storm,#b3b2b1,wmo,Sturm Kalabrien,2026-05-15T06:09:00+00:00,Italy,0.4399340879656669,1,1,de,MED,Europe
 'c48fa836d8',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostfriesische Küste,2026-05-11T06:14:00+00:00,Germany,0.4397786205425905,2,1,de,WCE,Europe
-'4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-05-25T06:53:00+00:00,Austria,0.43970578761292867,3,1,de,WCE,Europe
+'4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-05-25T06:53:00+00:00,Austria,0.4397057876129286,3,1,de,WCE,Europe
 '11b4895a01',extremes,Snow&Ice,#d60d2b,wmo,Eisheiliger Cergue,2026-05-14T06:02:00+00:00,Switzerland,0.4391720197607816,2,1,de,WCE,Europe
 'd73c88d78a',extremes,Storm,#b3b2b1,wmo,Sturmflut Venetien,2026-04-29T05:40:00+00:00,Italy,0.4387797480742239,1,1,de,MED,Europe
 '6fe46e247b',extremes,Snow&Ice,#d60d2b,wmo,Aigle Leysin gefriert,2026-05-17T06:01:00+00:00,Switzerland,0.4385956168694823,2,1,de,WCE,Europe
@@ -436,9 +444,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7169630db1',extremes,Precipitation,#d60d2b,wmo,Regen Brabant,2026-05-05T05:29:00+00:00,Belgium,0.3977083898582535,1,1,de,WCE,Europe
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,Erdbeben el Aguilar,2026-05-18T06:38:00+00:00,Argentina,0.397526070676366,1,1,de,SES,South-America
 '9f05eaaf90',extremes,Drought,#edc291,edo,Trockenperiode Island,2026-05-21T06:35:00+00:00,Iceland,0.3970788138766831,1,1,de,GIC,Europe
-'ea68003ab0',extremes,Precipitation,#d60d2b,wmo,Regen Hennegau,2026-05-05T05:29:00+00:00,Belgium,0.39613193741287306,1,1,de,WCE,Europe
+'ea68003ab0',extremes,Precipitation,#d60d2b,wmo,Regen Hennegau,2026-05-05T05:29:00+00:00,Belgium,0.396131937412873,1,1,de,WCE,Europe
 '1b75d5a61f',extremes,Precipitation,#d60d2b,wmo,Niederschlag Hennegau,2026-05-06T05:43:00+00:00,Belgium,0.3958638746740908,1,1,de,WCE,Europe
-'9f331d7953',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Namur,2026-05-06T05:43:00+00:00,Belgium,0.39531762929010333,1,1,de,WCE,Europe
+'9f331d7953',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Namur,2026-05-06T05:43:00+00:00,Belgium,0.3953176292901033,1,1,de,WCE,Europe
 'da7d718400',extremes,Thunderstorm,#53785a,wmo,Gewitter Apulien,2026-05-10T05:51:00+00:00,Italy,0.3947756319027282,1,1,de,MED,Europe
 '9be83f6511',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Urner Oberland,2026-05-12T05:52:00+00:00,Switzerland,0.3914069010554638,1,1,de,WCE,Europe
 '89cd0748e9',extremes,Precipitation,#d60d2b,wmo,Regen Friaul Julisch Venetien,2026-05-10T05:51:00+00:00,Italy,0.3901796624377959,1,1,de,MED,Europe
