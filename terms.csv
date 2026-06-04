@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-05-31T06:40:00+00:00,Austria,0.6871986515434676,0,1,de,WCE,Europe
+'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-05-31T06:40:00+00:00,Austria,0.6572514519937656,1,2,de,WCE,Europe
 'ab27a710cb',extremes,Storm,#b3b2b1,wmo,Sturmflut Zell am See,2026-06-04T07:06:00+00:00,Austria,0.6148880941699248,0,1,de,WCE,Europe
-'dd82a59b95',extremes,Storm,#b3b2b1,wmo,Sturmflut Linzer Land,2026-06-04T07:06:00+00:00,Austria,0.6059905618514546,0,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-05-12T05:52:00+00:00,Switzerland,0.5940752689846589,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5936166733437648,2,3,de,WCE,Europe
 'f5257af514',extremes,Storm,#b3b2b1,wmo,Sturm Feldkirchen,2026-05-27T06:46:00+00:00,Austria,0.5932060441187785,2,2,de,WCE,Europe
@@ -36,6 +35,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-05-27T06:46:00+00:00,Austria,0.5165229247950053,1,1,de,WCE,Europe
 'f1099d6c48',extremes,Thunderstorm,#53785a,wmo,Hagel Südoststeiermark,2026-05-26T06:31:00+00:00,Austria,0.5162645230944249,1,1,de,WCE,Europe
 '90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-05-03T05:44:00+00:00,Germany,0.5155426474589662,2,2,de,WCE,Europe
+'dd82a59b95',extremes,Storm,#b3b2b1,wmo,Sturmflut Linzer Land,2026-06-04T07:06:00+00:00,Austria,0.5150919775737364,1,1,de,WCE,Europe
 'a63f9dc498',extremes,Heat Wave,#c40202,wmo,Hitzewelle-Innsbruck-Land,2026-05-24T06:22:00+00:00,Austria,0.5150769064311914,2,1,de,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Belgien,2026-05-26T06:31:00+00:00,Belgium,0.5149994513189554,1,1,de,WCE,Europe
 '0f6554c103',extremes,Thunderstorm,#53785a,wmo,Hagel Feldkirchen,2026-05-31T06:40:00+00:00,Austria,0.5149238833307688,1,1,de,WCE,Europe
