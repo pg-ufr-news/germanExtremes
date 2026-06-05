@@ -50,7 +50,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '174bbfe494',extremes,Heat Wave,#c40202,wmo,Hitzewelle Braunau am Gasthaus,2026-05-24T06:22:00+00:00,Austria,0.510367406647168,2,1,de,WCE,Europe
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Limburg,2026-05-26T06:31:00+00:00,Belgium,0.5103282555983755,1,1,de,WCE,Europe
 '67da8791c0',extremes,Snow&Ice,#d60d2b,wmo,Eis-Ostfjorde,2026-06-02T07:08:00+00:00,Iceland,0.5102868720054387,1,1,de,GIC,Europe
-'0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-05-28T06:38:00+00:00,Iceland,0.510223960082822,1,1,de,GIC,Europe
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,Schnee-Island,2026-05-29T06:38:00+00:00,Iceland,0.5097263768639545,1,1,de,GIC,Europe
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,Frost in den Ostfjorden,2026-05-30T06:01:00+00:00,Iceland,0.5095353240351657,1,1,de,GIC,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-05-26T06:31:00+00:00,Switzerland,0.5093949507789525,2,1,de,WCE,Europe
@@ -169,7 +168,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Ã–sterreich,2026-05-26T06:31:00+00:00,Austria,0.4766487315997136,2,1,de,WCE,Europe
 '50de04165f',extremes,Thunderstorm,#53785a,wmo,Gewitter marche,2026-06-03T07:23:00+00:00,Italy,0.4752743577371264,1,1,de,MED,Europe
 'd5422ed483',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luxemburg Norden,2026-05-24T06:22:00+00:00,Luxembourg,0.4749948071771896,2,1,de,WCE,Europe
-'a1f2c27a9f',extremes,Precipitation,#d60d2b,wmo,Platzregen einsiedeln wägital,2026-06-04T07:06:00+00:00,Switzerland,0.47473614884871124,1,1,de,WCE,Europe
+'a1f2c27a9f',extremes,Precipitation,#d60d2b,wmo,Platzregen einsiedeln wägital,2026-06-04T07:06:00+00:00,Switzerland,0.4747361488487112,1,1,de,WCE,Europe
 '484f861deb',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Adelboden Kandersteg,2026-06-02T07:08:00+00:00,Switzerland,0.4744782067525498,1,1,de,WCE,Europe
 '612f83fd45',extremes,Storm,#b3b2b1,wmo,Sturm Ostfriesische Küste,2026-05-06T05:43:00+00:00,Germany,0.4740656088405304,2,1,de,WCE,Europe
 '715d602abe',extremes,Drought,#edc291,edo,Trockenheit Italien,2026-05-16T05:40:00+00:00,Italy,0.4735580576263823,1,1,de,MED,Europe
@@ -185,7 +184,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a9047ebfe',extremes,Drought,#edc291,edo,Dürre Island,2026-05-08T05:16:00+00:00,Iceland,0.4712494923645485,1,1,de,GIC,Europe
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Argentinien,2026-05-01T05:54:00+00:00,Argentina,0.4710954680875137,1,1,de,SES,South-America
 '5ef9871df1',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Grindelwald,2026-06-04T07:06:00+00:00,Switzerland,0.4708767171913007,1,1,de,WCE,Europe
-'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Argentinien,2026-05-27T06:46:00+00:00,Argentina,0.47031009846505056,1,1,de,SES,South-America
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Argentinien,2026-05-27T06:46:00+00:00,Argentina,0.4703100984650505,1,1,de,SES,South-America
 '649bb080e1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lienz,2026-05-25T06:53:00+00:00,Austria,0.4701700023262811,1,1,de,WCE,Europe
 '98cd9f9b80',extremes,Storm,#b3b2b1,wmo,Sturmflut Rust Stadt,2026-05-05T05:29:00+00:00,Austria,0.4698170665929151,1,1,de,WCE,Europe
 '1a5689dc3f',extremes,Storm,#b3b2b1,wmo,Sturmflut Neusiedl am See,2026-05-05T05:29:00+00:00,Austria,0.4689377332918918,1,1,de,WCE,Europe
@@ -301,7 +300,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c48fa836d8',extremes,Storm,#b3b2b1,wmo,Sturmflut Ostfriesische Küste,2026-05-11T06:14:00+00:00,Germany,0.4397786205425905,2,1,de,WCE,Europe
 '4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-05-25T06:53:00+00:00,Austria,0.4397057876129286,3,1,de,WCE,Europe
 '11b4895a01',extremes,Snow&Ice,#d60d2b,wmo,Eisheiliger Cergue,2026-05-14T06:02:00+00:00,Switzerland,0.4391720197607816,2,1,de,WCE,Europe
-'f1099d6c48',extremes,Thunderstorm,#53785a,wmo,Hagel Südoststeiermark,2026-05-26T06:31:00+00:00,Austria,0.43882484463026117,2,1,de,WCE,Europe
+'f1099d6c48',extremes,Thunderstorm,#53785a,wmo,Hagel Südoststeiermark,2026-05-26T06:31:00+00:00,Austria,0.4388248446302611,2,1,de,WCE,Europe
 'd73c88d78a',extremes,Storm,#b3b2b1,wmo,Sturmflut Venetien,2026-04-29T05:40:00+00:00,Italy,0.4387797480742239,1,1,de,MED,Europe
 '6fe46e247b',extremes,Snow&Ice,#d60d2b,wmo,Aigle Leysin gefriert,2026-05-17T06:01:00+00:00,Switzerland,0.4385956168694823,2,1,de,WCE,Europe
 'bb9a490561',extremes,Drought,#edc291,edo,Trockenperiode Deutschland,2026-05-19T06:33:00+00:00,Germany,0.438405622440249,1,1,de,WCE,Europe
@@ -322,6 +321,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-04-30T05:46:00+00:00,Luxembourg,0.4345792367352182,1,1,de,WCE,Europe
 '2cce7328e9',extremes,Storm,#b3b2b1,wmo,Sturm Ligurien,2026-05-03T05:44:00+00:00,Italy,0.4343718651084456,1,1,de,MED,Europe
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2026-05-13T06:03:00+00:00,Germany,0.433998528155764,2,1,de,WCE,Europe
+'0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,Frost Island,2026-05-28T06:38:00+00:00,Iceland,0.4339903960703987,2,1,de,GIC,Europe
 '0e11501646',extremes,Storm,#b3b2b1,wmo,Sturm Emilia e Romagna,2026-05-11T06:14:00+00:00,Italy,0.4335411751441776,1,1,de,MED,Europe
 'f901ec377a',extremes,Precipitation,#d60d2b,wmo,Niederschlag Toskana,2026-05-06T05:43:00+00:00,Italy,0.433375819525541,1,1,de,MED,Europe
 '42b882d252',extremes,Drought,#edc291,edo,Mangel an Regen Dänemark,2026-05-19T06:33:00+00:00,Denmark,0.433371378559844,1,1,de,NEU,Europe
