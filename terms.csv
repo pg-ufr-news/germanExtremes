@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-05-19T06:33:00+00:00,Austria,0.6633232134657395,0,1,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-05-31T06:40:00+00:00,Austria,0.6572514519937656,1,2,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-05-31T06:40:00+00:00,Germany,0.6247981028219218,0,1,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-05-12T05:52:00+00:00,Switzerland,0.5940752689846589,1,1,de,WCE,Europe
@@ -13,7 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92ff957955',extremes,Snow&Ice,#d60d2b,wmo,Schnee Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5748787674962664,1,2,de,WCE,Europe
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2026-05-06T05:43:00+00:00,Germany,0.574587153667561,2,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-05-30T06:01:00+00:00,Germany,0.5725935968672842,1,2,de,WCE,Europe
-'5648577c5c',extremes,Earthquake,#870007,usgs,Erdbeben Scarcelli,2026-06-02T07:08:00+00:00,Italy,0.5683074762964859,0,1,de,MED,Europe
+'2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-05-19T06:33:00+00:00,Austria,0.5641247614458786,1,1,de,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-05-17T06:01:00+00:00,Switzerland,0.5574018998517447,2,1,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2026-05-06T05:43:00+00:00,Germany,0.5542625467574895,3,1,de,WCE,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,Regenguss Argentinien,2026-05-28T06:38:00+00:00,Argentina,0.5530697808968067,0,1,de,SES,South-America
@@ -156,6 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-05-06T05:43:00+00:00,Switzerland,0.4841237045455541,1,2,de,WCE,Europe
 'b7030f8398',extremes,Precipitation,#d60d2b,wmo,Niederschlag frutigen kiental,2026-06-03T07:23:00+00:00,Switzerland,0.4840940767438704,1,1,de,WCE,Europe
 '2d3a791b07',extremes,Storm,#b3b2b1,wmo,Sturm Steyr Stadt,2026-06-04T07:06:00+00:00,Austria,0.4837940238547916,1,1,de,WCE,Europe
+'5648577c5c',extremes,Earthquake,#870007,usgs,Erdbeben Scarcelli,2026-06-02T07:08:00+00:00,Italy,0.483061354852013,1,1,de,MED,Europe
 'b317b52df4',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Turbenthal Sirnach,2026-06-02T07:08:00+00:00,Switzerland,0.4828653899566997,1,1,de,WCE,Europe
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basso Moesano,2026-05-26T06:31:00+00:00,Switzerland,0.4827713719876705,2,1,de,WCE,Europe
 '3c9f3a79d5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bellinzona,2026-05-26T06:31:00+00:00,Switzerland,0.482623076523394,2,1,de,WCE,Europe
