@@ -1,9 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-05-30T06:01:00+00:00,Germany,0.6171413673161833,1,2,de,WCE,Europe
+'035a101d98',extremes,Thunderstorm,#53785a,wmo,Unwetter Steyrerland,2026-06-08T07:13:00+00:00,Austria,0.6002348285153404,0,1,de,WCE,Europe
+'134e08bc63',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Innere Stadt,2026-06-08T07:13:00+00:00,Austria,0.5964126101721787,0,1,de,WCE,Europe
+'12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2026-05-24T06:22:00+00:00,Italy,0.5953571583282659,0,1,de,MED,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-05-12T05:52:00+00:00,Switzerland,0.5940752689846589,1,1,de,WCE,Europe
 '97a2529f41',extremes,Snow&Ice,#d60d2b,wmo,Eis Schweiz,2026-04-22T05:13:00+00:00,Switzerland,0.5936166733437648,2,3,de,WCE,Europe
 'f5257af514',extremes,Storm,#b3b2b1,wmo,Sturm Feldkirchen,2026-05-27T06:46:00+00:00,Austria,0.5932060441187785,2,2,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5924835181427092,3,2,de,WCE,Europe
+'8023f8dcd3',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Leopoldstadt,2026-06-08T07:13:00+00:00,Austria,0.5922625733291487,0,1,de,WCE,Europe
+'31e23123bb',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Neubau,2026-06-08T07:13:00+00:00,Austria,0.591497364117312,0,1,de,WCE,Europe
+'eaf058ee04',extremes,Storm,#b3b2b1,wmo,Sturm Villachland,2026-06-08T07:13:00+00:00,Austria,0.591029092119207,0,1,de,WCE,Europe
+'72c859897b',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Favoriten,2026-06-08T07:13:00+00:00,Austria,0.5908747601998771,0,1,de,WCE,Europe
+'6a1fee712a',extremes,Thunderstorm,#53785a,wmo,Unwetter baden,2026-06-08T07:13:00+00:00,Austria,0.5889365358488348,0,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-05-26T06:31:00+00:00,Austria,0.5835977876507685,1,2,de,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-05-26T06:31:00+00:00,Austria,0.5803395749906897,1,1,de,WCE,Europe
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2026-05-06T05:43:00+00:00,Germany,0.574587153667561,2,2,de,WCE,Europe
