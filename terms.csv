@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-06-10T06:49:00+00:00,Germany,0.7401131726962757,0,1,de,WCE,Europe
 'e8dc897411',extremes,Thunderstorm,#53785a,wmo,Gewitter Güssing,2026-06-09T06:32:00+00:00,Austria,0.6488878172554539,1,2,de,WCE,Europe
+'9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-06-10T06:49:00+00:00,Germany,0.6338994367918344,1,2,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-05-30T06:01:00+00:00,Germany,0.6171413673161833,1,2,de,WCE,Europe
-'32e74ad8ff',extremes,Heat Wave,#c40202,wmo,Hitzewelle Molise,2026-06-10T06:49:00+00:00,Italy,0.6057411995133828,0,1,de,MED,Europe
 'a7d6b2dbac',extremes,Storm,#b3b2b1,wmo,Sturm Wiener Neustadt Stadt,2026-06-08T07:13:00+00:00,Austria,0.5991744479051776,0,1,de,WCE,Europe
 '19c6023dc8',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Ostisland,2026-06-10T06:49:00+00:00,Iceland,0.598568762633277,0,1,de,GIC,Europe
 'dd13d2a5e1',extremes,Storm,#b3b2b1,wmo,Sturmflut Feldkirchen,2026-06-10T06:49:00+00:00,Austria,0.5975821900908427,0,1,de,WCE,Europe
@@ -39,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-05-27T06:46:00+00:00,Austria,0.5165229247950053,1,1,de,WCE,Europe
 '90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-05-03T05:44:00+00:00,Germany,0.5155426474589662,2,2,de,WCE,Europe
 'a63f9dc498',extremes,Heat Wave,#c40202,wmo,Hitzewelle-Innsbruck-Land,2026-05-24T06:22:00+00:00,Austria,0.5150769064311914,2,1,de,WCE,Europe
+'32e74ad8ff',extremes,Heat Wave,#c40202,wmo,Hitzewelle Molise,2026-06-10T06:49:00+00:00,Italy,0.5148800195863753,1,1,de,MED,Europe
 '576c17e8df',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hallein,2026-05-25T06:53:00+00:00,Austria,0.5146061513668064,2,1,de,WCE,Europe
 '23ac100060',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurter Land,2026-05-25T06:53:00+00:00,Austria,0.5142065786590966,2,1,de,WCE,Europe
 'efceb7a36e',extremes,Snow&Ice,#d60d2b,wmo,Schnee ajoie,2026-05-13T06:03:00+00:00,Switzerland,0.5132997417245776,1,1,de,WCE,Europe
