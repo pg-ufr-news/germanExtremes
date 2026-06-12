@@ -16,7 +16,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4a448711b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Italien,2026-06-09T06:32:00+00:00,Italy,0.5638514307894931,1,1,de,MED,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-05-31T06:40:00+00:00,Italy,0.5632677201241579,0,1,de,MED,Europe
 '8eb1f4e95d',extremes,Precipitation,#d60d2b,wmo,Niederschlag Graz Stadt,2026-06-10T06:49:00+00:00,Austria,0.5610534239185188,0,1,de,WCE,Europe
+'8009981fb6',extremes,Thunderstorm,#53785a,wmo,Hagel Kampanien,2026-06-08T07:13:00+00:00,Italy,0.5598691063429662,0,1,de,MED,Europe
+'2cce7328e9',extremes,Storm,#b3b2b1,wmo,Sturm Ligurien,2026-06-01T07:30:00+00:00,Italy,0.5579207875974855,0,1,de,MED,Europe
+'baffd48217',extremes,Precipitation,#d60d2b,wmo,Regenguss Salzburg Umgebung,2026-06-09T06:32:00+00:00,Austria,0.5574426090780543,0,1,de,WCE,Europe
 '4910cc6a53',extremes,Snow&Ice,#d60d2b,wmo,Eis Genf,2026-05-17T06:01:00+00:00,Switzerland,0.5574018998517447,2,1,de,WCE,Europe
+'7685a9c1a1',extremes,Storm,#b3b2b1,wmo,Sturmflut Trentino-Südtirol,2026-06-02T07:08:00+00:00,Italy,0.5557109106633162,0,1,de,MED,Europe
+'0bf13473f8',extremes,Precipitation,#d60d2b,wmo,Regen Gmunden,2026-06-09T06:32:00+00:00,Austria,0.5553449142441873,0,1,de,WCE,Europe
+'ba0ba20b24',extremes,Precipitation,#d60d2b,wmo,Regen Steyrerland,2026-06-10T06:49:00+00:00,Austria,0.5541931022186055,0,1,de,WCE,Europe
+'794d2f293c',extremes,Precipitation,#d60d2b,wmo,Regenalgorithmus,2026-06-10T06:49:00+00:00,Switzerland,0.553855800226419,0,1,de,WCE,Europe
+'9e6e226ae7',extremes,Precipitation,#d60d2b,wmo,Niederschlag zuoz,2026-06-10T06:49:00+00:00,Switzerland,0.5538106048679865,0,1,de,WCE,Europe
 'e8dc897411',extremes,Thunderstorm,#53785a,wmo,Gewitter Güssing,2026-06-09T06:32:00+00:00,Austria,0.5515546596671358,2,1,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-05-06T05:43:00+00:00,Austria,0.5457973081171611,1,1,de,WCE,Europe
 'c4d6d26fcd',extremes,Storm,#b3b2b1,wmo,Sturm Wien liegt,2026-05-05T05:29:00+00:00,Austria,0.5440684998403934,2,2,de,WCE,Europe
