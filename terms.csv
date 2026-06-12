@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8cfe36d839',extremes,Thunderstorm,#53785a,wmo,Unwetter Oberwart,2026-06-09T06:32:00+00:00,Austria,0.6422255898207688,1,2,de,WCE,Europe
+'8cfe36d839',extremes,Thunderstorm,#53785a,wmo,Unwetter Oberwart,2026-06-09T06:32:00+00:00,Austria,0.6961917813476535,2,2,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-06-11T07:14:00+00:00,Germany,0.6352195500494762,1,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-05-30T06:01:00+00:00,Germany,0.6171413673161833,1,2,de,WCE,Europe
 '887af33c5b',extremes,Snow&Ice,#d60d2b,wmo,Frost Schweiz,2026-05-12T05:52:00+00:00,Switzerland,0.5940752689846589,1,1,de,WCE,Europe
@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-05-26T06:31:00+00:00,Austria,0.5803395749906897,1,1,de,WCE,Europe
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2026-05-06T05:43:00+00:00,Germany,0.574587153667561,2,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-05-30T06:01:00+00:00,Germany,0.5725935968672842,1,2,de,WCE,Europe
-'08fe1daacf',extremes,Earthquake,#870007,usgs,Erdbeben San Lucido,2026-06-08T07:13:00+00:00,Italy,0.5708474349434067,0,1,de,MED,Europe
 '03a2b00348',extremes,Precipitation,#d60d2b,wmo,Regen Scuol Samnaun,2026-06-10T06:49:00+00:00,Switzerland,0.5667308422378622,0,1,de,WCE,Europe
 'ee0686716b',extremes,Precipitation,#d60d2b,wmo,Regen sankt veit an der glän,2026-06-09T06:32:00+00:00,Austria,0.5650313342712197,0,1,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-05-19T06:33:00+00:00,Austria,0.5641247614458786,1,1,de,WCE,Europe
@@ -130,6 +129,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1ece6a9e9',extremes,Heat Wave,#c40202,wmo,Hitzewelle Tulln,2026-05-26T06:31:00+00:00,Austria,0.4856285172859743,2,1,de,WCE,Europe
 '28afa46279',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Glarus Nord Mitte,2026-06-03T07:23:00+00:00,Switzerland,0.4855844721381571,1,1,de,WCE,Europe
 '97e8e6e190',extremes,Heat Wave,#c40202,wmo,Hitzewelle Locarnese,2026-05-26T06:31:00+00:00,Switzerland,0.4853775104042978,2,1,de,WCE,Europe
+'08fe1daacf',extremes,Earthquake,#870007,usgs,Erdbeben San Lucido,2026-06-08T07:13:00+00:00,Italy,0.4852203197018957,1,1,de,MED,Europe
 '8b7bb07843',extremes,Storm,#b3b2b1,wmo,Sturmflut Lüttich,2026-05-31T06:40:00+00:00,Belgium,0.4852017089931258,1,1,de,WCE,Europe
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Riviera,2026-05-26T06:31:00+00:00,Switzerland,0.4848010357788195,2,1,de,WCE,Europe
 '1660e0818c',extremes,Precipitation,#d60d2b,wmo,Niederschlag Obertoggenburg,2026-06-03T07:23:00+00:00,Switzerland,0.4845285954928426,1,1,de,WCE,Europe
