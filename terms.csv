@@ -17,8 +17,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4d6d26fcd',extremes,Storm,#b3b2b1,wmo,Sturm Wien liegt,2026-05-05T05:29:00+00:00,Austria,0.5440684998403934,2,2,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-06-10T06:49:00+00:00,Germany,0.5436177612730592,2,2,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-06-11T07:14:00+00:00,Germany,0.5423368575420547,2,1,de,WCE,Europe
+'640b0c1fe5',extremes,Storm,#b3b2b1,wmo,Sturm Umbrien,2026-06-01T07:30:00+00:00,Italy,0.5419109539659275,0,1,de,MED,Europe
+'03e0919b9b',extremes,Precipitation,#d60d2b,wmo,Niederschlag Murau,2026-06-09T06:32:00+00:00,Austria,0.5418350107500999,0,1,de,WCE,Europe
+'0390a81ba8',extremes,Precipitation,#d60d2b,wmo,Platzregen Völkermarkt,2026-06-10T06:49:00+00:00,Austria,0.5411399116291964,0,1,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-05-31T06:40:00+00:00,Austria,0.5408016274442835,3,2,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-05-31T06:40:00+00:00,Germany,0.5405775769440881,1,2,de,WCE,Europe
+'fc8da727d7',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Feldkirchen,2026-06-10T06:49:00+00:00,Austria,0.5397874473224725,0,1,de,WCE,Europe
+'1b2f9b6a7c',extremes,Precipitation,#d60d2b,wmo,Regen Hermagor,2026-06-09T06:32:00+00:00,Austria,0.5389794906200978,0,1,de,WCE,Europe
+'fdaa0a92ad',extremes,Storm,#b3b2b1,wmo,Sturm Kampanien,2026-06-11T07:14:00+00:00,Italy,0.5388409448683628,0,1,de,MED,Europe
+'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,Sturm molise,2026-06-11T07:14:00+00:00,Italy,0.5384472504269913,0,1,de,MED,Europe
+'3da2bcf2b2',extremes,Precipitation,#d60d2b,wmo,Regenguss Zell am See,2026-06-09T06:32:00+00:00,Austria,0.5384010638375767,0,1,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ã–sterreich,2026-05-24T06:22:00+00:00,Austria,0.5276018876111569,2,1,de,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Laufental,2026-05-13T06:03:00+00:00,Switzerland,0.5241897353094583,1,1,de,WCE,Europe
 '338cd644ea',extremes,Storm,#b3b2b1,wmo,Sturm Graz Stadt,2026-05-27T06:46:00+00:00,Austria,0.5236716683045943,2,1,de,WCE,Europe
