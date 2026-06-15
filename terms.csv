@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-05-30T06:01:00+00:00,Germany,0.7145668784726675,0,1,de,WCE,Europe
+'d992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-05-30T06:01:00+00:00,Germany,0.6076818767017674,1,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5924835181427092,3,2,de,WCE,Europe
 '8cfe36d839',extremes,Thunderstorm,#53785a,wmo,Unwetter Oberwart,2026-06-09T06:32:00+00:00,Austria,0.5917630441455055,3,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-05-26T06:31:00+00:00,Austria,0.5835977876507685,1,2,de,WCE,Europe
