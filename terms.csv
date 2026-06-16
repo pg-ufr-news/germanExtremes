@@ -29,7 +29,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dc24eb9c61',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Villachland,2026-06-09T06:32:00+00:00,Austria,0.5294230692006263,0,1,de,WCE,Europe
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,Sturmflut Umbrien,2026-05-28T06:38:00+00:00,Italy,0.5288563217389377,0,1,de,MED,Europe
 '1b2f9b6a7c',extremes,Precipitation,#d60d2b,wmo,Regen Hermagor,2026-06-09T06:32:00+00:00,Austria,0.5287177374730206,2,2,de,WCE,Europe
+'997a2e2157',extremes,Earthquake,#870007,usgs,Erdbeben in Argentinien,2026-06-06T06:08:00+00:00,Argentina,0.5280192815506074,0,1,de,SES,South-America
+'ff1c2a8ede',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Leoben,2026-06-10T06:49:00+00:00,Austria,0.5278089052979791,0,1,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ã–sterreich,2026-05-24T06:22:00+00:00,Austria,0.5276018876111569,2,1,de,WCE,Europe
+'f7145da7ba',extremes,Precipitation,#d60d2b,wmo,Platzregen Feldkirchen,2026-06-09T06:32:00+00:00,Austria,0.5268965353502945,0,1,de,WCE,Europe
+'306c4a6787',extremes,Precipitation,#d60d2b,wmo,Regen Obertoggenburg,2026-06-04T07:06:00+00:00,Switzerland,0.5264721254769015,0,1,de,WCE,Europe
+'562fb6231e',extremes,Precipitation,#d60d2b,wmo,Regenguss Kerenzerberg Seeztal,2026-06-04T07:06:00+00:00,Switzerland,0.5260208983914318,0,1,de,WCE,Europe
+'117e9a9455',extremes,Storm,#b3b2b1,wmo,Sturmflut Kalabrien,2026-06-02T07:08:00+00:00,Italy,0.5258627983386864,0,1,de,MED,Europe
+'838174fb09',extremes,Precipitation,#d60d2b,wmo,Regenguss Sizilien,2026-05-28T06:38:00+00:00,Italy,0.5256821212672239,0,1,de,MED,Europe
+'41f8e83a51',extremes,Precipitation,#d60d2b,wmo,Niederschlag Villacher Land,2026-06-10T06:49:00+00:00,Austria,0.5255652176098083,0,1,de,WCE,Europe
 'e540afa0aa',extremes,Snow&Ice,#d60d2b,wmo,eiskaltes Laufental,2026-05-13T06:03:00+00:00,Switzerland,0.5241897353094583,1,1,de,WCE,Europe
 '338cd644ea',extremes,Storm,#b3b2b1,wmo,Sturm Graz Stadt,2026-05-27T06:46:00+00:00,Austria,0.5236716683045943,2,1,de,WCE,Europe
 'ab27a710cb',extremes,Storm,#b3b2b1,wmo,Sturmflut Zell am See,2026-06-04T07:06:00+00:00,Austria,0.522654880044436,1,1,de,WCE,Europe
@@ -130,7 +138,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd14e97d87',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oberwart,2026-05-26T06:31:00+00:00,Austria,0.4815083583986783,2,1,de,WCE,Europe
 'ee0686716b',extremes,Precipitation,#d60d2b,wmo,Regen sankt veit an der glän,2026-06-09T06:32:00+00:00,Austria,0.4802766341305367,1,1,de,WCE,Europe
 '0301a561b6',extremes,Thunderstorm,#53785a,wmo,Hagel Apulien,2026-06-02T07:08:00+00:00,Italy,0.4801271252317727,1,1,de,MED,Europe
-'71aee81e61',extremes,Storm,#b3b2b1,wmo,Sturmflut Latium,2026-06-11T07:14:00+00:00,Italy,0.47902092328882306,1,1,de,MED,Europe
+'71aee81e61',extremes,Storm,#b3b2b1,wmo,Sturmflut Latium,2026-06-11T07:14:00+00:00,Italy,0.479020923288823,1,1,de,MED,Europe
 '5022ceabea',extremes,Storm,#b3b2b1,wmo,Sturmflut Abruzzen,2026-06-02T07:08:00+00:00,Italy,0.4789604909099402,1,1,de,MED,Europe
 'baad89d880',extremes,Heat Wave,#c40202,wmo,Hitzewelle Mödling,2026-05-26T06:31:00+00:00,Austria,0.4785947390058266,2,1,de,WCE,Europe
 '80fa381938',extremes,Thunderstorm,#53785a,wmo,Gewitter Friaul Julisch Venetien,2026-05-27T06:46:00+00:00,Italy,0.4781656013009011,1,1,de,MED,Europe
