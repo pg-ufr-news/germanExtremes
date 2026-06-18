@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.7404499023182187,0,1,de,WCE,Europe
+'02328cb582',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murten Kerzenrs,2026-06-17T07:33:00+00:00,Switzerland,0.6843201036678355,0,1,de,WCE,Europe
+'ed766fa753',extremes,Heat Wave,#c40202,wmo,Hitzewelle Zurzach BÃ¼lach,2026-06-17T07:33:00+00:00,Switzerland,0.6832387899120197,0,1,de,WCE,Europe
+'5939e7bd12',extremes,Heat Wave,#c40202,wmo,Hitzewelle Thalwil Wetzikon,2026-06-17T07:33:00+00:00,Switzerland,0.6813595964492192,0,1,de,WCE,Europe
+'5d8c69af03',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vallon de Saint Imier,2026-06-17T07:33:00+00:00,Switzerland,0.6778917443958963,0,1,de,WCE,Europe
+'b1be5f6528',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Innere Stadt,2026-06-17T07:33:00+00:00,Austria,0.6765790258762744,0,1,de,WCE,Europe
+'a302e20e8c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Appenzell,2026-06-17T07:33:00+00:00,Switzerland,0.6762744969689182,0,1,de,WCE,Europe
+'e9c919775b',extremes,Heat Wave,#c40202,wmo,Hitzewelle fürstenland,2026-06-17T07:33:00+00:00,Switzerland,0.6743630731659493,0,1,de,WCE,Europe
 '8cfe36d839',extremes,Thunderstorm,#53785a,wmo,Unwetter Oberwart,2026-06-09T06:32:00+00:00,Austria,0.5917630441455055,3,1,de,WCE,Europe
 'e9f196dfee',extremes,Heat Wave,#c40202,wmo,Hitzewelle Mendrisiotto,2026-06-17T07:33:00+00:00,Switzerland,0.586258463642307,1,1,de,WCE,Europe
 '16e539790d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schangnau Sigriswil,2026-06-17T07:33:00+00:00,Switzerland,0.5860314802394238,1,1,de,WCE,Europe
