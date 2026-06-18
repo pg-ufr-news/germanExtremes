@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'e9f196dfee',extremes,Heat Wave,#c40202,wmo,Hitzewelle Mendrisiotto,2026-06-17T07:33:00+00:00,Switzerland,0.6897158395791848,0,1,de,WCE,Europe
+'16e539790d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schangnau Sigriswil,2026-06-17T07:33:00+00:00,Switzerland,0.689448800281675,0,1,de,WCE,Europe
+'0c355d5b91',extremes,Heat Wave,#c40202,wmo,Hitzewelle vor den Waadtländer Alpen,2026-06-17T07:33:00+00:00,Switzerland,0.6893326324004867,0,1,de,WCE,Europe
+'72ffb98e6f',extremes,Heat Wave,#c40202,wmo,Hitzewelle flüelen unterschächen,2026-06-17T07:33:00+00:00,Switzerland,0.6879858876940983,0,1,de,WCE,Europe
+'e86bb6f3ad',extremes,Heat Wave,#c40202,wmo,Hitzewelle Aarau Lenzburg,2026-06-17T07:33:00+00:00,Switzerland,0.6879434032533904,0,1,de,WCE,Europe
+'4b03494102',extremes,Heat Wave,#c40202,wmo,Hitzewelle Delémont Bellelay,2026-06-17T07:33:00+00:00,Switzerland,0.6872855483705121,0,1,de,WCE,Europe
+'e99283dc2d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Emmen Hochdorf,2026-06-17T07:33:00+00:00,Switzerland,0.686319158322399,0,1,de,WCE,Europe
+'ffa24d4a37',extremes,Heat Wave,#c40202,wmo,Hitzewelle la chaux de fonds le locle,2026-06-17T07:33:00+00:00,Switzerland,0.6851357748071075,0,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5924835181427092,3,2,de,WCE,Europe
 '8cfe36d839',extremes,Thunderstorm,#53785a,wmo,Unwetter Oberwart,2026-06-09T06:32:00+00:00,Austria,0.5917630441455055,3,1,de,WCE,Europe
 '6a1fee712a',extremes,Thunderstorm,#53785a,wmo,Unwetter baden,2026-06-08T07:13:00+00:00,Austria,0.5823177990429381,1,3,de,WCE,Europe
@@ -307,7 +315,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e8595ed04e',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Murau,2026-06-10T06:49:00+00:00,Austria,0.4428856417206969,1,1,de,WCE,Europe
 '028b8a95f1',extremes,Thunderstorm,#53785a,wmo,Hagel Waidhofen an der Ybbs Stadt,2026-05-30T06:01:00+00:00,Austria,0.4425324595285286,2,1,de,WCE,Europe
 '9a5e0b935b',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Döbling,2026-06-09T06:32:00+00:00,Austria,0.4423390416794752,2,1,de,WCE,Europe
-'cf87dae24d',extremes,Precipitation,#d60d2b,wmo,Regenguss Lienz,2026-06-10T06:49:00+00:00,Austria,0.44217994936509936,1,1,de,WCE,Europe
+'cf87dae24d',extremes,Precipitation,#d60d2b,wmo,Regenguss Lienz,2026-06-10T06:49:00+00:00,Austria,0.4421799493650993,1,1,de,WCE,Europe
 'f91267f64f',extremes,Snow&Ice,#d60d2b,wmo,Schnee Vallon de Saint Imier,2026-05-17T06:01:00+00:00,Switzerland,0.4421375875193269,2,1,de,WCE,Europe
 '652fbc3365',extremes,Precipitation,#d60d2b,wmo,Regenguss imst,2026-06-10T06:49:00+00:00,Austria,0.441690203451987,1,1,de,WCE,Europe
 '1f56b7bc78',extremes,Thunderstorm,#53785a,wmo,Gewitter Villach Stadt,2026-06-08T07:13:00+00:00,Austria,0.4415964131854993,2,1,de,WCE,Europe
@@ -323,7 +331,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd82a59b95',extremes,Storm,#b3b2b1,wmo,Sturmflut Linzer Land,2026-06-04T07:06:00+00:00,Austria,0.4378281809376759,2,1,de,WCE,Europe
 '0f6554c103',extremes,Thunderstorm,#53785a,wmo,Hagel Feldkirchen,2026-05-31T06:40:00+00:00,Austria,0.4376853008311534,2,1,de,WCE,Europe
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,Hitzewelle Molise,2026-06-10T06:49:00+00:00,Italy,0.437648016648419,2,1,de,MED,Europe
-'9a9047ebfe',extremes,Drought,#edc291,edo,Dürre Island,2026-06-01T07:30:00+00:00,Iceland,0.43757977339237814,2,1,de,GIC,Europe
+'9a9047ebfe',extremes,Drought,#edc291,edo,Dürre Island,2026-06-01T07:30:00+00:00,Iceland,0.4375797733923781,2,1,de,GIC,Europe
 'ffd0f40ec7',extremes,Thunderstorm,#53785a,wmo,Unwetter Korneuburg,2026-06-08T07:13:00+00:00,Austria,0.4373004650381275,2,1,de,WCE,Europe
 '74236bd182',extremes,Drought,#edc291,edo,Mangel an Regen Island,2026-05-14T06:02:00+00:00,Iceland,0.4371882986846872,2,1,de,GIC,Europe
 '68b1e924ba',extremes,Thunderstorm,#53785a,wmo,Hagel Mattersburg,2026-05-30T06:01:00+00:00,Austria,0.4369088718638911,2,1,de,WCE,Europe
@@ -394,7 +402,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '741c6f2698',extremes,Storm,#b3b2b1,wmo,Sturmflut liezen,2026-06-04T07:06:00+00:00,Austria,0.424528769571744,2,1,de,WCE,Europe
 '4a50543915',extremes,Storm,#b3b2b1,wmo,Sturm Wien Döbling,2026-05-30T06:01:00+00:00,Austria,0.4242832167702302,2,1,de,WCE,Europe
 '8eef12189e',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Floridsdorf,2026-06-08T07:13:00+00:00,Austria,0.4239254067387653,2,1,de,WCE,Europe
-'7ce1c7450c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sizilien,2026-06-14T07:07:00+00:00,Italy,0.42388511355031055,2,1,de,MED,Europe
+'7ce1c7450c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sizilien,2026-06-14T07:07:00+00:00,Italy,0.4238851135503105,2,1,de,MED,Europe
 'f129d415a4',extremes,Storm,#b3b2b1,wmo,Sturm Hermagor,2026-05-31T06:40:00+00:00,Austria,0.4237305145568244,2,1,de,WCE,Europe
 'aedb48a75b',extremes,Thunderstorm,#53785a,wmo,Unwetter Wien Rudolfsheim Fünfhaus,2026-06-08T07:13:00+00:00,Austria,0.4234398593279623,2,1,de,WCE,Europe
 'de4ab1caea',extremes,Precipitation,#d60d2b,wmo,Niederschlag erstfeld engelberg,2026-06-03T07:23:00+00:00,Switzerland,0.4232256916761067,2,1,de,WCE,Europe
@@ -414,7 +422,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27e1d29523',extremes,Precipitation,#d60d2b,wmo,Regenguss Schangnau Sigriswil,2026-06-03T07:23:00+00:00,Switzerland,0.4197915130580703,2,1,de,WCE,Europe
 '7511d1851e',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Favoriten,2026-06-09T06:32:00+00:00,Austria,0.4195992627815383,2,1,de,WCE,Europe
 '2283c7084d',extremes,Storm,#b3b2b1,wmo,Sturm Kremser Land,2026-05-30T06:01:00+00:00,Austria,0.4193958081877074,2,1,de,WCE,Europe
-'8cb4d45a69',extremes,Heat Wave,#c40202,wmo,Hitzewelle Namur,2026-06-16T08:27:00+00:00,Belgium,0.41929040105546583,2,1,de,WCE,Europe
+'8cb4d45a69',extremes,Heat Wave,#c40202,wmo,Hitzewelle Namur,2026-06-16T08:27:00+00:00,Belgium,0.4192904010554658,2,1,de,WCE,Europe
 '6bac11f33d',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Hernals,2026-05-30T06:01:00+00:00,Austria,0.4188212104420817,2,1,de,WCE,Europe
 '495d5f27a3',extremes,Precipitation,#d60d2b,wmo,Regen Luzern Alpnach,2026-06-03T07:23:00+00:00,Switzerland,0.4187343739183891,2,1,de,WCE,Europe
 'bb24a4fbb7',extremes,Precipitation,#d60d2b,wmo,Regenguss Ã–sterreich,2026-06-09T06:32:00+00:00,Austria,0.4182690509781724,2,1,de,WCE,Europe
@@ -422,12 +430,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b66b787572',extremes,Storm,#b3b2b1,wmo,Sturmflut Villach Stadt,2026-05-31T06:40:00+00:00,Austria,0.4176194944990096,2,1,de,WCE,Europe
 '540c976e59',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sardinien,2026-06-14T07:07:00+00:00,Italy,0.4175662524798097,2,1,de,MED,Europe
 'b1d7a75a38',extremes,Storm,#b3b2b1,wmo,Sturm Sizilien,2026-05-16T05:40:00+00:00,Italy,0.4175530940805446,1,1,de,MED,Europe
-'0b02c9df7a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Westflandern,2026-06-16T08:27:00+00:00,Belgium,0.41744148884173155,2,1,de,WCE,Europe
+'0b02c9df7a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Westflandern,2026-06-16T08:27:00+00:00,Belgium,0.4174414888417315,2,1,de,WCE,Europe
 '7f4df5a8c8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kirchdorf an der Krems,2026-05-26T06:31:00+00:00,Austria,0.4169073246910978,3,1,de,WCE,Europe
 '7a65d80ba4',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien LandstraÃŸe,2026-05-30T06:01:00+00:00,Austria,0.4168941872244155,2,1,de,WCE,Europe
 '7b6cfce5f0',extremes,Precipitation,#d60d2b,wmo,Regen Meiringen Gadmertal,2026-05-12T05:52:00+00:00,Switzerland,0.4168914008041742,1,1,de,WCE,Europe
 '27ecdd832f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Emilia und Romagna,2026-05-27T06:46:00+00:00,Italy,0.4168710517634145,2,1,de,MED,Europe
-'50f39bafbb',extremes,Precipitation,#d60d2b,wmo,Regenguss Grindelwald,2026-06-02T07:08:00+00:00,Switzerland,0.41686033814050905,2,1,de,WCE,Europe
+'50f39bafbb',extremes,Precipitation,#d60d2b,wmo,Regenguss Grindelwald,2026-06-02T07:08:00+00:00,Switzerland,0.416860338140509,2,1,de,WCE,Europe
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Italien,2026-05-28T06:38:00+00:00,Italy,0.4166918885218739,2,1,de,MED,Europe
 'fcc9a54ff2',extremes,Precipitation,#d60d2b,wmo,Regen Kerenzerberg Seeztal,2026-06-03T07:23:00+00:00,Switzerland,0.4157274750109647,2,1,de,WCE,Europe
 '263e693f54',extremes,Precipitation,#d60d2b,wmo,Niederschlag Grindelwald,2026-05-12T05:52:00+00:00,Switzerland,0.4152002137179175,1,1,de,WCE,Europe
