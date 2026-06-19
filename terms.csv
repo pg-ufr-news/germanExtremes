@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8ad5a4bbbe',extremes,Heat Wave,#c40202,wmo,Hitzewelle Münster Nord Münster Süd,2026-06-19T07:39:00+00:00,Germany,0.744889405057306,0,1,de,WCE,Europe
+'aada08e903',extremes,Heat Wave,#c40202,wmo,Hitzewelle Essen Süd Essen Nord,2026-06-19T07:39:00+00:00,Germany,0.7401218042685556,0,1,de,WCE,Europe
+'ef52abee6d',extremes,Heat Wave,#c40202,wmo,Hitzewelle dortmund süd dortmund nord,2026-06-19T07:39:00+00:00,Germany,0.7333722761652526,0,1,de,WCE,Europe
+'5e8388cd76',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiesbaden Süd Wiesbaden Nord,2026-06-19T07:39:00+00:00,Germany,0.7323323042809358,0,1,de,WCE,Europe
+'dece1b85c7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt MÃ¶nchengladbach,2026-06-19T07:39:00+00:00,Germany,0.7316499624617557,0,1,de,WCE,Europe
+'8f656448d5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Wuppertal,2026-06-19T07:39:00+00:00,Germany,0.7279126248063559,0,1,de,WCE,Europe
+'97758578d9',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Halle Saale,2026-06-19T07:39:00+00:00,Germany,0.7250013994235818,0,1,de,WCE,Europe
+'74a9ca7b86',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Hagen,2026-06-19T07:39:00+00:00,Germany,0.7209786894176684,0,1,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.6314079869476403,2,3,de,WCE,Europe
 '8cfe36d839',extremes,Thunderstorm,#53785a,wmo,Unwetter Oberwart,2026-06-09T06:32:00+00:00,Austria,0.5917630441455055,3,1,de,WCE,Europe
 '6a1fee712a',extremes,Thunderstorm,#53785a,wmo,Unwetter baden,2026-06-08T07:13:00+00:00,Austria,0.5823177990429381,1,3,de,WCE,Europe
