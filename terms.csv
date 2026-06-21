@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.6314079869476403,2,3,de,WCE,Europe
 '3caca873cf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheinfelden,2026-06-19T07:39:00+00:00,Switzerland,0.6276463359456781,2,1,de,WCE,Europe
+'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.6098314270873124,3,3,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-05-31T06:40:00+00:00,Germany,0.5962634422206567,2,3,de,WCE,Europe
-'8e76e97181',extremes,Heat Wave,#c40202,wmo,Hitzewelle Morges Cossonay,2026-06-18T07:16:00+00:00,Switzerland,0.5938802144118248,1,1,de,WCE,Europe
 '6a1fee712a',extremes,Thunderstorm,#53785a,wmo,Unwetter baden,2026-06-08T07:13:00+00:00,Austria,0.5823177990429381,1,3,de,WCE,Europe
 '8cfe36d839',extremes,Thunderstorm,#53785a,wmo,Unwetter Oberwart,2026-06-09T06:32:00+00:00,Austria,0.5782986175236796,4,2,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-05-30T06:01:00+00:00,Germany,0.5749775876733012,2,3,de,WCE,Europe
@@ -63,6 +62,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17b0136195',extremes,Heat Wave,#c40202,wmo,Hitzewelle Völkermarkt,2026-05-24T06:22:00+00:00,Austria,0.5056122788334787,2,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-05-26T06:31:00+00:00,Austria,0.5055545340486078,2,2,de,WCE,Europe
 '2009fba247',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sankt Veit an der Glan,2026-05-25T06:53:00+00:00,Austria,0.5054452283950892,2,1,de,WCE,Europe
+'8e76e97181',extremes,Heat Wave,#c40202,wmo,Hitzewelle Morges Cossonay,2026-06-18T07:16:00+00:00,Switzerland,0.5047981822500511,2,1,de,WCE,Europe
 '6a7ad15d32',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ried im Innkreis,2026-05-25T06:53:00+00:00,Austria,0.5045704111747575,2,1,de,WCE,Europe
 '8e19081b44',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bern Sinn,2026-06-17T07:33:00+00:00,Switzerland,0.504413456824867,2,1,de,WCE,Europe
 '4a9dee2eb3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Jennersdorf,2026-05-24T06:22:00+00:00,Austria,0.5042556068005479,2,1,de,WCE,Europe
@@ -412,7 +412,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1660e0818c',extremes,Precipitation,#d60d2b,wmo,Niederschlag Obertoggenburg,2026-06-03T07:23:00+00:00,Switzerland,0.4118493061689162,2,1,de,WCE,Europe
 'b7030f8398',extremes,Precipitation,#d60d2b,wmo,Niederschlag frutigen kiental,2026-06-03T07:23:00+00:00,Switzerland,0.4114799652322898,2,1,de,WCE,Europe
 '2d3a791b07',extremes,Storm,#b3b2b1,wmo,Sturm Steyr Stadt,2026-06-04T07:06:00+00:00,Austria,0.4112249202765728,2,1,de,WCE,Europe
-'5648577c5c',extremes,Earthquake,#870007,usgs,Erdbeben Scarcelli,2026-06-02T07:08:00+00:00,Italy,0.41060215162421104,2,1,de,MED,Europe
+'5648577c5c',extremes,Earthquake,#870007,usgs,Erdbeben Scarcelli,2026-06-02T07:08:00+00:00,Italy,0.410602151624211,2,1,de,MED,Europe
 '829286e09c',extremes,Storm,#b3b2b1,wmo,Sturm GmÃ¼nd,2026-06-04T07:06:00+00:00,Austria,0.4093070331839486,2,1,de,WCE,Europe
 'e876b3ff36',extremes,Earthquake,#870007,usgs,Erdbeben Abra Pampa,2026-05-19T06:33:00+00:00,Argentina,0.4047370289576017,1,1,de,SES,South-America
 'baffd48217',extremes,Precipitation,#d60d2b,wmo,Regenguss Salzburg Umgebung,2026-06-09T06:32:00+00:00,Austria,0.4027522850588941,2,1,de,WCE,Europe
