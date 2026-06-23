@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'4389b7abd6',extremes,Heat Wave,#c40202,wmo,Hitzewelle Frick Leibstadt,2026-06-17T07:33:00+00:00,Switzerland,0.7330702617747273,0,1,de,WCE,Europe
+'604d8535c2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Burgdorf Limpachtal,2026-06-17T07:33:00+00:00,Switzerland,0.7327679697965038,0,1,de,WCE,Europe
+'7bed149a8a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Zug Knonau,2026-06-17T07:33:00+00:00,Switzerland,0.7326166269211307,0,1,de,WCE,Europe
+'95738e04d7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Turbenthal Sirnach,2026-06-17T07:33:00+00:00,Switzerland,0.7320910899293294,0,1,de,WCE,Europe
+'0f960d8a1a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schaffhausen,2026-06-18T07:16:00+00:00,Switzerland,0.731741313131031,0,1,de,WCE,Europe
+'18e7fdcc5f',extremes,Heat Wave,#c40202,wmo,Hitzewelle bricht sie vollständig aus,2026-06-19T07:39:00+00:00,Switzerland,0.7305882097761222,0,1,de,WCE,Europe
+'8a67a1fe5c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bex Villars,2026-06-18T07:16:00+00:00,Switzerland,0.730459722487581,0,1,de,WCE,Europe
+'b2bbe70547',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sarganserland,2026-06-18T07:16:00+00:00,Switzerland,0.7299670885003834,0,1,de,WCE,Europe
 '8ef8f7a322',extremes,Heat Wave,#c40202,wmo,Hitzewelle Biel Neuenburg,2026-06-17T07:33:00+00:00,Switzerland,0.6586397105029448,2,1,de,WCE,Europe
 '840e458266',extremes,Heat Wave,#c40202,wmo,Hitzewelle Marthalen Stammheim,2026-06-18T07:16:00+00:00,Switzerland,0.6264832966158718,1,1,de,WCE,Europe
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,Hitzewelle Limmattal,2026-06-17T07:33:00+00:00,Switzerland,0.6256946375180414,1,1,de,WCE,Europe
