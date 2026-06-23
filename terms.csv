@@ -1,24 +1,24 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8ef8f7a322',extremes,Heat Wave,#c40202,wmo,Hitzewelle Biel Neuenburg,2026-06-17T07:33:00+00:00,Switzerland,0.7748702300034644,1,2,de,WCE,Europe
-'4208a0b339',extremes,Heat Wave,#c40202,wmo,Hitzewelle oberes Baselbiet,2026-06-21T07:16:00+00:00,Switzerland,0.7348243917511333,0,1,de,WCE,Europe
-'655291dc6f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Pfungen Hettlingen,2026-06-17T07:33:00+00:00,Switzerland,0.7346796738872561,0,1,de,WCE,Europe
-'dfb51eb234',extremes,Heat Wave,#c40202,wmo,Hitzewelle Goldau Ägeri,2026-06-20T06:47:00+00:00,Switzerland,0.7346526685963957,0,1,de,WCE,Europe
-'6c57527c47',extremes,Heat Wave,#c40202,wmo,Hitzewelle Langenthal,2026-06-17T07:33:00+00:00,Switzerland,0.7346466473871484,0,1,de,WCE,Europe
-'cd604bad4d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Brig nördliches Simplongebiet,2026-06-17T07:33:00+00:00,Switzerland,0.7340062466546735,0,1,de,WCE,Europe
-'1c6cf0535c',extremes,Heat Wave,#c40202,wmo,Hitzewelle ajoie,2026-06-18T07:16:00+00:00,Switzerland,0.733321715794611,0,1,de,WCE,Europe
-'14f9737adf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wädenswil Rüti,2026-06-17T07:33:00+00:00,Switzerland,0.733210089390705,0,1,de,WCE,Europe
-'b63eebbbb1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Meiringen Gadmertal,2026-06-17T07:33:00+00:00,Switzerland,0.7331420857913656,0,1,de,WCE,Europe
-'c08bb125c4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Estavayer Cudrefin,2026-06-20T06:47:00+00:00,Switzerland,0.7331312861855117,0,1,de,WCE,Europe
-'323f237847',extremes,Heat Wave,#c40202,wmo,Hitzewelle Freiburg,2026-06-20T06:47:00+00:00,Switzerland,0.6498934414346217,1,1,de,WCE,Europe
+'8ef8f7a322',extremes,Heat Wave,#c40202,wmo,Hitzewelle Biel Neuenburg,2026-06-17T07:33:00+00:00,Switzerland,0.6586397105029448,2,1,de,WCE,Europe
 '840e458266',extremes,Heat Wave,#c40202,wmo,Hitzewelle Marthalen Stammheim,2026-06-18T07:16:00+00:00,Switzerland,0.6264832966158718,1,1,de,WCE,Europe
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,Hitzewelle Limmattal,2026-06-17T07:33:00+00:00,Switzerland,0.6256946375180414,1,1,de,WCE,Europe
 '0a43eb8b74',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vouvry,2026-06-17T07:33:00+00:00,Switzerland,0.625302426529319,1,1,de,WCE,Europe
 'a6c2bcf90c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sumiswald Worb,2026-06-19T07:39:00+00:00,Switzerland,0.6252140892481828,1,1,de,WCE,Europe
 '9fa978592e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Linthebene Gaster,2026-06-21T07:16:00+00:00,Switzerland,0.6247495805880924,1,1,de,WCE,Europe
+'4208a0b339',extremes,Heat Wave,#c40202,wmo,Hitzewelle oberes Baselbiet,2026-06-21T07:16:00+00:00,Switzerland,0.6246007329884633,1,1,de,WCE,Europe
+'655291dc6f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Pfungen Hettlingen,2026-06-17T07:33:00+00:00,Switzerland,0.6244777228041677,1,1,de,WCE,Europe
+'dfb51eb234',extremes,Heat Wave,#c40202,wmo,Hitzewelle Goldau Ägeri,2026-06-20T06:47:00+00:00,Switzerland,0.6244547683069362,1,1,de,WCE,Europe
+'6c57527c47',extremes,Heat Wave,#c40202,wmo,Hitzewelle Langenthal,2026-06-17T07:33:00+00:00,Switzerland,0.6244496502790761,1,1,de,WCE,Europe
+'cd604bad4d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Brig nördliches Simplongebiet,2026-06-17T07:33:00+00:00,Switzerland,0.6239053096564725,1,1,de,WCE,Europe
+'1c6cf0535c',extremes,Heat Wave,#c40202,wmo,Hitzewelle ajoie,2026-06-18T07:16:00+00:00,Switzerland,0.6233234584254194,1,1,de,WCE,Europe
+'14f9737adf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wädenswil Rüti,2026-06-17T07:33:00+00:00,Switzerland,0.6232285759820992,1,1,de,WCE,Europe
+'b63eebbbb1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Meiringen Gadmertal,2026-06-17T07:33:00+00:00,Switzerland,0.6231707729226608,1,1,de,WCE,Europe
+'c08bb125c4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Estavayer Cudrefin,2026-06-20T06:47:00+00:00,Switzerland,0.6231615932576849,1,1,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.6098314270873124,3,3,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-05-31T06:40:00+00:00,Germany,0.5962634422206567,2,3,de,WCE,Europe
 '6a1fee712a',extremes,Thunderstorm,#53785a,wmo,Unwetter baden,2026-06-08T07:13:00+00:00,Austria,0.5823177990429381,1,3,de,WCE,Europe
 '8cfe36d839',extremes,Thunderstorm,#53785a,wmo,Unwetter Oberwart,2026-06-09T06:32:00+00:00,Austria,0.5782986175236796,4,2,de,WCE,Europe
+'323f237847',extremes,Heat Wave,#c40202,wmo,Hitzewelle Freiburg,2026-06-20T06:47:00+00:00,Switzerland,0.5774365432963514,2,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-05-30T06:01:00+00:00,Germany,0.5749775876733012,2,3,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-05-30T06:01:00+00:00,Germany,0.5725935968672842,1,2,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-05-19T06:33:00+00:00,Austria,0.5641247614458786,1,1,de,WCE,Europe
