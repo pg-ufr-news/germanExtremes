@@ -1,5 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'de5ea0826d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basel,2026-06-20T06:47:00+00:00,Switzerland,0.7528467534108939,2,2,de,WCE,Europe
+'d6b259f3bc',extremes,Heat Wave,#c40202,wmo,Hitzewelle Brienz Interlaken,2026-06-20T06:47:00+00:00,Switzerland,0.7222992225334799,0,1,de,WCE,Europe
+'90cbdf698e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Genf,2026-06-20T06:47:00+00:00,Switzerland,0.7221436436270257,0,1,de,WCE,Europe
+'7a263703cd',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sarnen Lungern,2026-06-19T07:39:00+00:00,Switzerland,0.72202176342695,0,1,de,WCE,Europe
+'92fd344243',extremes,Heat Wave,#c40202,wmo,Hitzewelle laufental,2026-06-19T07:39:00+00:00,Switzerland,0.7220112623188539,0,1,de,WCE,Europe
+'edaa90837c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Nyon Terre Sainte,2026-06-18T07:16:00+00:00,Switzerland,0.7210722261938205,0,1,de,WCE,Europe
+'0b0a5d6b0a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Freiberge,2026-06-17T07:33:00+00:00,Switzerland,0.7209007530607225,0,1,de,WCE,Europe
+'42cb1ac630',extremes,Heat Wave,#c40202,wmo,Hitzewelle Erstfeld Engelberg,2026-06-18T07:16:00+00:00,Switzerland,0.7206611015654355,0,1,de,WCE,Europe
+'6f8f50b514',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vispertal Nanztal,2026-06-17T07:33:00+00:00,Switzerland,0.7206239092008377,0,1,de,WCE,Europe
 '8ef8f7a322',extremes,Heat Wave,#c40202,wmo,Hitzewelle Biel Neuenburg,2026-06-17T07:33:00+00:00,Switzerland,0.7099937689275031,3,2,de,WCE,Europe
 'd5e5e0e53d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basse Gruyère,2026-06-17T07:33:00+00:00,Switzerland,0.6197179391672374,1,1,de,WCE,Europe
 '285520cfc4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Monthey Val d'illiez,2026-06-21T07:16:00+00:00,Switzerland,0.6177112194063101,1,1,de,WCE,Europe
