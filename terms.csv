@@ -1,13 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'cd0cb7a843',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Wolfsburg,2026-06-20T06:47:00+00:00,Germany,0.7015467122693269,0,1,de,WCE,Europe
-'33189dd77a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luzern Alpnach,2026-06-20T06:47:00+00:00,Switzerland,0.700794362419233,0,1,de,WCE,Europe
-'2c1ab9723c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheintal,2026-06-17T07:33:00+00:00,Switzerland,0.6989128715006319,0,1,de,WCE,Europe
 'adf5595b75',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Deutschland,2026-06-19T07:39:00+00:00,Germany,0.6966961907607908,0,1,de,WCE,Europe
 'a85598b6d2',extremes,Heat Wave,#c40202,wmo,Hitzewelle wohlen albis,2026-06-19T07:39:00+00:00,Switzerland,0.6946156945709288,0,1,de,WCE,Europe
 '56646704b8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Bremen Nordstadt Bremen,2026-06-20T06:47:00+00:00,Germany,0.694499487402433,0,1,de,WCE,Europe
 '33c63ac237',extremes,Heat Wave,#c40202,wmo,Hitzewelle Aigle Leysin,2026-06-18T07:16:00+00:00,Switzerland,0.693735234615142,0,1,de,WCE,Europe
 '25457a2de6',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Leverkusen,2026-06-20T06:47:00+00:00,Germany,0.6906157300091871,0,1,de,WCE,Europe
 'de5ea0826d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basel,2026-06-20T06:47:00+00:00,Switzerland,0.6903697853992599,3,2,de,WCE,Europe
+'2c1ab9723c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheintal,2026-06-17T07:33:00+00:00,Switzerland,0.644976030775537,1,1,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.6098314270873124,3,3,de,WCE,Europe
 '14c0b1f476',extremes,Heat Wave,#c40202,wmo,Hitzewelle Werdenberg,2026-06-17T07:33:00+00:00,Switzerland,0.6044076254938501,1,1,de,WCE,Europe
 '8ef8f7a322',extremes,Heat Wave,#c40202,wmo,Hitzewelle Biel Neuenburg,2026-06-17T07:33:00+00:00,Switzerland,0.6034947185883777,4,1,de,WCE,Europe
@@ -15,7 +13,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90cbdf698e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Genf,2026-06-20T06:47:00+00:00,Switzerland,0.5997629053419545,2,1,de,WCE,Europe
 'fa57f9f0f0',extremes,Heat Wave,#c40202,wmo,Hitzewelle Olten Gösgen,2026-06-18T07:16:00+00:00,Switzerland,0.5991030118488623,1,1,de,WCE,Europe
 '340257139b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mülheim an der Ruhr,2026-06-20T06:47:00+00:00,Germany,0.5968399826030205,1,1,de,WCE,Europe
+'cd0cb7a843',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Wolfsburg,2026-06-20T06:47:00+00:00,Germany,0.5963147054289278,1,1,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-05-31T06:40:00+00:00,Germany,0.5962634422206567,2,3,de,WCE,Europe
+'33189dd77a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luzern Alpnach,2026-06-20T06:47:00+00:00,Switzerland,0.595675208056348,1,1,de,WCE,Europe
 '6a1fee712a',extremes,Thunderstorm,#53785a,wmo,Unwetter baden,2026-06-08T07:13:00+00:00,Austria,0.5823177990429381,1,3,de,WCE,Europe
 '8cfe36d839',extremes,Thunderstorm,#53785a,wmo,Unwetter Oberwart,2026-06-09T06:32:00+00:00,Austria,0.5782986175236796,4,2,de,WCE,Europe
 '323f237847',extremes,Heat Wave,#c40202,wmo,Hitzewelle Freiburg,2026-06-20T06:47:00+00:00,Switzerland,0.5774365432963514,2,1,de,WCE,Europe
