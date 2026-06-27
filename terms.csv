@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'085f4f747e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Jena,2026-06-20T06:47:00+00:00,Germany,0.674729481850855,0,1,de,WCE,Europe
 'c1ad5b6068',extremes,Heat Wave,#c40202,wmo,Hitzewelle Thun Belp,2026-06-17T07:33:00+00:00,Switzerland,0.6732446128654935,0,1,de,WCE,Europe
 'bf3ba4966a',extremes,Heat Wave,#c40202,wmo,Hitzewelle domleschg,2026-06-17T07:33:00+00:00,Switzerland,0.6728581423884603,0,1,de,WCE,Europe
 '9c74be65b8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schärding,2026-06-17T07:33:00+00:00,Austria,0.6710732045885355,0,1,de,WCE,Europe
@@ -35,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-05-30T06:01:00+00:00,Germany,0.5749775876733012,2,3,de,WCE,Europe
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luxemburg,2026-06-17T07:33:00+00:00,Luxembourg,0.5748931659945945,1,1,de,WCE,Europe
 '16f0fe95ca',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Salzgitter,2026-06-20T06:47:00+00:00,Germany,0.5746410742869879,1,1,de,WCE,Europe
+'085f4f747e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Jena,2026-06-20T06:47:00+00:00,Germany,0.5738200895732267,1,1,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-05-30T06:01:00+00:00,Germany,0.5725935968672842,1,2,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-05-19T06:33:00+00:00,Austria,0.5641247614458786,1,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5576613954213028,4,2,de,WCE,Europe
