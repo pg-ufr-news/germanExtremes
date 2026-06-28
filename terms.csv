@@ -1,10 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-06-08T07:13:00+00:00,Austria,0.7227290654263662,0,1,de,WCE,Europe
-'10b7782bae',extremes,Heat Wave,#c40202,wmo,Hitzewelle Amstetten,2026-06-17T07:33:00+00:00,Austria,0.7138820493795452,1,2,de,WCE,Europe
-'6c67a60d9b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Turtmanntal,2026-06-18T07:16:00+00:00,Switzerland,0.6881414393727815,0,1,de,WCE,Europe
-'05b7fdff5b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Meidling,2026-06-17T07:33:00+00:00,Austria,0.6618843612587413,0,1,de,WCE,Europe
-'26ad6b04a8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschlandsberg,2026-06-17T07:33:00+00:00,Austria,0.6614506952418157,0,1,de,WCE,Europe
-'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-06-12T07:05:00+00:00,Switzerland,0.6613045113779519,0,1,de,WCE,Europe
 '223090990d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Remscheid,2026-06-21T07:16:00+00:00,Germany,0.6611611752457696,0,1,de,WCE,Europe
 'bd7cc63d0e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Duisburg Süd Duisburg Nord,2026-06-21T07:16:00+00:00,Germany,0.661009501286159,0,1,de,WCE,Europe
 '980c77d360',extremes,Heat Wave,#c40202,wmo,Hitzewelle Graz Umgebung,2026-06-18T07:16:00+00:00,Austria,0.6608583737765764,0,1,de,WCE,Europe
@@ -12,7 +6,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4f639ff2f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Braunschweig,2026-06-21T07:16:00+00:00,Germany,0.6583354409056256,0,1,de,WCE,Europe
 '7a3935df7e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kufstein,2026-06-17T07:33:00+00:00,Austria,0.65782098560375,0,1,de,WCE,Europe
 'b43a4dc985',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiener Neustadt Land,2026-06-18T07:16:00+00:00,Austria,0.657420424688241,0,1,de,WCE,Europe
+'2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-06-08T07:13:00+00:00,Austria,0.6143197056124112,1,1,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.6098314270873124,3,3,de,WCE,Europe
+'10b7782bae',extremes,Heat Wave,#c40202,wmo,Hitzewelle Amstetten,2026-06-17T07:33:00+00:00,Austria,0.6067997569726135,2,1,de,WCE,Europe
 '8ef8f7a322',extremes,Heat Wave,#c40202,wmo,Hitzewelle Biel Neuenburg,2026-06-17T07:33:00+00:00,Switzerland,0.6034947185883777,4,1,de,WCE,Europe
 '90cbdf698e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Genf,2026-06-20T06:47:00+00:00,Switzerland,0.5997629053419545,2,1,de,WCE,Europe
 '45f67fbaba',extremes,Heat Wave,#c40202,wmo,Hitzewelle wahlern plaffeien,2026-06-18T07:16:00+00:00,Switzerland,0.5977133910274314,1,1,de,WCE,Europe
@@ -27,8 +23,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ded337d1f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Langnau Eggiwil,2026-06-18T07:16:00+00:00,Switzerland,0.5867125016804935,1,1,de,WCE,Europe
 '4b8a98e260',extremes,Heat Wave,#c40202,wmo,Hitzewelle glâne,2026-06-17T07:33:00+00:00,Switzerland,0.5860711675044643,1,1,de,WCE,Europe
 'c666c4ccde',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Bremerhaven,2026-06-20T06:47:00+00:00,Germany,0.5857470001660475,1,1,de,WCE,Europe
+'6c67a60d9b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Turtmanntal,2026-06-18T07:16:00+00:00,Switzerland,0.5849202234668642,1,1,de,WCE,Europe
 '42577d30d4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Magdeburg,2026-06-20T06:47:00+00:00,Germany,0.5847354372368975,1,1,de,WCE,Europe
 'cc87dae072',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Erlangen,2026-06-20T06:47:00+00:00,Germany,0.5847162792846463,1,1,de,WCE,Europe
+'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-06-12T07:05:00+00:00,Switzerland,0.5845875110998304,1,1,de,WCE,Europe
 'fb67dfa7f8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oron – Haute Broye,2026-06-18T07:16:00+00:00,Switzerland,0.5838828847874029,1,1,de,WCE,Europe
 '2f2f638d6d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Niedersimmental,2026-06-17T07:33:00+00:00,Switzerland,0.5832931559560093,1,1,de,WCE,Europe
 '2d4bc552e1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Rostock,2026-06-20T06:47:00+00:00,Germany,0.5832424900557306,1,1,de,WCE,Europe
@@ -59,6 +57,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7fb21d521',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Donaustadt,2026-06-17T07:33:00+00:00,Austria,0.5660979970787466,1,1,de,WCE,Europe
 'a38acbc97d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Krems an der Donau Stadt,2026-06-17T07:33:00+00:00,Austria,0.5650748970185395,1,1,de,WCE,Europe
 '23cf4b65f8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Nidau ​​ins,2026-06-19T07:39:00+00:00,Switzerland,0.5640781360943437,3,2,de,WCE,Europe
+'05b7fdff5b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Meidling,2026-06-17T07:33:00+00:00,Austria,0.5626017070699301,1,1,de,WCE,Europe
+'26ad6b04a8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschlandsberg,2026-06-17T07:33:00+00:00,Austria,0.5622330909555433,1,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-05-26T06:31:00+00:00,Austria,0.5576613954213028,4,2,de,WCE,Europe
 '075cc3fe36',extremes,Thunderstorm,#53785a,wmo,Unwetter Italien,2026-05-31T06:40:00+00:00,Italy,0.5543776221055342,1,2,de,MED,Europe
 'e8dc897411',extremes,Thunderstorm,#53785a,wmo,Gewitter Güssing,2026-06-09T06:32:00+00:00,Austria,0.5515546596671358,2,1,de,WCE,Europe
