@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b8ef2935c3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Bochum,2026-06-21T07:16:00+00:00,Germany,0.6664034650527627,0,1,de,WCE,Europe
+'b7fb21d521',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Donaustadt,2026-06-17T07:33:00+00:00,Austria,0.6659976436220549,0,1,de,WCE,Europe
+'a38acbc97d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Krems an der Donau Stadt,2026-06-17T07:33:00+00:00,Austria,0.6646175082571053,0,1,de,WCE,Europe
+'10b7782bae',extremes,Heat Wave,#c40202,wmo,Hitzewelle Amstetten,2026-06-17T07:33:00+00:00,Austria,0.6632141580935826,0,1,de,WCE,Europe
+'05b7fdff5b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Meidling,2026-06-17T07:33:00+00:00,Austria,0.6618843612587413,0,1,de,WCE,Europe
+'26ad6b04a8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschlandsberg,2026-06-17T07:33:00+00:00,Austria,0.6614506952418157,0,1,de,WCE,Europe
+'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-06-12T07:05:00+00:00,Switzerland,0.6613045113779519,0,1,de,WCE,Europe
+'223090990d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Remscheid,2026-06-21T07:16:00+00:00,Germany,0.6611611752457696,0,1,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.6098314270873124,3,3,de,WCE,Europe
 '8ef8f7a322',extremes,Heat Wave,#c40202,wmo,Hitzewelle Biel Neuenburg,2026-06-17T07:33:00+00:00,Switzerland,0.6034947185883777,4,1,de,WCE,Europe
 '90cbdf698e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Genf,2026-06-20T06:47:00+00:00,Switzerland,0.5997629053419545,2,1,de,WCE,Europe
