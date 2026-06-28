@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'10b7782bae',extremes,Heat Wave,#c40202,wmo,Hitzewelle Amstetten,2026-06-17T07:33:00+00:00,Austria,0.6632141580935826,0,1,de,WCE,Europe
+'10b7782bae',extremes,Heat Wave,#c40202,wmo,Hitzewelle Amstetten,2026-06-17T07:33:00+00:00,Austria,0.7138820493795452,1,2,de,WCE,Europe
 '05b7fdff5b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Meidling,2026-06-17T07:33:00+00:00,Austria,0.6618843612587413,0,1,de,WCE,Europe
 '26ad6b04a8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschlandsberg,2026-06-17T07:33:00+00:00,Austria,0.6614506952418157,0,1,de,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-06-12T07:05:00+00:00,Switzerland,0.6613045113779519,0,1,de,WCE,Europe
