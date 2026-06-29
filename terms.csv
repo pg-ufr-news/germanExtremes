@@ -1,9 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'cd04e0e60c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lötschental Naters,2026-06-20T06:47:00+00:00,Switzerland,0.7297523510253768,0,1,de,WCE,Europe
+'81e27c4bec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vallée de Joux,2026-06-17T07:33:00+00:00,Switzerland,0.7289285857525555,0,1,de,WCE,Europe
+'83c01ff715',extremes,Heat Wave,#c40202,wmo,Hitzewelle Leventina,2026-06-26T06:36:00+00:00,Switzerland,0.7280646167433956,0,1,de,WCE,Europe
 '1a3f19d839',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Ottakring,2026-06-18T07:16:00+00:00,Austria,0.7082983511182062,1,2,de,WCE,Europe
+'365a9a79c6',extremes,Heat Wave,#c40202,wmo,Hitzewelle Val de Travers,2026-06-18T07:16:00+00:00,Switzerland,0.707065265317741,0,1,de,WCE,Europe
+'d5422ed483',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luxemburg Norden,2026-06-18T07:16:00+00:00,Luxembourg,0.662317208224,0,1,de,WCE,Europe
 'f23dc81d7a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Landstraße,2026-06-17T07:33:00+00:00,Austria,0.6560656358615637,0,1,de,WCE,Europe
 '92819cd3a7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Frankfurt Süd Frankfurt Nord,2026-06-21T07:16:00+00:00,Germany,0.6556714525547711,0,1,de,WCE,Europe
 '979ec45109',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Döbling,2026-06-20T06:47:00+00:00,Austria,0.6551630131792165,0,1,de,WCE,Europe
 '90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-06-17T07:34:00+00:00,Germany,0.6548295438811793,0,1,de,WCE,Europe
+'43eb4d9368',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eisenstadt Umgebung,2026-06-18T07:16:00+00:00,Austria,0.6535581420063571,0,1,de,WCE,Europe
+'aa2377795f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mannheim,2026-06-22T08:39:00+00:00,Germany,0.6533032574706804,0,1,de,WCE,Europe
+'abbc3d2b7f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Neusiedl am See,2026-06-17T07:33:00+00:00,Austria,0.6526800288552513,0,1,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-06-08T07:13:00+00:00,Austria,0.6143197056124112,1,1,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.6098314270873124,3,3,de,WCE,Europe
 '10b7782bae',extremes,Heat Wave,#c40202,wmo,Hitzewelle Amstetten,2026-06-17T07:33:00+00:00,Austria,0.6067997569726135,2,1,de,WCE,Europe
