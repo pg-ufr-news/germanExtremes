@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'740ea7b0aa',extremes,Heat Wave,#c40202,wmo,obersimmentale Hitzewelle,2026-06-18T07:16:00+00:00,Switzerland,0.657248825338654,0,1,de,WCE,Europe
+'f6c91174d0',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Lügen,2026-06-18T07:16:00+00:00,Austria,0.6571490414983503,0,1,de,WCE,Europe
+'1a3f19d839',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Ottakring,2026-06-18T07:16:00+00:00,Austria,0.6566451013155367,0,1,de,WCE,Europe
+'963b43ac26',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Koblenz,2026-06-21T07:16:00+00:00,Germany,0.6564106164441613,0,1,de,WCE,Europe
+'f23dc81d7a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Landstraße,2026-06-17T07:33:00+00:00,Austria,0.6560656358615637,0,1,de,WCE,Europe
+'92819cd3a7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Frankfurt Süd Frankfurt Nord,2026-06-21T07:16:00+00:00,Germany,0.6556714525547711,0,1,de,WCE,Europe
+'979ec45109',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Döbling,2026-06-20T06:47:00+00:00,Austria,0.6551630131792165,0,1,de,WCE,Europe
+'90b1b922b5',extremes,Drought,#edc291,edo,Regenmangel Deutschland,2026-06-17T07:34:00+00:00,Germany,0.6548295438811793,0,1,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-06-08T07:13:00+00:00,Austria,0.6143197056124112,1,1,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.6098314270873124,3,3,de,WCE,Europe
 '10b7782bae',extremes,Heat Wave,#c40202,wmo,Hitzewelle Amstetten,2026-06-17T07:33:00+00:00,Austria,0.6067997569726135,2,1,de,WCE,Europe
