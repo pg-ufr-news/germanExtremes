@@ -34,6 +34,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56882a4101',extremes,Heat Wave,#c40202,wmo,Hitzewelle Mattersburg,2026-06-19T07:39:00+00:00,Austria,0.6428715181157028,0,1,de,WCE,Europe
 '289ccbc6fb',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Favoriten,2026-06-17T07:33:00+00:00,Austria,0.6426793899563681,0,1,de,WCE,Europe
 '6a7ad15d32',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ried im Innkreis,2026-06-17T07:33:00+00:00,Austria,0.642063372272397,0,1,de,WCE,Europe
+'4672337920',extremes,Heat Wave,#c40202,wmo,Hitzewelle Tamsweg,2026-06-19T07:39:00+00:00,Austria,0.6415020662038702,0,1,de,WCE,Europe
+'31d5ad5d7f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wolfsberg,2026-06-20T06:47:00+00:00,Austria,0.6405162119503568,0,1,de,WCE,Europe
+'797adc27c2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rohrbach,2026-06-19T07:39:00+00:00,Austria,0.6400905370858385,0,1,de,WCE,Europe
+'2a71323bea',extremes,Thunderstorm,#53785a,wmo,Gewitter innsbruck stadt,2026-06-27T06:08:00+00:00,Austria,0.6400441699370547,0,1,de,WCE,Europe
+'9adf954b98',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Rudolfsheim fünfhaus,2026-06-18T07:16:00+00:00,Austria,0.6395711725656306,0,1,de,WCE,Europe
+'ec13a83132',extremes,Heat Wave,#c40202,wmo,Hitzewelle Südoststeiermark,2026-06-18T07:16:00+00:00,Austria,0.6394468124144601,0,1,de,WCE,Europe
+'64b71aaab1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murau,2026-06-18T07:16:00+00:00,Austria,0.6391521900381342,0,1,de,WCE,Europe
+'64ad829968',extremes,Thunderstorm,#53785a,wmo,Gewitter Schweiz,2026-07-01T06:52:00+00:00,Switzerland,0.6389285081728565,0,1,de,WCE,Europe
 '1e8591b660',extremes,Thunderstorm,#53785a,wmo,Hagel Schweiz,2026-07-01T06:52:00+00:00,Switzerland,0.6370721850489472,1,2,de,WCE,Europe
 'aa2377795f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mannheim,2026-06-22T08:39:00+00:00,Germany,0.6367868810225666,2,2,de,WCE,Europe
 '25d361ff38',extremes,Heat Wave,#c40202,wmo,Hitzewelle Dornbirn,2026-06-19T07:39:00+00:00,Austria,0.6342211411759721,1,2,de,WCE,Europe
