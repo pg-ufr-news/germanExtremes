@@ -31,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6a7ad15d32',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ried im Innkreis,2026-06-17T07:33:00+00:00,Austria,0.642063372272397,0,1,de,WCE,Europe
 '4672337920',extremes,Heat Wave,#c40202,wmo,Hitzewelle Tamsweg,2026-06-19T07:39:00+00:00,Austria,0.6415020662038702,0,1,de,WCE,Europe
 '31d5ad5d7f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wolfsberg,2026-06-20T06:47:00+00:00,Austria,0.6405162119503568,0,1,de,WCE,Europe
+'7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-06-18T07:16:00+00:00,Austria,0.6402117382534512,0,1,de,WCE,Europe
 '797adc27c2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rohrbach,2026-06-19T07:39:00+00:00,Austria,0.6400905370858385,0,1,de,WCE,Europe
 '2a71323bea',extremes,Thunderstorm,#53785a,wmo,Gewitter innsbruck stadt,2026-06-27T06:08:00+00:00,Austria,0.6400441699370547,0,1,de,WCE,Europe
 '9adf954b98',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Rudolfsheim fünfhaus,2026-06-18T07:16:00+00:00,Austria,0.6395711725656306,0,1,de,WCE,Europe
@@ -54,7 +55,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9bdd21b0b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Villach Stadt,2026-06-17T07:33:00+00:00,Austria,0.6353576336690577,0,1,de,WCE,Europe
 '06881ef91a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Suhl,2026-06-22T08:39:00+00:00,Germany,0.6352822694106465,0,1,de,WCE,Europe
 '2067db2258',extremes,Heat Wave,#c40202,wmo,Hitzewelle Landeck,2026-06-17T07:33:00+00:00,Austria,0.6350279195749216,0,1,de,WCE,Europe
+'2fef87cc1e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murtal,2026-06-18T07:16:00+00:00,Austria,0.6344224144742914,0,1,de,WCE,Europe
 '25d361ff38',extremes,Heat Wave,#c40202,wmo,Hitzewelle Dornbirn,2026-06-19T07:39:00+00:00,Austria,0.6342211411759721,1,2,de,WCE,Europe
+'3b300588b4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Hietzing,2026-06-21T07:16:00+00:00,Austria,0.6341661935883096,0,1,de,WCE,Europe
+'2f548c5822',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schwaz,2026-06-17T07:33:00+00:00,Austria,0.6341293122055867,0,1,de,WCE,Europe
+'091f8b2ed1',extremes,Heat Wave,#c40202,wmo,Hitzewelle zwettl,2026-06-18T07:16:00+00:00,Austria,0.6340904643465938,0,1,de,WCE,Europe
+'5d832bf6ca',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kremser Land,2026-06-17T07:33:00+00:00,Austria,0.6339604860653028,0,1,de,WCE,Europe
+'4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-06-19T07:39:00+00:00,Austria,0.6325226101925848,0,1,de,WCE,Europe
+'48b7df133f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Melk,2026-06-18T07:16:00+00:00,Austria,0.6324621222306865,0,1,de,WCE,Europe
 '373a7dee66',extremes,Heat Wave,#c40202,wmo,Hitzewelle Feldkirchen,2026-06-19T07:39:00+00:00,Austria,0.6321412702280577,1,2,de,WCE,Europe
 '33db445b97',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurt Stadt,2026-06-17T07:33:00+00:00,Austria,0.630131756771683,1,2,de,WCE,Europe
 'cd04e0e60c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lötschental Naters,2026-06-20T06:47:00+00:00,Switzerland,0.6202894983715703,1,1,de,WCE,Europe
