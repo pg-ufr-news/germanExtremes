@@ -4,8 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-06-17T07:33:00+00:00,Switzerland,0.7353433455288537,1,3,de,WCE,Europe
 '80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-06-17T07:33:00+00:00,Austria,0.7280450043083145,2,2,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-06-17T07:33:00+00:00,Austria,0.6831872065330719,1,3,de,WCE,Europe
-'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Österreich,2026-06-18T07:16:00+00:00,Austria,0.6458961002194895,1,1,de,WCE,Europe
-'174bbfe494',extremes,Heat Wave,#c40202,wmo,Hitzewelle Braunau am Gasthaus,2026-06-18T07:16:00+00:00,Austria,0.6433515520829935,0,1,de,WCE,Europe
 '997502c6bf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Hernals,2026-06-18T07:16:00+00:00,Austria,0.6430771348430641,0,1,de,WCE,Europe
 'a37d69084b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Feldkirch,2026-06-21T07:16:00+00:00,Austria,0.6430702114406043,0,1,de,WCE,Europe
 '56882a4101',extremes,Heat Wave,#c40202,wmo,Hitzewelle Mattersburg,2026-06-19T07:39:00+00:00,Austria,0.6428715181157028,0,1,de,WCE,Europe
@@ -130,6 +128,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc87dae072',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Erlangen,2026-06-20T06:47:00+00:00,Germany,0.5847162792846463,1,1,de,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-06-12T07:05:00+00:00,Switzerland,0.5845875110998304,1,1,de,WCE,Europe
 'fb67dfa7f8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oron – Haute Broye,2026-06-18T07:16:00+00:00,Switzerland,0.5838828847874029,1,1,de,WCE,Europe
+'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Österreich,2026-06-18T07:16:00+00:00,Austria,0.5836951535198994,2,1,de,WCE,Europe
 '2f2f638d6d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Niedersimmental,2026-06-17T07:33:00+00:00,Switzerland,0.5832931559560093,1,1,de,WCE,Europe
 '2d4bc552e1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Rostock,2026-06-20T06:47:00+00:00,Germany,0.5832424900557306,1,1,de,WCE,Europe
 '43d19279b3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Solothurn Rothrist,2026-06-18T07:16:00+00:00,Switzerland,0.5829439963801705,1,1,de,WCE,Europe
@@ -215,6 +214,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12060a7df7',extremes,Storm,#b3b2b1,wmo,Sturmflut Italien,2026-06-13T06:38:00+00:00,Italy,0.5477206996614787,1,1,de,MED,Europe
 '9e9bee5b6e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Steyr Stadt,2026-06-18T07:16:00+00:00,Austria,0.5476239718811511,1,1,de,WCE,Europe
 '0560c66657',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lilienfeld,2026-06-18T07:16:00+00:00,Austria,0.5472175351429732,1,1,de,WCE,Europe
+'174bbfe494',extremes,Heat Wave,#c40202,wmo,Hitzewelle Braunau am Gasthaus,2026-06-18T07:16:00+00:00,Austria,0.5468488192705445,1,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-06-10T06:49:00+00:00,Germany,0.5436177612730592,2,2,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-06-11T07:14:00+00:00,Germany,0.5423368575420547,2,1,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-05-31T06:40:00+00:00,Austria,0.5408016274442835,3,2,de,WCE,Europe
