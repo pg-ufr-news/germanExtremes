@@ -6,8 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-06-17T07:33:00+00:00,Switzerland,0.7353433455288537,1,3,de,WCE,Europe
 '80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-06-17T07:33:00+00:00,Austria,0.7280450043083145,2,2,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-06-17T07:33:00+00:00,Austria,0.6831872065330719,1,3,de,WCE,Europe
-'64b71aaab1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murau,2026-06-18T07:16:00+00:00,Austria,0.6391521900381342,0,1,de,WCE,Europe
-'64ad829968',extremes,Thunderstorm,#53785a,wmo,Gewitter Schweiz,2026-07-01T06:52:00+00:00,Switzerland,0.6389285081728565,0,1,de,WCE,Europe
 'b6866b3638',extremes,Heat Wave,#c40202,wmo,Hitzewelle Spittal an der Drau,2026-06-18T07:16:00+00:00,Austria,0.6388653046943454,0,1,de,WCE,Europe
 '36dc9f87fa',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Schweiz,2026-07-01T06:52:00+00:00,Switzerland,0.6388046716405943,0,1,de,WCE,Europe
 'efb002bcd6',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eisenstadt Stadt,2026-06-18T07:16:00+00:00,Austria,0.6387858760556778,0,1,de,WCE,Europe
@@ -190,6 +188,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6f8d7b452',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Oberhausen,2026-06-21T07:16:00+00:00,Germany,0.5678636167409186,1,1,de,WCE,Europe
 '0918c68712',extremes,Heat Wave,#c40202,wmo,Hitzewelle Grieskirchen,2026-06-17T07:33:00+00:00,Austria,0.5668790694283026,1,1,de,WCE,Europe
 'b8ef2935c3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Bochum,2026-06-21T07:16:00+00:00,Germany,0.5664429452948483,1,1,de,WCE,Europe
+'64ad829968',extremes,Thunderstorm,#53785a,wmo,Gewitter Schweiz,2026-07-01T06:52:00+00:00,Switzerland,0.5662218901287462,1,2,de,WCE,Europe
 'b7fb21d521',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Donaustadt,2026-06-17T07:33:00+00:00,Austria,0.5660979970787466,1,1,de,WCE,Europe
 '53e4cebf22',extremes,Heat Wave,#c40202,wmo,Hitzewelle Waidhofen an der Ybbs-Stadt,2026-06-17T07:33:00+00:00,Austria,0.5657796564991258,2,1,de,WCE,Europe
 'a38acbc97d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Krems an der Donau Stadt,2026-06-17T07:33:00+00:00,Austria,0.5650748970185395,1,1,de,WCE,Europe
@@ -248,6 +247,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec13a83132',extremes,Heat Wave,#c40202,wmo,Hitzewelle Südoststeiermark,2026-06-18T07:16:00+00:00,Austria,0.5436798055522911,1,1,de,WCE,Europe
 '9adf954b98',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Rudolfsheim fünfhaus,2026-06-18T07:16:00+00:00,Austria,0.5436354966807859,1,1,de,WCE,Europe
 '9a19e6bfb8',extremes,Snow&Ice,#d60d2b,wmo,Eis Deutschland,2026-06-10T06:49:00+00:00,Germany,0.5436177612730592,2,2,de,WCE,Europe
+'64b71aaab1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murau,2026-06-18T07:16:00+00:00,Austria,0.5432793615324141,1,1,de,WCE,Europe
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,Deutschland friert,2026-06-11T07:14:00+00:00,Germany,0.5423368575420547,2,1,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-05-31T06:40:00+00:00,Austria,0.5408016274442835,3,2,de,WCE,Europe
 '8ad5a4bbbe',extremes,Heat Wave,#c40202,wmo,Hitzewelle Münster Nord Münster Süd,2026-06-19T07:39:00+00:00,Germany,0.5381825951539037,2,1,de,WCE,Europe
