@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-06-18T07:16:00+00:00,Austria,0.6364281942207607,1,3,de,WCE,Europe
 'b9bdd21b0b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Villach Stadt,2026-06-17T07:33:00+00:00,Austria,0.6353576336690577,0,1,de,WCE,Europe
 '25d361ff38',extremes,Heat Wave,#c40202,wmo,Hitzewelle Dornbirn,2026-06-19T07:39:00+00:00,Austria,0.6342211411759721,1,2,de,WCE,Europe
-'2f548c5822',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schwaz,2026-06-17T07:33:00+00:00,Austria,0.6341293122055867,0,1,de,WCE,Europe
 '091f8b2ed1',extremes,Heat Wave,#c40202,wmo,Hitzewelle zwettl,2026-06-18T07:16:00+00:00,Austria,0.6340904643465938,0,1,de,WCE,Europe
 '5d832bf6ca',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kremser Land,2026-06-17T07:33:00+00:00,Austria,0.6339604860653028,0,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-06-20T06:47:00+00:00,Germany,0.6336618249525677,2,2,de,WCE,Europe
@@ -297,6 +296,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0cacfcd20',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Wärring,2026-06-18T07:16:00+00:00,Austria,0.5402150621786695,1,1,de,WCE,Europe
 '06881ef91a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Suhl,2026-06-22T08:39:00+00:00,Germany,0.5399899289990495,1,1,de,WCE,Europe
 '2fef87cc1e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murtal,2026-06-18T07:16:00+00:00,Austria,0.5392590523031476,1,1,de,WCE,Europe
+'2f548c5822',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schwaz,2026-06-17T07:33:00+00:00,Austria,0.5391599303747486,1,1,de,WCE,Europe
 '8ad5a4bbbe',extremes,Heat Wave,#c40202,wmo,Hitzewelle Münster Nord Münster Süd,2026-06-19T07:39:00+00:00,Germany,0.5381825951539037,2,1,de,WCE,Europe
 'aada08e903',extremes,Heat Wave,#c40202,wmo,Hitzewelle Essen Süd Essen Nord,2026-06-19T07:39:00+00:00,Germany,0.5347380035840313,2,1,de,WCE,Europe
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,Hitzewelle Limmattal,2026-06-17T07:33:00+00:00,Switzerland,0.5318404418903352,2,1,de,WCE,Europe
