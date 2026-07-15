@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11a980360a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Gelsenkirchen,2026-06-20T06:47:00+00:00,Germany,0.6333607030407127,1,2,de,WCE,Europe
 '48b7df133f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Melk,2026-06-18T07:16:00+00:00,Austria,0.6324621222306865,0,1,de,WCE,Europe
 '373a7dee66',extremes,Heat Wave,#c40202,wmo,Hitzewelle Feldkirchen,2026-06-19T07:39:00+00:00,Austria,0.6321412702280577,1,2,de,WCE,Europe
-'1de161b756',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hartberg Fürstenfeld,2026-06-19T07:39:00+00:00,Austria,0.631299981454708,0,1,de,WCE,Europe
 'b6c637aa2d',extremes,Storm,#b3b2b1,wmo,Sturm Klagenfurter Land,2026-07-11T05:27:00+00:00,Austria,0.6310788293681464,0,1,de,WCE,Europe
 '33db445b97',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurt Stadt,2026-06-17T07:33:00+00:00,Austria,0.630131756771683,1,2,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2026-06-21T07:16:00+00:00,Germany,0.6301227644338738,0,1,de,WCE,Europe
@@ -314,6 +313,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-06-19T07:39:00+00:00,Austria,0.537644218663697,1,1,de,WCE,Europe
 '0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-06-23T06:33:00+00:00,Luxembourg,0.5375086784664987,1,1,de,WCE,Europe
 'f65d206b41',extremes,Heat Wave,#c40202,wmo,Hitzewelle weiz,2026-06-17T07:33:00+00:00,Austria,0.5372979450352062,1,1,de,WCE,Europe
+'1de161b756',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hartberg Fürstenfeld,2026-06-19T07:39:00+00:00,Austria,0.5367549992365018,1,1,de,WCE,Europe
 'aada08e903',extremes,Heat Wave,#c40202,wmo,Hitzewelle Essen Süd Essen Nord,2026-06-19T07:39:00+00:00,Germany,0.5347380035840313,2,1,de,WCE,Europe
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,Hitzewelle Limmattal,2026-06-17T07:33:00+00:00,Switzerland,0.5318404418903352,2,1,de,WCE,Europe
 '0a43eb8b74',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vouvry,2026-06-17T07:33:00+00:00,Switzerland,0.5315070625499211,2,1,de,WCE,Europe
