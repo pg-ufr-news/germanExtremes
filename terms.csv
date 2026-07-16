@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a63f9dc498',extremes,Heat Wave,#c40202,wmo,Hitzewelle-Innsbruck-Land,2026-06-17T07:33:00+00:00,Austria,0.6258052331836642,1,2,de,WCE,Europe
 '80cb0b129a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gmunden,2026-06-18T07:16:00+00:00,Austria,0.6253738320913799,0,1,de,WCE,Europe
 '0568f120c7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Innsbruck Stadt,2026-06-17T07:33:00+00:00,Austria,0.6243468442988694,1,2,de,WCE,Europe
-'a7dc4db3f7',extremes,Heat Wave,#c40202,wmo,Hitzewelle imst,2026-06-17T07:33:00+00:00,Austria,0.6241742721777475,0,1,de,WCE,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-06-19T07:39:00+00:00,Luxembourg,0.623873698294356,0,1,de,WCE,Europe
 '515c050086',extremes,Heat Wave,#c40202,wmo,Hitzewelle Graz Stadt,2026-07-09T06:27:00+00:00,Austria,0.6238285940464652,0,1,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-07-01T06:52:00+00:00,Switzerland,0.6232384545663122,0,1,de,WCE,Europe
@@ -340,6 +339,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6c2bcf90c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sumiswald Worb,2026-06-19T07:39:00+00:00,Switzerland,0.5314319758609554,2,1,de,WCE,Europe
 'f91c4f95eb',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hermagor,2026-06-22T08:39:00+00:00,Austria,0.5311596584027064,1,1,de,WCE,Europe
 '9fa978592e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Linthebene Gaster,2026-06-21T07:16:00+00:00,Switzerland,0.5310371434998785,2,1,de,WCE,Europe
+'a7dc4db3f7',extremes,Heat Wave,#c40202,wmo,Hitzewelle imst,2026-06-17T07:33:00+00:00,Austria,0.5309981763510854,1,1,de,WCE,Europe
 '4208a0b339',extremes,Heat Wave,#c40202,wmo,Hitzewelle oberes Baselbiet,2026-06-21T07:16:00+00:00,Switzerland,0.5309106230401938,2,1,de,WCE,Europe
 '5fec9b1997',extremes,Thunderstorm,#53785a,wmo,Gewitter Klagenfurt Stadt,2026-07-10T06:27:00+00:00,Austria,0.5308953966805497,1,1,de,WCE,Europe
 '655291dc6f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Pfungen Hettlingen,2026-06-17T07:33:00+00:00,Switzerland,0.5308060643835425,2,1,de,WCE,Europe
