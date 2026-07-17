@@ -6,6 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-06-17T07:33:00+00:00,Switzerland,0.7353433455288537,1,3,de,WCE,Europe
 '80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-06-17T07:33:00+00:00,Austria,0.7280450043083145,2,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-07-14T05:14:00+00:00,Germany,0.7275179071434383,0,1,de,WCE,Europe
+'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-07-14T05:14:00+00:00,Germany,0.7184522628872101,0,1,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-06-22T08:39:00+00:00,Austria,0.7142026073474655,0,1,de,WCE,Europe
 'b0ff467c5f',extremes,Thunderstorm,#53785a,wmo,Unwetter Feldkirchen,2026-07-10T06:27:00+00:00,Austria,0.701839220887265,1,2,de,WCE,Europe
 '111445dcb7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Waidhofen an der Thaya,2026-06-18T07:16:00+00:00,Austria,0.690601331261784,1,2,de,WCE,Europe
@@ -28,6 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a63f9dc498',extremes,Heat Wave,#c40202,wmo,Hitzewelle-Innsbruck-Land,2026-06-17T07:33:00+00:00,Austria,0.6258052331836642,1,2,de,WCE,Europe
 '80cb0b129a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gmunden,2026-06-18T07:16:00+00:00,Austria,0.6253738320913799,0,1,de,WCE,Europe
 '0568f120c7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Innsbruck Stadt,2026-06-17T07:33:00+00:00,Austria,0.6243468442988694,1,2,de,WCE,Europe
+'964f821597',extremes,Thunderstorm,#53785a,wmo,Hagel Sarnen Lungern,2026-07-17T05:27:00+00:00,Switzerland,0.6209876526767272,0,1,de,WCE,Europe
 'cd04e0e60c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lötschental Naters,2026-06-20T06:47:00+00:00,Switzerland,0.6202894983715703,1,1,de,WCE,Europe
 'b15863026e',extremes,Storm,#b3b2b1,wmo,Sturm Nordfriesische Küste,2026-07-03T06:09:00+00:00,Germany,0.6199152807658167,0,1,de,WCE,Europe
 '77d12ccb7d',extremes,Thunderstorm,#53785a,wmo,Gewitter nördliches Tavetsch,2026-07-01T06:52:00+00:00,Switzerland,0.619743759246398,0,1,de,WCE,Europe
@@ -43,6 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '819f6fe0b0',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lombardei,2026-06-17T07:33:00+00:00,Italy,0.6180987394724666,0,1,de,MED,Europe
 'b88c0506fb',extremes,Thunderstorm,#53785a,wmo,Unwetter Voitsberg,2026-06-23T06:33:00+00:00,Austria,0.618036569178178,0,1,de,WCE,Europe
 '8eea2c49bc',extremes,Storm,#b3b2b1,wmo,Sturmflut Dornbirn,2026-06-19T07:39:00+00:00,Austria,0.617785279370332,0,1,de,WCE,Europe
+'9acb4a7b02',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Landstraße,2026-07-17T05:27:00+00:00,Austria,0.6176658781753208,0,1,de,WCE,Europe
 '0339ebc47c',extremes,Storm,#b3b2b1,wmo,Sturmflut Voitsberg,2026-07-11T05:27:00+00:00,Austria,0.617351184870132,0,1,de,WCE,Europe
 '72907c532a',extremes,Storm,#b3b2b1,wmo,Sturmflut Limmattal,2026-07-15T05:15:00+00:00,Switzerland,0.6173245855046279,0,1,de,WCE,Europe
 '6622058200',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kitzbühel,2026-06-18T07:16:00+00:00,Austria,0.6170146878841201,1,2,de,WCE,Europe
@@ -51,15 +54,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e79fead5ca',extremes,Storm,#b3b2b1,wmo,Sturmflut Elbe von Hamburg bis Cuxhaven,2026-07-06T06:52:00+00:00,Germany,0.6154845543557673,0,1,de,WCE,Europe
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basso Moesano,2026-06-19T07:39:00+00:00,Switzerland,0.6152872786201082,1,1,de,WCE,Europe
 '196091e24a',extremes,Storm,#b3b2b1,wmo,Sturm Flensburg bis Fehmarn,2026-07-08T05:37:00+00:00,Germany,0.6152202257440947,0,1,de,WCE,Europe
+'5ad66ae8ea',extremes,Storm,#b3b2b1,wmo,Sturm Flims Laax,2026-07-17T05:27:00+00:00,Switzerland,0.6150363827358928,0,1,de,WCE,Europe
 'a76c313df9',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bregenz,2026-06-20T06:47:00+00:00,Austria,0.6149692021071,0,1,de,WCE,Europe
+'821ad18287',extremes,Storm,#b3b2b1,wmo,Sturmflut Brienz Interlaken,2026-07-17T05:27:00+00:00,Switzerland,0.6147820443285255,0,1,de,WCE,Europe
 '091f8b2ed1',extremes,Heat Wave,#c40202,wmo,Hitzewelle zwettl,2026-06-18T07:16:00+00:00,Austria,0.6145769546946047,1,2,de,WCE,Europe
 '3b300588b4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Hietzing,2026-06-21T07:16:00+00:00,Austria,0.6143412945500631,1,2,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-06-08T07:13:00+00:00,Austria,0.6143197056124112,1,1,de,WCE,Europe
 'dd14e97d87',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oberwart,2026-06-17T07:33:00+00:00,Austria,0.6142902492358633,2,1,de,WCE,Europe
 'b3e3f01e22',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Penzing,2026-06-20T06:47:00+00:00,Austria,0.6139824366011153,0,1,de,WCE,Europe
+'24cd767083',extremes,Thunderstorm,#53785a,wmo,Gewitter Weiz,2026-07-13T05:53:00+00:00,Austria,0.6135173774075514,0,1,de,WCE,Europe
 'c1d5ba6a59',extremes,Thunderstorm,#53785a,wmo,Gewitter Zurzach Bülach,2026-07-01T06:52:00+00:00,Switzerland,0.6135153780607101,0,1,de,WCE,Europe
 '71b8f8837b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Scheibbs,2026-06-24T06:30:00+00:00,Austria,0.6134679801566486,0,1,de,WCE,Europe
+'d1f7a8224c',extremes,Thunderstorm,#53785a,wmo,Gewitter Leibnitz,2026-07-17T05:27:00+00:00,Austria,0.6131767566855758,0,1,de,WCE,Europe
 '17fd707a98',extremes,Thunderstorm,#53785a,wmo,Unwetter Hollabrunn,2026-06-30T06:39:00+00:00,Austria,0.6125520348587411,0,1,de,WCE,Europe
+'3b28e1fc4f',extremes,Storm,#b3b2b1,wmo,Sturmflut Wolfsberg,2026-07-17T05:27:00+00:00,Austria,0.6123999360488352,0,1,de,WCE,Europe
 'cbda6735c3',extremes,Storm,#b3b2b1,wmo,Sturmflut Appenzell,2026-07-15T05:15:00+00:00,Switzerland,0.6121392371960911,0,1,de,WCE,Europe
 '23ac100060',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurter Land,2026-07-09T06:27:00+00:00,Austria,0.6114966978155376,0,1,de,WCE,Europe
 '38c74c1062',extremes,Thunderstorm,#53785a,wmo,Hagel Erstfeld Engelberg,2026-07-01T06:52:00+00:00,Switzerland,0.6113844035178079,0,1,de,WCE,Europe
