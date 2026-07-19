@@ -37,12 +37,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83c01ff715',extremes,Heat Wave,#c40202,wmo,Hitzewelle Leventina,2026-06-26T06:36:00+00:00,Switzerland,0.6188549242318863,1,1,de,WCE,Europe
 '6622058200',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kitzbühel,2026-06-18T07:16:00+00:00,Austria,0.6170146878841201,1,2,de,WCE,Europe
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basso Moesano,2026-06-19T07:39:00+00:00,Switzerland,0.6152872786201082,1,1,de,WCE,Europe
-'821ad18287',extremes,Storm,#b3b2b1,wmo,Sturmflut Brienz Interlaken,2026-07-17T05:27:00+00:00,Switzerland,0.6147820443285255,0,1,de,WCE,Europe
 '091f8b2ed1',extremes,Heat Wave,#c40202,wmo,Hitzewelle zwettl,2026-06-18T07:16:00+00:00,Austria,0.6145769546946047,1,2,de,WCE,Europe
 '3b300588b4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Hietzing,2026-06-21T07:16:00+00:00,Austria,0.6143412945500631,1,2,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-06-08T07:13:00+00:00,Austria,0.6143197056124112,1,1,de,WCE,Europe
 'dd14e97d87',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oberwart,2026-06-17T07:33:00+00:00,Austria,0.6142902492358633,2,1,de,WCE,Europe
-'b3e3f01e22',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Penzing,2026-06-20T06:47:00+00:00,Austria,0.6139824366011153,0,1,de,WCE,Europe
 '24cd767083',extremes,Thunderstorm,#53785a,wmo,Gewitter Weiz,2026-07-13T05:53:00+00:00,Austria,0.6135173774075514,0,1,de,WCE,Europe
 'c1d5ba6a59',extremes,Thunderstorm,#53785a,wmo,Gewitter Zurzach Bülach,2026-07-01T06:52:00+00:00,Switzerland,0.6135153780607101,0,1,de,WCE,Europe
 '71b8f8837b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Scheibbs,2026-06-24T06:30:00+00:00,Austria,0.6134679801566486,0,1,de,WCE,Europe
@@ -407,6 +405,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ad66ae8ea',extremes,Storm,#b3b2b1,wmo,Sturm Flims Laax,2026-07-17T05:27:00+00:00,Switzerland,0.5227809253255089,1,1,de,WCE,Europe
 '4d27fd77b1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Obertoggenburg,2026-06-18T07:16:00+00:00,Switzerland,0.5227099744356625,2,1,de,WCE,Europe
 'f6f32944d1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gros de Vaud,2026-06-18T07:16:00+00:00,Switzerland,0.5226485851228598,2,1,de,WCE,Europe
+'821ad18287',extremes,Storm,#b3b2b1,wmo,Sturmflut Brienz Interlaken,2026-07-17T05:27:00+00:00,Switzerland,0.5225647376792466,1,1,de,WCE,Europe
+'b3e3f01e22',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Penzing,2026-06-20T06:47:00+00:00,Austria,0.522185101110948,1,1,de,WCE,Europe
 'd6b259f3bc',extremes,Heat Wave,#c40202,wmo,Hitzewelle Brienz Interlaken,2026-06-20T06:47:00+00:00,Switzerland,0.5218611882804391,2,1,de,WCE,Europe
 '7a263703cd',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sarnen Lungern,2026-06-19T07:39:00+00:00,Switzerland,0.5216607240759714,2,1,de,WCE,Europe
 '92fd344243',extremes,Heat Wave,#c40202,wmo,Hitzewelle laufental,2026-06-19T07:39:00+00:00,Switzerland,0.5216531370253719,2,1,de,WCE,Europe
