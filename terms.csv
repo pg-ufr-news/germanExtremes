@@ -153,18 +153,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b61425b9f1',extremes,Thunderstorm,#53785a,wmo,Gewitter Olten Gösgen,2026-07-15T05:15:00+00:00,Switzerland,0.5916756034793349,0,1,de,WCE,Europe
 '093e16d361',extremes,Storm,#b3b2b1,wmo,Sturmflut Schaffhausen,2026-07-17T05:27:00+00:00,Switzerland,0.5916713615335798,0,1,de,WCE,Europe
 'bfb3ebd567',extremes,Heat Wave,#c40202,wmo,Hitzewelle Plaine de l'orbe,2026-06-22T08:39:00+00:00,Switzerland,0.5915852385531882,1,1,de,WCE,Europe
+'cadf52d735',extremes,Storm,#b3b2b1,wmo,Sturm Wien Neubau,2026-07-17T05:27:00+00:00,Austria,0.591562034769011,0,1,de,WCE,Europe
+'dbd187ded6',extremes,Thunderstorm,#53785a,wmo,Unwetter Brigels,2026-07-15T05:15:00+00:00,Switzerland,0.5914523178606547,0,1,de,WCE,Europe
+'c65fc17a5a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Brabant,2026-07-08T05:37:00+00:00,Belgium,0.5914339619625714,0,1,de,WCE,Europe
+'84bcaf7394',extremes,Thunderstorm,#53785a,wmo,Unwetter Frick Leibstadt,2026-07-15T05:15:00+00:00,Switzerland,0.5910283407811001,0,1,de,WCE,Europe
 '412b749be2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Leibnitz,2026-06-21T07:16:00+00:00,Austria,0.5910182751721609,1,1,de,WCE,Europe
 'c2c5933c65',extremes,Thunderstorm,#53785a,wmo,Hagel Muotathal,2026-07-01T06:52:00+00:00,Switzerland,0.5906212072543107,0,1,de,WCE,Europe
 '31d5ad5d7f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wolfsberg,2026-06-20T06:47:00+00:00,Austria,0.5905280186341327,2,1,de,WCE,Europe
 '3c9f3a79d5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bellinzona,2026-06-17T07:33:00+00:00,Switzerland,0.590449123799072,1,1,de,WCE,Europe
 '56646704b8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Bremen Nordstadt Bremen,2026-06-20T06:47:00+00:00,Germany,0.590324564292068,1,1,de,WCE,Europe
+'e72f9ad959',extremes,Thunderstorm,#53785a,wmo,Gewitter Langenthal,2026-07-15T05:15:00+00:00,Switzerland,0.5901665345200295,0,1,de,WCE,Europe
+'e76457de72',extremes,Thunderstorm,#53785a,wmo,Hagel Obertoggenburg,2026-07-17T05:27:00+00:00,Switzerland,0.5898012508448136,0,1,de,WCE,Europe
 '20cf93a43c',extremes,Storm,#b3b2b1,wmo,Sturm Lugnez Valsertal,2026-07-01T06:52:00+00:00,Switzerland,0.589695016384609,0,1,de,WCE,Europe
 '33c63ac237',extremes,Heat Wave,#c40202,wmo,Hitzewelle Aigle Leysin,2026-06-18T07:16:00+00:00,Switzerland,0.5896749494228707,1,1,de,WCE,Europe
+'a822664054',extremes,Storm,#b3b2b1,wmo,Sturmflut Wahlern Plaffeien,2026-07-15T05:15:00+00:00,Switzerland,0.5894120158085896,0,1,de,WCE,Europe
 '20b3c1ad26',extremes,Storm,#b3b2b1,wmo,Sturmflut Huttwil Willisau,2026-07-01T06:52:00+00:00,Switzerland,0.5891857191366432,0,1,de,WCE,Europe
 'd83245de10',extremes,Thunderstorm,#53785a,wmo,Gewitterhorn,2026-06-22T08:39:00+00:00,Austria,0.5883487603637263,0,1,de,WCE,Europe
 'a76c313df9',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bregenz,2026-06-20T06:47:00+00:00,Austria,0.5880596410767494,1,1,de,WCE,Europe
 'abe2a5152d',extremes,Thunderstorm,#53785a,wmo,Gewitter Jennersdorf,2026-06-30T06:39:00+00:00,Austria,0.5877682752041454,0,1,de,WCE,Europe
 '5f8abece56',extremes,Thunderstorm,#53785a,wmo,Unwetter Wien Wieden,2026-06-22T08:39:00+00:00,Austria,0.5877312252669971,0,1,de,WCE,Europe
+'4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Währing,2026-07-17T05:27:00+00:00,Austria,0.5877266583222313,0,1,de,WCE,Europe
 '3deaac4e90',extremes,Thunderstorm,#53785a,wmo,Unwetter Leibnitz,2026-06-22T08:39:00+00:00,Austria,0.5874107017844756,0,1,de,WCE,Europe
 'c081c0b2d1',extremes,Thunderstorm,#53785a,wmo,Hagel Völkermarkt,2026-06-23T06:33:00+00:00,Austria,0.5873962215318561,0,1,de,WCE,Europe
 'de5ea0826d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basel,2026-06-20T06:47:00+00:00,Switzerland,0.5872643625893709,4,2,de,WCE,Europe
