@@ -47,11 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2026-07-07T06:30:00+00:00,Iceland,0.6086436322795585,0,1,de,GIC,Europe
 'de37eb7f33',extremes,Heat Wave,#c40202,wmo,Hitzewelle perg,2026-06-17T07:33:00+00:00,Austria,0.6082131545741183,2,1,de,WCE,Europe
 '10b7782bae',extremes,Heat Wave,#c40202,wmo,Hitzewelle Amstetten,2026-06-17T07:33:00+00:00,Austria,0.6067997569726135,2,1,de,WCE,Europe
-'e628334236',extremes,Thunderstorm,#53785a,wmo,Hagel Jennersdorf,2026-07-13T05:53:00+00:00,Austria,0.6054021912765628,0,1,de,WCE,Europe
-'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,Sturmflut obersimmental,2026-07-15T05:15:00+00:00,Switzerland,0.6053982634072479,0,1,de,WCE,Europe
-'7b00304a35',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Josefstadt,2026-06-30T06:39:00+00:00,Austria,0.6052697884056678,0,1,de,WCE,Europe
-'4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-07-07T06:30:00+00:00,Austria,0.6051705127264836,0,1,de,WCE,Europe
-'1025c5d048',extremes,Heat Wave,#c40202,wmo,Hitzewelle Venetien,2026-06-21T07:16:00+00:00,Italy,0.6047975292920932,0,1,de,MED,Europe
 'e2082c3612',extremes,Storm,#b3b2b1,wmo,Sturmflut Südisland,2026-07-09T06:27:00+00:00,Iceland,0.6046035779817057,0,1,de,GIC,Europe
 'fcf50e8283',extremes,Storm,#b3b2b1,wmo,Sturm Effretikon,2026-07-15T05:15:00+00:00,Switzerland,0.604597697829403,0,1,de,WCE,Europe
 '6dea63153a',extremes,Storm,#b3b2b1,wmo,Sturm Zurzach Bülach,2026-07-17T05:27:00+00:00,Switzerland,0.6039405923967626,0,1,de,WCE,Europe
@@ -455,6 +450,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eac11ea2c2',extremes,Storm,#b3b2b1,wmo,Sturmflut Linthebene Gaster,2026-07-01T06:52:00+00:00,Switzerland,0.5149362090043157,1,1,de,WCE,Europe
 '403eda3313',extremes,Heat Wave,#c40202,wmo,Hitzewelle Saint Cergue,2026-06-17T07:33:00+00:00,Switzerland,0.5148627716017807,2,1,de,WCE,Europe
 '5c2e689501',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gmünd,2026-06-19T07:39:00+00:00,Austria,0.5147591152458681,1,1,de,WCE,Europe
+'e628334236',extremes,Thunderstorm,#53785a,wmo,Hagel Jennersdorf,2026-07-13T05:53:00+00:00,Austria,0.5145918625850784,1,1,de,WCE,Europe
+'f6b979e2d2',extremes,Storm,#b3b2b1,wmo,Sturmflut obersimmental,2026-07-15T05:15:00+00:00,Switzerland,0.5145885238961607,1,1,de,WCE,Europe
+'7b00304a35',extremes,Thunderstorm,#53785a,wmo,Gewitter Wien Josefstadt,2026-06-30T06:39:00+00:00,Austria,0.5144793201448177,1,1,de,WCE,Europe
+'4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-07-07T06:30:00+00:00,Austria,0.5143949358175111,1,1,de,WCE,Europe
+'1025c5d048',extremes,Heat Wave,#c40202,wmo,Hitzewelle Venetien,2026-06-21T07:16:00+00:00,Italy,0.5143779298982792,1,1,de,MED,Europe
 '14c0b1f476',extremes,Heat Wave,#c40202,wmo,Hitzewelle Werdenberg,2026-06-17T07:33:00+00:00,Switzerland,0.5137464816697725,2,1,de,WCE,Europe
 'fdd04dd7f0',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Hamm,2026-06-20T06:47:00+00:00,Germany,0.5099031520683238,2,1,de,WCE,Europe
 'fa57f9f0f0',extremes,Heat Wave,#c40202,wmo,Hitzewelle Olten Gösgen,2026-06-18T07:16:00+00:00,Switzerland,0.5092375600715329,2,1,de,WCE,Europe
