@@ -6,10 +6,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-06-17T07:33:00+00:00,Switzerland,0.7353433455288537,1,3,de,WCE,Europe
 '80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-06-17T07:33:00+00:00,Austria,0.7280450043083145,2,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-07-14T05:14:00+00:00,Germany,0.7275179071434383,0,1,de,WCE,Europe
+'8ef8f7a322',extremes,Heat Wave,#c40202,wmo,Hitzewelle Biel Neuenburg,2026-07-09T06:27:00+00:00,Switzerland,0.7212964240311973,0,1,de,WCE,Europe
+'840e458266',extremes,Heat Wave,#c40202,wmo,Hitzewelle Marthalen Stammheim,2026-07-11T05:27:00+00:00,Switzerland,0.7068059149942167,0,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-07-14T05:14:00+00:00,Germany,0.7052228948126619,0,1,de,WCE,Europe
 'b0ff467c5f',extremes,Thunderstorm,#53785a,wmo,Unwetter Feldkirchen,2026-07-10T06:27:00+00:00,Austria,0.701839220887265,1,2,de,WCE,Europe
 '111445dcb7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Waidhofen an der Thaya,2026-06-18T07:16:00+00:00,Austria,0.690601331261784,1,2,de,WCE,Europe
+'42cb1ac630',extremes,Heat Wave,#c40202,wmo,Hitzewelle Erstfeld Engelberg,2026-07-12T05:43:00+00:00,Switzerland,0.6891244648999689,0,1,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-06-17T07:33:00+00:00,Austria,0.6831872065330719,1,3,de,WCE,Europe
+'6cfd1444b1',extremes,Storm,#b3b2b1,wmo,Sturm Stadt Oberwiesenthal,2026-07-08T05:37:00+00:00,Germany,0.6750799354273889,0,1,de,WCE,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6747288875450377,1,2,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-06-22T08:39:00+00:00,Austria,0.6665683907908002,1,2,de,WCE,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-06-24T06:30:00+00:00,Germany,0.6476865330468589,1,2,de,WCE,Europe
@@ -30,11 +34,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a63f9dc498',extremes,Heat Wave,#c40202,wmo,Hitzewelle-Innsbruck-Land,2026-06-17T07:33:00+00:00,Austria,0.6258052331836642,1,2,de,WCE,Europe
 '80cb0b129a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gmunden,2026-06-18T07:16:00+00:00,Austria,0.6253738320913799,0,1,de,WCE,Europe
 '0568f120c7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Innsbruck Stadt,2026-06-17T07:33:00+00:00,Austria,0.6243468442988694,1,2,de,WCE,Europe
+'d7ca6f870f',extremes,Thunderstorm,#53785a,wmo,Unwetter Bellinzona,2026-07-21T05:36:00+00:00,Switzerland,0.6226193137653152,0,1,de,WCE,Europe
 'cd04e0e60c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lötschental Naters,2026-06-20T06:47:00+00:00,Switzerland,0.6202894983715703,1,1,de,WCE,Europe
 '5660802a7f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Riviera,2026-06-18T07:16:00+00:00,Switzerland,0.6196943094321558,1,1,de,WCE,Europe
 '3b472a2981',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wels Stadt,2026-06-17T07:33:00+00:00,Austria,0.6196340733390315,2,1,de,WCE,Europe
 '81e27c4bec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vallée de Joux,2026-06-17T07:33:00+00:00,Switzerland,0.6195892978896721,1,1,de,WCE,Europe
 '2a71323bea',extremes,Thunderstorm,#53785a,wmo,Gewitter innsbruck stadt,2026-06-27T06:08:00+00:00,Austria,0.6193375744464964,1,2,de,WCE,Europe
+'491a9f7a5e',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Wernigerode,2026-07-07T06:30:00+00:00,Germany,0.6191564851712981,0,1,de,WCE,Europe
 '83c01ff715',extremes,Heat Wave,#c40202,wmo,Hitzewelle Leventina,2026-06-26T06:36:00+00:00,Switzerland,0.6188549242318863,1,1,de,WCE,Europe
 '6622058200',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kitzbühel,2026-06-18T07:16:00+00:00,Austria,0.6170146878841201,1,2,de,WCE,Europe
 'b9bdd21b0b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Villach Stadt,2026-06-17T07:33:00+00:00,Austria,0.615354018618699,1,2,de,WCE,Europe
@@ -72,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f032d51644',extremes,Thunderstorm,#53785a,wmo,Unwetter Goldau Ägeri,2026-07-15T05:15:00+00:00,Switzerland,0.5957159430860958,0,1,de,WCE,Europe
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2026-07-14T05:14:00+00:00,Germany,0.5954339176657572,1,2,de,WCE,Europe
 '76229c9233',extremes,Thunderstorm,#53785a,wmo,Hagel laufental,2026-07-01T06:52:00+00:00,Switzerland,0.5950040157912052,0,1,de,WCE,Europe
+'c8bad6097f',extremes,Heat Wave,#c40202,wmo,Hitzewellenbasilikata,2026-07-07T06:30:00+00:00,Italy,0.5948191834301902,0,1,de,MED,Europe
 '05dc33aeec',extremes,Storm,#b3b2b1,wmo,Sturmflut Ried im Innkreis,2026-07-19T05:37:00+00:00,Austria,0.5947810248249663,0,1,de,WCE,Europe
 'ea29f15a43',extremes,Storm,#b3b2b1,wmo,Sturmflut Klagenfurt Stadt,2026-07-14T05:14:00+00:00,Austria,0.5946683108165689,0,1,de,WCE,Europe
 '54a9aa5416',extremes,Thunderstorm,#53785a,wmo,Unwetter Salzburg Stadt,2026-07-15T05:15:00+00:00,Austria,0.5944550243043436,0,1,de,WCE,Europe
@@ -105,6 +112,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91fad08cf7',extremes,Storm,#b3b2b1,wmo,Sturmflut Wels Stadt,2026-07-19T05:37:00+00:00,Austria,0.5912404369032658,0,1,de,WCE,Europe
 '84bcaf7394',extremes,Thunderstorm,#53785a,wmo,Unwetter Frick Leibstadt,2026-07-15T05:15:00+00:00,Switzerland,0.5910283407811001,0,1,de,WCE,Europe
 '412b749be2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Leibnitz,2026-06-21T07:16:00+00:00,Austria,0.5910182751721609,1,1,de,WCE,Europe
+'0b02c9df7a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Westflandern,2026-07-07T06:30:00+00:00,Belgium,0.5906500492414566,0,1,de,WCE,Europe
 'c2c5933c65',extremes,Thunderstorm,#53785a,wmo,Hagel Muotathal,2026-07-01T06:52:00+00:00,Switzerland,0.5906212072543107,0,1,de,WCE,Europe
 '31d5ad5d7f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wolfsberg,2026-06-20T06:47:00+00:00,Austria,0.5905280186341327,2,1,de,WCE,Europe
 '3c9f3a79d5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bellinzona,2026-06-17T07:33:00+00:00,Switzerland,0.590449123799072,1,1,de,WCE,Europe
