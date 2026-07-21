@@ -171,19 +171,27 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42577d30d4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Magdeburg,2026-06-20T06:47:00+00:00,Germany,0.5847354372368975,1,1,de,WCE,Europe
 'cc87dae072',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Erlangen,2026-06-20T06:47:00+00:00,Germany,0.5847162792846463,1,1,de,WCE,Europe
 '8f10e40de2',extremes,Storm,#b3b2b1,wmo,Sturmflut Adelboden Kandersteg,2026-07-01T06:52:00+00:00,Switzerland,0.5847007520410958,0,1,de,WCE,Europe
+'6e274aa283',extremes,Storm,#b3b2b1,wmo,Sturm Braunau am Inn,2026-07-19T05:37:00+00:00,Austria,0.5846309295090709,0,1,de,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-06-12T07:05:00+00:00,Switzerland,0.5845875110998304,1,1,de,WCE,Europe
 '8df8bb61aa',extremes,Thunderstorm,#53785a,wmo,Unwetter Neusiedl am See,2026-06-22T08:39:00+00:00,Austria,0.5845763929733377,0,1,de,WCE,Europe
 'bb93dc5422',extremes,Thunderstorm,#53785a,wmo,Gewitter Murau,2026-06-28T06:44:00+00:00,Austria,0.5845039519276732,0,1,de,WCE,Europe
+'e8dc897411',extremes,Thunderstorm,#53785a,wmo,Gewitter Güssing,2026-07-17T05:27:00+00:00,Austria,0.5842754065682898,0,1,de,WCE,Europe
 'a5f7d9bde6',extremes,Storm,#b3b2b1,wmo,Sturmflut Sarganserland,2026-07-01T06:52:00+00:00,Switzerland,0.5840985571018346,0,1,de,WCE,Europe
+'eac22875b2',extremes,Thunderstorm,#53785a,wmo,Gewitter Burgdorf Limpachtal,2026-07-17T05:27:00+00:00,Switzerland,0.5840454240328152,0,1,de,WCE,Europe
 'fb67dfa7f8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oron – Haute Broye,2026-06-18T07:16:00+00:00,Switzerland,0.5838828847874029,1,1,de,WCE,Europe
 '666de5ec2d',extremes,Storm,#b3b2b1,wmo,Sturmflut urfahr umgebung,2026-06-22T08:39:00+00:00,Austria,0.5838645823197306,0,1,de,WCE,Europe
 '596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Österreich,2026-06-18T07:16:00+00:00,Austria,0.5836951535198994,2,1,de,WCE,Europe
+'0901d87837',extremes,Storm,#b3b2b1,wmo,Sturmflut Salzburg Umgebung,2026-07-15T05:15:00+00:00,Austria,0.5836646517282791,0,1,de,WCE,Europe
+'216180ca04',extremes,Storm,#b3b2b1,wmo,Sturm Ried im Innkreis,2026-07-16T05:25:00+00:00,Austria,0.5835762663853931,0,1,de,WCE,Europe
 '5132e858ef',extremes,Heat Wave,#c40202,wmo,Hitzewelle Linz Stadt,2026-06-17T07:33:00+00:00,Austria,0.5833434113514646,1,1,de,WCE,Europe
 '2f2f638d6d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Niedersimmental,2026-06-17T07:33:00+00:00,Switzerland,0.5832931559560093,1,1,de,WCE,Europe
 '2d4bc552e1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Rostock,2026-06-20T06:47:00+00:00,Germany,0.5832424900557306,1,1,de,WCE,Europe
 '23177f13a4',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschlandsberg,2026-07-14T05:14:00+00:00,Austria,0.583000221080395,0,1,de,WCE,Europe
 '43d19279b3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Solothurn Rothrist,2026-06-18T07:16:00+00:00,Switzerland,0.5829439963801705,1,1,de,WCE,Europe
+'74853c8331',extremes,Storm,#b3b2b1,wmo,Sturmflut Rohrbach,2026-07-19T05:37:00+00:00,Austria,0.5829156172484871,0,1,de,WCE,Europe
+'0ea7108e6e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kalabrien,2026-07-18T05:10:00+00:00,Italy,0.5828307327909348,0,1,de,MED,Europe
 '33d861c24d',extremes,Storm,#b3b2b1,wmo,Sturm Davos,2026-07-01T06:52:00+00:00,Switzerland,0.5827437548229127,0,1,de,WCE,Europe
+'ec52a231f8',extremes,Storm,#b3b2b1,wmo,Sturmflutmelk,2026-07-19T05:37:00+00:00,Austria,0.5827228070215423,0,1,de,WCE,Europe
 'f682496995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Mariahilf,2026-06-17T07:33:00+00:00,Austria,0.582464721434645,1,1,de,WCE,Europe
 'eb4694077d',extremes,Thunderstorm,#53785a,wmo,Gewitter Korneuburg,2026-06-22T08:39:00+00:00,Austria,0.5823602549829017,0,1,de,WCE,Europe
 '6a1fee712a',extremes,Thunderstorm,#53785a,wmo,Unwetter baden,2026-06-08T07:13:00+00:00,Austria,0.5823177990429381,1,3,de,WCE,Europe
