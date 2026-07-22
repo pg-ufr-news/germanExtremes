@@ -167,16 +167,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ea7108e6e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kalabrien,2026-07-18T05:10:00+00:00,Italy,0.5828307327909348,0,1,de,MED,Europe
 '33d861c24d',extremes,Storm,#b3b2b1,wmo,Sturm Davos,2026-07-01T06:52:00+00:00,Switzerland,0.5827437548229127,0,1,de,WCE,Europe
 'ec52a231f8',extremes,Storm,#b3b2b1,wmo,Sturmflutmelk,2026-07-19T05:37:00+00:00,Austria,0.5827228070215423,0,1,de,WCE,Europe
+'221e658bfd',extremes,Drought,#edc291,edo,Trockenheit Luxemburg,2026-07-05T06:25:00+00:00,Luxembourg,0.5827177492265709,0,1,de,WCE,Europe
+'9a5e0b935b',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Döbling,2026-07-16T05:25:00+00:00,Austria,0.5825650283563499,0,1,de,WCE,Europe
+'fc7ef1cf36',extremes,Storm,#b3b2b1,wmo,Sturm Wien Favoriten,2026-07-17T05:27:00+00:00,Austria,0.5824904889693211,0,1,de,WCE,Europe
 'f682496995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Mariahilf,2026-06-17T07:33:00+00:00,Austria,0.582464721434645,1,1,de,WCE,Europe
 'eb4694077d',extremes,Thunderstorm,#53785a,wmo,Gewitter Korneuburg,2026-06-22T08:39:00+00:00,Austria,0.5823602549829017,0,1,de,WCE,Europe
 '6a1fee712a',extremes,Thunderstorm,#53785a,wmo,Unwetter baden,2026-06-08T07:13:00+00:00,Austria,0.5823177990429381,1,3,de,WCE,Europe
+'32bbca6400',extremes,Storm,#b3b2b1,wmo,Sturmflut Gänserndorf,2026-07-19T05:37:00+00:00,Austria,0.5820537432167378,0,1,de,WCE,Europe
+'8500234aea',extremes,Storm,#b3b2b1,wmo,Sturmflut Schangnau Sigriswil,2026-07-17T05:27:00+00:00,Switzerland,0.5817291099331104,0,1,de,WCE,Europe
 'cd1a04d531',extremes,Thunderstorm,#53785a,wmo,Hagel Hartberg Fürstenfeld,2026-06-22T08:39:00+00:00,Austria,0.581726613551084,0,1,de,WCE,Europe
+'36c2dad553',extremes,Thunderstorm,#53785a,wmo,Hagel val medel sumvitg,2026-07-17T05:27:00+00:00,Switzerland,0.5817260229348965,0,1,de,WCE,Europe
 'c1ece6a9e9',extremes,Heat Wave,#c40202,wmo,Hitzewelle Tulln,2026-06-17T07:33:00+00:00,Austria,0.5816473868639999,1,1,de,WCE,Europe
 '50de04165f',extremes,Thunderstorm,#53785a,wmo,Gewitter marche,2026-07-06T06:52:00+00:00,Italy,0.5815727728242346,0,1,de,MED,Europe
 '925ddc15dd',extremes,Heat Wave,#c40202,wmo,Hitzewelle Alta Valmaggia,2026-06-26T06:36:00+00:00,Switzerland,0.5814581816323993,1,1,de,WCE,Europe
 'd1c7fdc5e3',extremes,Thunderstorm,#53785a,wmo,Hagel Steyr Stadt,2026-06-29T07:13:00+00:00,Austria,0.5811719543555205,0,1,de,WCE,Europe
 '74236bd182',extremes,Drought,#edc291,edo,Mangel an Regen Island,2026-07-03T06:09:00+00:00,Iceland,0.5810464343633689,0,1,de,GIC,Europe
+'c4d6d26fcd',extremes,Storm,#b3b2b1,wmo,Sturm Wien liegt,2026-07-19T05:37:00+00:00,Austria,0.5809806966428133,0,1,de,WCE,Europe
 '335caea9b8',extremes,Thunderstorm,#53785a,wmo,Hagel Linzer Land,2026-06-29T07:13:00+00:00,Austria,0.5806639112705041,0,1,de,WCE,Europe
+'dfb29fa675',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Penzing,2026-07-17T05:27:00+00:00,Austria,0.5803417889446952,0,1,de,WCE,Europe
 '1726432452',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bludenz,2026-06-18T07:16:00+00:00,Austria,0.5803021905421947,1,1,de,WCE,Europe
 'cb15bc1996',extremes,Heat Wave,#c40202,wmo,Hitzewelle Apulien,2026-06-25T06:32:00+00:00,Italy,0.5800569695496227,0,1,de,MED,Europe
 '220c106721',extremes,Thunderstorm,#53785a,wmo,Gewitter Hulftegg Untertoggenburg,2026-07-01T06:52:00+00:00,Switzerland,0.5794894186185081,0,1,de,WCE,Europe
