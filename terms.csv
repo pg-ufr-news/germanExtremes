@@ -40,7 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ef8f7a322',extremes,Heat Wave,#c40202,wmo,Hitzewelle Biel Neuenburg,2026-07-09T06:27:00+00:00,Switzerland,0.6132519754265177,1,1,de,WCE,Europe
 'fccc1a846a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Stadt,2026-06-18T07:16:00+00:00,Austria,0.6105049386823781,1,1,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-06-18T07:16:00+00:00,Germany,0.6098314270873124,3,3,de,WCE,Europe
-'042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2026-07-07T06:30:00+00:00,Iceland,0.6086436322795585,0,1,de,GIC,Europe
 'de37eb7f33',extremes,Heat Wave,#c40202,wmo,Hitzewelle perg,2026-06-17T07:33:00+00:00,Austria,0.6082131545741183,2,1,de,WCE,Europe
 '10b7782bae',extremes,Heat Wave,#c40202,wmo,Hitzewelle Amstetten,2026-06-17T07:33:00+00:00,Austria,0.6067997569726135,2,1,de,WCE,Europe
 '9895f39f78',extremes,Heat Wave,#c40202,wmo,Hitzewelle Neunkirchen,2026-06-19T07:39:00+00:00,Austria,0.6024355568667689,2,1,de,WCE,Europe
@@ -56,7 +55,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4b3914bd12',extremes,Heat Wave,#c40202,wmo,Hitzewelle liezen,2026-06-20T06:47:00+00:00,Austria,0.5977362488617289,2,2,de,WCE,Europe
 '45f67fbaba',extremes,Heat Wave,#c40202,wmo,Hitzewelle wahlern plaffeien,2026-06-18T07:16:00+00:00,Switzerland,0.5977133910274314,1,1,de,WCE,Europe
 '60fe860e44',extremes,Precipitation,#d60d2b,wmo,Niederschlag Deutschland,2026-07-14T05:14:00+00:00,Germany,0.5954339176657572,1,2,de,WCE,Europe
-'ea29f15a43',extremes,Storm,#b3b2b1,wmo,Sturmflut Klagenfurt Stadt,2026-07-14T05:14:00+00:00,Austria,0.5946683108165689,0,1,de,WCE,Europe
 '54a9aa5416',extremes,Thunderstorm,#53785a,wmo,Unwetter Salzburg Stadt,2026-07-15T05:15:00+00:00,Austria,0.5944550243043436,0,1,de,WCE,Europe
 '5d5d36e81f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Effretikon,2026-06-17T07:33:00+00:00,Switzerland,0.5942174938260002,1,1,de,WCE,Europe
 'b5e0c7bec8',extremes,Storm,#b3b2b1,wmo,Sturmflut Lauterbrunnen Wilderswil,2026-07-17T05:27:00+00:00,Switzerland,0.5940844417657971,0,1,de,WCE,Europe
@@ -418,6 +416,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66206e02fd',extremes,Heat Wave,#c40202,wmo,Hitzewelle Zofingen Triengen,2026-06-17T07:33:00+00:00,Switzerland,0.5191209756680487,2,1,de,WCE,Europe
 '47f4d3e73c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Thal,2026-06-20T06:47:00+00:00,Switzerland,0.5189314424393306,2,1,de,WCE,Europe
 'de7abe1c97',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Krefeld,2026-06-19T07:39:00+00:00,Germany,0.5186173925321758,2,1,de,WCE,Europe
+'042968096b',extremes,Storm,#b3b2b1,wmo,Sturm Island,2026-07-07T06:30:00+00:00,Iceland,0.5185472074376247,1,1,de,GIC,Europe
 'ff2fb99e65',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hulftegg Untertoggenburg,2026-06-21T07:16:00+00:00,Switzerland,0.5183398286281788,2,1,de,WCE,Europe
 'edde214339',extremes,Heat Wave,#c40202,wmo,Hitzewelle Entlebuch,2026-06-18T07:16:00+00:00,Switzerland,0.518157357870335,2,1,de,WCE,Europe
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Val de Ruz Colombier,2026-06-20T06:47:00+00:00,Switzerland,0.5174302483193015,2,1,de,WCE,Europe
@@ -496,6 +495,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16ae9a19a5',extremes,Heat Wave,#c40202,wmo,Hitzewelle einsiedeln wägital,2026-06-19T07:39:00+00:00,Switzerland,0.5057516408114855,2,1,de,WCE,Europe
 'c8bad6097f',extremes,Heat Wave,#c40202,wmo,Hitzewellenbasilikata,2026-07-07T06:30:00+00:00,Italy,0.5055963059156617,1,1,de,MED,Europe
 '05dc33aeec',extremes,Storm,#b3b2b1,wmo,Sturmflut Ried im Innkreis,2026-07-19T05:37:00+00:00,Austria,0.5055638711012214,1,1,de,WCE,Europe
+'ea29f15a43',extremes,Storm,#b3b2b1,wmo,Sturmflut Klagenfurt Stadt,2026-07-14T05:14:00+00:00,Austria,0.5054680641940835,1,1,de,WCE,Europe
 '8e76e97181',extremes,Heat Wave,#c40202,wmo,Hitzewelle Morges Cossonay,2026-06-18T07:16:00+00:00,Switzerland,0.5047981822500511,2,1,de,WCE,Europe
 'adf5595b75',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Deutschland,2026-06-19T07:39:00+00:00,Germany,0.5044731088246713,2,1,de,WCE,Europe
 '8e19081b44',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bern Sinn,2026-06-17T07:33:00+00:00,Switzerland,0.504413456824867,2,1,de,WCE,Europe
