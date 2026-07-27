@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997502c6bf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Hernals,2026-06-18T07:16:00+00:00,Austria,0.7424007576741138,2,2,de,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-06-17T07:33:00+00:00,Switzerland,0.7353433455288537,1,3,de,WCE,Europe
 '80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-06-17T07:33:00+00:00,Austria,0.7280450043083145,2,2,de,WCE,Europe
-'8025b5773e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Yverdon Bevaix,2026-07-09T06:27:00+00:00,Switzerland,0.6858477364579544,0,1,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-06-17T07:33:00+00:00,Austria,0.6831872065330719,1,3,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6778894106173771,1,2,de,WCE,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6747288875450377,1,2,de,WCE,Europe
@@ -16,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-06-24T06:30:00+00:00,Germany,0.6476865330468589,1,2,de,WCE,Europe
 'aa2377795f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mannheim,2026-06-22T08:39:00+00:00,Germany,0.6367868810225666,2,2,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-06-18T07:16:00+00:00,Austria,0.6364281942207607,1,3,de,WCE,Europe
-'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Österreich,2026-07-10T06:27:00+00:00,Austria,0.6354722280862736,1,1,de,WCE,Europe
 'f6f32944d1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gros de Vaud,2026-07-09T06:27:00+00:00,Switzerland,0.634302148870065,1,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-06-20T06:47:00+00:00,Germany,0.6336618249525677,2,2,de,WCE,Europe
 '1350baf605',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lyss Grenchen,2026-07-09T06:27:00+00:00,Switzerland,0.63341347536385,1,1,de,WCE,Europe
@@ -175,6 +173,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f2f638d6d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Niedersimmental,2026-06-17T07:33:00+00:00,Switzerland,0.5832931559560093,1,1,de,WCE,Europe
 '2d4bc552e1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Rostock,2026-06-20T06:47:00+00:00,Germany,0.5832424900557306,1,1,de,WCE,Europe
 '23177f13a4',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschlandsberg,2026-07-14T05:14:00+00:00,Austria,0.583000221080395,0,1,de,WCE,Europe
+'8025b5773e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Yverdon Bevaix,2026-07-09T06:27:00+00:00,Switzerland,0.5829705759892612,1,1,de,WCE,Europe
 '43d19279b3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Solothurn Rothrist,2026-06-18T07:16:00+00:00,Switzerland,0.5829439963801705,1,1,de,WCE,Europe
 '74853c8331',extremes,Storm,#b3b2b1,wmo,Sturmflut Rohrbach,2026-07-19T05:37:00+00:00,Austria,0.5829156172484871,0,1,de,WCE,Europe
 '0ea7108e6e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kalabrien,2026-07-18T05:10:00+00:00,Italy,0.5828307327909348,0,1,de,MED,Europe
@@ -210,6 +209,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '757a24f6e9',extremes,Thunderstorm,#53785a,wmo,"Hagel, Emilia und Romagna",2026-07-14T05:14:00+00:00,Italy,0.5792645527019833,0,1,de,MED,Europe
 'a662f3e5f7',extremes,Storm,#b3b2b1,wmo,Sturmflut Zwettl,2026-07-19T05:37:00+00:00,Austria,0.5792645101632916,0,1,de,WCE,Europe
 'b5291d6623',extremes,Heat Wave,#c40202,wmo,Hitzewelle Zell am See,2026-06-17T07:33:00+00:00,Austria,0.578907730174849,1,1,de,WCE,Europe
+'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,Hagel Österreich,2026-07-10T06:27:00+00:00,Austria,0.5788515138733326,2,1,de,WCE,Europe
 'b66c3705c1',extremes,Thunderstorm,#53785a,wmo,Unwetter Bruck an der Leitha,2026-06-30T06:39:00+00:00,Austria,0.5787138932101561,0,1,de,WCE,Europe
 '9d6cac03c7',extremes,Precipitation,#d60d2b,wmo,Niederschlag Schweiz,2026-07-01T06:52:00+00:00,Switzerland,0.578493240494986,0,1,de,WCE,Europe
 'b3b1658329',extremes,Fog,#d60d2b,wmo,Nebel Deutschland,2026-07-16T05:25:00+00:00,Germany,0.5781427043830504,1,2,de,WCE,Europe
