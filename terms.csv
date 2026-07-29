@@ -12,10 +12,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18e7fdcc5f',extremes,Heat Wave,#c40202,wmo,Hitzewelle bricht sie vollständig aus,2026-07-10T06:27:00+00:00,Switzerland,0.663826199837488,2,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6498476660453081,1,2,de,WCE,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-06-24T06:30:00+00:00,Germany,0.6476865330468589,1,2,de,WCE,Europe
-'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Val de Ruz Colombier,2026-07-11T05:27:00+00:00,Switzerland,0.6370962554695387,1,1,de,WCE,Europe
 'aa2377795f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mannheim,2026-06-22T08:39:00+00:00,Germany,0.6367868810225666,2,2,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-06-18T07:16:00+00:00,Austria,0.6364281942207607,1,3,de,WCE,Europe
-'16ea378d6b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Liechtenstein,2026-07-12T05:43:00+00:00,Switzerland,0.6362478637708184,1,2,de,WCE,Europe
 '16664cc668',extremes,Heat Wave,#c40202,wmo,Hitzewelle Verzasca,2026-07-08T05:37:00+00:00,Switzerland,0.6360488214679558,1,1,de,WCE,Europe
 'f6f32944d1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gros de Vaud,2026-07-09T06:27:00+00:00,Switzerland,0.634302148870065,1,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-06-20T06:47:00+00:00,Germany,0.6336618249525677,2,2,de,WCE,Europe
@@ -27,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5e5e0e53d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basse Gruyère,2026-07-11T05:27:00+00:00,Switzerland,0.6318837815584805,1,1,de,WCE,Europe
 'e86bb6f3ad',extremes,Heat Wave,#c40202,wmo,Hitzewelle Aarau Lenzburg,2026-07-09T06:27:00+00:00,Switzerland,0.6317944493419213,1,1,de,WCE,Europe
 '09cd3138c0',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vallée du Trient,2026-07-12T05:43:00+00:00,Switzerland,0.6317099472767445,1,1,de,WCE,Europe
-'adf5595b75',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6316159980505854,0,1,de,WCE,Europe
 '4b8a98e260',extremes,Heat Wave,#c40202,wmo,Hitzewelle glâne,2026-07-11T05:27:00+00:00,Switzerland,0.6314926782717821,1,1,de,WCE,Europe
 '8a67a1fe5c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bex Villars,2026-07-11T05:27:00+00:00,Switzerland,0.6308897999637431,1,1,de,WCE,Europe
 '33db445b97',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurt Stadt,2026-06-17T07:33:00+00:00,Austria,0.630131756771683,1,2,de,WCE,Europe
@@ -272,6 +269,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '36dc9f87fa',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Schweiz,2026-07-01T06:52:00+00:00,Switzerland,0.5429839708945051,1,1,de,WCE,Europe
 '200c06c3b9',extremes,Storm,#b3b2b1,wmo,Sturm Elbe von Hamburg bis Cuxhaven,2026-07-08T05:37:00+00:00,Germany,0.5426227830548018,1,1,de,WCE,Europe
 'a25ebcba91',extremes,Heat Wave,#c40202,wmo,Hitzewelle Korneuburg,2026-06-20T06:47:00+00:00,Austria,0.5425643629993463,1,1,de,WCE,Europe
+'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Val de Ruz Colombier,2026-07-11T05:27:00+00:00,Switzerland,0.5415318171491079,2,1,de,WCE,Europe
+'16ea378d6b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Liechtenstein,2026-07-12T05:43:00+00:00,Switzerland,0.5412607292051956,2,2,de,WCE,Europe
 '427e18f54d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Freistadt,2026-06-19T07:39:00+00:00,Austria,0.5408901200797724,1,1,de,WCE,Europe
 '06881ef91a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Suhl,2026-06-22T08:39:00+00:00,Germany,0.5399899289990495,1,1,de,WCE,Europe
 '0a43eb8b74',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vouvry,2026-07-10T06:27:00+00:00,Switzerland,0.5395000610101146,2,1,de,WCE,Europe
@@ -279,6 +278,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25d361ff38',extremes,Heat Wave,#c40202,wmo,Hitzewelle Dornbirn,2026-06-19T07:39:00+00:00,Austria,0.5392379849995762,2,2,de,WCE,Europe
 '4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-06-19T07:39:00+00:00,Austria,0.537644218663697,1,1,de,WCE,Europe
 '0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-06-23T06:33:00+00:00,Luxembourg,0.5375086784664987,1,1,de,WCE,Europe
+'adf5595b75',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Deutschland,2026-07-14T05:14:00+00:00,Germany,0.5368735983429976,1,1,de,WCE,Europe
 '1de161b756',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hartberg Fürstenfeld,2026-06-19T07:39:00+00:00,Austria,0.5367549992365018,1,1,de,WCE,Europe
 'b6c637aa2d',extremes,Storm,#b3b2b1,wmo,Sturm Klagenfurter Land,2026-07-11T05:27:00+00:00,Austria,0.5364170049629244,1,1,de,WCE,Europe
 '56ed4bc4b3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Wilhelmshaven,2026-06-24T06:30:00+00:00,Germany,0.535076374013872,1,1,de,WCE,Europe
