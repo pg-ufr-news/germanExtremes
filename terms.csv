@@ -1,11 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'997d3a0b2a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Leopoldstadt,2026-07-12T05:43:00+00:00,Austria,0.7364581413274675,2,2,de,WCE,Europe
 '5e8388cd76',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiesbaden Süd Wiesbaden Nord,2026-07-14T05:14:00+00:00,Germany,0.7362548888977927,2,2,de,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-06-17T07:33:00+00:00,Switzerland,0.7353433455288537,1,3,de,WCE,Europe
 '80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-06-17T07:33:00+00:00,Austria,0.7280450043083145,2,2,de,WCE,Europe
-'604d8535c2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Burgdorf Limpachtal,2026-07-28T05:31:00+00:00,Switzerland,0.7233022391994801,0,1,de,WCE,Europe
-'4d27fd77b1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Obertoggenburg,2026-07-12T05:43:00+00:00,Switzerland,0.7229033110091193,0,1,de,WCE,Europe
-'740ea7b0aa',extremes,Heat Wave,#c40202,wmo,obersimmentale Hitzewelle,2026-07-28T05:31:00+00:00,Switzerland,0.6918380574228923,0,1,de,WCE,Europe
-'997d3a0b2a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Leopoldstadt,2026-07-12T05:43:00+00:00,Austria,0.6897742662676087,1,2,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-06-17T07:33:00+00:00,Austria,0.6831872065330719,1,3,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6778894106173771,1,2,de,WCE,Europe
 'a6f8d7b452',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Oberhausen,2026-07-14T05:14:00+00:00,Germany,0.677655934857216,0,1,de,WCE,Europe
@@ -35,6 +32,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a63f9dc498',extremes,Heat Wave,#c40202,wmo,Hitzewelle-Innsbruck-Land,2026-06-17T07:33:00+00:00,Austria,0.6258052331836642,1,2,de,WCE,Europe
 '0c355d5b91',extremes,Heat Wave,#c40202,wmo,Hitzewelle vor den Waadtländer Alpen,2026-07-10T06:27:00+00:00,Switzerland,0.621402643728348,1,1,de,WCE,Europe
 '2c1ab9723c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheintal,2026-07-12T05:43:00+00:00,Switzerland,0.6161876549980253,2,1,de,WCE,Europe
+'604d8535c2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Burgdorf Limpachtal,2026-07-28T05:31:00+00:00,Switzerland,0.6148069033195581,1,1,de,WCE,Europe
+'4d27fd77b1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Obertoggenburg,2026-07-12T05:43:00+00:00,Switzerland,0.6144678143577514,1,1,de,WCE,Europe
 '3b300588b4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Hietzing,2026-06-21T07:16:00+00:00,Austria,0.6143412945500631,1,2,de,WCE,Europe
 'fb67dfa7f8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oron – Haute Broye,2026-07-11T05:27:00+00:00,Switzerland,0.6142595216833221,1,1,de,WCE,Europe
 '6c67a60d9b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Turtmanntal,2026-07-09T06:27:00+00:00,Switzerland,0.6137434215324714,1,1,de,WCE,Europe
@@ -79,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-07-10T06:27:00+00:00,Austria,0.5906066059150773,1,1,de,WCE,Europe
 '5939e7bd12',extremes,Heat Wave,#c40202,wmo,Hitzewelle Thalwil Wetzikon,2026-07-08T05:37:00+00:00,Switzerland,0.5905191714528386,1,1,de,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-07-04T05:59:00+00:00,Switzerland,0.5891563763115389,1,1,de,WCE,Europe
+'740ea7b0aa',extremes,Heat Wave,#c40202,wmo,obersimmentale Hitzewelle,2026-07-28T05:31:00+00:00,Switzerland,0.5880623488094584,1,1,de,WCE,Europe
 '33189dd77a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luzern Alpnach,2026-07-12T05:43:00+00:00,Switzerland,0.5875614964558367,1,1,de,WCE,Europe
 '111445dcb7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Waidhofen an der Thaya,2026-06-18T07:16:00+00:00,Austria,0.5871611465725164,2,2,de,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-06-26T06:36:00+00:00,Italy,0.5868675411395419,1,1,de,MED,Europe
