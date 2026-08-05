@@ -6,16 +6,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e8388cd76',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiesbaden Süd Wiesbaden Nord,2026-07-14T05:14:00+00:00,Germany,0.7362548888977927,2,2,de,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-06-17T07:33:00+00:00,Switzerland,0.7353433455288537,1,3,de,WCE,Europe
 '649bb080e1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lienz,2026-08-01T05:42:00+00:00,Austria,0.7333190609754466,2,2,de,WCE,Europe
+'9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-08-04T05:32:00+00:00,Germany,0.7237495503293415,0,1,de,WCE,Europe
+'d992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-08-04T05:32:00+00:00,Germany,0.6904690714850241,0,1,de,WCE,Europe
 '48b7df133f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Melk,2026-07-14T05:14:00+00:00,Austria,0.6859677370431938,1,2,de,WCE,Europe
 '43eb4d9368',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eisenstadt Umgebung,2026-07-15T05:15:00+00:00,Austria,0.6835134857153988,1,2,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-06-17T07:33:00+00:00,Austria,0.6831872065330719,1,3,de,WCE,Europe
+'8ac26c8151',extremes,Heat Wave,#c40202,wmo,Hitzewelle Marquardt Fahrland Potsdam Stadt,2026-08-04T05:32:00+00:00,Germany,0.6810426926361697,0,1,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6778894106173771,1,2,de,WCE,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6747288875450377,1,2,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-07-09T06:27:00+00:00,Austria,0.6718604728063593,1,1,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-06-22T08:39:00+00:00,Austria,0.6665683907908002,1,2,de,WCE,Europe
 '18e7fdcc5f',extremes,Heat Wave,#c40202,wmo,Hitzewelle bricht sie vollständig aus,2026-07-10T06:27:00+00:00,Switzerland,0.663826199837488,2,1,de,WCE,Europe
+'163aeba2d8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Bottrop,2026-08-04T05:32:00+00:00,Germany,0.6556928725337612,0,1,de,WCE,Europe
+'a950420590',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Speyer,2026-08-04T05:32:00+00:00,Germany,0.6538276901646876,0,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6498476660453081,1,2,de,WCE,Europe
+'fdd04dd7f0',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Hamm,2026-07-30T05:24:00+00:00,Germany,0.649460467814399,0,1,de,WCE,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-06-24T06:30:00+00:00,Germany,0.6476865330468589,1,2,de,WCE,Europe
+'16f0fe95ca',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Salzgitter,2026-08-04T05:32:00+00:00,Germany,0.6462531470573059,0,1,de,WCE,Europe
+'a38acbc97d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Krems an der Donau Stadt,2026-08-02T05:42:00+00:00,Austria,0.6434353702724926,0,1,de,WCE,Europe
 'aa2377795f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mannheim,2026-06-22T08:39:00+00:00,Germany,0.6367868810225666,2,2,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-06-18T07:16:00+00:00,Austria,0.6364281942207607,1,3,de,WCE,Europe
 '16664cc668',extremes,Heat Wave,#c40202,wmo,Hitzewelle Verzasca,2026-07-08T05:37:00+00:00,Switzerland,0.6360488214679558,1,1,de,WCE,Europe
