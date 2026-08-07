@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-07-31T05:51:00+00:00,Austria,0.6437325841250218,1,2,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-07-24T05:36:00+00:00,Switzerland,0.6432906420129623,1,1,de,WCE,Europe
 'c1ece6a9e9',extremes,Heat Wave,#c40202,wmo,Hitzewelle Tulln,2026-08-03T05:57:00+00:00,Austria,0.6414567633637103,0,1,de,WCE,Europe
-'9895f39f78',extremes,Heat Wave,#c40202,wmo,Hitzewelle Neunkirchen,2026-08-04T05:32:00+00:00,Austria,0.6383964813648084,0,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-06-18T07:16:00+00:00,Austria,0.6364281942207607,1,3,de,WCE,Europe
 '4165a63454',extremes,Heat Wave,#c40202,wmo,Hitzewelle Leoben,2026-07-29T05:37:00+00:00,Austria,0.6363081701997793,0,1,de,WCE,Europe
 '16664cc668',extremes,Heat Wave,#c40202,wmo,Hitzewelle Verzasca,2026-07-08T05:37:00+00:00,Switzerland,0.6360488214679558,1,1,de,WCE,Europe
@@ -215,6 +214,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '213b50b853',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luxemburg Süden,2026-07-11T05:27:00+00:00,Luxembourg,0.5430561568725264,1,1,de,WCE,Europe
 '11a980360a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Gelsenkirchen,2026-08-04T05:32:00+00:00,Germany,0.5430103567692928,1,1,de,WCE,Europe
 '36dc9f87fa',extremes,Precipitation,#d60d2b,wmo,sintflutartiger Regen Schweiz,2026-07-01T06:52:00+00:00,Switzerland,0.5429839708945051,1,1,de,WCE,Europe
+'9895f39f78',extremes,Heat Wave,#c40202,wmo,Hitzewelle Neunkirchen,2026-08-04T05:32:00+00:00,Austria,0.5429370391600872,1,1,de,WCE,Europe
 'baad89d880',extremes,Heat Wave,#c40202,wmo,Hitzewelle Mödling,2026-08-03T05:57:00+00:00,Austria,0.5428887280546172,1,1,de,WCE,Europe
 '200c06c3b9',extremes,Storm,#b3b2b1,wmo,Sturm Elbe von Hamburg bis Cuxhaven,2026-07-08T05:37:00+00:00,Germany,0.5426227830548018,1,1,de,WCE,Europe
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Val d'Hérens,2026-07-14T05:14:00+00:00,Switzerland,0.5424600512774971,2,1,de,WCE,Europe
