@@ -37,6 +37,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997502c6bf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Hernals,2026-08-02T05:42:00+00:00,Austria,0.6214951524595637,0,1,de,WCE,Europe
 '1ad7e87cb2',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien,2026-08-07T09:56:00+00:00,Italy,0.621484620259058,0,1,de,MED,Europe
 '0c355d5b91',extremes,Heat Wave,#c40202,wmo,Hitzewelle vor den Waadtländer Alpen,2026-07-10T06:27:00+00:00,Switzerland,0.621402643728348,1,1,de,WCE,Europe
+'b5291d6623',extremes,Heat Wave,#c40202,wmo,Hitzewelle Zell am See,2026-07-31T05:51:00+00:00,Austria,0.6213942459748552,0,1,de,WCE,Europe
+'67ec35d85f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Urfahrumgebung,2026-07-31T05:51:00+00:00,Austria,0.6212841947114578,0,1,de,WCE,Europe
+'5c2e689501',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gmünd,2026-08-01T05:42:00+00:00,Austria,0.6210872667411075,0,1,de,WCE,Europe
+'cd26928722',extremes,Heat Wave,#c40202,wmo,Hitzewelle Linzer Land,2026-07-31T05:51:00+00:00,Austria,0.6208463640682379,0,1,de,WCE,Europe
+'aa6792ebfd',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hollabrunn,2026-08-03T05:57:00+00:00,Austria,0.6207984021933441,0,1,de,WCE,Europe
+'18b78f45b4',extremes,Thunderstorm,#53785a,wmo,Gewitter Feldkirchen,2026-08-06T05:33:00+00:00,Austria,0.6205334775448335,0,1,de,WCE,Europe
+'80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-08-03T05:57:00+00:00,Austria,0.6203728373129074,0,1,de,WCE,Europe
+'797adc27c2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rohrbach,2026-08-09T03:59:00+00:00,Austria,0.6201767666762653,0,1,de,WCE,Europe
 '597a58110b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Blenio,2026-07-28T05:31:00+00:00,Switzerland,0.6201480561842337,1,1,de,WCE,Europe
 'a6f8d7b452',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Oberhausen,2026-07-14T05:14:00+00:00,Germany,0.6173614684343386,2,1,de,WCE,Europe
 '2c1ab9723c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheintal,2026-07-12T05:43:00+00:00,Switzerland,0.6161876549980253,2,1,de,WCE,Europe
