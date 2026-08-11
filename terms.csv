@@ -47,8 +47,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa77d38d06',extremes,Thunderstorm,#53785a,wmo,Hagel Leibnitz,2026-08-07T09:56:00+00:00,Austria,0.6198787268586172,0,1,de,WCE,Europe
 '1de161b756',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hartberg Fürstenfeld,2026-08-02T05:42:00+00:00,Austria,0.6193397216312355,0,1,de,WCE,Europe
 '768d0f8039',extremes,Heat Wave,#c40202,wmo,Hitzewelle Villach Land,2026-08-02T05:42:00+00:00,Austria,0.6186240275778928,0,1,de,WCE,Europe
+'3b300588b4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Hietzing,2026-08-02T05:42:00+00:00,Austria,0.6177460946013678,0,1,de,WCE,Europe
+'26ad6b04a8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschlandsberg,2026-08-03T05:57:00+00:00,Austria,0.6175489578073736,0,1,de,WCE,Europe
 'a6f8d7b452',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Oberhausen,2026-07-14T05:14:00+00:00,Germany,0.6173614684343386,2,1,de,WCE,Europe
+'5132e858ef',extremes,Heat Wave,#c40202,wmo,Hitzewelle Linz Stadt,2026-07-30T05:24:00+00:00,Austria,0.6170557164615397,0,1,de,WCE,Europe
+'2412cdf78e',extremes,Wildfire,#d60d2b,meteo,Waldbrand Österreich,2026-08-08T03:51:00+00:00,Austria,0.6169938054110611,0,1,de,WCE,Europe
+'f682496995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Mariahilf,2026-08-01T05:42:00+00:00,Austria,0.6169470469084859,0,1,de,WCE,Europe
+'f91c4f95eb',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hermagor,2026-08-05T05:31:00+00:00,Austria,0.6165478753027229,0,1,de,WCE,Europe
 '2c1ab9723c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheintal,2026-07-12T05:43:00+00:00,Switzerland,0.6161876549980253,2,1,de,WCE,Europe
+'091f8b2ed1',extremes,Heat Wave,#c40202,wmo,Hitzewelle zwettl,2026-08-06T05:33:00+00:00,Austria,0.615591163766907,0,1,de,WCE,Europe
+'4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-07-31T05:51:00+00:00,Austria,0.6151339062505977,0,1,de,WCE,Europe
 '8ef8f7a322',extremes,Heat Wave,#c40202,wmo,Hitzewelle Biel Neuenburg,2026-07-09T06:27:00+00:00,Switzerland,0.6132519754265177,1,1,de,WCE,Europe
 '9e0208c6e0',extremes,Heat Wave,#c40202,meteo,Hochtemperatur Österreich,2026-08-09T03:59:00+00:00,Austria,0.6070954123790593,1,1,de,WCE,Europe
 '8bce2b7d2e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kerenzerberg Seeztal,2026-07-13T05:53:00+00:00,Switzerland,0.6069643759904865,1,1,de,WCE,Europe
