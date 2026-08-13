@@ -6,13 +6,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e8388cd76',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiesbaden Süd Wiesbaden Nord,2026-07-14T05:14:00+00:00,Germany,0.7362548888977927,2,2,de,WCE,Europe
 '649bb080e1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lienz,2026-08-01T05:42:00+00:00,Austria,0.7333190609754466,2,2,de,WCE,Europe
 '43eb4d9368',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eisenstadt Umgebung,2026-07-15T05:15:00+00:00,Austria,0.731136477858089,2,2,de,WCE,Europe
+'5c2e689501',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gmünd,2026-08-01T05:42:00+00:00,Austria,0.7265130779704502,2,2,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-08-01T05:42:00+00:00,Switzerland,0.7209577127900546,1,3,de,WCE,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-08-04T05:32:00+00:00,Germany,0.7110489236890312,1,3,de,WCE,Europe
 '48b7df133f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Melk,2026-07-14T05:14:00+00:00,Austria,0.6859677370431938,1,2,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-08-03T05:57:00+00:00,Germany,0.6848900133862397,1,3,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-08-05T05:31:00+00:00,Austria,0.6826162993003252,1,2,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-07-29T05:37:00+00:00,Austria,0.6813250097854018,1,2,de,WCE,Europe
-'5c2e689501',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gmünd,2026-08-01T05:42:00+00:00,Austria,0.6780741917299413,1,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6778894106173771,1,2,de,WCE,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6747288875450377,1,2,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-07-09T06:27:00+00:00,Austria,0.6718604728063593,1,1,de,WCE,Europe
@@ -30,7 +30,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a63f9dc498',extremes,Heat Wave,#c40202,wmo,Hitzewelle-Innsbruck-Land,2026-07-30T05:24:00+00:00,Austria,0.6223334527997284,0,1,de,WCE,Europe
 '53e4cebf22',extremes,Heat Wave,#c40202,wmo,Hitzewelle Waidhofen an der Ybbs-Stadt,2026-08-03T05:57:00+00:00,Austria,0.6222392506543628,0,1,de,WCE,Europe
 '0c355d5b91',extremes,Heat Wave,#c40202,wmo,Hitzewelle vor den Waadtländer Alpen,2026-07-10T06:27:00+00:00,Switzerland,0.621402643728348,1,1,de,WCE,Europe
-'cd26928722',extremes,Heat Wave,#c40202,wmo,Hitzewelle Linzer Land,2026-07-31T05:51:00+00:00,Austria,0.6208463640682379,0,1,de,WCE,Europe
 'aa6792ebfd',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hollabrunn,2026-08-03T05:57:00+00:00,Austria,0.6207984021933441,0,1,de,WCE,Europe
 '18b78f45b4',extremes,Thunderstorm,#53785a,wmo,Gewitter Feldkirchen,2026-08-06T05:33:00+00:00,Austria,0.6205334775448335,0,1,de,WCE,Europe
 '80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-08-03T05:57:00+00:00,Austria,0.6203728373129074,0,1,de,WCE,Europe
@@ -351,6 +350,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67ec35d85f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Urfahrumgebung,2026-07-31T05:51:00+00:00,Austria,0.5280915655047391,1,1,de,WCE,Europe
 '43d19279b3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Solothurn Rothrist,2026-07-09T06:27:00+00:00,Switzerland,0.5279410012986004,2,1,de,WCE,Europe
 '964f821597',extremes,Thunderstorm,#53785a,wmo,Hagel Sarnen Lungern,2026-07-17T05:27:00+00:00,Switzerland,0.5278395047752181,1,1,de,WCE,Europe
+'cd26928722',extremes,Heat Wave,#c40202,wmo,Hitzewelle Linzer Land,2026-07-31T05:51:00+00:00,Austria,0.5277194094580022,1,1,de,WCE,Europe
 'e9c919775b',extremes,Heat Wave,#c40202,wmo,Hitzewelle fürstenland,2026-07-08T05:37:00+00:00,Switzerland,0.5276656939433614,1,1,de,WCE,Europe
 '2c8eb9f60d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Mistelbach,2026-07-10T06:27:00+00:00,Austria,0.5273293324254023,1,1,de,WCE,Europe
 '83c01ff715',extremes,Heat Wave,#c40202,wmo,Hitzewelle Leventina,2026-07-28T05:31:00+00:00,Switzerland,0.5271889948019703,2,1,de,WCE,Europe
