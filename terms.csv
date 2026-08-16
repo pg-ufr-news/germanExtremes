@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-07-29T05:38:00+00:00,Austria,0.7858303758888439,1,2,de,WCE,Europe
 '25457a2de6',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Leverkusen,2026-07-14T05:14:00+00:00,Germany,0.7556203549425925,2,2,de,WCE,Europe
 'bd7cc63d0e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Duisburg Süd Duisburg Nord,2026-07-30T05:24:00+00:00,Germany,0.7534972702583365,2,2,de,WCE,Europe
-'4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-07-29T05:38:00+00:00,Austria,0.747682759869228,0,1,de,WCE,Europe
 '5d8c69af03',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vallon de Saint Imier,2026-07-30T05:24:00+00:00,Switzerland,0.7413658798361041,0,1,de,WCE,Europe
 '1350baf605',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lyss Grenchen,2026-07-31T05:51:00+00:00,Switzerland,0.740514227381875,0,1,de,WCE,Europe
 '538ad91bbf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Voitsberg,2026-08-02T05:42:00+00:00,Austria,0.739211837021311,2,2,de,WCE,Europe
@@ -383,7 +383,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5f2972e0b6',extremes,Storm,#b3b2b1,wmo,Sturmflut Schwaz,2026-07-14T05:14:00+00:00,Austria,0.5234425519688136,1,1,de,WCE,Europe
 '091f8b2ed1',extremes,Heat Wave,#c40202,wmo,Hitzewelle zwettl,2026-08-06T05:33:00+00:00,Austria,0.523252489201871,1,1,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-07-07T06:30:00+00:00,Germany,0.5230391272935727,1,2,de,WCE,Europe
-'196091e24a',extremes,Storm,#b3b2b1,wmo,Sturm Flensburg bis Fehmarn,2026-07-08T05:37:00+00:00,Germany,0.5229371918824806,1,1,de,WCE,Europe
 '5ad66ae8ea',extremes,Storm,#b3b2b1,wmo,Sturm Flims Laax,2026-07-17T05:27:00+00:00,Switzerland,0.5227809253255089,1,1,de,WCE,Europe
 '604d8535c2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Burgdorf Limpachtal,2026-07-28T05:31:00+00:00,Switzerland,0.5225858678216244,2,1,de,WCE,Europe
 '821ad18287',extremes,Storm,#b3b2b1,wmo,Sturmflut Brienz Interlaken,2026-07-17T05:27:00+00:00,Switzerland,0.5225647376792466,1,1,de,WCE,Europe
@@ -417,7 +416,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fcf50e8283',extremes,Storm,#b3b2b1,wmo,Sturm Effretikon,2026-07-15T05:15:00+00:00,Switzerland,0.5139080431549925,1,1,de,WCE,Europe
 '6dea63153a',extremes,Storm,#b3b2b1,wmo,Sturm Zurzach Bülach,2026-07-17T05:27:00+00:00,Switzerland,0.5133495035372482,1,1,de,WCE,Europe
 '468cd6b554',extremes,Storm,#b3b2b1,wmo,Sturmflut Westfjorde,2026-07-12T05:43:00+00:00,Iceland,0.5132118706367654,1,1,de,GIC,Europe
-'9d5914f39c',extremes,Storm,#b3b2b1,wmo,Sturm Südisland,2026-07-08T05:37:00+00:00,Iceland,0.5128804516688908,1,1,de,GIC,Europe
 '40c061615e',extremes,Storm,#b3b2b1,wmo,Sturmbetrug,2026-07-15T05:15:00+00:00,Switzerland,0.5119846742066836,1,1,de,WCE,Europe
 '149c9566f6',extremes,Thunderstorm,#53785a,wmo,Hagel Villacher Land,2026-07-13T05:53:00+00:00,Austria,0.5117334352386375,1,1,de,WCE,Europe
 'a6e2fc5efb',extremes,Thunderstorm,#53785a,wmo,Gewitter obersimmental,2026-07-17T05:27:00+00:00,Switzerland,0.5117051621548664,1,1,de,WCE,Europe
@@ -455,7 +453,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '093e16d361',extremes,Storm,#b3b2b1,wmo,Sturmflut Schaffhausen,2026-07-17T05:27:00+00:00,Switzerland,0.5029206573035429,1,1,de,WCE,Europe
 'cadf52d735',extremes,Storm,#b3b2b1,wmo,Sturm Wien Neubau,2026-07-17T05:27:00+00:00,Austria,0.5028277295536594,1,1,de,WCE,Europe
 'dbd187ded6',extremes,Thunderstorm,#53785a,wmo,Unwetter Brigels,2026-07-15T05:15:00+00:00,Switzerland,0.5027344701815565,1,1,de,WCE,Europe
-'c65fc17a5a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Brabant,2026-07-08T05:37:00+00:00,Belgium,0.5027188676681856,1,1,de,WCE,Europe
 '91fad08cf7',extremes,Storm,#b3b2b1,wmo,Sturmflut Wels Stadt,2026-07-19T05:37:00+00:00,Austria,0.5025543713677759,1,1,de,WCE,Europe
 '84bcaf7394',extremes,Thunderstorm,#53785a,wmo,Unwetter Frick Leibstadt,2026-07-15T05:15:00+00:00,Switzerland,0.502374089663935,1,1,de,WCE,Europe
 'e72f9ad959',extremes,Thunderstorm,#53785a,wmo,Gewitter Langenthal,2026-07-15T05:15:00+00:00,Switzerland,0.5016415543420251,1,1,de,WCE,Europe
@@ -472,5 +469,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '36c2dad553',extremes,Thunderstorm,#53785a,wmo,Hagel val medel sumvitg,2026-07-17T05:27:00+00:00,Switzerland,0.494467119494662,1,1,de,WCE,Europe
 'a662f3e5f7',extremes,Storm,#b3b2b1,wmo,Sturmflut Zwettl,2026-07-19T05:37:00+00:00,Austria,0.4923748336387978,1,1,de,WCE,Europe
 '73bd17a0a2',extremes,Thunderstorm,#53785a,wmo,Unwetter Zell am See,2026-07-14T05:14:00+00:00,Austria,0.4900183439407337,1,1,de,WCE,Europe
-'32e74ad8ff',extremes,Heat Wave,#c40202,wmo,Hitzewelle Molise,2026-07-08T05:37:00+00:00,Italy,0.4876303525216356,1,1,de,MED,Europe
 '71f74eb684',extremes,Thunderstorm,#53785a,wmo,Hagel Klagenfurt Stadt,2026-07-17T05:27:00+00:00,Austria,0.4415110050149534,2,1,de,WCE,Europe
