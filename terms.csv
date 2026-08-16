@@ -1,10 +1,18 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '25457a2de6',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Leverkusen,2026-07-14T05:14:00+00:00,Germany,0.7556203549425925,2,2,de,WCE,Europe
 'bd7cc63d0e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Duisburg Süd Duisburg Nord,2026-07-30T05:24:00+00:00,Germany,0.7534972702583365,2,2,de,WCE,Europe
+'d9f5a28608',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basso Moesano,2026-07-31T05:51:00+00:00,Switzerland,0.7415273232790608,0,1,de,WCE,Europe
 '538ad91bbf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Voitsberg,2026-08-02T05:42:00+00:00,Austria,0.739211837021311,2,2,de,WCE,Europe
+'6f8f50b514',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vispertal Nanztal,2026-08-02T05:42:00+00:00,Switzerland,0.7384569842908847,0,1,de,WCE,Europe
+'5660802a7f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Riviera,2026-07-31T05:51:00+00:00,Switzerland,0.7384240293667832,0,1,de,WCE,Europe
+'239db805fa',extremes,Heat Wave,#c40202,wmo,Hitzewelle Val d'Anniviers,2026-07-31T05:51:00+00:00,Switzerland,0.7378341019648808,0,1,de,WCE,Europe
+'757cf38b46',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lausanne Lavaux,2026-07-31T05:51:00+00:00,Switzerland,0.7375563023431507,0,1,de,WCE,Europe
 '997d3a0b2a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Leopoldstadt,2026-07-12T05:43:00+00:00,Austria,0.7364581413274675,2,2,de,WCE,Europe
 '5e8388cd76',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiesbaden Süd Wiesbaden Nord,2026-07-14T05:14:00+00:00,Germany,0.7362548888977927,2,2,de,WCE,Europe
+'0a43eb8b74',extremes,Heat Wave,#c40202,wmo,Hitzewelle Vouvry,2026-08-01T05:42:00+00:00,Switzerland,0.7344346034925824,0,1,de,WCE,Europe
+'3caca873cf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheinfelden,2026-08-01T05:42:00+00:00,Switzerland,0.7343935379743822,0,1,de,WCE,Europe
 '649bb080e1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lienz,2026-08-01T05:42:00+00:00,Austria,0.7333190609754466,2,2,de,WCE,Europe
+'5511bac479',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luganese,2026-07-31T05:51:00+00:00,Switzerland,0.7330162304494783,0,1,de,WCE,Europe
 '43eb4d9368',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eisenstadt Umgebung,2026-07-15T05:15:00+00:00,Austria,0.731136477858089,2,2,de,WCE,Europe
 '5c2e689501',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gmünd,2026-08-01T05:42:00+00:00,Austria,0.7265130779704502,2,2,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-08-01T05:42:00+00:00,Switzerland,0.7209577127900546,1,3,de,WCE,Europe
