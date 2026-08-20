@@ -17,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6747288875450377,1,2,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-07-09T06:27:00+00:00,Austria,0.6718604728063593,1,1,de,WCE,Europe
 '4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-07-29T05:38:00+00:00,Austria,0.6679558495055173,2,1,de,WCE,Europe
+'4762727d42',extremes,Thunderstorm,#53785a,wmo,Gewitter Neunkirchen,2026-07-13T05:53:00+00:00,Austria,0.6614187665144841,2,2,de,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-07-29T05:37:00+00:00,Switzerland,0.6524105752461404,1,2,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6498476660453081,1,2,de,WCE,Europe
 '5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-08-07T11:06:00+00:00,Austria,0.6475316623096063,1,2,de,WCE,Europe
@@ -38,11 +39,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c1ab9723c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheintal,2026-07-12T05:43:00+00:00,Switzerland,0.6161876549980253,2,1,de,WCE,Europe
 '1ce8f6f6b4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Huttwil Willisau,2026-07-13T05:53:00+00:00,Switzerland,0.6056030743585497,1,1,de,WCE,Europe
 'f4d16ac321',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schiers,2026-07-13T05:53:00+00:00,Switzerland,0.6045706116224984,1,1,de,WCE,Europe
-'d313e195ad',extremes,Wildfire,#d60d2b,effis,Lauffeuer Wiener Umland Südteil Österreich,2026-08-12T04:22:00+00:00,Austria,0.603344360656781,0,1,de,WCE,Europe
-'80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-08-03T05:57:00+00:00,Austria,0.6026169417159712,1,2,de,WCE,Europe
-'1025c5d048',extremes,Heat Wave,#c40202,wmo,Hitzewelle Venetien,2026-08-04T05:32:00+00:00,Italy,0.6019498481855639,0,1,de,MED,Europe
-'e3f5edbd65',extremes,Thunderstorm,#53785a,wmo,Hagel Zell am See,2026-08-07T09:56:00+00:00,Austria,0.6016858205444007,0,1,de,WCE,Europe
-'4762727d42',extremes,Thunderstorm,#53785a,wmo,Gewitter Neunkirchen,2026-07-13T05:53:00+00:00,Austria,0.6014926488405694,1,2,de,WCE,Europe
 'dfb51eb234',extremes,Heat Wave,#c40202,wmo,Hitzewelle Goldau Ägeri,2026-07-13T05:53:00+00:00,Switzerland,0.601441928256404,1,1,de,WCE,Europe
 '42577d30d4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Magdeburg,2026-07-30T05:24:00+00:00,Germany,0.6012392809771426,0,1,de,WCE,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,Regenmangel Italien,2026-08-04T05:32:00+00:00,Italy,0.6011339490276193,0,1,de,MED,Europe
@@ -355,10 +351,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b18b12b09d',extremes,Storm,#b3b2b1,wmo,Sturm Bodensee West,2026-07-27T06:05:00+00:00,Germany,0.5132862684118725,1,1,de,WCE,Europe
 '468cd6b554',extremes,Storm,#b3b2b1,wmo,Sturmflut Westfjorde,2026-07-12T05:43:00+00:00,Iceland,0.5132118706367654,1,1,de,GIC,Europe
 '046e022236',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien L’Aquila Rocca di Cambio,2026-08-08T03:51:00+00:00,Italy,0.5130168042343177,1,1,de,MED,Europe
+'d313e195ad',extremes,Wildfire,#d60d2b,effis,Lauffeuer Wiener Umland Südteil Österreich,2026-08-12T04:22:00+00:00,Austria,0.5128427065582638,1,1,de,WCE,Europe
+'80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-08-03T05:57:00+00:00,Austria,0.5122244304585756,2,1,de,WCE,Europe
 '40c061615e',extremes,Storm,#b3b2b1,wmo,Sturmbetrug,2026-07-15T05:15:00+00:00,Switzerland,0.5119846742066836,1,1,de,WCE,Europe
 '149c9566f6',extremes,Thunderstorm,#53785a,wmo,Hagel Villacher Land,2026-07-13T05:53:00+00:00,Austria,0.5117334352386375,1,1,de,WCE,Europe
 'a6e2fc5efb',extremes,Thunderstorm,#53785a,wmo,Gewitter obersimmental,2026-07-17T05:27:00+00:00,Switzerland,0.5117051621548664,1,1,de,WCE,Europe
+'1025c5d048',extremes,Heat Wave,#c40202,wmo,Hitzewelle Venetien,2026-08-04T05:32:00+00:00,Italy,0.5116573709577292,1,1,de,MED,Europe
 '1ab044b283',extremes,Storm,#b3b2b1,wmo,Sturmflut thal,2026-07-15T05:15:00+00:00,Switzerland,0.5115055157469177,1,1,de,WCE,Europe
+'e3f5edbd65',extremes,Thunderstorm,#53785a,wmo,Hagel Zell am See,2026-08-07T09:56:00+00:00,Austria,0.5114329474627406,1,1,de,WCE,Europe
 'fe71461d35',extremes,Storm,#b3b2b1,wmo,Sturm Wien Meidling,2026-07-17T05:27:00+00:00,Austria,0.5113398473812832,1,1,de,WCE,Europe
 '41ceaf1734',extremes,Thunderstorm,#53785a,wmo,Gewitter Spittal an der Drau,2026-07-17T05:27:00+00:00,Austria,0.5112952536685924,1,1,de,WCE,Europe
 '56fee7fb2a',extremes,Storm,#b3b2b1,wmo,Sturmhorn,2026-07-19T05:37:00+00:00,Austria,0.5112639496079754,1,1,de,WCE,Europe
