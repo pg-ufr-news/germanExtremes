@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '25457a2de6',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Leverkusen,2026-07-14T05:14:00+00:00,Germany,0.7556203549425925,2,2,de,WCE,Europe
 'bd7cc63d0e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Duisburg Süd Duisburg Nord,2026-07-30T05:24:00+00:00,Germany,0.7534972702583365,2,2,de,WCE,Europe
-'d9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-08-02T05:42:00+00:00,Austria,0.7532920480938997,0,1,de,WCE,Europe
 '33c63ac237',extremes,Heat Wave,#c40202,wmo,Hitzewelle Aigle Leysin,2026-08-01T05:42:00+00:00,Switzerland,0.7393776250820083,0,1,de,WCE,Europe
 '0c355d5b91',extremes,Heat Wave,#c40202,wmo,Hitzewelle vor den Waadtländer Alpen,2026-08-02T05:42:00+00:00,Switzerland,0.7392471524790337,0,1,de,WCE,Europe
 '538ad91bbf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Voitsberg,2026-08-02T05:42:00+00:00,Austria,0.739211837021311,2,2,de,WCE,Europe
@@ -9,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997d3a0b2a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Leopoldstadt,2026-07-12T05:43:00+00:00,Austria,0.7364581413274675,2,2,de,WCE,Europe
 '5e8388cd76',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiesbaden Süd Wiesbaden Nord,2026-07-14T05:14:00+00:00,Germany,0.7362548888977927,2,2,de,WCE,Europe
 '90cbdf698e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Genf,2026-07-31T05:51:00+00:00,Switzerland,0.7350490762636861,0,1,de,WCE,Europe
-'4208a0b339',extremes,Heat Wave,#c40202,wmo,Hitzewelle oberes Baselbiet,2026-08-11T04:01:00+00:00,Switzerland,0.7349124760663505,0,1,de,WCE,Europe
 'fb67dfa7f8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oron – Haute Broye,2026-08-01T05:42:00+00:00,Switzerland,0.7347270022176556,0,1,de,WCE,Europe
 '2c1ab9723c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheintal,2026-08-02T05:42:00+00:00,Switzerland,0.7340429092148176,0,1,de,WCE,Europe
 '649bb080e1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Lienz,2026-08-01T05:42:00+00:00,Austria,0.7333190609754466,2,2,de,WCE,Europe
@@ -22,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-08-01T05:42:00+00:00,Switzerland,0.7209577127900546,1,3,de,WCE,Europe
 '2b62467829',extremes,Storm,#b3b2b1,wmo,Sturm Vöcklabruck,2026-08-02T05:42:00+00:00,Austria,0.7173716923650418,2,2,de,WCE,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-08-04T05:32:00+00:00,Germany,0.7110489236890312,1,3,de,WCE,Europe
+'d9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-08-02T05:42:00+00:00,Austria,0.7013499208798146,1,2,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-08-03T05:57:00+00:00,Germany,0.6848900133862397,1,3,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-08-05T05:31:00+00:00,Austria,0.6826162993003252,1,2,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-07-29T05:37:00+00:00,Austria,0.6813250097854018,1,2,de,WCE,Europe
@@ -43,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5e5e0e53d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basse Gruyère,2026-07-31T05:51:00+00:00,Switzerland,0.6256826824090649,1,1,de,WCE,Europe
 '93ee21e413',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gersau Engelbergertal,2026-08-02T05:42:00+00:00,Switzerland,0.6255748016219996,1,1,de,WCE,Europe
 '5132e858ef',extremes,Heat Wave,#c40202,wmo,Hitzewelle Linz Stadt,2026-07-30T05:24:00+00:00,Austria,0.6249474039923087,1,2,de,WCE,Europe
+'4208a0b339',extremes,Heat Wave,#c40202,wmo,Hitzewelle oberes Baselbiet,2026-08-11T04:01:00+00:00,Switzerland,0.6246756046563979,1,1,de,WCE,Europe
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Österreich,2026-07-31T05:51:00+00:00,Austria,0.6242741859163539,1,1,de,WCE,Europe
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-08-03T05:57:00+00:00,Austria,0.6196779202650223,1,3,de,WCE,Europe
 'a6f8d7b452',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Oberhausen,2026-07-14T05:14:00+00:00,Germany,0.6173614684343386,2,1,de,WCE,Europe
