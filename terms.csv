@@ -19,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-07-29T05:38:00+00:00,Austria,0.6679558495055173,2,1,de,WCE,Europe
 '4762727d42',extremes,Thunderstorm,#53785a,wmo,Gewitter Neunkirchen,2026-07-13T05:53:00+00:00,Austria,0.6614187665144841,2,2,de,WCE,Europe
 '2c1ab9723c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheintal,2026-08-02T05:42:00+00:00,Switzerland,0.6579735296577058,2,1,de,WCE,Europe
-'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-08-21T03:30:00+00:00,Switzerland,0.6534615612353477,1,2,de,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-07-29T05:37:00+00:00,Switzerland,0.6524105752461404,1,2,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,wmo,Sturm Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6498476660453081,1,2,de,WCE,Europe
 '5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-08-07T11:06:00+00:00,Austria,0.6475316623096063,1,2,de,WCE,Europe
@@ -63,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4d16ac321',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schiers,2026-07-13T05:53:00+00:00,Switzerland,0.6045706116224984,1,1,de,WCE,Europe
 'e722855f5f',extremes,Wildfire,#d60d2b,effis,Lauffeuer Deutschland,2026-08-17T03:28:00+00:00,Germany,0.6034515270908198,1,1,de,WCE,Europe
 'dfb51eb234',extremes,Heat Wave,#c40202,wmo,Hitzewelle Goldau Ägeri,2026-07-13T05:53:00+00:00,Switzerland,0.601441928256404,1,1,de,WCE,Europe
-'42577d30d4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Magdeburg,2026-07-30T05:24:00+00:00,Germany,0.6012392809771426,0,1,de,WCE,Europe
 'f9eb244a9a',extremes,Drought,#edc291,edo,Regenmangel Italien,2026-08-04T05:32:00+00:00,Italy,0.6011339490276193,0,1,de,MED,Europe
 '340257139b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mülheim an der Ruhr,2026-07-30T05:24:00+00:00,Germany,0.6007865714636347,2,1,de,WCE,Europe
 '9dd73bb521',extremes,Heat Wave,#c40202,meteo,Hohe Temperaturen in Deutschland,2026-08-14T04:24:00+00:00,Germany,0.6004939730548554,1,2,de,WCE,Europe
@@ -121,6 +119,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e7727bf0c',extremes,Storm,#b3b2b1,wmo,Sturm Wien Mariahilf,2026-07-16T05:25:00+00:00,Austria,0.5796521230857794,0,1,de,WCE,Europe
 '757a24f6e9',extremes,Thunderstorm,#53785a,wmo,"Hagel, Emilia und Romagna",2026-07-14T05:14:00+00:00,Italy,0.5792645527019833,0,1,de,MED,Europe
 '1103361e50',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oberpullendorf,2026-08-04T05:32:00+00:00,Austria,0.5790772895933478,2,1,de,WCE,Europe
+'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-08-21T03:30:00+00:00,Switzerland,0.578971603478617,2,2,de,WCE,Europe
 '8ac26c8151',extremes,Heat Wave,#c40202,wmo,Hitzewelle Marquardt Fahrland Potsdam Stadt,2026-08-04T05:32:00+00:00,Germany,0.5788862887407442,1,1,de,WCE,Europe
 'f4a79cb90e',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien,2026-08-07T09:56:00+00:00,Italy,0.5787339289822161,1,1,de,MED,Europe
 'ed3d9325af',extremes,Wildfire,#d60d2b,effis,Lauffeuer Österreich,2026-08-12T04:22:00+00:00,Austria,0.5785482537043344,1,1,de,WCE,Europe
@@ -357,6 +356,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41ceaf1734',extremes,Thunderstorm,#53785a,wmo,Gewitter Spittal an der Drau,2026-07-17T05:27:00+00:00,Austria,0.5112952536685924,1,1,de,WCE,Europe
 '56fee7fb2a',extremes,Storm,#b3b2b1,wmo,Sturmhorn,2026-07-19T05:37:00+00:00,Austria,0.5112639496079754,1,1,de,WCE,Europe
 '31823b52d8',extremes,Storm,#b3b2b1,wmo,Sturm Nordwestisland,2026-07-15T05:15:00+00:00,Iceland,0.5110582813210895,1,1,de,GIC,Europe
+'42577d30d4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Magdeburg,2026-07-30T05:24:00+00:00,Germany,0.5110533888305713,1,1,de,WCE,Europe
 'f5e6f4c188',extremes,Storm,#b3b2b1,wmo,Sturmflut Solothurn Rothrist,2026-07-15T05:15:00+00:00,Switzerland,0.5110106496945236,1,1,de,WCE,Europe
 '89372c3a3f',extremes,Storm,#b3b2b1,wmo,Sturm Bludenz,2026-07-14T05:14:00+00:00,Austria,0.5103331276884139,1,1,de,WCE,Europe
 '9b27d51e53',extremes,Storm,#b3b2b1,wmo,Sturmflut Rheinfelden,2026-07-15T05:15:00+00:00,Switzerland,0.5103061821888617,1,1,de,WCE,Europe
