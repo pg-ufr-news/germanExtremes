@@ -12,11 +12,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-08-04T05:32:00+00:00,Germany,0.7110489236890312,1,3,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-08-02T05:42:00+00:00,Austria,0.7013499208798146,1,2,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-08-03T05:57:00+00:00,Germany,0.6848900133862397,1,3,de,WCE,Europe
+'323f237847',extremes,Heat Wave,#c40202,wmo,Hitzewelle Freiburg,2026-08-08T03:51:00+00:00,Switzerland,0.6848252712036498,0,1,de,WCE,Europe
+'1c6cf0535c',extremes,Heat Wave,#c40202,wmo,Hitzewelle ajoie,2026-08-14T04:24:00+00:00,Switzerland,0.6847636192073832,0,1,de,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-08-05T05:31:00+00:00,Austria,0.6826162993003252,1,2,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-07-29T05:37:00+00:00,Austria,0.6813250097854018,1,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6778894106173771,1,2,de,WCE,Europe
+'840e458266',extremes,Heat Wave,#c40202,wmo,Hitzewelle Marthalen Stammheim,2026-08-10T04:14:00+00:00,Switzerland,0.6774170620158951,0,1,de,WCE,Europe
+'7a263703cd',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sarnen Lungern,2026-08-15T03:13:00+00:00,Switzerland,0.6768600460841832,0,1,de,WCE,Europe
 'c184682bc3',extremes,Thunderstorm,#53785a,wmo,Hagel Deutschland,2026-07-14T05:14:00+00:00,Germany,0.6747288875450377,1,2,de,WCE,Europe
+'10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-08-07T04:37:00+00:00,Luxembourg,0.6732818496834617,0,1,de,WCE,Europe
 '4d5705c676',extremes,Drought,#edc291,edo,Regenmangel Österreich,2026-07-29T05:38:00+00:00,Austria,0.6679558495055173,2,1,de,WCE,Europe
+'89bb997635',extremes,Wildfire,#d60d2b,effis,Buschfeuer Deutschland Uelzen Münster Stadt,2026-08-19T03:26:00+00:00,Germany,0.6643364058618888,0,1,de,WCE,Europe
+'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Val d'Hérens,2026-08-13T04:26:00+00:00,Switzerland,0.6632932676019062,0,1,de,WCE,Europe
+'a85598b6d2',extremes,Heat Wave,#c40202,wmo,Hitzewelle wohlen albis,2026-08-10T04:14:00+00:00,Switzerland,0.6614788194379163,0,1,de,WCE,Europe
 '4762727d42',extremes,Thunderstorm,#53785a,wmo,Gewitter Neunkirchen,2026-07-13T05:53:00+00:00,Austria,0.6614187665144841,2,2,de,WCE,Europe
 '2c1ab9723c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheintal,2026-08-02T05:42:00+00:00,Switzerland,0.6579735296577058,2,1,de,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-07-29T05:37:00+00:00,Switzerland,0.6524105752461404,1,2,de,WCE,Europe
