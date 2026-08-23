@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-08-07T11:06:00+00:00,Austria,0.6475316623096063,1,2,de,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-07-26T05:46:00+00:00,Switzerland,0.647365872869979,1,2,de,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-07-31T05:51:00+00:00,Austria,0.6437325841250218,1,2,de,WCE,Europe
-'136352a451',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Bonn,2026-08-04T05:32:00+00:00,Germany,0.6412495122587959,0,1,de,WCE,Europe
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basso Moesano,2026-07-31T05:51:00+00:00,Switzerland,0.6302982247872017,1,1,de,WCE,Europe
 'a6f8d7b452',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Oberhausen,2026-08-03T05:57:00+00:00,Germany,0.6301778986392703,1,2,de,WCE,Europe
 '9495481d82',extremes,Heat Wave,#c40202,wmo,Hitzewelle Martigny Verbier,2026-08-01T05:42:00+00:00,Switzerland,0.6298452186081639,1,1,de,WCE,Europe
@@ -184,6 +183,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a25ebcba91',extremes,Heat Wave,#c40202,wmo,Hitzewelle Korneuburg,2026-08-04T05:32:00+00:00,Austria,0.5456562735683849,1,1,de,WCE,Europe
 '2b5ee19d35',extremes,Wildfire,#d60d2b,effis,Flächenbrand Main Kinzig Kreis Deutschland,2026-08-15T03:13:00+00:00,Germany,0.5454870371819563,2,1,de,WCE,Europe
 'b43a4dc985',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiener Neustadt Land,2026-08-01T05:42:00+00:00,Austria,0.5453820986191895,1,1,de,WCE,Europe
+'136352a451',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Bonn,2026-08-04T05:32:00+00:00,Germany,0.5452121004199765,1,1,de,WCE,Europe
 'de21b3d7b5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiener Neustadt,2026-08-04T05:32:00+00:00,Austria,0.5448598337575018,2,1,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2026-07-15T05:15:00+00:00,Germany,0.5446114578169631,1,1,de,WCE,Europe
 'ddf73912d5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Margareten,2026-08-02T05:42:00+00:00,Austria,0.5444194413346312,1,1,de,WCE,Europe
