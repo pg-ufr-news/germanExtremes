@@ -71,7 +71,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dfe181d54',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sion Crans Montana,2026-07-30T05:24:00+00:00,Switzerland,0.5867386064185883,1,1,de,WCE,Europe
 '980c77d360',extremes,Heat Wave,#c40202,wmo,Hitzewelle Graz Umgebung,2026-07-30T05:24:00+00:00,Austria,0.5866127816133837,1,1,de,WCE,Europe
 '0392d8d3fc',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Brigittenau,2026-07-31T05:51:00+00:00,Austria,0.5863222148237438,2,2,de,WCE,Europe
-'ccfe1277cf',extremes,Storm,#b3b2b1,wmo,Sturm Wolfsberg,2026-07-14T05:14:00+00:00,Austria,0.5858524398960984,0,1,de,WCE,Europe
 '74a2ec1b7d',extremes,Storm,#b3b2b1,wmo,Sturmflut Leoben,2026-07-13T05:53:00+00:00,Austria,0.5855951826153983,0,1,de,WCE,Europe
 '3c3495908e',extremes,Storm,#b3b2b1,wmo,Sturm Aarau Lenzburg,2026-07-17T05:27:00+00:00,Switzerland,0.5855637354146045,0,1,de,WCE,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-07-18T05:10:00+00:00,Switzerland,0.585296366183072,1,1,de,WCE,Europe
