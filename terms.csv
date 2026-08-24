@@ -50,12 +50,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6622058200',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kitzbühel,2026-08-02T05:42:00+00:00,Austria,0.5906079349011003,2,2,de,WCE,Europe
 '0918c68712',extremes,Heat Wave,#c40202,wmo,Hitzewelle Grieskirchen,2026-07-31T05:51:00+00:00,Austria,0.5875228524884286,2,2,de,WCE,Europe
 '7dfe181d54',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sion Crans Montana,2026-07-30T05:24:00+00:00,Switzerland,0.5867386064185883,1,1,de,WCE,Europe
-'980c77d360',extremes,Heat Wave,#c40202,wmo,Hitzewelle Graz Umgebung,2026-07-30T05:24:00+00:00,Austria,0.5866127816133837,1,1,de,WCE,Europe
 '0392d8d3fc',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Brigittenau,2026-07-31T05:51:00+00:00,Austria,0.5863222148237438,2,2,de,WCE,Europe
 'a03bfb69ba',extremes,Drought,#edc291,edo,Trockenperiode Schweiz,2026-07-18T05:10:00+00:00,Switzerland,0.585296366183072,1,1,de,WCE,Europe
 '6a7ad15d32',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ried im Innkreis,2026-07-31T05:51:00+00:00,Austria,0.585170712084189,2,1,de,WCE,Europe
 '0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-08-07T09:56:00+00:00,Luxembourg,0.5841452941407672,1,1,de,WCE,Europe
-'eac22875b2',extremes,Thunderstorm,#53785a,wmo,Gewitter Burgdorf Limpachtal,2026-07-17T05:27:00+00:00,Switzerland,0.5840454240328152,0,1,de,WCE,Europe
 '0901d87837',extremes,Storm,#b3b2b1,wmo,Sturmflut Salzburg Umgebung,2026-07-15T05:15:00+00:00,Austria,0.5836646517282791,0,1,de,WCE,Europe
 '216180ca04',extremes,Storm,#b3b2b1,wmo,Sturm Ried im Innkreis,2026-07-16T05:25:00+00:00,Austria,0.5835762663853931,0,1,de,WCE,Europe
 '23177f13a4',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschlandsberg,2026-07-14T05:14:00+00:00,Austria,0.583000221080395,0,1,de,WCE,Europe
@@ -345,8 +343,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Währing,2026-07-17T05:27:00+00:00,Austria,0.4995676595738965,1,1,de,WCE,Europe
 '390332f107',extremes,Storm,#b3b2b1,wmo,Sturm Küblis Klosters,2026-07-17T05:27:00+00:00,Switzerland,0.4995494100409302,1,1,de,WCE,Europe
 'a83a1be8fe',extremes,Thunderstorm,#53785a,wmo,Unwetter Eisenstadt Umgebung,2026-07-17T05:27:00+00:00,Austria,0.4993377287162329,1,1,de,WCE,Europe
+'980c77d360',extremes,Heat Wave,#c40202,wmo,Hitzewelle Graz Umgebung,2026-07-30T05:24:00+00:00,Austria,0.49907090937137616,2,1,de,WCE,Europe
 '3c3495908e',extremes,Storm,#b3b2b1,wmo,Sturm Aarau Lenzburg,2026-07-17T05:27:00+00:00,Switzerland,0.4977291751024138,1,1,de,WCE,Europe
 '6e274aa283',extremes,Storm,#b3b2b1,wmo,Sturm Braunau am Inn,2026-07-19T05:37:00+00:00,Austria,0.4969362900827103,1,1,de,WCE,Europe
-'e8dc897411',extremes,Thunderstorm,#53785a,wmo,Gewitter Güssing,2026-07-17T05:27:00+00:00,Austria,0.49663409558304633,1,1,de,WCE,Europe
+'e8dc897411',extremes,Thunderstorm,#53785a,wmo,Gewitter Güssing,2026-07-17T05:27:00+00:00,Austria,0.4966340955830463,1,1,de,WCE,Europe
+'eac22875b2',extremes,Thunderstorm,#53785a,wmo,Gewitter Burgdorf Limpachtal,2026-07-17T05:27:00+00:00,Switzerland,0.49643861042789295,1,1,de,WCE,Europe
 '36c2dad553',extremes,Thunderstorm,#53785a,wmo,Hagel val medel sumvitg,2026-07-17T05:27:00+00:00,Switzerland,0.494467119494662,1,1,de,WCE,Europe
 'a662f3e5f7',extremes,Storm,#b3b2b1,wmo,Sturmflut Zwettl,2026-07-19T05:37:00+00:00,Austria,0.4923748336387978,1,1,de,WCE,Europe
