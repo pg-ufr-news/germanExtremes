@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,Gewitter Österreich,2026-07-31T05:51:00+00:00,Austria,0.6437325841250218,1,2,de,WCE,Europe
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basso Moesano,2026-07-31T05:51:00+00:00,Switzerland,0.6302982247872017,1,1,de,WCE,Europe
 '9495481d82',extremes,Heat Wave,#c40202,wmo,Hitzewelle Martigny Verbier,2026-08-01T05:42:00+00:00,Switzerland,0.6298452186081639,1,1,de,WCE,Europe
-'0f960d8a1a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schaffhausen,2026-07-15T05:15:00+00:00,Switzerland,0.6285937777173795,1,1,de,WCE,Europe
 '33c63ac237',extremes,Heat Wave,#c40202,wmo,Hitzewelle Aigle Leysin,2026-08-01T05:42:00+00:00,Switzerland,0.628470981319707,1,1,de,WCE,Europe
 '0c355d5b91',extremes,Heat Wave,#c40202,wmo,Hitzewelle vor den Waadtländer Alpen,2026-08-02T05:42:00+00:00,Switzerland,0.6283600796071787,1,1,de,WCE,Europe
 '16ae9a19a5',extremes,Heat Wave,#c40202,wmo,Hitzewelle einsiedeln wägital,2026-08-02T05:42:00+00:00,Switzerland,0.627968242406878,1,1,de,WCE,Europe
@@ -53,7 +52,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0392d8d3fc',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Brigittenau,2026-07-31T05:51:00+00:00,Austria,0.5863222148237438,2,2,de,WCE,Europe
 '6a7ad15d32',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ried im Innkreis,2026-07-31T05:51:00+00:00,Austria,0.585170712084189,2,1,de,WCE,Europe
 '4d27fd77b1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Obertoggenburg,2026-08-13T04:26:00+00:00,Switzerland,0.5821412015946074,1,1,de,WCE,Europe
-'32bbca6400',extremes,Storm,#b3b2b1,wmo,Sturmflut Gänserndorf,2026-07-19T05:37:00+00:00,Austria,0.5820537432167378,0,1,de,WCE,Europe
 '1c6cf0535c',extremes,Heat Wave,#c40202,wmo,Hitzewelle ajoie,2026-08-14T04:24:00+00:00,Switzerland,0.5820490763262757,1,1,de,WCE,Europe
 '8500234aea',extremes,Storm,#b3b2b1,wmo,Sturmflut Schangnau Sigriswil,2026-07-17T05:27:00+00:00,Switzerland,0.5817291099331104,0,1,de,WCE,Europe
 'c4d6d26fcd',extremes,Storm,#b3b2b1,wmo,Sturm Wien liegt,2026-07-19T05:37:00+00:00,Austria,0.5809806966428133,0,1,de,WCE,Europe
@@ -317,5 +315,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6e274aa283',extremes,Storm,#b3b2b1,wmo,Sturm Braunau am Inn,2026-07-19T05:37:00+00:00,Austria,0.4969362900827103,1,1,de,WCE,Europe
 '0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-08-07T09:56:00+00:00,Luxembourg,0.4965235000196521,2,1,de,WCE,Europe
 '74853c8331',extremes,Storm,#b3b2b1,wmo,Sturmflut Rohrbach,2026-07-19T05:37:00+00:00,Austria,0.4954782746612139,1,1,de,WCE,Europe
-'ec52a231f8',extremes,Storm,#b3b2b1,wmo,Sturmflutmelk,2026-07-19T05:37:00+00:00,Austria,0.49531438596831096,1,1,de,WCE,Europe
+'ec52a231f8',extremes,Storm,#b3b2b1,wmo,Sturmflutmelk,2026-07-19T05:37:00+00:00,Austria,0.4953143859683109,1,1,de,WCE,Europe
+'32bbca6400',extremes,Storm,#b3b2b1,wmo,Sturmflut Gänserndorf,2026-07-19T05:37:00+00:00,Austria,0.49474568173422706,1,1,de,WCE,Europe
 'a662f3e5f7',extremes,Storm,#b3b2b1,wmo,Sturmflut Zwettl,2026-07-19T05:37:00+00:00,Austria,0.4923748336387978,1,1,de,WCE,Europe
