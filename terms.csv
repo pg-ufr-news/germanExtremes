@@ -51,11 +51,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6a7ad15d32',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ried im Innkreis,2026-07-31T05:51:00+00:00,Austria,0.585170712084189,2,1,de,WCE,Europe
 '1103361e50',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oberpullendorf,2026-08-04T05:32:00+00:00,Austria,0.5790772895933478,2,1,de,WCE,Europe
 'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-08-21T03:30:00+00:00,Switzerland,0.578971603478617,2,2,de,WCE,Europe
-'aa2377795f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mannheim,2026-08-03T05:57:00+00:00,Germany,0.5774276680380637,1,1,de,WCE,Europe
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,Sturmflut Lilienfeld,2026-07-19T05:37:00+00:00,Austria,0.5761206296144783,0,1,de,WCE,Europe
 '840e458266',extremes,Heat Wave,#c40202,wmo,Hitzewelle Marthalen Stammheim,2026-08-10T04:14:00+00:00,Switzerland,0.5758045027135108,1,1,de,WCE,Europe
 '7a263703cd',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sarnen Lungern,2026-08-15T03:13:00+00:00,Switzerland,0.5753310391715557,1,1,de,WCE,Europe
-'8023f8dcd3',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Leopoldstadt,2026-07-19T05:37:00+00:00,Austria,0.5750120811572204,0,1,de,WCE,Europe
 '10dd48d8cf',extremes,Storm,#b3b2b1,wmo,Sturm Salzburg Umgebung,2026-07-19T05:37:00+00:00,Austria,0.5747375086013672,0,1,de,WCE,Europe
 '8ee80c64a2',extremes,Storm,#b3b2b1,wmo,Sturm Wien Landstraße,2026-07-19T05:37:00+00:00,Austria,0.5747339144930642,0,1,de,WCE,Europe
 '52d49e7f55',extremes,Wildfire,#d60d2b,effis,Buschfeuer Hochsauerlandkreis Deutschland,2026-08-15T03:13:00+00:00,Germany,0.5742628063483828,1,1,de,WCE,Europe
@@ -303,5 +301,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4a79cb90e',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien,2026-08-07T09:56:00+00:00,Italy,0.4923738996348836,2,1,de,MED,Europe
 'ed3d9325af',extremes,Wildfire,#d60d2b,effis,Lauffeuer Österreich,2026-08-12T04:22:00+00:00,Austria,0.4922160756486842,2,1,de,WCE,Europe
 '8ac26c8151',extremes,Heat Wave,#c40202,wmo,Hitzewelle Marquardt Fahrland Potsdam Stadt,2026-08-04T05:32:00+00:00,Germany,0.4920533454296326,2,1,de,WCE,Europe
+'aa2377795f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mannheim,2026-08-03T05:57:00+00:00,Germany,0.4912635628323541,2,1,de,WCE,Europe
 '65e68112b2',extremes,Storm,#b3b2b1,wmo,Sturmflut Welsland,2026-07-19T05:37:00+00:00,Austria,0.4904745607678378,1,1,de,WCE,Europe
 'ea29aa1b41',extremes,Storm,#b3b2b1,wmo,Sturmflut Gmünd,2026-07-19T05:37:00+00:00,Austria,0.4899847369434772,1,1,de,WCE,Europe
+'8023f8dcd3',extremes,Storm,#b3b2b1,wmo,Sturmflut Wien Leopoldstadt,2026-07-19T05:37:00+00:00,Austria,0.4887602689836373,1,1,de,WCE,Europe
