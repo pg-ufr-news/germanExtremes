@@ -8,11 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c2e689501',extremes,Heat Wave,#c40202,wmo,Hitzewelle Gmünd,2026-08-01T05:42:00+00:00,Austria,0.7265130779704502,2,2,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-08-01T05:42:00+00:00,Switzerland,0.7209577127900546,1,3,de,WCE,Europe
 '2b62467829',extremes,Storm,#b3b2b1,wmo,Sturm Vöcklabruck,2026-08-02T05:42:00+00:00,Austria,0.7173716923650418,2,2,de,WCE,Europe
-'dfb51eb234',extremes,Heat Wave,#c40202,wmo,Hitzewelle Goldau Ägeri,2026-08-11T04:01:00+00:00,Switzerland,0.7161109615734035,0,1,de,WCE,Europe
-'8e19081b44',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bern Sinn,2026-08-14T04:24:00+00:00,Switzerland,0.7132462546521179,0,1,de,WCE,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-08-04T05:32:00+00:00,Germany,0.7110489236890312,1,3,de,WCE,Europe
-'bfb3ebd567',extremes,Heat Wave,#c40202,wmo,Hitzewelle Plaine de l'orbe,2026-08-08T03:51:00+00:00,Switzerland,0.7106721395955434,0,1,de,WCE,Europe
-'0f960d8a1a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schaffhausen,2026-08-15T03:13:00+00:00,Switzerland,0.703507704542486,0,1,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-08-02T05:42:00+00:00,Austria,0.7013499208798146,1,2,de,WCE,Europe
 '78d307d1b4',extremes,Wildfire,#d60d2b,effis,Lauffeuer Messina Italien,2026-08-09T03:59:00+00:00,Italy,0.6993128506685459,0,1,de,MED,Europe
 '2e51819031',extremes,Wildfire,#d60d2b,effis,Lauffeuer Crotone Italien,2026-08-27T13:00:00+00:00,Italy,0.6990599944616168,0,1,de,MED,Europe
@@ -63,8 +59,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18e7fdcc5f',extremes,Heat Wave,#c40202,wmo,Hitzewelle bricht sie vollständig aus,2026-07-31T05:51:00+00:00,Switzerland,0.6174973288976896,2,2,de,WCE,Europe
 '3caca873cf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheinfelden,2026-08-01T05:42:00+00:00,Switzerland,0.616624608686491,2,1,de,WCE,Europe
 'de5ea0826d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Basel,2026-08-09T03:59:00+00:00,Switzerland,0.6139225090382676,2,1,de,WCE,Europe
+'dfb51eb234',extremes,Heat Wave,#c40202,wmo,Hitzewelle Goldau Ägeri,2026-08-11T04:01:00+00:00,Switzerland,0.608694317337393,1,1,de,WCE,Europe
+'8e19081b44',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bern Sinn,2026-08-14T04:24:00+00:00,Switzerland,0.6062593164543002,1,1,de,WCE,Europe
+'bfb3ebd567',extremes,Heat Wave,#c40202,wmo,Hitzewelle Plaine de l'orbe,2026-08-08T03:51:00+00:00,Switzerland,0.6040713186562119,1,1,de,WCE,Europe
 '340257139b',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mülheim an der Ruhr,2026-07-30T05:24:00+00:00,Germany,0.6007865714636347,2,1,de,WCE,Europe
 '9dd73bb521',extremes,Heat Wave,#c40202,meteo,Hohe Temperaturen in Deutschland,2026-08-14T04:24:00+00:00,Germany,0.6004939730548554,1,2,de,WCE,Europe
+'0f960d8a1a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schaffhausen,2026-08-15T03:13:00+00:00,Switzerland,0.5984315938611131,1,1,de,WCE,Europe
 '33189dd77a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Luzern Alpnach,2026-08-11T04:01:00+00:00,Switzerland,0.5951133084631574,1,1,de,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-08-07T04:37:00+00:00,Italy,0.5940139546537978,1,1,de,MED,Europe
 '6622058200',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kitzbühel,2026-08-02T05:42:00+00:00,Austria,0.5906079349011003,2,2,de,WCE,Europe
