@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-08-01T05:42:00+00:00,Switzerland,0.7209577127900546,1,3,de,WCE,Europe
 '2b62467829',extremes,Storm,#b3b2b1,wmo,Sturm Vöcklabruck,2026-08-02T05:42:00+00:00,Austria,0.7173716923650418,2,2,de,WCE,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-08-04T05:32:00+00:00,Germany,0.7110489236890312,1,3,de,WCE,Europe
+'515c050086',extremes,Heat Wave,#c40202,wmo,Hitzewelle Graz Stadt,2026-08-26T03:34:00+00:00,Austria,0.7019856092921575,1,2,de,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-08-02T05:42:00+00:00,Austria,0.7013499208798146,1,2,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-08-03T05:57:00+00:00,Germany,0.6848900133862397,1,3,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-07-29T05:37:00+00:00,Austria,0.6813250097854018,1,2,de,WCE,Europe
@@ -13,9 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5db924ab8a',extremes,Storm,#b3b2b1,meteo,Sturm Deutschland,2026-08-27T13:00:00+00:00,Germany,0.6597174774339462,1,2,de,WCE,Europe
 '323f237847',extremes,Heat Wave,#c40202,wmo,Hitzewelle Freiburg,2026-08-08T03:51:00+00:00,Switzerland,0.6586016305231023,1,2,de,WCE,Europe
 '2c1ab9723c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rheintal,2026-08-02T05:42:00+00:00,Switzerland,0.6579735296577058,2,1,de,WCE,Europe
-'412b749be2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Leibnitz,2026-08-26T03:34:00+00:00,Austria,0.6502143836168622,0,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-08-04T05:32:00+00:00,Germany,0.6492914468979298,2,2,de,WCE,Europe
-'515c050086',extremes,Heat Wave,#c40202,wmo,Hitzewelle Graz Stadt,2026-08-26T03:34:00+00:00,Austria,0.6490418579907736,0,1,de,WCE,Europe
 '4b8352459f',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Süd Sardinien Muravera,2026-08-27T13:00:00+00:00,Italy,0.6486963485319054,0,1,de,MED,Europe
 '5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-08-07T11:06:00+00:00,Austria,0.6475316623096063,1,2,de,WCE,Europe
 'a68fadbbf5',extremes,Drought,#edc291,edo,Dürre Schweiz,2026-07-26T05:46:00+00:00,Switzerland,0.647365872869979,1,2,de,WCE,Europe
@@ -150,6 +149,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dece1b85c7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Mönchengladbach,2026-08-03T05:57:00+00:00,Germany,0.5533542935236323,1,1,de,WCE,Europe
 '8e5338dae6',extremes,Thunderstorm,#53785a,wmo,Hagel Italien,2026-08-07T04:37:00+00:00,Italy,0.5530159026095742,2,1,de,MED,Europe
 '48b7df133f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Melk,2026-08-26T03:34:00+00:00,Austria,0.5529838967359182,1,1,de,WCE,Europe
+'412b749be2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Leibnitz,2026-08-26T03:34:00+00:00,Austria,0.5526822260743329,1,1,de,WCE,Europe
 'fdd04dd7f0',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Hamm,2026-07-30T05:24:00+00:00,Germany,0.5520413976422391,1,1,de,WCE,Europe
 '745b0524ca',extremes,Wildfire,#d60d2b,effis,Buschfeuer Deutschland Hochsauerlandkreis Sundern Sauerland Stadt,2026-08-15T03:13:00+00:00,Germany,0.5519738230189987,1,1,de,WCE,Europe
 'e0c6be6f7a',extremes,Storm,#b3b2b1,wmo,Sturmflut Stadt Oberwiesenthal,2026-07-27T06:05:00+00:00,Germany,0.5519419970690915,1,1,de,WCE,Europe
