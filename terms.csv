@@ -32,10 +32,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-08-20T03:26:00+00:00,Switzerland,0.5755105889485943,2,2,de,WCE,Europe
 '4165a63454',extremes,Heat Wave,#c40202,wmo,Hitzewelle Leoben,2026-08-28T14:32:00+00:00,Austria,0.5742186110798452,1,1,de,WCE,Europe
 '7e897e2128',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Latina Sonnino,2026-08-28T14:32:00+00:00,Italy,0.5736775910602612,1,1,de,MED,Europe
-'78021233b7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Toskana,2026-07-30T05:24:00+00:00,Italy,0.5723787615471195,1,1,de,MED,Europe
 '10752e4a37',extremes,Drought,#edc291,edo,Trockenperiode Luxemburg,2026-08-07T04:37:00+00:00,Luxembourg,0.5722895722309425,1,1,de,WCE,Europe
 '4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-07-31T05:51:00+00:00,Austria,0.5722117750160568,2,2,de,WCE,Europe
-'98df2e81cb',extremes,Storm,#b3b2b1,wmo,Sturmflut Frutigen Kiental,2026-08-27T13:00:00+00:00,Switzerland,0.5721916342287653,1,1,de,WCE,Europe
 'd6b259f3bc',extremes,Heat Wave,#c40202,wmo,Hitzewelle Brienz Interlaken,2026-07-31T05:51:00+00:00,Switzerland,0.5719394113654828,1,1,de,WCE,Europe
 '1e3db537cb',extremes,Wildfire,#d60d2b,effis,Buschfeuer Niederösterreich Südösterreich,2026-08-07T11:06:00+00:00,Austria,0.5717826160450336,2,1,de,WCE,Europe
 'ea02c6ad93',extremes,Wildfire,#d60d2b,effis,Buschfeuer Österreich,2026-08-07T11:06:00+00:00,Austria,0.5716371194087146,2,1,de,WCE,Europe
@@ -49,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6991a3b672',extremes,Storm,#b3b2b1,wmo,Sturm Saanen Gsteig,2026-08-27T13:00:00+00:00,Switzerland,0.5701250367888699,1,1,de,WCE,Europe
 '46b0bc4896',extremes,Wildfire,#d60d2b,effis,Lauffeuer Deutschland,2026-08-15T03:13:00+00:00,Germany,0.5700046062568047,2,1,de,WCE,Europe
 '37abe265d4',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sankt Pölten Stadt,2026-08-27T13:00:00+00:00,Austria,0.5695514588118883,1,1,de,WCE,Europe
-'ad955abb2f',extremes,Wildfire,#d60d2b,effis,"Lauffeuer L’Aquila, Italien",2026-08-31T08:51:00+00:00,Italy,0.5694958968356199,1,1,de,MED,Europe
 '25d361ff38',extremes,Heat Wave,#c40202,wmo,Hitzewelle Dornbirn,2026-08-02T05:42:00+00:00,Austria,0.569483279263071,2,1,de,WCE,Europe
 'b8ef2935c3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Bochum,2026-07-30T05:24:00+00:00,Germany,0.5692333462669485,1,1,de,WCE,Europe
 '9c74be65b8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schärding,2026-08-26T03:34:00+00:00,Austria,0.5689112100804324,1,1,de,WCE,Europe
@@ -85,7 +82,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '221e658bfd',extremes,Drought,#edc291,edo,Trockenheit Luxemburg,2026-08-20T03:26:00+00:00,Luxembourg,0.5588638789000169,1,1,de,WCE,Europe
 '04b23a3e2d',extremes,Storm,#b3b2b1,wmo,Sturmflut Rheinwald,2026-08-27T13:00:00+00:00,Switzerland,0.5585099841410639,1,1,de,WCE,Europe
 '72ee28d79d',extremes,Storm,#b3b2b1,wmo,Sturmflut st. Stephan Lenk,2026-08-27T13:00:00+00:00,Switzerland,0.558360112809985,1,1,de,WCE,Europe
-'c82099ea89',extremes,Wildfire,#d60d2b,effis,"Buschfeuer Agrigent, Italien",2026-08-26T03:34:00+00:00,Italy,0.5580093598322505,1,1,de,MED,Europe
 '797adc27c2',extremes,Heat Wave,#c40202,wmo,Hitzewelle Rohrbach,2026-08-09T03:59:00+00:00,Austria,0.5579003266748256,1,1,de,WCE,Europe
 'f8eea575c5',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Foggia Monte Sant'Angelo,2026-08-25T03:27:00+00:00,Italy,0.5575278494047483,1,1,de,MED,Europe
 '163aeba2d8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Stadt Bottrop,2026-08-04T05:32:00+00:00,Germany,0.557338941653697,1,1,de,WCE,Europe
@@ -215,7 +211,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '507412aefc',extremes,Storm,#b3b2b1,wmo,Sturm Italien,2026-08-04T05:32:00+00:00,Italy,0.5226910289886807,1,2,de,MED,Europe
 'abbc3d2b7f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Neusiedl am See,2026-08-07T04:37:00+00:00,Austria,0.5222880458992566,1,1,de,WCE,Europe
 'bb9a490561',extremes,Drought,#edc291,edo,Trockenperiode Deutschland,2026-08-22T03:22:00+00:00,Germany,0.5220918009665486,2,1,de,WCE,Europe
-'8bce2b7d2e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kerenzerberg Seeztal,2026-08-14T04:24:00+00:00,Switzerland,0.5219116278415543,2,1,de,WCE,Europe
 '2067db2258',extremes,Heat Wave,#c40202,wmo,Hitzewelle Landeck,2026-08-03T05:57:00+00:00,Austria,0.521855040983252,1,1,de,WCE,Europe
 'd35eaa61f3',extremes,Heat Wave,#c40202,meteo,Hochtemperatur-Italien,2026-08-07T11:06:00+00:00,Italy,0.5213795420974006,1,1,de,MED,Europe
 'c16bf9f0d0',extremes,Storm,#b3b2b1,wmo,Sturmflut östlich Rügen,2026-08-01T05:42:00+00:00,Germany,0.5210231760282461,1,1,de,WCE,Europe
@@ -285,7 +280,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52d49e7f55',extremes,Wildfire,#d60d2b,effis,Buschfeuer Hochsauerlandkreis Deutschland,2026-08-15T03:13:00+00:00,Germany,0.4881233853961254,2,1,de,WCE,Europe
 'd0368c0f3c',extremes,Storm,#b3b2b1,wmo,Sturm Glarner Süd-Sernftal,2026-08-27T13:00:00+00:00,Switzerland,0.4873872427237539,2,1,de,WCE,Europe
 '1d93f98a94',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sankt Pölten Land,2026-08-27T13:00:00+00:00,Austria,0.4865876805456295,2,1,de,WCE,Europe
+'98df2e81cb',extremes,Storm,#b3b2b1,wmo,Sturmflut Frutigen Kiental,2026-08-27T13:00:00+00:00,Switzerland,0.48636288909445047,2,1,de,WCE,Europe
 '150854d8e2',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Avellino Monteverde,2026-09-02T07:16:00+00:00,Italy,0.4850945813932967,2,1,de,MED,Europe
+'ad955abb2f',extremes,Wildfire,#d60d2b,effis,"Lauffeuer L’Aquila, Italien",2026-08-31T08:51:00+00:00,Italy,0.48407151231027684,2,1,de,MED,Europe
 'c044bbec6e',extremes,Wildfire,#d60d2b,effis,Lauffeuer Matera Italien,2026-08-26T03:34:00+00:00,Italy,0.4837587209709285,2,1,de,MED,Europe
 '2acf700cee',extremes,Storm,#b3b2b1,wmo,Sturmflut-Albulatal,2026-08-27T13:00:00+00:00,Switzerland,0.4825984825083498,2,1,de,WCE,Europe
 '5f691a89b3',extremes,Wildfire,#d60d2b,effis,Lauffeuer Vibo Valentina Italien,2026-08-27T13:00:00+00:00,Italy,0.4823481909699769,2,1,de,MED,Europe
@@ -295,3 +292,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '557d056aec',extremes,Storm,#b3b2b1,wmo,Sturmflut schanfigg,2026-08-27T13:00:00+00:00,Switzerland,0.4792709897475463,2,1,de,WCE,Europe
 '6aad127a70',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien brodelt,2026-08-27T13:00:00+00:00,Austria,0.4777131197893138,2,1,de,WCE,Europe
 '1584149e36',extremes,Wildfire,#d60d2b,effis,"Buschfeuer Palermo, Italien",2026-08-25T03:27:00+00:00,Italy,0.4755295911536895,2,1,de,MED,Europe
+'c82099ea89',extremes,Wildfire,#d60d2b,effis,"Buschfeuer Agrigent, Italien",2026-08-26T03:34:00+00:00,Italy,0.4743079558574129,2,1,de,MED,Europe
+'8bce2b7d2e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kerenzerberg Seeztal,2026-08-14T04:24:00+00:00,Switzerland,0.44362488366532116,3,1,de,WCE,Europe
