@@ -1,24 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'd9e596d278',extremes,Drought,#edc291,edo,Dürre Österreich,2026-08-02T05:42:00+00:00,Austria,0.7013499208798146,1,2,de,WCE,Europe
-'33db445b97',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurt Stadt,2026-08-27T13:00:00+00:00,Austria,0.6907869223433168,0,1,de,WCE,Europe
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-08-04T05:32:00+00:00,Germany,0.6888808251356765,2,3,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-08-03T05:57:00+00:00,Germany,0.6848900133862397,1,3,de,WCE,Europe
-'2fef87cc1e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murtal,2026-08-26T03:34:00+00:00,Austria,0.6839913478929983,0,1,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-07-29T05:37:00+00:00,Austria,0.6813250097854018,1,2,de,WCE,Europe
-'8db80effe5',extremes,Heat Wave,#c40202,wmo,Hitzewellenhorn,2026-08-26T03:34:00+00:00,Austria,0.6806561729547874,0,1,de,WCE,Europe
-'6a7ad15d32',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ried im Innkreis,2026-08-26T03:34:00+00:00,Austria,0.6775717616742133,0,1,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-08-26T03:34:00+00:00,Switzerland,0.6757637338555947,1,2,de,WCE,Europe
-'89ceda87a2',extremes,Wildfire,#d60d2b,effis,Lauffeuer Reggio di Kalabrien Italien,2026-09-07T07:29:00+00:00,Italy,0.6730819055935354,0,1,de,MED,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-08-25T03:27:00+00:00,Germany,0.6724021834015448,1,3,de,WCE,Europe
-'67ec35d85f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Urfahrumgebung,2026-08-26T03:34:00+00:00,Austria,0.6717103522931281,0,1,de,WCE,Europe
-'64b71aaab1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murau,2026-08-26T03:34:00+00:00,Austria,0.6706734175977063,0,1,de,WCE,Europe
-'2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-08-22T03:22:00+00:00,Austria,0.6668332166030324,1,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,meteo,Sturm Deutschland,2026-08-27T13:00:00+00:00,Germany,0.6597174774339462,1,2,de,WCE,Europe
 '323f237847',extremes,Heat Wave,#c40202,wmo,Hitzewelle Freiburg,2026-08-08T03:51:00+00:00,Switzerland,0.6586016305231023,1,2,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-08-04T05:32:00+00:00,Germany,0.6492914468979298,2,2,de,WCE,Europe
 '5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-08-07T11:06:00+00:00,Austria,0.6475316623096063,1,2,de,WCE,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-08-07T09:56:00+00:00,Germany,0.6315601576165819,1,2,de,WCE,Europe
 '538ad91bbf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Voitsberg,2026-08-02T05:42:00+00:00,Austria,0.6284800764681143,3,2,de,WCE,Europe
+'2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-08-22T03:22:00+00:00,Austria,0.6275583091125775,2,1,de,WCE,Europe
 'b5cb89d511',extremes,Drought,#edc291,edo,Trockenheit Schweiz,2026-08-01T05:42:00+00:00,Switzerland,0.6268559849624554,2,3,de,WCE,Europe
 '5132e858ef',extremes,Heat Wave,#c40202,wmo,Hitzewelle Linz Stadt,2026-07-30T05:24:00+00:00,Austria,0.6249474039923087,1,2,de,WCE,Europe
 '9dd73bb521',extremes,Heat Wave,#c40202,meteo,Hohe Temperaturen in Deutschland,2026-08-14T04:24:00+00:00,Germany,0.6244631411875361,2,3,de,WCE,Europe
@@ -31,14 +24,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d6cac03c7',extremes,Precipitation,#d60d2b,meteo,Niederschlag Schweiz,2026-08-20T03:26:00+00:00,Switzerland,0.5910428410394676,2,1,de,WCE,Europe
 '6622058200',extremes,Heat Wave,#c40202,wmo,Hitzewelle Kitzbühel,2026-08-02T05:42:00+00:00,Austria,0.5906079349011003,2,2,de,WCE,Europe
 '0918c68712',extremes,Heat Wave,#c40202,wmo,Hitzewelle Grieskirchen,2026-07-31T05:51:00+00:00,Austria,0.5875228524884286,2,2,de,WCE,Europe
+'33db445b97',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurt Stadt,2026-08-27T13:00:00+00:00,Austria,0.5871688839918193,1,1,de,WCE,Europe
 '0392d8d3fc',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Brigittenau,2026-07-31T05:51:00+00:00,Austria,0.5863222148237438,2,2,de,WCE,Europe
+'2fef87cc1e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murtal,2026-08-26T03:34:00+00:00,Austria,0.5813926457090486,1,1,de,WCE,Europe
 '1103361e50',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oberpullendorf,2026-08-04T05:32:00+00:00,Austria,0.5790772895933478,2,1,de,WCE,Europe
 'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-08-21T03:30:00+00:00,Switzerland,0.578971603478617,2,2,de,WCE,Europe
+'8db80effe5',extremes,Heat Wave,#c40202,wmo,Hitzewellenhorn,2026-08-26T03:34:00+00:00,Austria,0.5785577470115693,1,1,de,WCE,Europe
+'6a7ad15d32',extremes,Heat Wave,#c40202,wmo,Hitzewelle Ried im Innkreis,2026-08-26T03:34:00+00:00,Austria,0.5759359974230813,1,1,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-08-20T03:26:00+00:00,Switzerland,0.5755105889485943,2,2,de,WCE,Europe
 '4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-07-31T05:51:00+00:00,Austria,0.5722117750160568,2,2,de,WCE,Europe
+'89ceda87a2',extremes,Wildfire,#d60d2b,effis,Lauffeuer Reggio di Kalabrien Italien,2026-09-07T07:29:00+00:00,Italy,0.5721196197545051,1,1,de,MED,Europe
 'ea02c6ad93',extremes,Wildfire,#d60d2b,effis,Buschfeuer Österreich,2026-08-07T11:06:00+00:00,Austria,0.5716371194087146,2,1,de,WCE,Europe
+'67ec35d85f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Urfahrumgebung,2026-08-26T03:34:00+00:00,Austria,0.5709537994491589,1,1,de,WCE,Europe
 '515f844fd1',extremes,Wildfire,#d60d2b,effis,Buschfeuer Österreich Niederösterreich Süd st. Egyden am Steinfeld,2026-08-07T11:06:00+00:00,Austria,0.5707375626074618,2,1,de,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-07-29T05:37:00+00:00,Switzerland,0.5706498439592194,2,3,de,WCE,Europe
+'64b71aaab1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murau,2026-08-26T03:34:00+00:00,Austria,0.5700724049580503,1,1,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-08-01T05:42:00+00:00,Germany,0.567719686261375,1,2,de,WCE,Europe
 '38a36ec0fc',extremes,Wildfire,#d60d2b,effis,Lauffeuer Avellino Italien,2026-09-01T07:57:00+00:00,Italy,0.566696314463254,1,1,de,MED,Europe
 '1de161b756',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hartberg Fürstenfeld,2026-08-27T13:00:00+00:00,Austria,0.5662029562964455,1,1,de,WCE,Europe
