@@ -4,18 +4,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e6a7050e2',extremes,Thunderstorm,#53785a,wmo,Gewitter Deutschland,2026-08-04T05:32:00+00:00,Germany,0.6888808251356765,2,3,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-08-03T05:57:00+00:00,Germany,0.6848900133862397,1,3,de,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-07-29T05:37:00+00:00,Austria,0.6813250097854018,1,2,de,WCE,Europe
+'a7dc4db3f7',extremes,Heat Wave,#c40202,wmo,Hitzewelle imst,2026-08-27T13:00:00+00:00,Austria,0.6775825956592285,0,1,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-08-26T03:34:00+00:00,Switzerland,0.6757637338555947,1,2,de,WCE,Europe
+'cd04e567b7',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Floridsdorf,2026-08-26T03:34:00+00:00,Austria,0.6746144839983842,0,1,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-08-25T03:27:00+00:00,Germany,0.6724021834015448,1,3,de,WCE,Europe
+'2009fba247',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sankt Veit an der Glan,2026-08-26T03:34:00+00:00,Austria,0.671547626451366,0,1,de,WCE,Europe
+'de21b3d7b5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiener Neustadt,2026-08-27T13:00:00+00:00,Austria,0.6682568066742103,0,1,de,WCE,Europe
+'10b7782bae',extremes,Heat Wave,#c40202,wmo,Hitzewelle Amstetten,2026-08-26T03:34:00+00:00,Austria,0.6627435778781434,0,1,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,meteo,Sturm Deutschland,2026-08-27T13:00:00+00:00,Germany,0.6597174774339462,1,2,de,WCE,Europe
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Österreich,2026-08-28T14:32:00+00:00,Austria,0.6596661055523891,0,1,de,WCE,Europe
 'cd0c66742a',extremes,Wildfire,#d60d2b,effis,Buschfeuer Enna Italien,2026-09-04T07:23:00+00:00,Italy,0.6591224657629382,0,1,de,MED,Europe
 '323f237847',extremes,Heat Wave,#c40202,wmo,Hitzewelle Freiburg,2026-08-08T03:51:00+00:00,Switzerland,0.6586016305231023,1,2,de,WCE,Europe
+'b43a4dc985',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiener Neustadt Land,2026-08-26T03:34:00+00:00,Austria,0.6580854489148384,0,1,de,WCE,Europe
 '3b472a2981',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wels Stadt,2026-08-28T14:32:00+00:00,Austria,0.6568031862475668,0,1,de,WCE,Europe
 'dd14e97d87',extremes,Heat Wave,#c40202,wmo,Hitzewelle Oberwart,2026-08-26T03:34:00+00:00,Austria,0.6563109990853772,0,1,de,WCE,Europe
 'e37b1ffa16',extremes,Heat Wave,#c40202,wmo,Hitzewelle Welsland,2026-08-28T14:32:00+00:00,Austria,0.655927056654014,0,1,de,WCE,Europe
 'd992d46997',extremes,Storm,#b3b2b1,wmo,Sturmflut Deutschland,2026-08-04T05:32:00+00:00,Germany,0.6492914468979298,2,2,de,WCE,Europe
 'd03bf25296',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Enna Assoro,2026-09-07T07:29:00+00:00,Italy,0.6491412693798015,0,1,de,MED,Europe
+'de37eb7f33',extremes,Heat Wave,#c40202,wmo,Hitzewelle perg,2026-08-27T13:00:00+00:00,Austria,0.6491033360172146,0,1,de,WCE,Europe
 '5e3f328cdd',extremes,Storm,#b3b2b1,wmo,Sturm Voitsberg,2026-08-07T11:06:00+00:00,Austria,0.6475316623096063,1,2,de,WCE,Europe
+'4e45578ffd',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Foggia Monte Sant'Angelo,2026-08-26T03:34:00+00:00,Italy,0.6462494487939998,0,1,de,MED,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-08-07T09:56:00+00:00,Germany,0.6315601576165819,1,2,de,WCE,Europe
 '538ad91bbf',extremes,Heat Wave,#c40202,wmo,Hitzewelle Voitsberg,2026-08-02T05:42:00+00:00,Austria,0.6284800764681143,3,2,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-08-22T03:22:00+00:00,Austria,0.6275583091125775,2,1,de,WCE,Europe
