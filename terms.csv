@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'995db3fa05',extremes,Heat Wave,#c40202,wmo,Hitzewelle Österreich,2026-07-29T05:37:00+00:00,Austria,0.6813250097854018,1,2,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-08-26T03:34:00+00:00,Switzerland,0.6757637338555947,1,2,de,WCE,Europe
 'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-08-25T03:27:00+00:00,Germany,0.6724021834015448,1,3,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,meteo,Sturm Deutschland,2026-08-27T13:00:00+00:00,Germany,0.6597174774339462,1,2,de,WCE,Europe
@@ -154,7 +153,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec13a83132',extremes,Heat Wave,#c40202,wmo,Hitzewelle Südoststeiermark,2026-08-28T14:32:00+00:00,Austria,0.4994116699948115,2,1,de,WCE,Europe
 '33db445b97',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurt Stadt,2026-08-27T13:00:00+00:00,Austria,0.4990935513930464,2,1,de,WCE,Europe
 'e872f50358',extremes,Wildfire,#d60d2b,effis,Lauffeuer Latina Italien,2026-08-28T14:32:00+00:00,Italy,0.4987299859768889,2,1,de,MED,Europe
-'0a54633be0',extremes,Drought,#edc291,edo,Regenmangel Luxemburg,2026-08-07T09:56:00+00:00,Luxembourg,0.4965235000196521,2,1,de,WCE,Europe
 '979ec45109',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Döbling,2026-08-27T13:00:00+00:00,Austria,0.4961071401572426,2,1,de,WCE,Europe
 '17b0136195',extremes,Heat Wave,#c40202,wmo,Hitzewelle Völkermarkt,2026-08-26T03:34:00+00:00,Austria,0.4959586601276946,2,1,de,WCE,Europe
 'ad2ca3ec95',extremes,Precipitation,#d60d2b,wmo,Regenguss Deutschland,2026-08-28T14:32:00+00:00,Germany,0.4954096558902439,2,1,de,WCE,Europe
@@ -167,7 +165,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9051965eaf',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Salerno Maiori,2026-09-01T07:57:00+00:00,Italy,0.4930261352286356,2,1,de,MED,Europe
 'e99283dc2d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Emmen Hochdorf,2026-08-11T04:01:00+00:00,Switzerland,0.4929360956019094,2,1,de,WCE,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,Sturmflut Schweiz,2026-08-27T13:00:00+00:00,Switzerland,0.4924931982008965,2,1,de,WCE,Europe
-'f4a79cb90e',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien,2026-08-07T09:56:00+00:00,Italy,0.4923738996348836,2,1,de,MED,Europe
 'ed3d9325af',extremes,Wildfire,#d60d2b,effis,Lauffeuer Österreich,2026-08-12T04:22:00+00:00,Austria,0.4922160756486842,2,1,de,WCE,Europe
 '926fcc4fff',extremes,Storm,#b3b2b1,wmo,Sturmflut Kerenzerberg Seeztal,2026-08-27T13:00:00+00:00,Switzerland,0.4920671616364726,2,1,de,WCE,Europe
 'eb09e49ed3',extremes,Wildfire,#d60d2b,effis,Buschfeuer Matera Italien,2026-08-27T13:00:00+00:00,Italy,0.4919877682361487,2,1,de,MED,Europe
