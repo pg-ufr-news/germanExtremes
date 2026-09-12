@@ -29,12 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c9135efe3',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Umgebung,2026-07-31T05:51:00+00:00,Austria,0.5722117750160568,2,2,de,WCE,Europe
 '515f844fd1',extremes,Wildfire,#d60d2b,effis,Buschfeuer Österreich Niederösterreich Süd st. Egyden am Steinfeld,2026-08-07T11:06:00+00:00,Austria,0.5707375626074618,2,1,de,WCE,Europe
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schweiz,2026-07-29T05:37:00+00:00,Switzerland,0.5706498439592194,2,3,de,WCE,Europe
-'e8ce2a44cb',extremes,Drought,#edc291,edo,Trockenheit Österreich,2026-08-05T05:31:00+00:00,Austria,0.5703058909490303,3,2,de,WCE,Europe
-'ddf73912d5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Margareten,2026-08-27T13:00:00+00:00,Austria,0.5680947146659887,1,1,de,WCE,Europe
-'de21b3d7b5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiener Neustadt,2026-08-27T13:00:00+00:00,Austria,0.5680182856730788,1,1,de,WCE,Europe
 '0c1e5910f5',extremes,Precipitation,#d60d2b,wmo,Regen Deutschland,2026-08-01T05:42:00+00:00,Germany,0.567719686261375,1,2,de,WCE,Europe
-'38a36ec0fc',extremes,Wildfire,#d60d2b,effis,Lauffeuer Avellino Italien,2026-09-01T07:57:00+00:00,Italy,0.566696314463254,1,1,de,MED,Europe
-'1de161b756',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hartberg Fürstenfeld,2026-08-27T13:00:00+00:00,Austria,0.5662029562964455,1,1,de,WCE,Europe
 '7fc4728e0e',extremes,Wildfire,#d60d2b,effis,Lauffeuer Cosenza Italien,2026-08-31T08:51:00+00:00,Italy,0.5660931906813436,1,1,de,MED,Europe
 '6ed3ec9ae9',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Palermo Ciminna,2026-09-01T07:57:00+00:00,Italy,0.5659649674641635,1,1,de,MED,Europe
 'f4cca3599c',extremes,Storm,#b3b2b1,wmo,Sturmflut Meiringen Gadmertal,2026-08-27T13:00:00+00:00,Switzerland,0.5656768398457387,1,1,de,WCE,Europe
@@ -50,7 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9eb244a9a',extremes,Drought,#edc291,edo,Regenmangel Italien,2026-08-04T05:32:00+00:00,Italy,0.5614139016734765,1,1,de,MED,Europe
 'b3e3f01e22',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Penzing,2026-08-26T03:34:00+00:00,Austria,0.5606165519538828,1,1,de,WCE,Europe
 '1726432452',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bludenz,2026-08-27T13:00:00+00:00,Austria,0.5604304452116101,1,1,de,WCE,Europe
-'cd0c66742a',extremes,Wildfire,#d60d2b,effis,Buschfeuer Enna Italien,2026-09-04T07:23:00+00:00,Italy,0.5602540958984975,1,1,de,MED,Europe
 '43eb4d9368',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eisenstadt Umgebung,2026-08-26T03:34:00+00:00,Austria,0.5596537929788578,1,1,de,WCE,Europe
 '43a8549d1b',extremes,Storm,#b3b2b1,wmo,Sturmflut Sarnen Lungern,2026-08-27T13:00:00+00:00,Switzerland,0.5590776551893152,1,1,de,WCE,Europe
 'aada08e903',extremes,Heat Wave,#c40202,wmo,Hitzewelle Essen Süd Essen Nord,2026-08-14T04:24:00+00:00,Germany,0.5588858470942946,1,1,de,WCE,Europe
@@ -203,17 +197,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c044bbec6e',extremes,Wildfire,#d60d2b,effis,Lauffeuer Matera Italien,2026-08-26T03:34:00+00:00,Italy,0.4837587209709285,2,1,de,MED,Europe
 '9c74be65b8',extremes,Heat Wave,#c40202,wmo,Hitzewelle Schärding,2026-08-26T03:34:00+00:00,Austria,0.4835745285683676,2,1,de,WCE,Europe
 '159d9a44ff',extremes,Storm,#b3b2b1,wmo,Sturmflut Riein Safiental,2026-08-27T13:00:00+00:00,Switzerland,0.4831235324277146,2,1,de,WCE,Europe
+'ddf73912d5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Margareten,2026-08-27T13:00:00+00:00,Austria,0.4828805074660904,2,1,de,WCE,Europe
+'de21b3d7b5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiener Neustadt,2026-08-27T13:00:00+00:00,Austria,0.4828155428221169,2,1,de,WCE,Europe
 '2acf700cee',extremes,Storm,#b3b2b1,wmo,Sturmflut-Albulatal,2026-08-27T13:00:00+00:00,Switzerland,0.4825984825083498,2,1,de,WCE,Europe
 '5f691a89b3',extremes,Wildfire,#d60d2b,effis,Lauffeuer Vibo Valentina Italien,2026-08-27T13:00:00+00:00,Italy,0.4823481909699769,2,1,de,MED,Europe
 '87cc3e4899',extremes,Storm,#b3b2b1,wmo,Sturm Obertoggenburg,2026-08-27T13:00:00+00:00,Switzerland,0.4821994488000967,2,1,de,WCE,Europe
 'b1aca6ddef',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Latina Sonnino,2026-08-29T09:18:00+00:00,Italy,0.4821143001305826,2,1,de,MED,Europe
 '23ac100060',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurter Land,2026-08-27T13:00:00+00:00,Austria,0.4818617525626133,2,1,de,WCE,Europe
+'38a36ec0fc',extremes,Wildfire,#d60d2b,effis,Lauffeuer Avellino Italien,2026-09-01T07:57:00+00:00,Italy,0.48169186729376584,2,1,de,MED,Europe
+'1de161b756',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hartberg Fürstenfeld,2026-08-27T13:00:00+00:00,Austria,0.48127251285197864,2,1,de,WCE,Europe
 'e0feeec7d9',extremes,Storm,#b3b2b1,wmo,Sturmflut Goldau Ägeri,2026-08-27T13:00:00+00:00,Switzerland,0.4805022075460652,2,1,de,WCE,Europe
 '557d056aec',extremes,Storm,#b3b2b1,wmo,Sturmflut schanfigg,2026-08-27T13:00:00+00:00,Switzerland,0.4792709897475463,2,1,de,WCE,Europe
 'e3a5e377d1',extremes,Heat Wave,#c40202,wmo,Hitzewelle Val d'Hérens,2026-08-13T04:26:00+00:00,Switzerland,0.4792293858423772,2,1,de,WCE,Europe
 'cb76411c7e',extremes,Storm,#b3b2b1,wmo,Sturmflut Österreich,2026-08-27T13:00:00+00:00,Austria,0.4781660721114517,2,1,de,WCE,Europe
 '6aad127a70',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien brodelt,2026-08-27T13:00:00+00:00,Austria,0.4777131197893138,2,1,de,WCE,Europe
 '9f1b3546d3',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Catanzaro Maida,2026-08-27T13:00:00+00:00,Italy,0.4777115253075154,2,1,de,MED,Europe
+'cd0c66742a',extremes,Wildfire,#d60d2b,effis,Buschfeuer Enna Italien,2026-09-04T07:23:00+00:00,Italy,0.47621598151372285,2,1,de,MED,Europe
 '57213f6c03',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Messina Roccella Valdemone,2026-08-27T13:00:00+00:00,Italy,0.4759659786141808,2,1,de,MED,Europe
 '1584149e36',extremes,Wildfire,#d60d2b,effis,"Buschfeuer Palermo, Italien",2026-08-25T03:27:00+00:00,Italy,0.4755295911536895,2,1,de,MED,Europe
 'b43a4dc985',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiener Neustadt Land,2026-08-26T03:34:00+00:00,Austria,0.4754667368409707,2,1,de,WCE,Europe
