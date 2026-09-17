@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5db924ab8a',extremes,Storm,#b3b2b1,meteo,Sturm Deutschland,2026-08-27T13:00:00+00:00,Germany,0.6405627358188543,2,3,de,WCE,Europe
 'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-08-07T09:56:00+00:00,Germany,0.6315601576165819,1,2,de,WCE,Europe
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,Hitzewelle Deutschland,2026-08-03T05:57:00+00:00,Germany,0.6280186622873947,2,3,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-08-22T03:22:00+00:00,Austria,0.6275583091125775,2,1,de,WCE,Europe
@@ -13,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40878346ab',extremes,Heat Wave,#c40202,wmo,Hitzewelle Baden,2026-08-03T05:57:00+00:00,Austria,0.577176772225269,2,3,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-08-26T03:34:00+00:00,Switzerland,0.5743992037772555,2,1,de,WCE,Europe
 '515c050086',extremes,Heat Wave,#c40202,wmo,Hitzewelle Graz Stadt,2026-08-26T03:34:00+00:00,Austria,0.5588844617315463,4,2,de,WCE,Europe
+'5db924ab8a',extremes,Storm,#b3b2b1,meteo,Sturm Deutschland,2026-08-27T13:00:00+00:00,Germany,0.5586562954460261,3,3,de,WCE,Europe
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Österreich,2026-08-28T14:32:00+00:00,Austria,0.5574375940949345,2,1,de,WCE,Europe
 '70b86054ff',extremes,Wildfire,#d60d2b,effis,Buschfeuer Deutschland,2026-08-15T03:13:00+00:00,Germany,0.5555403184159644,2,1,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-08-27T13:00:00+00:00,Germany,0.5523626236872623,2,3,de,WCE,Europe
@@ -139,7 +139,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91dce060fe',extremes,Storm,#b3b2b1,wmo,Sturm östlich Fehmarn bis Rügen,2026-08-27T13:00:00+00:00,Germany,0.4686357116498376,2,1,de,WCE,Europe
 'e5b3d11872',extremes,Wildfire,#d60d2b,effis,verheerendes Feuer Italien Foggia Manfredonia,2026-08-26T03:34:00+00:00,Italy,0.4685098369796813,2,1,de,MED,Europe
 '4e7bc5e3bc',extremes,Wildfire,#d60d2b,effis,Lauffeuer Barletta Andria Trani Italien,2026-08-23T03:30:00+00:00,Italy,0.4684693814685978,2,1,de,MED,Europe
-'e538f44996',extremes,Storm,#b3b2b1,wmo,Sturm Walchensee,2026-08-28T14:32:00+00:00,Germany,0.46710689901891744,2,1,de,WCE,Europe
+'e538f44996',extremes,Storm,#b3b2b1,wmo,Sturm Walchensee,2026-08-28T14:32:00+00:00,Germany,0.4671068990189174,2,1,de,WCE,Europe
 '3575ea4f14',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Agrigent Sant'Angelo Muxaro,2026-08-26T03:34:00+00:00,Italy,0.4670819907170145,2,1,de,MED,Europe
 '6e0e1924cf',extremes,Wildfire,#d60d2b,effis,Buschfeuer Nuoro Italien,2026-08-31T08:51:00+00:00,Italy,0.4670425427930122,2,1,de,MED,Europe
 '4e45578ffd',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Foggia Monte Sant'Angelo,2026-08-26T03:34:00+00:00,Italy,0.4669152267536648,2,1,de,MED,Europe
