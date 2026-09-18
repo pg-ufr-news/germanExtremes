@@ -19,14 +19,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4b8352459f',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Süd Sardinien Muravera,2026-08-27T13:00:00+00:00,Italy,0.5513918962521196,1,1,de,MED,Europe
 'c2c1b857c8',extremes,Storm,#b3b2b1,wmo,Sturm Glarus Nord Mitte,2026-08-27T13:00:00+00:00,Switzerland,0.5500325095322339,1,1,de,WCE,Europe
 '80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-08-26T03:34:00+00:00,Austria,0.5458853696314121,4,1,de,WCE,Europe
-'618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-08-27T13:00:00+00:00,Austria,0.5254650074385325,2,2,de,WCE,Europe
 'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-08-21T03:30:00+00:00,Switzerland,0.5243494902295517,3,2,de,WCE,Europe
 '7de7032885',extremes,Storm,#b3b2b1,wmo,Sturm Nordfriesische Küste Helgoland,2026-08-11T04:01:00+00:00,Germany,0.5181256776210769,1,1,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-08-20T03:26:00+00:00,Switzerland,0.5168620383335778,3,2,de,WCE,Europe
 '8e19081b44',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bern Sinn,2026-08-14T04:24:00+00:00,Switzerland,0.5153204189861551,2,1,de,WCE,Europe
 'a302e20e8c',extremes,Heat Wave,#c40202,wmo,Hitzewelle Appenzell,2026-08-15T03:13:00+00:00,Switzerland,0.5144837780050088,2,1,de,WCE,Europe
 'e722855f5f',extremes,Wildfire,#d60d2b,effis,Lauffeuer Deutschland,2026-08-17T03:28:00+00:00,Germany,0.5142839330271969,2,1,de,WCE,Europe
-'d313e195ad',extremes,Wildfire,#d60d2b,effis,Lauffeuer Wiener Umland Südteil Österreich,2026-08-12T04:22:00+00:00,Austria,0.5128427065582638,1,1,de,WCE,Europe
 'b396f5b534',extremes,Heat Wave,#c40202,wmo,Hitzewelle Glarus Nord Mitte,2026-08-13T04:26:00+00:00,Switzerland,0.5033448758540372,2,1,de,WCE,Europe
 '119f96e74b',extremes,Wildfire,#d60d2b,effis,"Lauffeuer Catanzaro, Italien",2026-08-27T13:00:00+00:00,Italy,0.5033296492104441,2,1,de,MED,Europe
 '59bed8a698',extremes,Wildfire,#d60d2b,effis,"Buschfeuer Sud Sardinien, Italien",2026-08-14T04:24:00+00:00,Italy,0.5032467039321376,2,1,de,MED,Europe
@@ -42,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7104ad3c83',extremes,Thunderstorm,#53785a,wmo,Gewitter Italien,2026-08-21T03:30:00+00:00,Italy,0.4943867944586328,2,1,de,MED,Europe
 '2fef87cc1e',extremes,Heat Wave,#c40202,wmo,Hitzewelle Murtal,2026-08-26T03:34:00+00:00,Austria,0.4941837488526913,2,1,de,WCE,Europe
 '9051965eaf',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Salerno Maiori,2026-09-01T07:57:00+00:00,Italy,0.4930261352286356,2,1,de,MED,Europe
+'618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-08-27T13:00:00+00:00,Austria,0.49250515723184357,3,2,de,WCE,Europe
 '1fea4f642d',extremes,Storm,#b3b2b1,wmo,Sturmflut Schweiz,2026-08-27T13:00:00+00:00,Switzerland,0.4924931982008965,2,1,de,WCE,Europe
 '926fcc4fff',extremes,Storm,#b3b2b1,wmo,Sturmflut Kerenzerberg Seeztal,2026-08-27T13:00:00+00:00,Switzerland,0.4920671616364726,2,1,de,WCE,Europe
 'eb09e49ed3',extremes,Wildfire,#d60d2b,effis,Buschfeuer Matera Italien,2026-08-27T13:00:00+00:00,Italy,0.4919877682361487,2,1,de,MED,Europe
