@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5db924ab8a',extremes,Storm,#b3b2b1,meteo,Sturm Deutschland,2026-08-27T13:00:00+00:00,Germany,0.5586562954460261,3,3,de,WCE,Europe
 '9dd73bb521',extremes,Heat Wave,#c40202,meteo,Hohe Temperaturen in Deutschland,2026-08-14T04:24:00+00:00,Germany,0.5539268081912239,3,3,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-08-27T13:00:00+00:00,Germany,0.5523626236872623,2,3,de,WCE,Europe
-'80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-08-26T03:34:00+00:00,Austria,0.5458853696314121,4,1,de,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,Trockenperiode Österreich,2026-08-22T03:22:00+00:00,Austria,0.5341746377456909,3,1,de,WCE,Europe
 'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-08-21T03:30:00+00:00,Switzerland,0.5243494902295517,3,2,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-08-20T03:26:00+00:00,Switzerland,0.5168620383335778,3,2,de,WCE,Europe
@@ -104,6 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e538f44996',extremes,Storm,#b3b2b1,wmo,Sturm Walchensee,2026-08-28T14:32:00+00:00,Germany,0.4671068990189174,2,1,de,WCE,Europe
 '3575ea4f14',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Agrigent Sant'Angelo Muxaro,2026-08-26T03:34:00+00:00,Italy,0.4670819907170145,2,1,de,MED,Europe
 '6e0e1924cf',extremes,Wildfire,#d60d2b,effis,Buschfeuer Nuoro Italien,2026-08-31T08:51:00+00:00,Italy,0.4670425427930122,2,1,de,MED,Europe
+'80b0e59995',extremes,Heat Wave,#c40202,wmo,Hitzewelle Bruck an der Leitha,2026-08-26T03:34:00+00:00,Austria,0.4641525791867003,5,1,de,WCE,Europe
 '658eee2765',extremes,Wildfire,#d60d2b,effis,Lauffeuer Deutschland Hochsauerlandkreis Sundern Sauerland Stadt,2026-08-17T03:28:00+00:00,Germany,0.4641143935663384,2,1,de,WCE,Europe
 'bb9a490561',extremes,Drought,#edc291,edo,Trockenperiode Deutschland,2026-08-22T03:22:00+00:00,Germany,0.4457282258215663,3,1,de,WCE,Europe
 'fccc1a846a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Stadt,2026-08-26T03:34:00+00:00,Austria,0.4377657739199183,4,1,de,WCE,Europe
