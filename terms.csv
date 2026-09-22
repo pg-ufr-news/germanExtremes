@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'df3392dfb3',extremes,Drought,#edc291,edo,Dürre Deutschland,2026-08-07T09:56:00+00:00,Germany,0.5599607721559128,2,3,de,WCE,Europe
 '5db924ab8a',extremes,Storm,#b3b2b1,meteo,Sturm Deutschland,2026-08-27T13:00:00+00:00,Germany,0.5586562954460261,3,3,de,WCE,Europe
 '9dd73bb521',extremes,Heat Wave,#c40202,meteo,Hohe Temperaturen in Deutschland,2026-08-14T04:24:00+00:00,Germany,0.5539268081912239,3,3,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-08-27T13:00:00+00:00,Germany,0.5523626236872623,2,3,de,WCE,Europe
@@ -102,8 +101,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '89ceda87a2',extremes,Wildfire,#d60d2b,effis,Lauffeuer Reggio di Kalabrien Italien,2026-09-07T07:29:00+00:00,Italy,0.4133564252726299,3,1,de,MED,Europe
 '9811d7c2d8',extremes,Storm,#b3b2b1,wmo,Sturm Lauterbrunnen Wilderswil,2026-08-27T13:00:00+00:00,Switzerland,0.4129863365381003,3,1,de,WCE,Europe
 '2a39ef8004',extremes,Storm,#b3b2b1,wmo,Sturm einsiedeln wägital,2026-08-27T13:00:00+00:00,Switzerland,0.4127656246487491,3,1,de,WCE,Europe
-'67ec35d85f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Urfahrumgebung,2026-08-26T03:34:00+00:00,Austria,0.41251412010201727,3,1,de,WCE,Europe
-'2009fba247',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sankt Veit an der Glan,2026-08-26T03:34:00+00:00,Austria,0.41241418609444513,3,1,de,WCE,Europe
+'67ec35d85f',extremes,Heat Wave,#c40202,wmo,Hitzewelle Urfahrumgebung,2026-08-26T03:34:00+00:00,Austria,0.4125141201020172,3,1,de,WCE,Europe
+'2009fba247',extremes,Heat Wave,#c40202,wmo,Hitzewelle Sankt Veit an der Glan,2026-08-26T03:34:00+00:00,Austria,0.4124141860944451,3,1,de,WCE,Europe
 '150854d8e2',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Avellino Monteverde,2026-09-02T07:16:00+00:00,Italy,0.4123303941843022,3,1,de,MED,Europe
 '37eae1ce40',extremes,Storm,#b3b2b1,wmo,Sturm Brienz Interlaken,2026-08-27T13:00:00+00:00,Switzerland,0.4121948393982275,3,1,de,WCE,Europe
 'f6c91174d0',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Lügen,2026-08-28T14:32:00+00:00,Austria,0.4121116834522285,3,1,de,WCE,Europe
@@ -112,7 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ad66ae8ea',extremes,Storm,#b3b2b1,wmo,Sturm Flims Laax,2026-08-27T13:00:00+00:00,Switzerland,0.4107801198468588,3,1,de,WCE,Europe
 '159d9a44ff',extremes,Storm,#b3b2b1,wmo,Sturmflut Riein Safiental,2026-08-27T13:00:00+00:00,Switzerland,0.4106550025635574,3,1,de,WCE,Europe
 'ddf73912d5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wien Margareten,2026-08-27T13:00:00+00:00,Austria,0.4104484313461768,3,1,de,WCE,Europe
-'de21b3d7b5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiener Neustadt,2026-08-27T13:00:00+00:00,Austria,0.41039321139879936,3,1,de,WCE,Europe
+'de21b3d7b5',extremes,Heat Wave,#c40202,wmo,Hitzewelle Wiener Neustadt,2026-08-27T13:00:00+00:00,Austria,0.4103932113987993,3,1,de,WCE,Europe
 '2acf700cee',extremes,Storm,#b3b2b1,wmo,Sturmflut-Albulatal,2026-08-27T13:00:00+00:00,Switzerland,0.4102087101320973,3,1,de,WCE,Europe
 'b1aca6ddef',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Latina Sonnino,2026-08-29T09:18:00+00:00,Italy,0.4097971551109952,3,1,de,MED,Europe
 'b130de1554',extremes,Heat Wave,#c40202,wmo,Hitzewelle bruck mürzzuschlag,2026-08-26T03:34:00+00:00,Austria,0.4095660260871975,3,1,de,WCE,Europe
