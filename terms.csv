@@ -1,13 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-08-25T03:27:00+00:00,Germany,0.5403438736264291,5,3,de,WCE,Europe
-'5db924ab8a',extremes,Storm,#b3b2b1,meteo,Sturm Deutschland,2026-08-27T13:00:00+00:00,Germany,0.5343559756745767,4,3,de,WCE,Europe
 'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-08-21T03:30:00+00:00,Switzerland,0.5243494902295517,3,2,de,WCE,Europe
 'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-08-20T03:26:00+00:00,Switzerland,0.5168620383335778,3,2,de,WCE,Europe
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Österreich,2026-08-28T14:32:00+00:00,Austria,0.5043471949806944,3,1,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-08-27T13:00:00+00:00,Germany,0.4930604651341729,3,3,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-08-26T03:34:00+00:00,Switzerland,0.4882393232106671,3,1,de,WCE,Europe
 '9dd73bb521',extremes,Heat Wave,#c40202,meteo,Hohe Temperaturen in Deutschland,2026-08-14T04:24:00+00:00,Germany,0.4848798360534493,4,3,de,WCE,Europe
-'1de161b756',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hartberg Fürstenfeld,2026-08-27T13:00:00+00:00,Austria,0.4812725128519786,2,1,de,WCE,Europe
 '6ed3ec9ae9',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Palermo Ciminna,2026-09-01T07:57:00+00:00,Italy,0.4810702223445389,2,1,de,MED,Europe
 'f4cca3599c',extremes,Storm,#b3b2b1,wmo,Sturmflut Meiringen Gadmertal,2026-08-27T13:00:00+00:00,Switzerland,0.4808253138688779,2,1,de,WCE,Europe
 '01cca52f17',extremes,Wildfire,#d60d2b,effis,"Lauffeuer Salerno, Italien",2026-09-03T07:20:00+00:00,Italy,0.4805212977872427,2,1,de,MED,Europe
@@ -43,11 +40,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91dce060fe',extremes,Storm,#b3b2b1,wmo,Sturm östlich Fehmarn bis Rügen,2026-08-27T13:00:00+00:00,Germany,0.4686357116498376,2,1,de,WCE,Europe
 'e5b3d11872',extremes,Wildfire,#d60d2b,effis,verheerendes Feuer Italien Foggia Manfredonia,2026-08-26T03:34:00+00:00,Italy,0.4685098369796813,2,1,de,MED,Europe
 '4e7bc5e3bc',extremes,Wildfire,#d60d2b,effis,Lauffeuer Barletta Andria Trani Italien,2026-08-23T03:30:00+00:00,Italy,0.4684693814685978,2,1,de,MED,Europe
+'5db924ab8a',extremes,Storm,#b3b2b1,meteo,Sturm Deutschland,2026-08-27T13:00:00+00:00,Germany,0.4682461734142993,5,3,de,WCE,Europe
 'c2c1b857c8',extremes,Storm,#b3b2b1,wmo,Sturm Glarus Nord Mitte,2026-08-27T13:00:00+00:00,Switzerland,0.4675276331023988,2,1,de,WCE,Europe
 'e538f44996',extremes,Storm,#b3b2b1,wmo,Sturm Walchensee,2026-08-28T14:32:00+00:00,Germany,0.4671068990189174,2,1,de,WCE,Europe
 '3575ea4f14',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Agrigent Sant'Angelo Muxaro,2026-08-26T03:34:00+00:00,Italy,0.4670819907170145,2,1,de,MED,Europe
 '6e0e1924cf',extremes,Wildfire,#d60d2b,effis,Buschfeuer Nuoro Italien,2026-08-31T08:51:00+00:00,Italy,0.4670425427930122,2,1,de,MED,Europe
-'bb9a490561',extremes,Drought,#edc291,edo,Trockenperiode Deutschland,2026-08-22T03:22:00+00:00,Germany,0.4457282258215663,3,1,de,WCE,Europe
+'b35fd8ae0f',extremes,Thunderstorm,#53785a,wmo,Unwetter Deutschland,2026-08-25T03:27:00+00:00,Germany,0.45929314758246476,6,2,de,WCE,Europe
 'fccc1a846a',extremes,Heat Wave,#c40202,wmo,Hitzewelle Salzburg Stadt,2026-08-26T03:34:00+00:00,Austria,0.4377657739199183,4,1,de,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-08-27T13:00:00+00:00,Austria,0.4355665722834306,4,3,de,WCE,Europe
 '2e51819031',extremes,Wildfire,#d60d2b,effis,Lauffeuer Crotone Italien,2026-08-27T13:00:00+00:00,Italy,0.4293102190987404,3,1,de,MED,Europe
@@ -103,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23ac100060',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurter Land,2026-08-27T13:00:00+00:00,Austria,0.4095824896782213,3,1,de,WCE,Europe
 'b130de1554',extremes,Heat Wave,#c40202,wmo,Hitzewelle bruck mürzzuschlag,2026-08-26T03:34:00+00:00,Austria,0.4095660260871975,3,1,de,WCE,Europe
 '38a36ec0fc',extremes,Wildfire,#d60d2b,effis,Lauffeuer Avellino Italien,2026-09-01T07:57:00+00:00,Italy,0.4094380871997009,3,1,de,MED,Europe
+'1de161b756',extremes,Heat Wave,#c40202,wmo,Hitzewelle Hartberg Fürstenfeld,2026-08-27T13:00:00+00:00,Austria,0.4090816359241818,3,1,de,WCE,Europe
 '7fc4728e0e',extremes,Wildfire,#d60d2b,effis,Lauffeuer Cosenza Italien,2026-08-31T08:51:00+00:00,Italy,0.4090023302672707,3,1,de,MED,Europe
 'e0feeec7d9',extremes,Storm,#b3b2b1,wmo,Sturmflut Goldau Ägeri,2026-08-27T13:00:00+00:00,Switzerland,0.4084268764141554,3,1,de,WCE,Europe
 '75e0c27d10',extremes,Wildfire,#d60d2b,effis,Lauffeuer Cosenza Italien,2026-08-31T08:51:00+00:00,Italy,0.4083124296198462,3,1,de,MED,Europe
