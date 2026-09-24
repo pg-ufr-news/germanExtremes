@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'f58a7f1229',extremes,Precipitation,#d60d2b,wmo,Regen Schweiz,2026-08-21T03:30:00+00:00,Switzerland,0.5243494902295517,3,2,de,WCE,Europe
-'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-08-20T03:26:00+00:00,Switzerland,0.5168620383335778,3,2,de,WCE,Europe
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,Unwetter Österreich,2026-08-28T14:32:00+00:00,Austria,0.5043471949806944,3,1,de,WCE,Europe
+'cefc77a4b3',extremes,Storm,#b3b2b1,wmo,Sturm Schweiz,2026-08-20T03:26:00+00:00,Switzerland,0.5015834525835411,4,2,de,WCE,Europe
 '9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-08-27T13:00:00+00:00,Germany,0.4930604651341729,3,3,de,WCE,Europe
 '618e955f78',extremes,Drought,#edc291,edo,Regenmangel Schweiz,2026-08-26T03:34:00+00:00,Switzerland,0.4882393232106671,3,1,de,WCE,Europe
 '9dd73bb521',extremes,Heat Wave,#c40202,meteo,Hohe Temperaturen in Deutschland,2026-08-14T04:24:00+00:00,Germany,0.4848798360534493,4,3,de,WCE,Europe
