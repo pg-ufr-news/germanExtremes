@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'91dce060fe',extremes,Storm,#b3b2b1,wmo,Sturm östlich Fehmarn bis Rügen,2026-08-27T13:00:00+00:00,Germany,0.4686357116498376,2,1,de,WCE,Europe
 '4e7bc5e3bc',extremes,Wildfire,#d60d2b,effis,Lauffeuer Barletta Andria Trani Italien,2026-08-23T03:30:00+00:00,Italy,0.4684693814685978,2,1,de,MED,Europe
 'e538f44996',extremes,Storm,#b3b2b1,wmo,Sturm Walchensee,2026-08-28T14:32:00+00:00,Germany,0.4671068990189174,2,1,de,WCE,Europe
 '3575ea4f14',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Agrigent Sant'Angelo Muxaro,2026-08-26T03:34:00+00:00,Italy,0.4670819907170145,2,1,de,MED,Europe
@@ -7,8 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-08-27T13:00:00+00:00,Austria,0.4355665722834306,4,3,de,WCE,Europe
 '33db445b97',extremes,Heat Wave,#c40202,wmo,Hitzewelle Klagenfurt Stadt,2026-08-27T13:00:00+00:00,Austria,0.4242295186840894,3,1,de,WCE,Europe
 'e872f50358',extremes,Wildfire,#d60d2b,effis,Lauffeuer Latina Italien,2026-08-28T14:32:00+00:00,Italy,0.4239204880803555,3,1,de,MED,Europe
-'9051965eaf',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Salerno Maiori,2026-09-01T07:57:00+00:00,Italy,0.4190722149443402,3,1,de,MED,Europe
-'1fea4f642d',extremes,Storm,#b3b2b1,wmo,Sturmflut Schweiz,2026-08-27T13:00:00+00:00,Switzerland,0.418769233470762,3,1,de,WCE,Europe
 '926fcc4fff',extremes,Storm,#b3b2b1,wmo,Sturmflut Kerenzerberg Seeztal,2026-08-27T13:00:00+00:00,Switzerland,0.4182570873910017,3,1,de,WCE,Europe
 'eb09e49ed3',extremes,Wildfire,#d60d2b,effis,Buschfeuer Matera Italien,2026-08-27T13:00:00+00:00,Italy,0.4181896030007264,3,1,de,MED,Europe
 'efb002bcd6',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eisenstadt Stadt,2026-08-27T13:00:00+00:00,Austria,0.4181328223644854,3,1,de,WCE,Europe
@@ -66,8 +63,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5dd4b0774d',extremes,Heat Wave,#c40202,wmo,Hitzewelle Eferding,2026-08-27T13:00:00+00:00,Austria,0.4013973926980652,3,1,de,WCE,Europe
 '2ae18a5010',extremes,Wildfire,#d60d2b,effis,"Lauffeuer Caltanissetta, Italien",2026-08-31T08:51:00+00:00,Italy,0.400738837065713,3,1,de,MED,Europe
 '5b7c1d7eb9',extremes,Storm,#b3b2b1,wmo,Sturm Schiers,2026-08-27T13:00:00+00:00,Switzerland,0.4005068556751435,3,1,de,WCE,Europe
-'31da906479',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien L’Aquila Pratola Peligna,2026-08-31T08:51:00+00:00,Italy,0.40029104050387515,3,1,de,MED,Europe
+'31da906479',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien L’Aquila Pratola Peligna,2026-08-31T08:51:00+00:00,Italy,0.4002910405038751,3,1,de,MED,Europe
 'd03bf25296',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Enna Assoro,2026-09-07T07:29:00+00:00,Italy,0.3986538820578705,3,1,de,MED,Europe
 'de37eb7f33',extremes,Heat Wave,#c40202,wmo,Hitzewelle perg,2026-08-27T13:00:00+00:00,Austria,0.3986305862315719,3,1,de,WCE,Europe
-'4b8352459f',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Süd Sardinien Muravera,2026-08-27T13:00:00+00:00,Italy,0.39838064504215637,3,1,de,MED,Europe
+'4b8352459f',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Süd Sardinien Muravera,2026-08-27T13:00:00+00:00,Italy,0.3983806450421563,3,1,de,MED,Europe
+'91dce060fe',extremes,Storm,#b3b2b1,wmo,Sturm östlich Fehmarn bis Rügen,2026-08-27T13:00:00+00:00,Germany,0.3983403549023619,3,1,de,WCE,Europe
 '6e0e1924cf',extremes,Wildfire,#d60d2b,effis,Buschfeuer Nuoro Italien,2026-08-31T08:51:00+00:00,Italy,0.3969861613740604,3,1,de,MED,Europe
+'9051965eaf',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Salerno Maiori,2026-09-01T07:57:00+00:00,Italy,0.35621138270268915,4,1,de,MED,Europe
