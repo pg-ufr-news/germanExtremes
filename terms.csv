@@ -1,10 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-08-27T13:00:00+00:00,Germany,0.4558715871822287,4,3,de,WCE,Europe
-'885ba8aa0b',extremes,Wildfire,#d60d2b,effis,Buschfeuer Messina Italien,2026-08-31T08:51:00+00:00,Italy,0.4024987153910708,3,1,de,MED,Europe
-'31da906479',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien L’Aquila Pratola Peligna,2026-08-31T08:51:00+00:00,Italy,0.4002910405038751,3,1,de,MED,Europe
+'9a34bdd242',extremes,Drought,#edc291,edo,Trockenheit Deutschland,2026-08-27T13:00:00+00:00,Germany,0.40607895274125805,5,3,de,WCE,Europe
 'd03bf25296',extremes,Wildfire,#d60d2b,effis,Buschfeuer Italien Enna Assoro,2026-09-07T07:29:00+00:00,Italy,0.3986538820578705,3,1,de,MED,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,Sturm Österreich,2026-08-27T13:00:00+00:00,Austria,0.3797277459863705,5,3,de,WCE,Europe
-'375f6bd238',extremes,Wildfire,#d60d2b,effis,"Buschfeuer Salerno, Italien",2026-09-01T07:57:00+00:00,Italy,0.3548915347790525,4,1,de,MED,Europe
 '89ceda87a2',extremes,Wildfire,#d60d2b,effis,Lauffeuer Reggio di Kalabrien Italien,2026-09-07T07:29:00+00:00,Italy,0.3513529614817354,4,1,de,MED,Europe
 '150854d8e2',extremes,Wildfire,#d60d2b,effis,Lauffeuer Italien Avellino Monteverde,2026-09-02T07:16:00+00:00,Italy,0.3504808350566568,4,1,de,MED,Europe
 '01cca52f17',extremes,Wildfire,#d60d2b,effis,"Lauffeuer Salerno, Italien",2026-09-03T07:20:00+00:00,Italy,0.3471766376512827,4,1,de,MED,Europe
